@@ -43,15 +43,16 @@
 		var tableDiv = document.getElementById("tableContainerDiv");
 		var table = new WidgetWrapper();
 	    var tableWidget = new TableWidget(table,tableDiv);
-		
-		var kml1 = GeoTemConfig.getKml('data/jolijslager.kml');
+		var json = GeoTemConfig.getJson('data/test.json');
+       datasets.push(new Dataset(GeoTemConfig.loadJson(json),'test'));
+		/*var kml1 = GeoTemConfig.getKml('data/jolijslager.kml');
 		datasets.push(new Dataset(GeoTemConfig.loadKml(kml1),'J. de Olijslager'));
 		var kml2 = GeoTemConfig.getKml('data/thisso.kml');
 		datasets.push(new Dataset(GeoTemConfig.loadKml(kml2),'A. Thisso'));
 		var kml3 = GeoTemConfig.getKml('data/ruijven.kml');
 		datasets.push(new Dataset(GeoTemConfig.loadKml(kml3),'J. van Ruijven'));
 		var kml4 = GeoTemConfig.getKml('data/all.kml');
-		datasets.push(new Dataset(GeoTemConfig.loadKml(kml4),'All'));
+		datasets.push(new Dataset(GeoTemConfig.loadKml(kml4),'All'));*/
 				
 		map.display(datasets);
 		time.display(datasets);

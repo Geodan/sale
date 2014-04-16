@@ -150,6 +150,9 @@ GeoTemConfig.getJson = function(url) {
 		dataType : 'json',
 		success : function(json) {
 			data = json;
+		},
+		error: function(e,t,err) {
+			console.log(err)
 		}
 	});
 	return data;
