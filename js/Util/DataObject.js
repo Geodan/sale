@@ -1,5 +1,5 @@
 
-function DataObject(name, description, locations, dates, weight, tableContent) {
+function DataObject(name, description, locations,  /*SMO: add a receiving locations here*/ dates, weight, tableContent) {
 
 	this.name = name;
 	this.description = description;
@@ -11,7 +11,9 @@ function DataObject(name, description, locations, dates, weight, tableContent) {
 		this.percentage = percentage;
 	}
 
-	this.locations = locations;
+	//SMO: this needs to be extended/copied to allow for receiving locations
+	this.locations = locations;	 
+
 	this.isGeospatial = false;
 	if (this.locations.length > 0) {
 		this.isGeospatial = true;
@@ -36,6 +38,7 @@ function DataObject(name, description, locations, dates, weight, tableContent) {
 		}
 		return this.placeDetails[locationId][level];
 	}
+	//SMO: 'till here
 
 	this.dates = dates;
 	this.isTemporal = false;

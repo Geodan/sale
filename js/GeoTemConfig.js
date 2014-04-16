@@ -281,6 +281,7 @@ GeoTemConfig.loadJson = function(JSON) {
 			var name = item.name || "";
 			var description = item.description || "";
 			var tableContent = item.tableContent || [];
+			//SMO: this needs to be extended/copies to allow for 'receiving locations'
 			var locations = [];
 			if (item.location instanceof Array) {
 				for (var j = 0; j < item.location.length; j++) {
@@ -321,6 +322,8 @@ GeoTemConfig.loadJson = function(JSON) {
 					place : place
 				});
 			}
+			//SMO: 'till here
+
 			var dates = [];
 			if (item.time instanceof Array) {
 				for (var j = 0; j < item.time.length; j++) {
@@ -340,7 +343,7 @@ GeoTemConfig.loadJson = function(JSON) {
 				}
 			}
 			var weight = parseInt(item.weight) || 1;
-			var mapTimeObject = new DataObject(name, description, locations, dates, weight, tableContent);
+			var mapTimeObject = new DataObject(name, description, locations, /*SMO: add a receiving locations here*/ dates, weight, tableContent);
 			mapTimeObject.setIndex(index);
 			mapTimeObjects.push(mapTimeObject);
 		} catch(e) {

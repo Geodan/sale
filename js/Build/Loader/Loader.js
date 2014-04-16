@@ -50,7 +50,9 @@ GeoTemCoLoader = {
 
 		SimileAjax.includeCssFile(document, GeoTemCoLoader.urlPrefix + 'css/style.css');
 		SimileAjax.includeCssFile(document, GeoTemCoLoader.urlPrefix + 'lib/openlayers/theme/default/style.css');
-
+		(new DynaJsLoader()).loadScripts([{
+			url : GeoTemCoLoader.urlPrefix + 'lib/' + 'openlayers/' + 'OpenLayers.js'
+		}]);
 		(new DynaJsLoader()).loadScripts([{
 			url : GeoTemCoLoader.urlPrefix + 'lib/slider/js/range.js'
 		}]);
@@ -63,9 +65,7 @@ GeoTemCoLoader = {
 		(new DynaJsLoader()).loadScripts([{
 			url : GeoTemCoLoader.urlPrefix + 'js/Time/' + 'SimileTimeplotModify.js'
 		}]);
-		(new DynaJsLoader()).loadScripts([{
-			url : GeoTemCoLoader.urlPrefix + 'lib/' + 'openlayers/' + 'OpenLayers.js'
-		}]);
+
 
 		var geoTemCoFiles = [{
 			url : GeoTemCoLoader.urlPrefix + 'js/Util/' + 'Tooltips.js'
