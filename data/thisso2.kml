@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <kml>
+ <Placemark>
+ <address></address>
+ <description>Datum verzonden: 10-9-1672, Sekse: , Relatie: Broer, Beroep ontvanger: , Genre: , Schip: , Genoemde namen: Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel., Genoemde goederen: </description>
+ <name></name>
+ <Point>
+ <coordinates>5.6189899, 52.0868683</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>10-9-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Middelburg</address>
+ <description>Datum verzonden: 12-1-1672, Sekse: , Relatie: , Beroep ontvanger: , Genre: , Schip: , Genoemde namen: , Genoemde goederen: </description>
+ <name>Huijbert</name>
+ <Point>
+ <coordinates>3.6333101, 51.489399</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>12-1-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description>Datum verzonden: 13-1-1672, Sekse: , Relatie: , Beroep ontvanger: notaris, Genre: , Schip: , Genoemde namen: Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580), Genoemde goederen: </description>
+ <name>Pieter van Delle</name>
+ <Point>
+ <coordinates>3.5664001, 51.4639015</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>13-1-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description>Datum verzonden: 13-9-1672, Sekse: , Relatie: , Beroep ontvanger: koopman, Genre: , Schip: , Genoemde namen: , Genoemde goederen: </description>
+ <name>Abraham Musch</name>
+ <Point>
+ <coordinates>3.5664001, 51.4639015</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>13-9-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description>Datum verzonden: 8-1-1672, Sekse: , Relatie: , Beroep ontvanger: officier, Genre: , Schip: , Genoemde namen: Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen, Genoemde goederen: paertie letter houte stocken, alf oxhooft leemon sop, als ox hooft goet sucker</description>
+ <name>Collaerdt</name>
+ <Point>
+ <coordinates>3.5664001, 51.4639015</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>8-1-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description>Datum verzonden: 8-1-1672, Sekse: , Relatie: , Beroep ontvanger: , Genre: , Schip: , Genoemde namen: Johannes d'Olijslager, Genoemde goederen: suijker</description>
+ <name>Claessen</name>
+ <Point>
+ <coordinates>3.5664001, 51.4639015</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>8-1-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description>Datum verzonden: 8-1-1672, Sekse: , Relatie: , Beroep ontvanger: , Genre: , Schip: , Genoemde namen: , Genoemde goederen: </description>
+ <name>Sausel de Meur</name>
+ <Point>
+ <coordinates>3.5664001, 51.4639015</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>8-1-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Middelburg</address>
+ <description>Datum verzonden: 8-1-1672, Sekse: , Relatie: , Beroep ontvanger: , Genre: , Schip: , Genoemde namen: , Genoemde goederen: </description>
+ <name>Gasparus Englis </name>
+ <Point>
+ <coordinates>3.6333101, 51.489399</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>8-1-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Middelburg</address>
+ <description>Datum verzonden: 8-1-1672, Sekse: , Relatie: , Beroep ontvanger: , Genre: , Schip: , Genoemde namen: , Genoemde goederen: </description>
+ <name>Huijbert</name>
+ <Point>
+ <coordinates>3.6333101, 51.489399</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>8-1-1672</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description>Datum verzonden: 8-1-1672, Sekse: , Relatie: , Beroep ontvanger: , Genre: , Schip: , Genoemde namen: Soetelinck (neef), Jean Sijmoensse (buurman), Genoemde goederen: </description>
+ <name>Abraham</name>
+ <Point>
+ <coordinates>3.5664001, 51.4639015</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>8-1-1672</when>
+ </TimeStamp>
+ </Placemark>
+</kml>

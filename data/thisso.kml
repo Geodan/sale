@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <kml>
+ <Placemark>
+ <address>The Netherlands</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Onbekend</name>
+ <Point>
+ <coordinates>5.6189899, 52.0868683</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-09-10</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Middelburg</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Huijbert</name>
+ <Point>
+ <coordinates>3.6333101, 51.489399</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-01-12</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Pieter van Delle</name>
+ <Point>
+ <coordinates>3.5675986,51.459548</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-01-13</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Abraham Musch</name>
+ <Point>
+ <coordinates>3.5675986,51.459548</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-09-13</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Collaerdt</name>
+ <Point>
+ <coordinates>3.5675986,51.459548</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-01-08</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Claessen</name>
+ <Point>
+ <coordinates>3.5675986,51.459548</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-01-08</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Sausel de Meur</name>
+ <Point>
+ <coordinates>3.5675986,51.459548</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-01-08</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Middelburg</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Gasparus Englis </name>
+ <Point>
+ <coordinates>3.6333101, 51.489399</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-01-08</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Middelburg</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Huijbert</name>
+ <Point>
+ <coordinates>3.6333101, 51.489399</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-01-08</when>
+ </TimeStamp>
+ </Placemark>
+ <Placemark>
+ <address>Vlissingen</address>
+ <description> Afzender: A. Thisso</description>
+ <name> Geadresseerde: Abraham</name>
+ <Point>
+ <coordinates>3.5675986,51.459548</coordinates>
+ </Point>
+ <TimeStamp>
+ <when>1672-01-08</when>
+ </TimeStamp>
+ </Placemark>
+</kml>
