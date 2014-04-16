@@ -1,5 +1,3 @@
-
- */
 CircleObject = function(originX, originY, shiftX, shiftY, elements, radius, search, weight, fatherBin) {
 
 	this.originX = originX;
