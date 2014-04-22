@@ -1,5 +1,5 @@
 
-function DataObject(name, description, locations,  /*SMO: add a receiving locations here*/ dates, weight, tableContent) {
+function DataObject(name, description, locations, senderlocations,  /*SMO: add a receiving(MO: I think you mean: sender location? Receiving location = "locations") locations here*/ dates, weight, tableContent) {
 
 	this.name = name;
 	this.description = description;
@@ -11,13 +11,14 @@ function DataObject(name, description, locations,  /*SMO: add a receiving locati
 		this.percentage = percentage;
 	}
 
-	//SMO: this needs to be extended/copied to allow for receiving locations
+	//SMO: this needs to be extended/copied to allow for receiving (MO:sender?) locations
 	this.locations = locations;	 
 
 	this.isGeospatial = false;
 	if (this.locations.length > 0) {
 		this.isGeospatial = true;
 	}
+
 
 	this.placeDetails = [];
 	for (var i = 0; i < this.locations.length; i++) {
@@ -39,6 +40,35 @@ function DataObject(name, description, locations,  /*SMO: add a receiving locati
 		return this.placeDetails[locationId][level];
 	}
 	//SMO: 'till here
+	//MO: senderlocations open
+		this.senderlocations = senderlocations;	 
+
+	this.isGeospatial = false;
+	if (this.senderlocations.length > 0) {
+		this.isGeospatial = true;
+	}
+
+
+	this.placeDetailssender = [];
+	for (var i = 0; i < this.locations.length; i++) {
+		this.placeDetails.push(this.locations[i].place.split("/"));
+	}
+
+	this.getLatitudesender = function(locationId) {
+		return this.locations[locationId].latitude;
+	}
+
+	this.getLongitudesender = function(locationId) {
+		return this.locations[locationId].longitude;
+	}
+
+	this.getPlacesender = function(locationId, level) {
+		if (level >= this.placeDetails[locationId].length) {
+			return this.placeDetails[locationId][this.placeDetails[locationId].length - 1];
+		}
+		return this.placeDetails[locationId][level];
+	}
+	//MO: senderlocations close. Do I have to rename the functions (between the brackets) aswell? E.g.: locationId --> locationIdsender ?
 
 	this.dates = dates;
 	this.isTemporal = false;
