@@ -16,7 +16,7 @@ $db_selected = mysql_select_db($database, $connection);
 if (!$db_selected)
 {
   die ('Can\'t use db : ' . mysql_error());
-}
+} 
 
  // Selects all the rows in the markers table.
  $query = 'SELECT * FROM networks WHERE source = "Jan van Ruijven"';
