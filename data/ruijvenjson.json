@@ -1,0 +1,732 @@
+[{
+        "id": "number 16",
+        "name": " Geadresseerde: mr. Abrahamsis",
+        "description": " Schip: ",
+        "locations": { "place": "Vlissingen" },
+        "senderlocations": {
+          
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "beroep_ontvanger": "koopman",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "n"
+        }
+      },
+      {
+        "id": "number 334",
+        "name": " Geadresseerde:  Pieter Heerents ",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": { "place": "Suriname" },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m"
+        }
+      },
+      {
+        "id": "2682",
+        "name": " Geadresseerde: Pieter Jaspers Heerense",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": { "place": "Suriname" },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_4_0075.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_4_0075.jpg",
+          "genoemde_namen": "Mildert Corn(eli)s, ",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "number 336",
+        "name": " Geadresseerde: Abraham Sis",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": { "place": "Suriname" },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m"
+        }
+      },
+      {
+        "id": "number 347",
+        "name": " Geadresseerde: Pieter Heerentse",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": {
+          
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "relatie": "zakenpartner",
+          "sekse": "m"
+        }
+      },
+      {
+        "id": "number 348",
+        "name": " Geadresseerde: Abraham Teerlinck",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_4_0035.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_4_0035.jpg",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M",
+          "transcriptie": "S(eigneu)r Abraham
+Teerlinck  Adij  29 december 1671 Zeruname
+
+Monsieur en vrindt In dato 22 deesre is mij [tee]-
+gekoomen Ue.Aangenaamen Gedateert 25 octobr(is)
+p(e)r schipp(e)r Jacob Soeteling met Schip de biecurf
+Waer ut met Lief gesien t'arivement"
+        }
+      },
+      {
+        "id": "3231",
+        "name": " Geadresseerde: Gerard Blaase",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.2_2_0028.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.2_2_0028.jpg",
+          "genoemde_namen": "Jan Andriesen ",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "2781",
+        "name": " Geadresseerde: Daniel Thyson Jansson",
+        "description": " Schip: ",
+        "locations": { "place": "Veere" },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_5_0060.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_5_0060.jpg",
+          "beroep_ontvanger": "kapitein",
+          "genoemde_namen": "Jan Andriesen, Corn. Ceuvelaer  ",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "number 351",
+        "name": " Geadresseerde: huisvrouw van schipper Jan Barberij",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "v"
+        }
+      },
+      {
+        "id": "2700",
+        "name": " Geadresseerde: Lourens Verpoorte",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_4_0093.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_4_0093.jpg",
+          "genoemde_namen": "capt(eijn) Claes raes, Jan dimmes(sen), Jacob soeteling, Jan andriesen ",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "253",
+        "name": " Geadresseerde: Johannis Boot",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": { "place": "Suriname" },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-223_10_0139.xml",
+          "afbeeldingjpg": "nl-hana_hca30-223_10_0139.jpg",
+          "genoemde_goederen": "2 sernamse Vaten met suyker ",
+          "genoemde_namen": "Jan Dimmes, Jacob Soeteling",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "number 359",
+        "name": " Geadresseerde: Abraham Bischop",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "number 360",
+        "name": " Geadresseerde: Pieter Boudaen Courten",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "genoemde_namen": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "number 362",
+        "name": " Geadresseerde: Jacob Pietersen ",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "beroep_ontvanger": "koopman",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "number 363",
+        "name": " Geadresseerde: Lourens Verpoorten",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "51489399",
+          "lat": "36333101",
+          "place": "Middelburg"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_4_0093.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_4_0093.jpg",
+          "genoemde_namen": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M",
+          "transcriptie": "   A(nno)d(omin)ij Ult(i)mo (decem)bris 1671 Seruname
+
+S(eigneu)r Lourens Verpoorten
+
+Monsieur.  Den 6 deser p(e)r schipp(e)r Lourens
+franken dobbelemuts waermede VE een wijnig suijker
+voor mijn rekeninge ges(onden) was aen VE mijnen laesten,
+sood"
+        }
+      },
+      {
+        "id": "1069",
+        "name": " Geadresseerde: Adriaen Tandt",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-223_6_0018.xml",
+          "afbeeldingjpg": "nl-hana_hca30-223_6_0018.jpg",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "2528",
+        "name": " Geadresseerde: Adriaen van Geel",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_3_0041.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_3_0041.jpg",
+          "beroep_ontvanger": "koopman",
+          "genoemde_namen": "Jan Andriesen ",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M",
+          "transcriptie": "S(eigneu)r Adriaen
+van geel
+
+A(d) di(em) ultimo (decem)b(e)r 1671 seruname
+
+Monsieur deses wijniege Dient prinsepal(ijk)
+om te seggen dat UE p(e)r den brenger Deeses Schipp(e)r
+Cornelis bastiaenssen Wt Last en Voor reekninge
+van Thoomas van beneeden ben s"
+        }
+      },
+      {
+        "id": "number 367",
+        "name": " Geadresseerde: Bartholomeus nouters",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "beroep_ontvanger": "Schipper",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m"
+        }
+      },
+      {
+        "id": "number 368",
+        "name": " Geadresseerde: Jan Riecke stuurman",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m"
+        }
+      },
+      {
+        "id": "3013",
+        "name": " Geadresseerde: Guilliam de Backer",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_7_0018.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_7_0018.jpg",
+          "beroep_ontvanger": "koopman",
+          "genoemde_goederen": "3 a 4 vaaties fransse of rinsse wijn met een vaatie booter of twee ",
+          "genoemde_namen": "Cornelis Bergen ",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "2590",
+        "name": " Geadresseerde: I. Engelijen Lamsen",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_3_0103.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_3_0103.jpg",
+          "genoemde_goederen": "2 halve oxhoofden
+2 sernaamse vaaten
+6 pijpen en
+3 brandwijnstucken suijker gemerkt",
+          "genoemde_namen": "Daniel Jamsen (Schipper), Cornelis Bastiaense (Schipper)",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "m ",
+          "transcriptie": "de h(ee)r J. engelijen
+Lamsen
+
+A(nno) d(omin)y  ultimo (decem)b(e)r 1671 sername
+
+Mess(ieur)s In dato 15 October p(e)r schipp(e)r daniel Jamsen
+was aen UE(dele) mijnen Laasten waeraen mij refe(reert)
+seed(e)rt sijn h(ie)r op den 20 deeser gearriv(ee)rt Ca"
+        }
+      },
+      {
+        "id": "1070",
+        "name": " Geadresseerde: Capt. Constandt",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-223_6_0019.xml",
+          "afbeeldingjpg": "nl-hana_hca30-223_6_0019.jpg",
+          "beroep_ontvanger": "kapitein",
+          "genoemde_namen": "J. Aarssen,  Jan Bollen, Jacob Soeteling",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "2606",
+        "name": " Geadresseerde: Willem Hodge",
+        "description": " Schip: ",
+        "locations": {
+          "lon": "514639015",
+          "lat": "35664001",
+          "place": "Vlissingen"
+        },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-227.1_3_0119.xml",
+          "afbeeldingjpg": "nl-hana_hca30-227.1_3_0119.jpg",
+          "beroep_ontvanger": "Schipper",
+          "genoemde_namen": "Simon Lion, Jan Janssen",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "M"
+        }
+      },
+      {
+        "id": "number 373",
+        "name": " Geadresseerde: ",
+        "description": " Schip: ",
+        "locations": { "place": "The Netherlands" },
+        "senderlocations": {
+          "lon_sender": "-5602778",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m"
+        }
+      },
+      {
+        "id": "number 374",
+        "name": " Geadresseerde: ",
+        "description": " Schip: ",
+        "locations": { "place": "The Netherlands" },
+        "senderlocations": {
+          
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m"
+        }
+      },
+      {
+        "id": "1044",
+        "name": " Geadresseerde: Anthoni Wilmerdom",
+        "description": " Schip: ",
+        "locations": { "place": "Amsterdam" },
+        "senderlocations": {
+          "lon_sender": "-5516788",
+          "lat_sender": "391931",
+          "place": "Suriname"
+        },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "afbeeldingxml": "nl-hana_hca30-223_5_0135.xml",
+          "afbeeldingjpg": "nl-hana_hca30-223_5_0135.jpg",
+          "genre": "brief",
+          "klasse": "Hoge middenklasse",
+          "sekse": "m",
+          "sekse_ontvanger": "m "
+        }
+      },
+      {
+        "id": "number 376",
+        "name": " Geadresseerde: ",
+        "description": " Schip: ",
+        "locations": { "place": "The Netherlands" },
+        "senderlocations": { "lat_sender": "391931" },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m"
+        }
+      },
+      {
+        "id": "number 377",
+        "name": " Geadresseerde: ",
+        "description": " Schip: ",
+        "locations": { "place": "The Netherlands" },
+        "senderlocations": { "lat_sender": "391931" },
+        "time": "-9416217600",
+        "tablecontent": {
+          "beroep_afzender": [
+            "Koopman",
+            "Koopman"
+          ],
+          "klasse": "Hoge middenklasse",
+          "sekse": "m"
+        }
+      }
+    ]
+  }
+}
