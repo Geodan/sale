@@ -7,10 +7,33 @@
  	<script src="js/Util/Publisher.js"></script>
  	<script src="js/Build/Loader/DynaJsLoader.js"></script>
 	<script src="js/Build/Loader/Loader.js"></script>
+	
+<style>
+#wrapper {
+    width: relative;
+    border: 1px solid black;
+    overflow: hidden; 
+}
+#someMapDivName1 {
+    
+    float:left; 
+    border: 1px solid black;
+}
+#someMapDivName2 {
+	
+    border: 1px solid black;
+	float:left;
+}
+
+
+</style>
 
   </head>
 
   <body>
+  
+
+
 
     <noscript>
       <div style="width: 22em; position: absolute; left: 50%; margin-left: -11em; color: red; background-color: white; border: 1px solid red; padding: 4px; font-family: sans-serif">
@@ -18,29 +41,84 @@
       </div>
     </noscript>
 
-    <div id="mapContainerDiv" style="position:relative;"></div>
+   <!-- <div id="mapContainerDiv" style="position:relative;"></div>
     <div id="plotContainerDiv" style="position:relative;"></div>
-	<div id="tableContainerDiv" style="position:relative;"></div>
+	<div id="tableContainerDiv" style="position:relative;"></div> -->
+
+	
+<!--	<div id="someMapDivName1"></div>
+	<div id="someMapDivName2"></div>
+<div id="someTimeDivName1"></div>
+<div id="someTableDivName1"></div> -->
+
+<div id="wrapper">
+    <div id="someMapDivName2"></div>
+   <div id="someMapDivName1"></div> 
+</div>
+<div id="someTimeDivName1"></div>
+	<div id="someTableDivName1"></div>
+
+
     
     <script>
 	Publisher.Subscribe( 'GeoTemCoReady', this, function(){
 		var datasets = [];
-		var mapDiv = document.getElementById("mapContainerDiv");
-		var map = new WidgetWrapper();
-		var mapWidget = new MapWidget(map,mapDiv,{
-			mapTitle: "Publication Place",
-			alternativeMap : {
+		var mapDiv1 = document.getElementById("someMapDivName1");
+		var map1 = new WidgetWrapper();
+		var mapWidget1 = new MapWidget(map1,mapDiv1,{
+		mapIndex: 0,
+		mapTitle: "Ontvangers",
+		 alternativeMap : {
+		 name: '1715',
+			url: '/geoserver/wms',
+			layer: 'historic:cntry1715'
+			
+        }   
+		   
+		});
+
+		var mapDiv2 = document.getElementById("someMapDivName2");
+		 var map2 = new WidgetWrapper();
+		 var mapWidget2 = new MapWidget(map2,mapDiv2,{
+		 mapIndex: 1,
+		mapTitle: "Afzenders",
+			 alternativeMap : {
 			 name: '1715',
 			 url: '/geoserver/wms',
-			 layer: 'historic:cntry1715'
-			 }
+	        layer: 'historic:cntry1715'
+			
+            }   
+		   
 		});
-		var timeDiv = document.getElementById("plotContainerDiv");
+
+
+
+//var mapDiv2 = document.getElementById("someMapDivName2");
+//var map2 = new WidgetWrapper();
+//var mapWidget2 = new MapWidget(map2,mapDiv2,{
+ //   mapIndex: 1
+//});
+		
+		var timeDiv = document.getElementById("someTimeDivName1");
 		var time = new WidgetWrapper();
 		var timeWidget = new TimeWidget(time,timeDiv,{
 			timeTitle: "Publication Date"
 		});
-		var tableDiv = document.getElementById("tableContainerDiv");
+	/*	
+		var timeDiv1 = document.getElementById("plotContainerDiv");
+var time1 = new WidgetWrapper();
+var timeWidget1 = new TimeWidget(time1,timeDiv1,{
+    timeIndex: 0
+});
+var timeDiv2 = document.getElementById("plotContainerDiv");
+var time2 = new WidgetWrapper();
+var timeWidget2 = new TimeWidget(time2,timeDiv2,{
+    timeIndex: 1
+});
+		*/
+
+
+		var tableDiv = document.getElementById("someTableDivName1");
 		var table = new WidgetWrapper();
 	    var tableWidget = new TableWidget(table,tableDiv);
 		
@@ -53,12 +131,13 @@
 		//var kml4 = GeoTemConfig.getKml('data/all.kml');
 		//datasets.push(new Dataset(GeoTemConfig.loadKml(kml4),'All'));
 		
-		var jsonFile = GeoTemConfig.getJson('data/ruijven.json');
+		var jsonFile = GeoTemConfig.getJson('data/ruijven_dubbel.json');
         var jsonData = GeoTemConfig.loadJson(jsonFile);
         var dataset = new Dataset(jsonData,'Jan van Ruijven');
         datasets.push(dataset);
 				
-		map.display(datasets);
+		map1.display(datasets);
+		map2.display(datasets);
 		time.display(datasets);
 		table.display(datasets);
 /*
@@ -77,7 +156,7 @@
 			}
 		});
 */
-	});
+	 });
     </script>
 
   </body>

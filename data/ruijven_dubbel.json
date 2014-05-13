@@ -1,0 +1,476 @@
+[{
+	"id": "number 16",
+	"name": "mr. Abrahamsis",
+	"description": "",
+	"location": [{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 334",
+	"name": "Pieter Jaspers Heerense",
+	"description": "",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-10-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "2682",
+	"name": "Pieter Jaspers Heerense",
+	"description": "Mildert Corn(eli)s, ",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-10",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 336",
+	"name": "Abraham Sis",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-10",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 347",
+	"name": "Pieter Jaspers Heerense",
+	"description": "",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-10-17",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 348",
+	"name": "Abraham Teerlinck",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-29",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "3231",
+	"name": "Gerard Blaase",
+	"description": "Jan Andriesen ",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-29",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "2781",
+	"name": "Daniel Thyson Jansson",
+	"description": "Jan Andriesen, Corn. Ceuvelaer ",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Veere"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-29",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 351",
+	"name": "huisvrouw van schipper Jan Barberij",
+	"description": "",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-08-30",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "2700",
+	"name": "Lourens Verpoorte",
+	"description": "capt(eijn) Claes raes, Jan dimmes(sen), Jacob soeteling, Jan andriesen ",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-09-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "253",
+	"name": "Johannis Boot",
+	"description": "Jan Dimmes, Jacob Soeteling",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-09-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 359",
+	"name": "Abraham Bischop",
+	"description": "",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-08",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 360",
+	"name": "Pieter Boudaen Courten",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-08",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 362",
+	"name": "Jacob Pietersen ",
+	"description": "",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-08",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 363",
+	"name": "Lourens Verpoorten",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "3.6333101",
+		"lat": "51.489399",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-08",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "1069",
+	"name": "Adriaen Tandt",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-08",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "2528",
+	"name": "Adriaen van Geel",
+	"description": "Jan Andriesen ",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-08",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 367",
+	"name": "Bartholomeus nouters",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-08",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 368",
+	"name": "Jan Riecke stuurman",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1672-01-08",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "3013",
+	"name": "Guilliam de Backer",
+	"description": "Cornelis Bergen ",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-01",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "2590",
+	"name": "I. Engelijen Lamsen",
+	"description": "Daniel Jamsen (Schipper), Cornelis Bastiaense (Schipper)",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-02-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "1070",
+	"name": "Capt. Constandt",
+	"description": "J. Aarssen, Jan Bollen, Jacob Soeteling",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-02-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "2606",
+	"name": "Willem Hodge",
+	"description": "Simon Lion, Jan Janssen",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Vlissingen"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-02-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 373",
+	"name": "",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "The Netherlands"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-02-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 374",
+	"name": "",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "The Netherlands"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-02-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "1044",
+	"name": "Anthoni Wilmerdom",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-02-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 376",
+	"name": "",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "The Netherlands"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-02-03",
+	"tableContent": "Jan van Ruijven"
+},
+{
+	"id": "number 377",
+	"name": "",
+	"description": "",
+	"location": [{
+		"lon": "3.5664001",
+		"lat": "51.4639015",
+		"place": "The Netherlands"
+	},
+	{
+		"lon": "-56.02778",
+		"lat": "3.91931",
+		"place": "Suriname"
+	}],
+	"time": "1671-02-03",
+	"tableContent": "Jan van Ruijven"
+}]
