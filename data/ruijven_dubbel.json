@@ -1,5 +1,7 @@
 [{
 	"id": "number 16",
+	"source": "Jan van Ruijven",
+	"target": "mr. Abrahamsis",
 	"name": "mr. Abrahamsis",
 	"description": "",
 	"location": [{
@@ -13,10 +15,12 @@
 		"place": "Suriname"
 	}],
 	"time": "",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 334",
+	"source": "Jan van Ruijven",
+	"target": "Pieter Jaspers Heerense",
 	"name": "Pieter Jaspers Heerense",
 	"description": "",
 	"location": [{
@@ -30,10 +34,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-10-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "2682",
+	"source": "Jan van Ruijven",
+	"target": "Pieter Jaspers Heerense",
 	"name": "Pieter Jaspers Heerense",
 	"description": "Mildert Corn(eli)s, ",
 	"location": [{
@@ -47,10 +53,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-10",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 336",
+	"source": "Jan van Ruijven",
+	"target": "Abraham Sis",
 	"name": "Abraham Sis",
 	"description": "",
 	"location": [{
@@ -64,10 +72,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-10",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 347",
+	"source": "Jan van Ruijven",
+	"target": "Pieter Jaspers Heerense",
 	"name": "Pieter Jaspers Heerense",
 	"description": "",
 	"location": [{
@@ -81,10 +91,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-10-17",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 348",
+	"source": "Jan van Ruijven",
+	"target": "Abraham Teerlinck",
 	"name": "Abraham Teerlinck",
 	"description": "",
 	"location": [{
@@ -98,10 +110,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-29",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "3231",
+	"source": "Jan van Ruijven",
+	"target": "Gerard Blaase",
 	"name": "Gerard Blaase",
 	"description": "Jan Andriesen ",
 	"location": [{
@@ -115,10 +129,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-29",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "2781",
+	"source": "Jan van Ruijven",
+	"target": "Daniel Thyson Jansson",
 	"name": "Daniel Thyson Jansson",
 	"description": "Jan Andriesen, Corn. Ceuvelaer ",
 	"location": [{
@@ -132,10 +148,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-29",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 351",
+	"source": "Jan van Ruijven",
+	"target": "huisvrouw van schipper Jan Barberij",
 	"name": "huisvrouw van schipper Jan Barberij",
 	"description": "",
 	"location": [{
@@ -149,10 +167,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-08-30",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "2700",
+	"source": "Jan van Ruijven",
+	"target": "Lourens Verpoorte",
 	"name": "Lourens Verpoorte",
 	"description": "capt(eijn) Claes raes, Jan dimmes(sen), Jacob soeteling, Jan andriesen ",
 	"location": [{
@@ -166,10 +186,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-09-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "253",
+	"source": "Jan van Ruijven",
+	"target": "Johannis Boot",
 	"name": "Johannis Boot",
 	"description": "Jan Dimmes, Jacob Soeteling",
 	"location": [{
@@ -183,10 +205,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-09-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 359",
+	"source": "Jan van Ruijven",
+	"target": "Abraham Bischop",
 	"name": "Abraham Bischop",
 	"description": "",
 	"location": [{
@@ -200,10 +224,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 360",
+	"source": "Jan van Ruijven",
+	"target": "Pieter Boudaen Courten",
 	"name": "Pieter Boudaen Courten",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
@@ -217,10 +243,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 362",
+	"source": "Jan van Ruijven",
+	"target": "Jacob Pietersen ",
 	"name": "Jacob Pietersen ",
 	"description": "",
 	"location": [{
@@ -234,10 +262,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 363",
+	"source": "Jan van Ruijven",
+	"target": "Lourens Verpoorten",
 	"name": "Lourens Verpoorten",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
@@ -251,10 +281,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "1069",
+	"source": "Jan van Ruijven",
+	"target": "Adriaen Tandt",
 	"name": "Adriaen Tandt",
 	"description": "",
 	"location": [{
@@ -268,10 +300,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "2528",
+	"source": "Jan van Ruijven",
+	"target": "Adriaen van Geel",
 	"name": "Adriaen van Geel",
 	"description": "Jan Andriesen ",
 	"location": [{
@@ -285,10 +319,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 367",
+	"source": "Jan van Ruijven",
+	"target": "Bartholomeus nouters",
 	"name": "Bartholomeus nouters",
 	"description": "",
 	"location": [{
@@ -302,10 +338,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 368",
+	"source": "Jan van Ruijven",
+	"target": "Jan Riecke stuurman",
 	"name": "Jan Riecke stuurman",
 	"description": "",
 	"location": [{
@@ -319,10 +357,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "3013",
+	"source": "Jan van Ruijven",
+	"target": "Guilliam de Backer",
 	"name": "Guilliam de Backer",
 	"description": "Cornelis Bergen ",
 	"location": [{
@@ -336,10 +376,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-01",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "2590",
+	"source": "Jan van Ruijven",
+	"target": "I. Engelijen Lamsen",
 	"name": "I. Engelijen Lamsen",
 	"description": "Daniel Jamsen (Schipper), Cornelis Bastiaense (Schipper)",
 	"location": [{
@@ -353,10 +395,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "1070",
+	"source": "Jan van Ruijven",
+	"target": "Capt. Constandt",
 	"name": "Capt. Constandt",
 	"description": "J. Aarssen, Jan Bollen, Jacob Soeteling",
 	"location": [{
@@ -370,10 +414,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "2606",
+	"source": "Jan van Ruijven",
+	"target": "Willem Hodge",
 	"name": "Willem Hodge",
 	"description": "Simon Lion, Jan Janssen",
 	"location": [{
@@ -387,10 +433,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 373",
+	"source": "Jan van Ruijven",
+	"target": "",
 	"name": "",
 	"description": "",
 	"location": [{
@@ -404,10 +452,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 374",
+	"source": "Jan van Ruijven",
+	"target": "",
 	"name": "",
 	"description": "",
 	"location": [{
@@ -421,10 +471,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "1044",
+	"source": "Jan van Ruijven",
+	"target": "Anthoni Wilmerdom",
 	"name": "Anthoni Wilmerdom",
 	"description": "",
 	"location": [{
@@ -438,10 +490,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 376",
+	"source": "Jan van Ruijven",
+	"target": "",
 	"name": "",
 	"description": "",
 	"location": [{
@@ -455,10 +509,12 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 },
 {
 	"id": "number 377",
+	"source": "Jan van Ruijven",
+	"target": "",
 	"name": "",
 	"description": "",
 	"location": [{
@@ -472,5 +528,5 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": "m"
 }]

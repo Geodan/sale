@@ -5,8 +5,14 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Sailing Networks</title>
  	<script src="js/Util/Publisher.js"></script>
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="http://d3js.org/d3.v3.js"></script>
  	<script src="js/Build/Loader/DynaJsLoader.js"></script>
 	<script src="js/Build/Loader/Loader.js"></script>
+	<!--<script id="block" src="js/forcelayout.js"></script> -->
+			<meta charset="utf-8">
+		<title>Sailing Networks</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
 	
 <style>
 #wrapper {
@@ -15,14 +21,19 @@
     overflow: hidden; 
 }
 #someMapDivName1 {
-    
+    width: relative;
     float:left; 
     border: 1px solid black;
 }
 #someMapDivName2 {
-	
+	width: relative;
     border: 1px solid black;
 	float:left;
+}
+#block {
+	width: relative;
+    border: 1px solid black;
+	
 }
 
 
@@ -54,13 +65,21 @@
 <div id="wrapper">
     <div id="someMapDivName2"></div>
    <div id="someMapDivName1"></div> 
-</div>
-<div id="someTimeDivName1"></div>
+	<div id="block"></div></div>
+<div>
+	<div id="someTimeDivName1"></div>
 	<div id="someTableDivName1"></div>
+	
+</div>
+<html>
 
 
-    
-    <script>
+<body>
+
+
+<script>
+
+
 	Publisher.Subscribe( 'GeoTemCoReady', this, function(){
 		var datasets = [];
 		var mapDiv1 = document.getElementById("someMapDivName1");
@@ -120,7 +139,8 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 
 		var tableDiv = document.getElementById("someTableDivName1");
 		var table = new WidgetWrapper();
-	    var tableWidget = new TableWidget(table,tableDiv);
+	    var tableWidget = new TableWidget(table,tableDiv,{ 
+		tableSorting : true});
 		
 		//var kml1 = GeoTemConfig.getKml('data/jolijslager.kml');
 		//datasets.push(new Dataset(GeoTemConfig.loadKml(kml1),'J. de Olijslager'));
