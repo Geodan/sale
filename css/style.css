@@ -1385,3 +1385,22 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 .filterCancelDisabled {
 	background-image: url("../images/filterCancelDisabled.png");
 }
+
+
+path.link {
+	fill: none;
+	stroke: #666;	
+	stroke-width: 1.5px;
+}
+
+circle2 {
+	fill: #ccc;	
+	stroke: #fff;
+	stroke-width: 1.5px;
+}
+
+text { 
+	fill: #000;
+	font: 10px sans-serif;
+	pointer-events: none;
+}

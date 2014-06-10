@@ -1,39 +1,4 @@
-
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>Sailing Networks</title>
-		<script src="http://d3js.org/d3.v3.js"></script>
-		<!-- <link rel="stylesheet" type="text/css" href="css/style.css"> -->
-	</head>
-<style> 
-
-path.link {
-	fill: none;
-	stroke: #666;	
-	stroke-width: 1.5px;
-}
-
-circle {
-	fill: #ccc;	
-	stroke: #fff;
-	stroke-width: 1.5px;
-}
-
-text { 
-	fill: #000;
-	font: 10px sans-serif;
-	pointer-events: none;
-}
-
-</style>
-<body>
-
-
-<script>
-//Code geschreven door Mark Opmeer t.b.v. Sailing Networks Project 2013-2014 UVA, VU, GEODAN
-//laden netwerk bestand
-d3.json("nederlandsebrieven.json", function(error,links) { 
+d3.json("ruijven_dubbel.json", function(error,links) { 
 
 var nodes = {}; 
 
@@ -49,16 +14,16 @@ links.forEach(function(link) {
 });
 
 	//omvang SVG
-var width = 1920,
-	height = 1080,
+var width = 800,
+	height = 600,
 	color = d3.scale.category20c();
 
 var force = d3.layout.force()
 	.nodes(d3.values(nodes)) //layout nodes
 	.links(links) //layout links
 	.size([width, height]) //omvang layout 
-	.linkDistance(340) //afstand tussen linked nodes
-	.charge(-1300) //force tussen nodes -=repulsion +=attraction
+	.linkDistance(160) //afstand tussen linked nodes
+	.charge(-700) //force tussen nodes -=repulsion +=attraction
 	.on("tick",tick) //force layout animatie, één stap. (verantwoordelijk voor vloeiende beweging)
 	.start(); //start de simulatie
 	
@@ -155,9 +120,4 @@ function dblclick(){ //declare functie dubbelklik
 }
 	
 });
-	
-</script>
-</body> 
-</html>
-	
 	

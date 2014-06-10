@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
   <head>
@@ -9,32 +8,53 @@
 	<script src="http://d3js.org/d3.v3.js"></script>
  	<script src="js/Build/Loader/DynaJsLoader.js"></script>
 	<script src="js/Build/Loader/Loader.js"></script>
-	<!--<script id="block" src="js/forcelayout.js"></script> -->
+	
 			<meta charset="utf-8">
 		<title>Sailing Networks</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	
 <style>
-#wrapper {
-    width: relative;
+#wrapper1 {
+    width: auto;
     border: 1px solid black;
     overflow: hidden; 
 }
-#someMapDivName1 {
-    width: relative;
-    float:left; 
-    border: 1px solid black;
-}
 #someMapDivName2 {
-	width: relative;
+	width: auto;
     border: 1px solid black;
 	float:left;
+	display:flex;
+    align-items:stretch;
 }
-#block {
-	width: relative;
+#someMapDivName1 {
+    width: auto;
     border: 1px solid black;
+	float:left;	
+	display:flex;
+    align-items:stretch;
+}
+
+#wrapper2 {
+width: auto;
+border: 1px solid black;
+overflow: hidden;
+} 
+
+#someTimeDivName1 {
+	width: auto
+    border: 1px solid black;
+
+	
 	
 }
+#someTableDivName1 {
+	width: auto;
+    border: 1px solid black;
+	
+	
+}
+
+
 
 
 </style>
@@ -57,20 +77,25 @@
 	<div id="tableContainerDiv" style="position:relative;"></div> -->
 
 	
-<!--	<div id="someMapDivName1"></div>
+<!-- <div id="someMapDivName1"></div>
 	<div id="someMapDivName2"></div>
 <div id="someTimeDivName1"></div>
-<div id="someTableDivName1"></div> -->
+<div id="someTableDivName1"></div> 
+<div id="block"><script id="block" src="force_layout.js"></script></div> -->
 
-<div id="wrapper">
-    <div id="someMapDivName2"></div>
-   <div id="someMapDivName1"></div> 
-	<div id="block"></div></div>
-<div>
-	<div id="someTimeDivName1"></div>
+
+<div id="wrapper1">
+	<div id="someMapDivName2"></div>
+	<div id="someMapDivName1"></div></div>
+	
+
+<div id="wrapper2">
+<div id="someTimeDivName1"></div>
 	<div id="someTableDivName1"></div>
 	
-</div>
+	   
+	
+</div> 
 <html>
 
 
@@ -109,6 +134,7 @@
             }   
 		   
 		});
+		
 
 
 
@@ -140,7 +166,7 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 		var tableDiv = document.getElementById("someTableDivName1");
 		var table = new WidgetWrapper();
 	    var tableWidget = new TableWidget(table,tableDiv,{ 
-		tableSorting : true});
+		});
 		
 		//var kml1 = GeoTemConfig.getKml('data/jolijslager.kml');
 		//datasets.push(new Dataset(GeoTemConfig.loadKml(kml1),'J. de Olijslager'));
@@ -151,9 +177,18 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 		//var kml4 = GeoTemConfig.getKml('data/all.kml');
 		//datasets.push(new Dataset(GeoTemConfig.loadKml(kml4),'All'));
 		
-		var jsonFile = GeoTemConfig.getJson('data/ruijven_dubbel.json');
+		
+		
+		var jsonFile = GeoTemConfig.getJson('data/joodsebrieven.json');
         var jsonData = GeoTemConfig.loadJson(jsonFile);
-        var dataset = new Dataset(jsonData,'Jan van Ruijven');
+        var dataset = new Dataset(jsonData,'Joods-Portugese gemeenschap');
+		
+        datasets.push(dataset);
+		
+		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven.json');
+        var jsonData = GeoTemConfig.loadJson(jsonFile);
+        var dataset = new Dataset(jsonData,'Hollands-Zeeuwse gemeenschap');
+		
         datasets.push(dataset);
 				
 		map1.display(datasets);

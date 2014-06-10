@@ -1,4 +1,27 @@
-$( ".block" )
+
+
+<style> 
+
+path.link {
+	fill: none;
+	stroke: #666;	
+	stroke-width: 1.5px;
+}
+
+circle {
+	fill: #ccc;	
+	stroke: #fff;
+	stroke-width: 1.5px;
+}
+
+text { 
+	fill: #000;
+	font: 10px sans-serif;
+	pointer-events: none;
+}
+
+</style>
+
 
 d3.json("ruijven_dubbel.json", function(error,links) { 
 

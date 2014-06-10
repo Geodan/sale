@@ -1,0 +1,5434 @@
+﻿[{
+	"id": "5",
+	"source": "Selomoh de Solis",
+	"target": "Paulo Jacomo",
+	"name": "Paulo Jacomo",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-28",
+	"tableContent": ["Selomoh de Solis",
+	"Paulo Jacomo",
+	"1671-12-28",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Rafael Aboale",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-1-1",
+	"tableContent": ["Rafael Aboale",
+	"Onbekend",
+	"1671-1-1",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Aaron de Fonseca",
+	"target": "Levy Bondia",
+	"name": "Levy Bondia",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-1-1",
+	"tableContent": ["Aaron de Fonseca",
+	"Levy Bondia",
+	"1671-1-1",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nunes",
+	"target": "Daniel Cordoz",
+	"name": "Daniel Cordoz",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname "
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Jacob Nunes",
+	"Daniel Cordoz",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nunes",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-1-1",
+	"tableContent": ["Jacob Nunes",
+	"Onbekend",
+	"1671-1-1",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Abraham Nunes",
+	"target": "Paulo Jacomo Pinto",
+	"name": "Paulo Jacomo Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Abraham Nunes",
+	"Paulo Jacomo Pinto",
+	"1672-1-6",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nassi",
+	"target": "Jeosuah de Faro",
+	"name": "Jeosuah de Faro",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Jacob Nassi",
+	"Jeosuah de Faro",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Samuel Mapua",
+	"target": "Ribka Velha",
+	"name": "Ribka Velha",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-30",
+	"tableContent": ["Samuel Mapua",
+	"Ribka Velha",
+	"1671-12-30",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel Castano",
+	"target": "David Demon",
+	"name": "David Demon",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-10",
+	"tableContent": ["Raquel Castano",
+	"David Demon",
+	"1671-12-10",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nassi",
+	"target": "Abraham Drago",
+	"name": "Abraham Drago",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-15",
+	"tableContent": ["Jacob Nassi",
+	"Abraham Drago",
+	"1672-1-15",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Moses da Costa",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Moses da Costa",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Sara Drago",
+	"target": "Abigail Drago",
+	"name": "Abigail Drago",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Sara Drago",
+	"Abigail Drago",
+	"",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Antonio Monteiros",
+	"name": "Antonio Monteiros",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Antonio Monteiros",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Raquel de prade",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Raquel de prade",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Mapua Prado",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Mapua Prado",
+	"Paulo Jacome Pinto",
+	"",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nassi",
+	"target": "Abigail Drago Rafel Aboab",
+	"name": "Abigail Drago Rafel Aboab",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Jacob Nassi",
+	"Abigail Drago Rafel Aboab",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nassi",
+	"target": "Manuel Aboab",
+	"name": "Manuel Aboab",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Jacob Nassi",
+	"Manuel Aboab",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel Castanho",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-10",
+	"tableContent": ["Raquel Castanho",
+	"Paulo Jacome Pinto",
+	"1671-12-10",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Jacob de Pina",
+	"name": "Jacob de Pina",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-12",
+	"tableContent": ["Onbekend",
+	"Jacob de Pina",
+	"1672-1-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Rephaell Aboab",
+	"target": "Elia Aboab",
+	"name": "Elia Aboab",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-12",
+	"tableContent": ["Rephaell Aboab",
+	"Elia Aboab",
+	"1672-1-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Salamao da Roche",
+	"target": "Debora Furtada",
+	"name": "Debora Furtada",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-14",
+	"tableContent": ["Salamao da Roche",
+	"Debora Furtada",
+	"1672-1-14",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raphaell Aboab",
+	"target": "Paulo Jacomo Pinto",
+	"name": "Paulo Jacomo Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-12",
+	"tableContent": ["Raphaell Aboab",
+	"Paulo Jacomo Pinto",
+	"1672-1-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Izaque Baruh",
+	"target": "David Aguilar",
+	"name": "David Aguilar",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-12-18",
+	"tableContent": ["Izaque Baruh",
+	"David Aguilar",
+	"1671-12-18",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Izaque Baruh",
+	"target": "Levi Bondia",
+	"name": "Levi Bondia",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-12-18",
+	"tableContent": ["Izaque Baruh",
+	"Levi Bondia",
+	"1672-12-18",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Abraham Perejra",
+	"target": "David Deagilar",
+	"name": "David Deagilar",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Abraham Perejra",
+	"David Deagilar",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Ishac Arias",
+	"target": "Paulo Jacomo Pinto",
+	"name": "Paulo Jacomo Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Ishac Arias",
+	"Paulo Jacomo Pinto",
+	"1672-1-6",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Joseph Baruh Carlalli",
+	"target": "Manuel Graviano",
+	"name": "Manuel Graviano",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Joseph Baruh Carlalli",
+	"Manuel Graviano",
+	"1671-12-12",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Joseph B. Carvallo",
+	"target": "Isaque Semah Ferro",
+	"name": "Isaque Semah Ferro",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-1-1",
+	"tableContent": ["Joseph B. Carvallo",
+	"Isaque Semah Ferro",
+	"1671-1-1",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Joseph B. Carvalhi",
+	"target": "Salamoh de Soria",
+	"name": "Salamoh de Soria",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-1-6",
+	"tableContent": ["Joseph B. Carvalhi",
+	"Salamoh de Soria",
+	"1671-1-6",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Daniel Messiah",
+	"target": "Joseph Felix",
+	"name": "Joseph Felix",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-17",
+	"tableContent": ["Daniel Messiah",
+	"Joseph Felix",
+	"1671-12-17",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Daniel Messiah",
+	"target": "Franco De Medina",
+	"name": "Franco De Medina",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-17",
+	"tableContent": ["Daniel Messiah",
+	"Franco De Medina",
+	"1671-12-17",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Jeosuah Jacob Nassi",
+	"target": "Ishak Semah Ferro",
+	"name": "Ishak Semah Ferro",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Jeosuah Jacob Nassi",
+	"Ishak Semah Ferro",
+	"",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Izaq de Meza",
+	"target": "Da Costa",
+	"name": "Da Costa",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-1-3",
+	"tableContent": ["Izaq de Meza",
+	"Da Costa",
+	"1671-1-3",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaq de Meza",
+	"target": "Da Costa",
+	"name": "Da Costa",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-7",
+	"tableContent": ["Isaq de Meza",
+	"Da Costa",
+	"1672-1-7",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Isaque de Prado",
+	"target": "Abraham de Prado",
+	"name": "Abraham de Prado",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-30",
+	"tableContent": ["Isaque de Prado",
+	"Abraham de Prado",
+	"1671-12-30",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Iacebe de prado",
+	"target": "Abraham de Prado",
+	"name": "Abraham de Prado",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-1-1",
+	"tableContent": ["Iacebe de prado",
+	"Abraham de Prado",
+	"1671-1-1",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Paulo Yacobme Pinto",
+	"name": "Paulo Yacobme Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Paulo Yacobme Pinto",
+	"",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Arica Mozesinos",
+	"target": "Sara Mozesinas",
+	"name": "Sara Mozesinas",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Arica Mozesinos",
+	"Sara Mozesinas",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Aaron de Fonseca",
+	"target": "Abraham Levy Bondia",
+	"name": "Abraham Levy Bondia",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-1",
+	"tableContent": ["Aaron de Fonseca",
+	"Abraham Levy Bondia",
+	"1672-1-1",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesinos",
+	"target": "Paulo y Jacome Pinto",
+	"name": "Paulo y Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Isaque Montesinos",
+	"Paulo y Jacome Pinto",
+	"1671-12-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesinas",
+	"target": "Henrique Perera",
+	"name": "Henrique Perera",
+	"description": "",
+	"location": [{
+		"lon": "4.4024643",
+		"lat": "51.2194475",
+		"place": "Antwerpen"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Isaque Montesinas",
+	"Henrique Perera",
+	"1671-12-12",
+	"Antwerpen"]
+},
+{
+	"id": "5",
+	"source": "Ishai Arias",
+	"target": "Pedro lago Pereira",
+	"name": "Pedro lago Pereira",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Ishai Arias",
+	"Pedro lago Pereira",
+	"1671-12-12",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Joseph Baruh Carvalho",
+	"target": "Jacob Baruh Carvalho",
+	"name": "Jacob Baruh Carvalho",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Joseph Baruh Carvalho",
+	"Jacob Baruh Carvalho",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Joseph Baruh Carvalho",
+	"target": "Abraham Frois",
+	"name": "Abraham Frois",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Joseph Baruh Carvalho",
+	"Abraham Frois",
+	"1671-12-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Joseph Baruh Carvalho",
+	"target": "Ishac Ferio",
+	"name": "Ishac Ferio",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Joseph Baruh Carvalho",
+	"Ishac Ferio",
+	"1671-12-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesinas",
+	"target": "Anto Montesinas",
+	"name": "Anto Montesinas",
+	"description": "",
+	"location": [{
+		"lon": "-6.2603097",
+		"lat": "53.3498053",
+		"place": "Dublin"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12",
+	"tableContent": ["Isaque Montesinas",
+	"Anto Montesinas",
+	"1671-12",
+	"Dublin"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesinas",
+	"target": "Abram Lebi Bondia",
+	"name": "Abram Lebi Bondia",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Isaque Montesinas",
+	"Abram Lebi Bondia",
+	"1671-12-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Ishac Arias",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-25",
+	"tableContent": ["Ishac Arias",
+	"Paulo Jacome Pinto",
+	"1671-12-25",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesinas",
+	"target": "Paulo y Jacome Pinto",
+	"name": "Paulo y Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Isaque Montesinas",
+	"Paulo y Jacome Pinto",
+	"1671-12-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Moses Da Costa",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Moses Da Costa",
+	"Paulo Jacome Pinto",
+	"1671-12-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Salvador del Soto",
+	"name": "Salvador del Soto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-30",
+	"tableContent": ["Onbekend",
+	"Salvador del Soto",
+	"1671-12-30",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Ishac Arias",
+	"target": "Paulo Eo Jacome Pint",
+	"name": "Paulo Eo Jacome Pint",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Ishac Arias",
+	"Paulo Eo Jacome Pint",
+	"1671-12-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Anto Montesinos",
+	"name": "Anto Montesinos",
+	"description": "",
+	"location": [{
+		"lon": "-6.2603097",
+		"lat": "53.3498053",
+		"place": "Dublin"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-01-01",
+	"tableContent": ["Onbekend",
+	"Anto Montesinos",
+	"1671-01-01",
+	"Dublin"]
+},
+{
+	"id": "5",
+	"source": "Ysaque Montesinos",
+	"target": "Paulo y Jacome Pinto",
+	"name": "Paulo y Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Ysaque Montesinos",
+	"Paulo y Jacome Pinto",
+	"1671-12-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Pedro Pereira",
+	"name": "Pedro Pereira",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Onbekend",
+	"Pedro Pereira",
+	"1672-1-6",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesina",
+	"target": "D. del castillo",
+	"name": "D. del castillo",
+	"description": "",
+	"location": [{
+		"lon": "4.35",
+		"lat": "50.85",
+		"place": "Brussel"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Isaque Montesina",
+	"D. del castillo",
+	"1671-12-12",
+	"Brussel"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Rifica del Sotto",
+	"name": "Rifica del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-6",
+	"tableContent": ["Raquel da Silva",
+	"Rifica del Sotto",
+	"1671-12-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Isaque del Sotto",
+	"name": "Isaque del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-6",
+	"tableContent": ["Raquel da Silva",
+	"Isaque del Sotto",
+	"1671-12-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Sara da Silva",
+	"target": "Isaque del Sotto",
+	"name": "Isaque del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Sara da Silva",
+	"Isaque del Sotto",
+	"1671-12-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Abram del Sotto",
+	"name": "Abram del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-6",
+	"tableContent": ["Raquel da Silva",
+	"Abram del Sotto",
+	"1671-12-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Sara da Silva",
+	"target": "Isaque del Soto",
+	"name": "Isaque del Soto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Sara da Silva",
+	"Isaque del Soto",
+	"1671-12-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Sara da Silva",
+	"target": "Abram del Soto",
+	"name": "Abram del Soto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Sara da Silva",
+	"Abram del Soto",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Isaque Baruh",
+	"name": "Isaque Baruh",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Arao da Silva",
+	"Isaque Baruh",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Isaque del Sotto",
+	"name": "Isaque del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Raquel da Silva",
+	"Isaque del Sotto",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Mordehay Senor",
+	"name": "Mordehay Senor",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Arao da Silva",
+	"Mordehay Senor",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Sara da Silva",
+	"target": "Sara Sotta",
+	"name": "Sara Sotta",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Sara da Silva",
+	"Sara Sotta",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Fransois Demartin",
+	"name": "Fransois Demartin",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Raquel da Silva",
+	"Fransois Demartin",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Herman Refica del Soto",
+	"name": "Herman Refica del Soto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Raquel da Silva",
+	"Herman Refica del Soto",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "David Gavai",
+	"name": "David Gavai",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Arao da Silva",
+	"David Gavai",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Jacob da Silva",
+	"target": "Ricasa Da Silva",
+	"name": "Ricasa Da Silva",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Jacob da Silva",
+	"Ricasa Da Silva",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Josef Daseu",
+	"name": "Josef Daseu",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Arao da Silva",
+	"Josef Daseu",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Abigail de Brito",
+	"target": "Franisco de Medina",
+	"name": "Franisco de Medina",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-9",
+	"tableContent": ["Abigail de Brito",
+	"Franisco de Medina",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Raquel Gomes Vitone",
+	"target": "Francisco de Medina",
+	"name": "Francisco de Medina",
+	"description": "",
+	"location": [{
+		"lon": "-0.1254872",
+		"lat": "51.508515",
+		"place": "Londen"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-4",
+	"tableContent": ["Raquel Gomes Vitone",
+	"Francisco de Medina",
+	"1672-1-4",
+	"Londen"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Abram del Sotto",
+	"name": "Abram del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Arao da Silva",
+	"Abram del Sotto",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Fransois Demartin",
+	"name": "Fransois Demartin",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Arao da Silva",
+	"Fransois Demartin",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Sobrina Refica del sotto",
+	"name": "Sobrina Refica del sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Arao da Silva",
+	"Sobrina Refica del sotto",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Isaque del Sotto",
+	"name": "Isaque del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1",
+	"tableContent": ["Arao da Silva",
+	"Isaque del Sotto",
+	"1672-1",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Ester Lopez",
+	"name": "Ester Lopez",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Raquel da Silva",
+	"Ester Lopez",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Rica da Silva",
+	"name": "Rica da Silva",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Arao da Silva",
+	"Rica da Silva",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Isaque Israel Suaso",
+	"name": "Isaque Israel Suaso",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Arao da Silva",
+	"Isaque Israel Suaso",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Sara Sota",
+	"name": "Sara Sota",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Raquel da Silva",
+	"Sara Sota",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Paulo eja Come Pinto",
+	"name": "Paulo eja Come Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Arao da Silva",
+	"Paulo eja Come Pinto",
+	"1672-1-6",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Fransois de Martin",
+	"name": "Fransois de Martin",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-20",
+	"tableContent": ["Arao da Silva",
+	"Fransois de Martin",
+	"1671-12-20",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Paulo eJa Comepinto",
+	"name": "Paulo eJa Comepinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-20",
+	"tableContent": ["Arao da Silva",
+	"Paulo eJa Comepinto",
+	"1671-12-20",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Samuel de la Para",
+	"name": "Samuel de la Para",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Arao da Silva",
+	"Samuel de la Para",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel Castanhos",
+	"target": "Moise Castano",
+	"name": "Moise Castano",
+	"description": "",
+	"location": [{
+		"lon": "-0.1254872",
+		"lat": "51.508515",
+		"place": "Londen"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Raquel Castanhos",
+	"Moise Castano",
+	"1672-1-10",
+	"Londen"]
+},
+{
+	"id": "5",
+	"source": "Raquel Castanhos",
+	"target": "David de Montesinos",
+	"name": "David de Montesinos",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-1",
+	"tableContent": ["Raquel Castanhos",
+	"David de Montesinos",
+	"1672-1-1",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Raquel Castanhos",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Raquel Castanhos",
+	"Paulo Jacome Pinto",
+	"1672-1-10",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Ludica Dagama",
+	"name": "Ludica Dagama",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-12-31",
+	"tableContent": ["Arao da Silva",
+	"Ludica Dagama",
+	"1672-12-31",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Samuel Nassy",
+	"target": "Herman Abrahamse",
+	"name": "Herman Abrahamse",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-12",
+	"tableContent": ["Samuel Nassy",
+	"Herman Abrahamse",
+	"1672-1-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "David Gavai",
+	"name": "David Gavai",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-12-31",
+	"tableContent": ["Arao da Silva",
+	"David Gavai",
+	"1672-12-31",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Samuel de la Para",
+	"name": "Samuel de la Para",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-12-31",
+	"tableContent": ["Arao da Silva",
+	"Samuel de la Para",
+	"1672-12-31",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Irman Judica Capadose",
+	"name": "Irman Judica Capadose",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-12-31",
+	"tableContent": ["Arao da Silva",
+	"Irman Judica Capadose",
+	"1672-12-31",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Joseph Daseuedo en David Gabay",
+	"name": "Joseph Daseuedo en David Gabay",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-12-31",
+	"tableContent": ["Arao da Silva",
+	"Joseph Daseuedo en David Gabay",
+	"1672-12-31",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Francois de Martin",
+	"name": "Francois de Martin",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-30",
+	"tableContent": ["Arao da Silva",
+	"Francois de Martin",
+	"1671-12-30",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Paulo J. Pinto",
+	"name": "Paulo J. Pinto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671",
+	"tableContent": ["Onbekend",
+	"Paulo J. Pinto",
+	"1671",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Ishak d'Avilar",
+	"target": "Jacob Flamis Dorta",
+	"name": "Jacob Flamis Dorta",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671",
+	"tableContent": ["Ishak d'Avilar",
+	"Jacob Flamis Dorta",
+	"1671",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Paulo ja Come Pinto",
+	"name": "Paulo ja Come Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-12-31",
+	"tableContent": ["Arao da Silva",
+	"Paulo ja Come Pinto",
+	"1672-12-31",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Isaque R. De Prado",
+	"target": "Paulo Yacobme Pinto",
+	"name": "Paulo Yacobme Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-16",
+	"tableContent": ["Isaque R. De Prado",
+	"Paulo Yacobme Pinto",
+	"1671-12-16",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Isaque R. De Prado",
+	"target": "Abraham Rodrique de Prado",
+	"name": "Abraham Rodrique de Prado",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-16",
+	"tableContent": ["Isaque R. De Prado",
+	"Abraham Rodrique de Prado",
+	"1671-12-16",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Izaque Meza",
+	"target": "Daniel Cardozo",
+	"name": "Daniel Cardozo",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-25",
+	"tableContent": ["Izaque Meza",
+	"Daniel Cardozo",
+	"1671-12-25",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Izaque Meza",
+	"target": "Luis Dias",
+	"name": "Luis Dias",
+	"description": "",
+	"location": [{
+		"lon": "-59.543198",
+		"lat": "13.193887",
+		"place": "Barbados"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "",
+	"tableContent": ["Izaque Meza",
+	"Luis Dias",
+	"",
+	"Barbados"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Henrique Maties",
+	"name": "Henrique Maties",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Henrique Maties",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Antonio de Soto",
+	"name": "Antonio de Soto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Antonio de Soto",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nunes Dracho",
+	"target": "Jacob Lopes",
+	"name": "Jacob Lopes",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-14",
+	"tableContent": ["Jacob Nunes Dracho",
+	"Jacob Lopes",
+	"1671-12-14",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nunes Dracho",
+	"target": "Paul Jacome Pinto",
+	"name": "Paul Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-12",
+	"tableContent": ["Jacob Nunes Dracho",
+	"Paul Jacome Pinto",
+	"1671-12-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesinos",
+	"target": "Joseph Delcastillo",
+	"name": "Joseph Delcastillo",
+	"description": "",
+	"location": [{
+		"lon": "4.35",
+		"lat": "50.85",
+		"place": "Brussel"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672",
+	"tableContent": ["Isaque Montesinos",
+	"Joseph Delcastillo",
+	"1672",
+	"Brussel"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nunes de Castro",
+	"target": "Pablo Jacome Pinto",
+	"name": "Pablo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Jacob Nunes de Castro",
+	"Pablo Jacome Pinto",
+	"1672-1-6",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Pablo Jacome Pinto",
+	"name": "Pablo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-6",
+	"tableContent": ["Arao da Silva",
+	"Pablo Jacome Pinto",
+	"1671-12-6",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nunes de Castro",
+	"target": "Jacob Lopes deCastro",
+	"name": "Jacob Lopes deCastro",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Jacob Nunes de Castro",
+	"Jacob Lopes deCastro",
+	"1672-1-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Paulo Jacome P.o",
+	"name": "Paulo Jacome P.o",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-5",
+	"tableContent": ["Onbekend",
+	"Paulo Jacome P.o",
+	"1672-1-5",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Ab. Del Soto",
+	"name": "Ab. Del Soto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-5",
+	"tableContent": ["Onbekend",
+	"Ab. Del Soto",
+	"1672-1-5",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Samuel Nassi",
+	"target": "Abraham Drago",
+	"name": "Abraham Drago",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-11-17",
+	"tableContent": ["Samuel Nassi",
+	"Abraham Drago",
+	"1672-11-17",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Samuel Nassi",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-12",
+	"tableContent": ["Samuel Nassi",
+	"Paulo Jacome Pinto",
+	"1672-1-12",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-3",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-1-3",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-1-2",
+	"tableContent": ["Raquel da Silva",
+	"Onbekend",
+	"1671-1-2",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Meor a Vos Ysaque del Sotto",
+	"name": "Meor a Vos Ysaque del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-3",
+	"tableContent": ["Onbekend",
+	"Meor a Vos Ysaque del Sotto",
+	"1672-1-3",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Izaque Meza",
+	"target": "Da Costa",
+	"name": "Da Costa",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-25",
+	"tableContent": ["Izaque Meza",
+	"Da Costa",
+	"1671-12-25",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-15",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-12-15",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Manuel Gracians",
+	"name": "Manuel Gracians",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-20",
+	"tableContent": ["Onbekend",
+	"Manuel Gracians",
+	"1671-12-20",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Ishak de Avilar",
+	"target": "Antonio Spinessa",
+	"name": "Antonio Spinessa",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-3",
+	"tableContent": ["Ishak de Avilar",
+	"Antonio Spinessa",
+	"1672-1-3",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Ishak de Avilar",
+	"target": "Manuel mod d'lavilar",
+	"name": "Manuel mod d'lavilar",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Ishak de Avilar",
+	"Manuel mod d'lavilar",
+	"",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Ishak de Avilar",
+	"target": "Tyo Froo",
+	"name": "Tyo Froo",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Ishak de Avilar",
+	"Tyo Froo",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-31",
+	"tableContent": ["Arao da Silva",
+	"Paulo Jacome Pinto",
+	"1671-12-31",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Irman Judica Capadose",
+	"name": "Irman Judica Capadose",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-4",
+	"tableContent": ["Arao da Silva",
+	"Irman Judica Capadose",
+	"1671-12-4",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Samuel de la Para",
+	"name": "Samuel de la Para",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-4",
+	"tableContent": ["Arao da Silva",
+	"Samuel de la Para",
+	"1671-12-4",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Jaco senor Dobrasil",
+	"name": "Jaco senor Dobrasil",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-4",
+	"tableContent": ["Arao da Silva",
+	"Jaco senor Dobrasil",
+	"1671-12-4",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Daniel Cardoso",
+	"name": "Daniel Cardoso",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-4",
+	"tableContent": ["Arao da Silva",
+	"Daniel Cardoso",
+	"1671-12-4",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Lianor da Costa de Brita",
+	"target": "Anna da Costa Pessoa",
+	"name": "Anna da Costa Pessoa",
+	"description": "",
+	"location": [{
+		"lon": "-9.1393366",
+		"lat": "38.7222524",
+		"place": "Lissabon"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-5",
+	"tableContent": ["Lianor da Costa de Brita",
+	"Anna da Costa Pessoa",
+	"1672-1-5",
+	"Lissabon"]
+},
+{
+	"id": "5",
+	"source": "Lianor da Costa de Brita",
+	"target": "Senhor Joze Pessoa",
+	"name": "Senhor Joze Pessoa",
+	"description": "",
+	"location": [{
+		"lon": "-9.1393366",
+		"lat": "38.7222524",
+		"place": "Lissabon"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-5",
+	"tableContent": ["Lianor da Costa de Brita",
+	"Senhor Joze Pessoa",
+	"1672-1-5",
+	"Lissabon"]
+},
+{
+	"id": "5",
+	"source": "Abigail de Brito",
+	"target": "Francisco de Medina",
+	"name": "Francisco de Medina",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-5",
+	"tableContent": ["Abigail de Brito",
+	"Francisco de Medina",
+	"1672-1-5",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Mosseh Nassy",
+	"target": "Francisco de Medina",
+	"name": "Francisco de Medina",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-7",
+	"tableContent": ["Mosseh Nassy",
+	"Francisco de Medina",
+	"1672-1-7",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Raquel Gomes Viro.ias",
+	"target": "Franco de Medina",
+	"name": "Franco de Medina",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-8",
+	"tableContent": ["Raquel Gomes Viro.ias",
+	"Franco de Medina",
+	"1672-1-8",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Jacob Nassi",
+	"target": "Smanuel Aboab",
+	"name": "Smanuel Aboab",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-25",
+	"tableContent": ["Jacob Nassi",
+	"Smanuel Aboab",
+	"1672-1-25",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Fransois de Martin",
+	"name": "Fransois de Martin",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-4",
+	"tableContent": ["Arao da Silva",
+	"Fransois de Martin",
+	"1671-12-4",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Paulo o Ja Come Pinto",
+	"name": "Paulo o Ja Come Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-4",
+	"tableContent": ["Arao da Silva",
+	"Paulo o Ja Come Pinto",
+	"1671-12-4",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Duarte da Fonceca",
+	"target": "Josseph Pesson",
+	"name": "Josseph Pesson",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-8",
+	"tableContent": ["Duarte da Fonceca",
+	"Josseph Pesson",
+	"1672-1-8",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Abram del Sotto",
+	"name": "Abram del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Raquel da Silva",
+	"Abram del Sotto",
+	"1672-1-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque dela Parra",
+	"target": "Paulo e Jacomo Pinto",
+	"name": "Paulo e Jacomo Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"tableContent": ["Isaque dela Parra",
+	"Paulo e Jacomo Pinto",
+	"1672-1-10",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Duarte da Fonceca",
+	"target": "Joseph Pessoa",
+	"name": "Joseph Pessoa",
+	"description": "",
+	"location": [{
+		"lon": "-9.1393366",
+		"lat": "38.7222524",
+		"place": "Lissabon"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-10-15",
+	"tableContent": ["Duarte da Fonceca",
+	"Joseph Pessoa",
+	"1671-10-15",
+	"Lissabon"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"tableContent": ["Arao da Silva",
+	"Onbekend",
+	"1672-1-6",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque dela Parra",
+	"target": "Samuel dela Parra",
+	"name": "Samuel dela Parra",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-4",
+	"tableContent": ["Isaque dela Parra",
+	"Samuel dela Parra",
+	"1672-1-4",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Isaque dela Parra",
+	"target": "Riga da silva",
+	"name": "Riga da silva",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-8",
+	"tableContent": ["Isaque dela Parra",
+	"Riga da silva",
+	"1672-1-8",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque de Prado",
+	"target": "Abraham Rodrique de Prado",
+	"name": "Abraham Rodrique de Prado",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-12",
+	"tableContent": ["Isaque de Prado",
+	"Abraham Rodrique de Prado",
+	"1672-1-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Jacob d Hareques",
+	"name": "Jacob d Hareques",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-12",
+	"tableContent": ["Onbekend",
+	"Jacob d Hareques",
+	"1672-1-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Semuel Vello",
+	"target": "Semuel Vello",
+	"name": "Semuel Vello",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Semuel Vello",
+	"Semuel Vello",
+	"",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Jeosuah de Farro",
+	"name": "Jeosuah de Farro",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-09-15",
+	"tableContent": ["Onbekend",
+	"Jeosuah de Farro",
+	"1672-09-15",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-09-15",
+	"tableContent": ["Onbekend",
+	"Paulo Jacome Pinto",
+	"1672-09-15",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Jakob Enreques",
+	"name": "Jakob Enreques",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-9-12",
+	"tableContent": ["Onbekend",
+	"Jakob Enreques",
+	"1672-9-12",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Jeosuah Nasi",
+	"target": "Ab. Drago",
+	"name": "Ab. Drago",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Jeosuah Nasi",
+	"Ab. Drago",
+	"",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Semuel de Lafel",
+	"target": "Jacob Dezamora",
+	"name": "Jacob Dezamora",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-15",
+	"tableContent": ["Semuel de Lafel",
+	"Jacob Dezamora",
+	"1672-9-15",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Pedro Henriq Pereyra",
+	"name": "Pedro Henriq Pereyra",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672",
+	"tableContent": ["Onbekend",
+	"Pedro Henriq Pereyra",
+	"1672",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Ishak d'Avilar",
+	"target": "Jacob d'Avilar",
+	"name": "Jacob d'Avilar",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-1",
+	"tableContent": ["Ishak d'Avilar",
+	"Jacob d'Avilar",
+	"1672-9-1",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Paulo Jacobme Pinto",
+	"name": "Paulo Jacobme Pinto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-8",
+	"tableContent": ["Onbekend",
+	"Paulo Jacobme Pinto",
+	"1672-9-8",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Ishak d'Avilar",
+	"target": "Armao dalma",
+	"name": "Armao dalma",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-1",
+	"tableContent": ["Ishak d'Avilar",
+	"Armao dalma",
+	"1672-9-1",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Samuel Avelho",
+	"target": "Mayma isan Ribca Vello",
+	"name": "Mayma isan Ribca Vello",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-15",
+	"tableContent": ["Samuel Avelho",
+	"Mayma isan Ribca Vello",
+	"1672-9-15",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Irman Judica Capadose",
+	"name": "Irman Judica Capadose",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-1",
+	"tableContent": ["Arao da Silva",
+	"Irman Judica Capadose",
+	"1672-9-1",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Sara da Silva",
+	"target": "Ishac del Sotto",
+	"name": "Ishac del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-9",
+	"tableContent": ["Sara da Silva",
+	"Ishac del Sotto",
+	"1672-9-9",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Jorge Spinosa",
+	"name": "Jorge Spinosa",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Jorge Spinosa",
+	"",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Da costa",
+	"name": "Da costa",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Da costa",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Bentto da Costa",
+	"target": "Agostjnho Coronel Chacon",
+	"name": "Agostjnho Coronel Chacon",
+	"description": "",
+	"location": [{
+		"lon": "-0.1254872",
+		"lat": "51.508515",
+		"place": "Londen"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-20",
+	"tableContent": ["Bentto da Costa",
+	"Agostjnho Coronel Chacon",
+	"1672-8-20",
+	"Londen"]
+},
+{
+	"id": "5",
+	"source": "Lianor de Brit",
+	"target": "Jose pecoa",
+	"name": "Jose pecoa",
+	"description": "",
+	"location": [{
+		"lon": "-9.1393366",
+		"lat": "38.7222524",
+		"place": "Lissabon"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-20",
+	"tableContent": ["Lianor de Brit",
+	"Jose pecoa",
+	"1672-8-20",
+	"Lissabon"]
+},
+{
+	"id": "5",
+	"source": "Moseh de Britto",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Moseh de Britto",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Abigail de Brito",
+	"target": "Francisco de Medina",
+	"name": "Francisco de Medina",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-10",
+	"tableContent": ["Abigail de Brito",
+	"Francisco de Medina",
+	"1672-9-10",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Francois De Martin",
+	"name": "Francois De Martin",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-1",
+	"tableContent": ["Arao da Silva",
+	"Francois De Martin",
+	"1672-9-1",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Arao da Silva",
+	"target": "Rica da Silva",
+	"name": "Rica da Silva",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-1",
+	"tableContent": ["Arao da Silva",
+	"Rica da Silva",
+	"1672-9-1",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Isaque Baruh",
+	"target": "Abrad Levi Bondia",
+	"name": "Abrad Levi Bondia",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-24",
+	"tableContent": ["Isaque Baruh",
+	"Abrad Levi Bondia",
+	"1672-8-24",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Irmad de Vill Iaque Baruch",
+	"target": "Irmad David Daguilar",
+	"name": "Irmad David Daguilar",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-28",
+	"tableContent": ["Irmad de Vill Iaque Baruch",
+	"Irmad David Daguilar",
+	"1672-8-28",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Izaque Baruh",
+	"target": "David Ba",
+	"name": "David Ba",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-28",
+	"tableContent": ["Izaque Baruh",
+	"David Ba",
+	"1672-8-28",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Ishac del Sotto",
+	"name": "Ishac del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-1",
+	"tableContent": ["Raquel da Silva",
+	"Ishac del Sotto",
+	"1672-9-1",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Semuel de la Parra",
+	"target": "Jacob Dezamora",
+	"name": "Jacob Dezamora",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-6-27",
+	"tableContent": ["Semuel de la Parra",
+	"Jacob Dezamora",
+	"1672-6-27",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Refica del Sotto",
+	"name": "Refica del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-1",
+	"tableContent": ["Raquel da Silva",
+	"Refica del Sotto",
+	"1672-9-1",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Raquel da Silva",
+	"target": "Abram del Sotto",
+	"name": "Abram del Sotto",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-9",
+	"tableContent": ["Raquel da Silva",
+	"Abram del Sotto",
+	"1672-1-9",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Baruh da Costa",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-20",
+	"tableContent": ["Baruh da Costa",
+	"Paulo Jacome Pinto",
+	"1672-8-20",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Baruch da Costa",
+	"target": "Rachel Barbosa",
+	"name": "Rachel Barbosa",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-6",
+	"tableContent": ["Baruch da Costa",
+	"Rachel Barbosa",
+	"1672-8-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Baruch da Costa",
+	"target": "Manoel Grafiano",
+	"name": "Manoel Grafiano",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-7",
+	"tableContent": ["Baruch da Costa",
+	"Manoel Grafiano",
+	"1672-9-7",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Baruch da Costa",
+	"target": "Jahacob de Olivejra",
+	"name": "Jahacob de Olivejra",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-7",
+	"tableContent": ["Baruch da Costa",
+	"Jahacob de Olivejra",
+	"1672-9-7",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Baruch da Costa",
+	"target": "Joseph da Costa",
+	"name": "Joseph da Costa",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-20",
+	"tableContent": ["Baruch da Costa",
+	"Joseph da Costa",
+	"1672-8-20",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Ishac Arias",
+	"target": "Jacob de Aguilar",
+	"name": "Jacob de Aguilar",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-10",
+	"tableContent": ["Ishac Arias",
+	"Jacob de Aguilar",
+	"1672-9-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Ishak de Avilar",
+	"target": "Paulo Ja Pinto",
+	"name": "Paulo Ja Pinto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-1",
+	"tableContent": ["Ishak de Avilar",
+	"Paulo Ja Pinto",
+	"1672-9-1",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque de Prado",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Isaque de Prado",
+	"Paulo Jacome Pinto",
+	"",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Abraham Rodrigues De Prado",
+	"name": "Abraham Rodrigues De Prado",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-4",
+	"tableContent": ["Onbekend",
+	"Abraham Rodrigues De Prado",
+	"1672-9-4",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Isaque de Prado",
+	"target": "Abraham Rodrigues De Prado",
+	"name": "Abraham Rodrigues De Prado",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-6",
+	"tableContent": ["Isaque de Prado",
+	"Abraham Rodrigues De Prado",
+	"1672-9-6",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Jeosuah e Jacob Nassi",
+	"target": "Ishak Semah Ferro",
+	"name": "Ishak Semah Ferro",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-15",
+	"tableContent": ["Jeosuah e Jacob Nassi",
+	"Ishak Semah Ferro",
+	"1672-9-15",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque de la Parra",
+	"target": "Jacob de Samora",
+	"name": "Jacob de Samora",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-12",
+	"tableContent": ["Isaque de la Parra",
+	"Jacob de Samora",
+	"1672-9-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Samuel Nassi",
+	"target": "Abraham Drago",
+	"name": "Abraham Drago",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-8",
+	"tableContent": ["Samuel Nassi",
+	"Abraham Drago",
+	"1672-9-8",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Samuel Nassi",
+	"target": "Paulo Jacomme Pinto",
+	"name": "Paulo Jacomme Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-8",
+	"tableContent": ["Samuel Nassi",
+	"Paulo Jacomme Pinto",
+	"1672-9-8",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Samuel de la Parra",
+	"target": "Jahacob de Zamora",
+	"name": "Jahacob de Zamora",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-12",
+	"tableContent": ["Samuel de la Parra",
+	"Jahacob de Zamora",
+	"1672-9-12",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Izaque Meza",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Izaque Meza",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-12",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-9-12",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Raquel Castanos",
+	"target": "Paulo Jacomo Pinto",
+	"name": "Paulo Jacomo Pinto",
+	"description": "",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-20",
+	"tableContent": ["Raquel Castanos",
+	"Paulo Jacomo Pinto",
+	"1672-9-20",
+	"Middelburg"]
+},
+{
+	"id": "5",
+	"source": "Raquel Castanos",
+	"target": "David de Montesinos",
+	"name": "David de Montesinos",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-20",
+	"tableContent": ["Raquel Castanos",
+	"David de Montesinos",
+	"1672-9-20",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque Meza",
+	"target": "David bay Bondia",
+	"name": "David bay Bondia",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-10",
+	"tableContent": ["Isaque Meza",
+	"David bay Bondia",
+	"1672-9-10",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque Meza",
+	"target": "Jacob Abas",
+	"name": "Jacob Abas",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-10",
+	"tableContent": ["Isaque Meza",
+	"Jacob Abas",
+	"1672-9-10",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Isaque Meza",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Isaque Meza",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesinos",
+	"target": "Josehp del Castino",
+	"name": "Josehp del Castino",
+	"description": "",
+	"location": [{
+		"lon": "4.35",
+		"lat": "50.85",
+		"place": "Brussel"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-29",
+	"tableContent": ["Isaque Montesinos",
+	"Josehp del Castino",
+	"1672-8-29",
+	"Brussel"]
+},
+{
+	"id": "5",
+	"source": "Isaque Montesinos",
+	"target": "Paulo Jacome Pinto",
+	"name": "Paulo Jacome Pinto",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-29",
+	"tableContent": ["Isaque Montesinos",
+	"Paulo Jacome Pinto",
+	"1672-8-29",
+	"Unknown"]
+},
+{
+	"id": "5",
+	"source": "Ishac Gabay",
+	"target": "Francois De Martin",
+	"name": "Francois De Martin",
+	"description": "",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-29",
+	"tableContent": ["Ishac Gabay",
+	"Francois De Martin",
+	"1672-8-29",
+	"Amsterdam"]
+},
+{
+	"id": "5",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+}]
