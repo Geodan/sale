@@ -7,7 +7,7 @@ function TimeConfig(options) {
 		timeIndex : 0, // index = position in date array; for multiple dates the 2nd timeplot refers to index 1
 		timeWidth : false, // false or desired width css definition for the timeplot
 		timeHeight : '100px', // false or desired height css definition for the timeplot
-		defaultMinDate : new Date(1650, 0, 1), // required, when empty timelines are possible
+		defaultMinDate : new Date(1670, 0, 1), // required, when empty timelines are possible
 		defaultMaxDate : new Date(), // required, when empty timelines are possible
 		timeCanvasFrom : '#EEE', // time widget background gradient color top
 		timeCanvasTo : '#EEE', // time widget background gradient color bottom
