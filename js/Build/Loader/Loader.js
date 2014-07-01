@@ -129,7 +129,19 @@ GeoTemCoLoader = {
 			url : GeoTemCoLoader.urlPrefix + 'js/Table/' + 'TableWidget.js',
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Table/' + 'Table.js',
+		},
+
+		 {
+			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkConfig.js',
 		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkGui.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkWidget.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'Netwerk.js',
+		},
+
+		 {
 			url : GeoTemCoLoader.urlPrefix + 'js/Util/' + 'DataObject.js',
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Util/' + 'Dataset.js',

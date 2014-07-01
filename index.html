@@ -87,7 +87,9 @@ overflow: hidden;
 
 <div id="wrapper1">
 	<div id="someMapDivName2"></div>
-	<div id="someMapDivName1"></div></div>
+	<div id="someMapDivName1"></div>
+	<div id="netwerk"></div>
+</div>
 	
 
 <div id="wrapper2">
@@ -169,6 +171,11 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 		var table = new WidgetWrapper();
 	    var tableWidget = new TableWidget(table,tableDiv,{ 
 		});
+
+		var netwerkDiv = document.getElementById("netwerk");
+		var netwerk = new WidgetWrapper();
+	    var netwerkWidget = new NetwerkWidget(netwerk,netwerkDiv,{ 
+		});
 		
 		//var kml1 = GeoTemConfig.getKml('data/jolijslager.kml');
 		//datasets.push(new Dataset(GeoTemConfig.loadKml(kml1),'J. de Olijslager'));
@@ -197,6 +204,7 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 		map2.display(datasets);
 		time.display(datasets);
 		table.display(datasets);
+		netwerk.display(datasets);
 /*
 		$.ajax({
 			url: 'data/test2.json',

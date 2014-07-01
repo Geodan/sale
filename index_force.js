@@ -36,7 +36,7 @@ text {
 d3.json("nederlandsebrieven.json", function(error,links) { 
 
 var nodes = {}; 
-
+//links == array
 //doorzoeken d bestand; verbindingen leggen tussen nodes.
 links.forEach(function(link) {
 	link.source = nodes[link.source] ||
