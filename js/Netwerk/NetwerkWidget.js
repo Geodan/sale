@@ -85,12 +85,20 @@ NetwerkWidget.prototype = {
 	},
 
 	highlightChanged : function(objects) {
-		console.log('highlight.changed')
+			console.log('highlight.changed')
 	},
 
 	selectionChanged : function(selection) {
-		console.log('selection.changed')
-	
+		for (var i in selection.objects ) {
+			
+			var elements = [];
+			for (var j in selection.objects[i] ) {
+				elements.push(new NetwerkElement(selection.objects[i][j]));
+				//this.netwerkHash[i][selection[i].objects[j].index] = elements[elements.length - 1];
+			}
+			this.netwerken[i].update(elements)
+		}
+
 	},
 
 	triggerHighlight : function(item) {
