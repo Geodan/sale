@@ -571,7 +571,7 @@ MapWidget.prototype = {
 	setBaseLayers : function() {
 		this.baseLayers = [];
 		if (this.options.googleMaps) {
-			// see http://openlayers.org/blog/2010/07/10/google-maps-v3-for-openlayers/ for information
+			// see .://openlayers.org/blog/2010/07/10/google-maps-v3-for-openlayers/ for information
 			var gphy = new OpenLayers.Layer.Google("Google Physical", {
 				type : google.maps.MapTypeId.TERRAIN,
 				minZoomLevel : 1,
@@ -645,7 +645,7 @@ MapWidget.prototype = {
 	getBaseLayerName : function() {
 		return this.openlayersMap.baseLayer.name;
 	},
-
+// Is dit het gedeelte waar extra kaartlagen toegevoegd kunnen worden?
 	setOverlays : function(layers) {
 		var map = this;
 		for (var i in this.wmsOverlays ) {
