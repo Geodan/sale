@@ -16,19 +16,19 @@
 	
 <style>
 #wrapper1 {
-    width: auto;
+    width: 1920px;
     border: 1px solid black;
     overflow: hidden; 
 }
 #someMapDivName2 {
-	width: 925px;
+	width: 1920px;
     border: 1px solid black;
 	float:left;
 	display:flex;
     align-items:stretch;
 }
 #someMapDivName1 {
-    width: 925px;
+    width: 1920px;
     border: 1px solid black;
 	float:left;	
 	display:flex;
@@ -102,13 +102,13 @@ line.link {
 
 
 <div id="wrapper1">
-	<div id="someMapDivName2"></div>
+	<!-- <div id="someMapDivName2"></div> -->
 	<div id="someMapDivName1"></div>
-	<div id="netwerk"></div>
 </div>
 	
 
 <div id="wrapper2">
+<div id="netwerk"></div>
 <div id="someTimeDivName1"></div>
 	<div id="someTableDivName1"></div>
 	<!--div id="block"><script id="block" src="force_layout.js"></script></div-->
@@ -141,19 +141,19 @@ line.link {
 		   
 		});
 
-		var mapDiv2 = document.getElementById("someMapDivName2");
-		 var map2 = new WidgetWrapper();
-		 var mapWidget2 = new MapWidget(map2,mapDiv2,{
-		 mapIndex: 1,
-		mapTitle: "Afzenders",
-			 alternativeMap : {
-			 name: '1715',
-			 url: '/geoserver/wms',
-	        layer: 'historic:cntry1715'
+	//	var mapDiv2 = document.getElementById("someMapDivName2");
+	//	 var map2 = new WidgetWrapper();
+	//	 var mapWidget2 = new MapWidget(map2,mapDiv2,{
+	//	 mapIndex: 1,
+	//	mapTitle: "Afzenders",
+	//		 alternativeMap : {
+		//	 name: '1715',
+		//	 url: '/geoserver/wms',
+	   //     layer: 'historic:cntry1715'
 			
-            }   
+        //    }   
 		   
-		});
+	//	});
 		
 
 
@@ -188,10 +188,10 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 	    var tableWidget = new TableWidget(table,tableDiv,{ 
 		});
 
-		var netwerkDiv = document.getElementById("netwerk");
-		var netwerk = new WidgetWrapper();
-	    var netwerkWidget = new NetwerkWidget(netwerk,netwerkDiv,{ 
-		});
+	//	var netwerkDiv = document.getElementById("netwerk");
+	//	var netwerk = new WidgetWrapper();
+	  //  var netwerkWidget = new NetwerkWidget(netwerk,netwerkDiv,{ 
+	// });
 		
 		//var kml1 = GeoTemConfig.getKml('data/jolijslager.kml');
 		//datasets.push(new Dataset(GeoTemConfig.loadKml(kml1),'J. de Olijslager'));
@@ -204,20 +204,38 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 		
 		
 		
-		var jsonFile = GeoTemConfig.getJson('data/joodsebrieven.json');
+		// var jsonFile = GeoTemConfig.getJson('data/joodsebrieven.json');
+        // var jsonData = GeoTemConfig.loadJson(jsonFile);
+        // var dataset = new Dataset(jsonData,'Joods-Portugese gemeenschap');
+		
+        // datasets.push(dataset);
+		
+		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy1.json');
         var jsonData = GeoTemConfig.loadJson(jsonFile);
-        var dataset = new Dataset(jsonData,'Joods-Portugese gemeenschap');
+        var dataset = new Dataset(jsonData,'Stad');
+		
+		datasets.push(dataset);
+		
+		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy2.json');
+        var jsonData = GeoTemConfig.loadJson(jsonFile);
+        var dataset = new Dataset(jsonData,'Gewest');
 		
         datasets.push(dataset);
 		
-		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven.json');
+		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy3.json');
         var jsonData = GeoTemConfig.loadJson(jsonFile);
-        var dataset = new Dataset(jsonData,'Hollands-Zeeuwse gemeenschap');
+        var dataset = new Dataset(jsonData,'Land');
+		
+        datasets.push(dataset);
+		
+		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy4.json');
+        var jsonData = GeoTemConfig.loadJson(jsonFile);
+        var dataset = new Dataset(jsonData,'Onbekend');
 		
         datasets.push(dataset);
 				
 		map1.display(datasets);
-		map2.display(datasets);
+		//map2.display(datasets);
 		time.display(datasets);
 		table.display(datasets);
 		netwerk.display(datasets);

@@ -1,0 +1,6279 @@
+[{
+	"id": "3521",
+	"source": "B. Raule",
+	"target": "Augustin Brolt",
+	"name": "Augustin Brolt",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "1671-08-12",
+	"fuzzy": "4",
+	"tableContent": ["B. Raule",
+	"Augustin Brolt",
+	"1671-08-12",
+	"Unknown"]
+},
+{
+	"id": "3354",
+	"source": "Jan van der Meulen ",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-12-10",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1671-12-10",
+	"Unknown"]
+},
+{
+	"id": "3362",
+	"source": "Jan van der Meulen ",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1671-12-28",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1671-12-28",
+	"Unknown"]
+},
+{
+	"id": "2986",
+	"source": "Jan van der Meulen ",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-12-02",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1672-12-02",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Jan van der Meulen ",
+	"target": "Philipus Julijus Lichtenburch",
+	"name": "Philipus Julijus Lichtenburch",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-13",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"Philipus Julijus Lichtenburch",
+	"1672-1-13",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Jan van der Meulen ",
+	"target": "Philipus Julijus Lichtenburch",
+	"name": "Philipus Julijus Lichtenburch",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-20",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"Philipus Julijus Lichtenburch",
+	"1671-12-20",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Albert Clasen Vis",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-1.35",
+		"lat": "5.0833333",
+		"place": "Elmina"
+	}],
+	"time": "1672-11-22",
+	"fuzzy": "4",
+	"tableContent": ["Albert Clasen Vis",
+	"Onbekend",
+	"1672-11-22",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "J. Crenen",
+	"target": "Jacobes vander Beke",
+	"name": "Jacobes vander Beke",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-5",
+	"fuzzy": "4",
+	"tableContent": ["J. Crenen",
+	"Jacobes vander Beke",
+	"1672-9-5",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "J. Crenen",
+	"target": "Neelken Scheuijen",
+	"name": "Neelken Scheuijen",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-5",
+	"fuzzy": "4",
+	"tableContent": ["J. Crenen",
+	"Neelken Scheuijen",
+	"1672-9-5",
+	"Unknown"]
+},
+{
+	"id": "number 18",
+	"source": "Joris Darvall",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Barent Hermens Vooght",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Joris Darvall",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 19",
+	"source": "Pieter Heerensen",
+	"target": "Jan en Pieter Bodaen Coerten",
+	"name": "Jan en Pieter Bodaen Coerten",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-5-25",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Heerensen",
+	"Jan en Pieter Bodaen Coerten",
+	"1672-5-25",
+	"Unknown"]
+},
+{
+	"id": "number 20",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 21",
+	"source": "onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-11-11",
+	"fuzzy": "4",
+	"tableContent": ["onbekend",
+	"Onbekend",
+	"1672-11-11",
+	"Unknown"]
+},
+{
+	"id": "number 26",
+	"source": "Johan Simon",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Johan Simon",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 27",
+	"source": "Johan Simon",
+	"target": "Leintje Frans",
+	"name": "Leintje Frans",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Johan Simon",
+	"Leintje Frans",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 43",
+	"source": "Ad Schoors",
+	"target": "Mr. Cahlies",
+	"name": "Mr. Cahlies",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Ad Schoors",
+	"Mr. Cahlies",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 54",
+	"source": "Adrijaen Wadde",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-2-3",
+	"fuzzy": "4",
+	"tableContent": ["Adrijaen Wadde",
+	"Onbekend",
+	"1672-2-3",
+	"Unknown"]
+},
+{
+	"id": "number 55",
+	"source": "Adryaen Claese",
+	"target": "Maeycke Jacobs",
+	"name": "Maeycke Jacobs",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"fuzzy": "4",
+	"tableContent": ["Adryaen Claese",
+	"Maeycke Jacobs",
+	"1672-1-6",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 63",
+	"source": "Alexander Batij",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-6-5",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"1672-6-5",
+	"Unknown"]
+},
+{
+	"id": "number 67",
+	"source": "Alexander Batij",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-1-8",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"1672-1-8",
+	"Unknown"]
+},
+{
+	"id": "number 68",
+	"source": "Alexander Batij",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 69",
+	"source": "Alexander Batij ",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij ",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "number 70",
+	"source": "Alexander Batij ",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1671-12-29",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij ",
+	"Onbekend",
+	"1671-12-29",
+	"Unknown"]
+},
+{
+	"id": "number 85",
+	"source": "Barent Harmansz Voocht",
+	"target": "Anderies Claessen Vocht",
+	"name": "Anderies Claessen Vocht",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname "
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Barent Harmansz Voocht",
+	"Anderies Claessen Vocht",
+	"1672-1-12",
+	"Unknown"]
+},
+{
+	"id": "number 88",
+	"source": "Basseliers",
+	"target": "Daniel Mildert",
+	"name": "Daniel Mildert",
+	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Basseliers",
+	"Daniel Mildert",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "number 89",
+	"source": "Basseliers ",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Basseliers ",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 97",
+	"source": "Benedictus Marius",
+	"target": "Jaen Bruijnvis",
+	"name": "Jaen Bruijnvis",
+	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Benedictus Marius",
+	"Jaen Bruijnvis",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 98",
+	"source": "Benedictus Marius",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Barent Hermens Vooght",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Benedictus Marius",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 108",
+	"source": "Pieter Boudaen Courten",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "1671-8-17",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Onbekend",
+	"1671-8-17",
+	"Unknown"]
+},
+{
+	"id": "number 111",
+	"source": "Pieter Boudaen Courten",
+	"target": "Abraham Cleeuwaert",
+	"name": "Abraham Cleeuwaert",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "1671-8-21",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Abraham Cleeuwaert",
+	"1671-8-21",
+	"Unknown"]
+},
+{
+	"id": "number 112",
+	"source": "Pieter Boudaen Courten",
+	"target": "Pieter Heringsen",
+	"name": "Pieter Heringsen",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "1672-2-2",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Pieter Heringsen",
+	"1672-2-2",
+	"Unknown"]
+},
+{
+	"id": "number 113",
+	"source": "Pieter Boudaen Courten",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "1672-1-23",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Onbekend",
+	"1672-1-23",
+	"Unknown"]
+},
+{
+	"id": "number 115",
+	"source": "Pieter Boudaen Courten",
+	"target": "Jan Bolle",
+	"name": "Jan Bolle",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "1671-7-30",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Jan Bolle",
+	"1671-7-30",
+	"Unknown"]
+},
+{
+	"id": "number 117",
+	"source": "Boudewijn de Witte",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Boudewijn de Witte",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 126",
+	"source": "Carel Nachtegael",
+	"target": "Joan de Wale",
+	"name": "Joan de Wale",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-1",
+	"fuzzy": "4",
+	"tableContent": ["Carel Nachtegael",
+	"Joan de Wale",
+	"1672-1-1",
+	"Unknown"]
+},
+{
+	"id": "number 128",
+	"source": "Carel Nachtegael",
+	"target": "Mattheus Hals",
+	"name": "Mattheus Hals",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-1",
+	"fuzzy": "4",
+	"tableContent": ["Carel Nachtegael",
+	"Mattheus Hals",
+	"1672-1-1",
+	"Unknown"]
+},
+{
+	"id": "number 132",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 144",
+	"source": "Claes Raes",
+	"target": "Louwerens Verpoorten",
+	"name": "Louwerens Verpoorten",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Claes Raes",
+	"Louwerens Verpoorten",
+	"1672-1-12",
+	"Unknown"]
+},
+{
+	"id": "number 145",
+	"source": "Claes Raes",
+	"target": "Laurens Willemsen Verpoorten",
+	"name": "Laurens Willemsen Verpoorten",
+	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-8",
+	"fuzzy": "4",
+	"tableContent": ["Claes Raes",
+	"Laurens Willemsen Verpoorten",
+	"1671-8",
+	"Unknown"]
+},
+{
+	"id": "number 146",
+	"source": "Claes Raes",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Claes Raes",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 148",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 149",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 150",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 151",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 152",
+	"source": "cognossement",
+	"target": "Janneken Jans",
+	"name": "Janneken Jans",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Janneken Jans",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 153",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 154",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 155",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 156",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 157",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 158",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 160",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 161",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 162",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 163",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 164",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 165",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 166",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 167",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 168",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 169",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 170",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 171",
+	"source": "cognossment",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossment",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 173",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 177",
+	"source": "Cornelis Bastiaensen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"1672-1-12",
+	"Unknown"]
+},
+{
+	"id": "number 178",
+	"source": "Cornelis Bastiaensen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "number 179",
+	"source": "Cornelis Bastiaensen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 184",
+	"source": "Cornelis Berge",
+	"target": "Cornelis Pets",
+	"name": "Cornelis Pets",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname "
+	}],
+	"time": "1672-1-8",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Berge",
+	"Cornelis Pets",
+	"1672-1-8",
+	"Unknown"]
+},
+{
+	"id": "number 190",
+	"source": "Cornelis Raes",
+	"target": "Elisabeta Raes",
+	"name": "Elisabeta Raes",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Raes",
+	"Elisabeta Raes",
+	"1672-1-12",
+	"Unknown"]
+},
+{
+	"id": "number 191",
+	"source": "Cornelis Raes",
+	"target": "Janken Raes",
+	"name": "Janken Raes",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-14",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Raes",
+	"Janken Raes",
+	"1672-1-14",
+	"Unknown"]
+},
+{
+	"id": "number 192",
+	"source": "Cornelis Raes",
+	"target": "Pieternella Raes",
+	"name": "Pieternella Raes",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Raes",
+	"Pieternella Raes",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 210",
+	"source": "Elijsabeth Emerij",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Cornelis Bastiaensen (kapitein)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-9-3",
+	"fuzzy": "4",
+	"tableContent": ["Elijsabeth Emerij",
+	"Onbekend",
+	"1672-9-3",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 234",
+	"source": "Fijlippus Bracht",
+	"target": "Sin Kuevelaer",
+	"name": "Sin Kuevelaer",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-1-6",
+	"fuzzy": "4",
+	"tableContent": ["Fijlippus Bracht",
+	"Sin Kuevelaer",
+	"1672-1-6",
+	"Unknown"]
+},
+{
+	"id": "number 237",
+	"source": "Francoise Pradon",
+	"target": "Charles Pradon a Gueneuille",
+	"name": "Charles Pradon a Gueneuille",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-4",
+	"fuzzy": "4",
+	"tableContent": ["Francoise Pradon",
+	"Charles Pradon a Gueneuille",
+	"1672-1-4",
+	"Unknown"]
+},
+{
+	"id": "number 238",
+	"source": "Francoise Pradon",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Tinnegieter",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-4",
+	"fuzzy": "4",
+	"tableContent": ["Francoise Pradon",
+	"Onbekend",
+	"1672-1-4",
+	"Unknown"]
+},
+{
+	"id": "number 245",
+	"source": "Golken Ceuvelaer",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-11",
+	"fuzzy": "4",
+	"tableContent": ["Golken Ceuvelaer",
+	"Onbekend",
+	"1672-1-11",
+	"Unknown"]
+},
+{
+	"id": "number 247",
+	"source": "Golken Ceuvelaer",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Golken Ceuvelaer",
+	"Onbekend",
+	"1672-1-12",
+	"Unknown"]
+},
+{
+	"id": "number 248",
+	"source": "Golken Ceuvelaer",
+	"target": "Adriana Lemps",
+	"name": "Adriana Lemps",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-11",
+	"fuzzy": "4",
+	"tableContent": ["Golken Ceuvelaer",
+	"Adriana Lemps",
+	"1672-1-11",
+	"Unknown"]
+},
+{
+	"id": "number 256",
+	"source": "Henderijk Breijhaen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "12.3521148",
+		"lat": "-6.1410265",
+		"place": "Soyo"
+	}],
+	"time": "1671-10-8",
+	"fuzzy": "4",
+	"tableContent": ["Henderijk Breijhaen",
+	"Onbekend",
+	"1671-10-8",
+	"Unknown"]
+},
+{
+	"id": "number 260",
+	"source": "Hendrick de Harder",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "12.1944504",
+		"lat": "-5.5608101",
+		"place": "Malembo"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Hendrick de Harder",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 262",
+	"source": "Hendrick Huiberts",
+	"target": "Cornelis Sies",
+	"name": "Cornelis Sies",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-1",
+	"fuzzy": "4",
+	"tableContent": ["Hendrick Huiberts",
+	"Cornelis Sies",
+	"1672-1-1",
+	"Unknown"]
+},
+{
+	"id": "number 265",
+	"source": "Hendrick Huiberts",
+	"target": "Jacobus van Aelst",
+	"name": "Jacobus van Aelst",
+	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Hendrick Huiberts",
+	"Jacobus van Aelst",
+	"1672-1-12",
+	"Unknown"]
+},
+{
+	"id": "number 267",
+	"source": "Hendrick Huiberts",
+	"target": "Andries Claes Vos",
+	"name": "Andries Claes Vos",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-9",
+	"fuzzy": "4",
+	"tableContent": ["Hendrick Huiberts",
+	"Andries Claes Vos",
+	"1672-9-9",
+	"Unknown"]
+},
+{
+	"id": "number 268",
+	"source": "Hendrickje van den Herdenbegh",
+	"target": "Marja vanden Herdenbgh",
+	"name": "Marja vanden Herdenbgh",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Hendrickje van den Herdenbegh",
+	"Marja vanden Herdenbgh",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 273",
+	"source": "Herman de Huijbert",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-1-8",
+	"fuzzy": "4",
+	"tableContent": ["Herman de Huijbert",
+	"Onbekend",
+	"1672-1-8",
+	"Unknown"]
+},
+{
+	"id": "number 283",
+	"source": "J Clercq",
+	"target": "Janneken vande Putte",
+	"name": "Janneken vande Putte",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["J Clercq",
+	"Janneken vande Putte",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "number 291",
+	"source": "Jacob Cornelis van Machem",
+	"target": "Maretjen Tijes",
+	"name": "Maretjen Tijes",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Jacob Cornelis van Machem",
+	"Maretjen Tijes",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 305",
+	"source": "Jan Andriesen",
+	"target": "Anna Jansen",
+	"name": "Anna Jansen",
+	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-14",
+	"fuzzy": "4",
+	"tableContent": ["Jan Andriesen",
+	"Anna Jansen",
+	"1672-9-14",
+	"Unknown"]
+},
+{
+	"id": "number 308",
+	"source": "Jan Andriesen",
+	"target": "Lourens Willemsen Verpoorte",
+	"name": "Lourens Willemsen Verpoorte",
+	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-15",
+	"fuzzy": "4",
+	"tableContent": ["Jan Andriesen",
+	"Lourens Willemsen Verpoorte",
+	"1672-9-15",
+	"Unknown"]
+},
+{
+	"id": "number 309",
+	"source": "Jan de Passer",
+	"target": "Tobias Claijsen",
+	"name": "Tobias Claijsen",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-9-6",
+	"fuzzy": "4",
+	"tableContent": ["Jan de Passer",
+	"Tobias Claijsen",
+	"1672-9-6",
+	"Unknown"]
+},
+{
+	"id": "number 318",
+	"source": "Jan Dimmese",
+	"target": "Maeijken Cornel. Robes",
+	"name": "Maeijken Cornel. Robes",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Jan Dimmese",
+	"Maeijken Cornel. Robes",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "number 329",
+	"source": "Jan Tinnegieter",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Jan Tinnegieter",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "number 390",
+	"source": "Jannis Wijnseperij",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-62.973555",
+		"lat": "17.4890306",
+		"place": "Statia"
+	}],
+	"time": "1672-2-7",
+	"fuzzy": "4",
+	"tableContent": ["Jannis Wijnseperij",
+	"Onbekend",
+	"1672-2-7",
+	"Unknown"]
+},
+{
+	"id": "number 392",
+	"source": "Jean le Grand",
+	"target": "Pieter Buteux",
+	"name": "Pieter Buteux",
+	"description": "Johan d'Olijslager, Clemendt, Bastiaan Thijssen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-9-15",
+	"fuzzy": "4",
+	"tableContent": ["Jean le Grand",
+	"Pieter Buteux",
+	"1672-9-15",
+	"Unknown"]
+},
+{
+	"id": "number 403",
+	"source": "Jean le Grand",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Claes Raes",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Jean le Grand",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 405",
+	"source": "Joannis Robbersen",
+	"target": "Kapitein Nicolaes Raes",
+	"name": "Kapitein Nicolaes Raes",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1671-12-28",
+	"fuzzy": "4",
+	"tableContent": ["Joannis Robbersen",
+	"Kapitein Nicolaes Raes",
+	"1671-12-28",
+	"Unknown"]
+},
+{
+	"id": "number 410",
+	"source": "Johan Basseliers",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Johan Basseliers",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "number 412",
+	"source": "Johan Basseliers",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Johan Basseliers",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 421",
+	"source": "Johan van Melckebeecke",
+	"target": "Cornelis Jansz. Verhulst",
+	"name": "Cornelis Jansz. Verhulst",
+	"description": "Jan Tinnegieter",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Johan van Melckebeecke",
+	"Cornelis Jansz. Verhulst",
+	"1672-12-14",
+	"Unknown"]
+},
+{
+	"id": "number 422",
+	"source": "Johan van Melckebeecke",
+	"target": "Bartholomeus de Looper",
+	"name": "Bartholomeus de Looper",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Johan van Melckebeecke",
+	"Bartholomeus de Looper",
+	"1672-12-14",
+	"Unknown"]
+},
+{
+	"id": "number 447",
+	"source": "Johannis Robbersen",
+	"target": "Louwerens Willemsen Verpoorte, koopman",
+	"name": "Louwerens Willemsen Verpoorte, koopman",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-13",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Louwerens Willemsen Verpoorte, koopman",
+	"1672-1-13",
+	"Unknown"]
+},
+{
+	"id": "number 449",
+	"source": "Johannis Robbersen",
+	"target": "Gelyamme de Backer",
+	"name": "Gelyamme de Backer",
+	"description": "Jacob Soetelingh",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Gelyamme de Backer",
+	"1672-1-2",
+	"Unknown"]
+},
+{
+	"id": "number 450",
+	"source": "Johannis Robbersen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelingh",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-2",
+	"Unknown"]
+},
+{
+	"id": "number 451",
+	"source": "Johannis Robbersen",
+	"target": "Jacobus van der Mees",
+	"name": "Jacobus van der Mees",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Jacobus van der Mees",
+	"1672-1-2",
+	"Unknown"]
+},
+{
+	"id": "number 452",
+	"source": "Johannis Robbersen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-12-29",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1671-12-29",
+	"Unknown"]
+},
+{
+	"id": "number 453",
+	"source": "Johannis Robbersen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 454",
+	"source": "Johannis Robbersen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-29",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1671-12-29",
+	"Unknown"]
+},
+{
+	"id": "number 459",
+	"source": "Johannis Robbersen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-2",
+	"Unknown"]
+},
+{
+	"id": "number 460",
+	"source": "Johannis Robbersen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-3",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-3",
+	"Unknown"]
+},
+{
+	"id": "number 461",
+	"source": "Johannis Robbersen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-6",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-6",
+	"Unknown"]
+},
+{
+	"id": "number 462",
+	"source": "Johannis Robbersen",
+	"target": "Josijnna de Laule",
+	"name": "Josijnna de Laule",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Josijnna de Laule",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "number 465",
+	"source": "John Clement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelingh",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["John Clement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 466",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 467",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 468",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Joris Darvall",
+	"target": "Dirck en Adriaen Dominicus",
+	"name": "Dirck en Adriaen Dominicus",
+	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1671-12-12",
+	"fuzzy": "4",
+	"tableContent": ["Joris Darvall",
+	"Dirck en Adriaen Dominicus",
+	"1671-12-12",
+	"Unknown"]
+},
+{
+	"id": "number 478",
+	"source": "Justus de Huijbert",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Justus de Huijbert",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Tinnegieter",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 480",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Lijssebet Roos",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 481",
+	"source": "Lieve de Meij",
+	"target": "Jan Lieve de Moore",
+	"name": "Jan Lieve de Moore",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1671-12-31",
+	"fuzzy": "4",
+	"tableContent": ["Lieve de Meij",
+	"Jan Lieve de Moore",
+	"1671-12-31",
+	"Unknown"]
+},
+{
+	"id": "number 485",
+	"source": "Lieven de Wever",
+	"target": "Jacob Pediceur",
+	"name": "Jacob Pediceur",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-1-13",
+	"fuzzy": "4",
+	"tableContent": ["Lieven de Wever",
+	"Jacob Pediceur",
+	"1672-1-13",
+	"Unknown"]
+},
+{
+	"id": "number 487",
+	"source": "Maerten Lemps",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-10",
+	"fuzzy": "4",
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-9-10",
+	"Unknown"]
+},
+{
+	"id": "number 489",
+	"source": "Maerten Lemps",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname "
+	}],
+	"time": "1672-1-15",
+	"fuzzy": "4",
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"Unknown"]
+},
+{
+	"id": "number 490",
+	"source": "Maerten Lemps",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-15",
+	"fuzzy": "4",
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"Unknown"]
+},
+{
+	"id": "number 491",
+	"source": "Maerten Lemps",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-15",
+	"fuzzy": "4",
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"Unknown"]
+},
+{
+	"id": "number 496",
+	"source": "Nicolaas de Zoutte",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "v",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-10-8",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1671-10-8",
+	"Unknown"]
+},
+{
+	"id": "number 497",
+	"source": "Nathaniel Goodhand",
+	"target": "Charles Goodhand",
+	"name": "Charles Goodhand",
+	"description": "Augustinus Brunz",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-1.35",
+		"lat": "5.0833333",
+		"place": "Elmina"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nathaniel Goodhand",
+	"Charles Goodhand",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 498",
+	"source": "Nathaniel Goodhand",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nathaniel Goodhand",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 499",
+	"source": "Nicolaas de Zoutte",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-9-3",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-9-3",
+	"Unknown"]
+},
+{
+	"id": "number 500",
+	"source": "Nicolaas de Zoutte",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "Torarica"
+	}],
+	"time": "1672-9-3",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-9-3",
+	"Unknown"]
+},
+{
+	"id": "number 501",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Tinnegieter",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-8-13",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-8-13",
+	"Unknown"]
+},
+{
+	"id": "number 502",
+	"source": "Nicolaas de Zoutte",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "number 506",
+	"source": "Nicolaas Combe",
+	"target": "Jan Vans",
+	"name": "Jan Vans",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Jan Vans",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "number 508",
+	"source": "Nicolaas Combe",
+	"target": "Herman Hellendoren",
+	"name": "Herman Hellendoren",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Herman Hellendoren",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "number 513",
+	"source": "Nicolaas Combe",
+	"target": "Adrian Sengelinck",
+	"name": "Adrian Sengelinck",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Adrian Sengelinck",
+	"1672-1-12",
+	"Unknown"]
+},
+{
+	"id": "number 516",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-9-12",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1671-9-12",
+	"Unknown"]
+},
+{
+	"id": "number 518",
+	"source": "Nicolaas Combe",
+	"target": "Lichtenberg",
+	"name": "Lichtenberg",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Lichtenberg",
+	"1672-1-2",
+	"Unknown"]
+},
+{
+	"id": "number 520",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-25",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1671-12-25",
+	"Unknown"]
+},
+{
+	"id": "number 524",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-7",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-1-7",
+	"Unknown"]
+},
+{
+	"id": "number 526",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-5-7",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-5-7",
+	"Unknown"]
+},
+{
+	"id": "number 527",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 528",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 529",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 530",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 531",
+	"source": "Onbekend",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "Augustinus Brunz",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"David Kempe",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 538",
+	"source": "Pieter de Neijn",
+	"target": "Cornelis de Neijn",
+	"name": "Cornelis de Neijn",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-1.35",
+		"lat": "5.0833333",
+		"place": "Elmina"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Pieter de Neijn",
+	"Cornelis de Neijn",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 539",
+	"source": "Pieter de Neijn",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Augustinus Brunz",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-1.35",
+		"lat": "5.0833333",
+		"place": "Elmina"
+	}],
+	"time": "1671-11-22",
+	"fuzzy": "4",
+	"tableContent": ["Pieter de Neijn",
+	"Onbekend",
+	"1671-11-22",
+	"Unknown"]
+},
+{
+	"id": "number 541",
+	"source": "Pieter Heerensen",
+	"target": "Jan en Pieter Bodaen Courten",
+	"name": "Jan en Pieter Bodaen Courten",
+	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-5-2",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Heerensen",
+	"Jan en Pieter Bodaen Courten",
+	"1672-5-2",
+	"Unknown"]
+},
+{
+	"id": "number 542",
+	"source": "Pieter Jansen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Lijssebet Roos",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Jansen",
+	"Onbekend",
+	"1671-12-14",
+	"Unknown"]
+},
+{
+	"id": "number 543",
+	"source": "Pieter Jansen ",
+	"target": "Davit Cempe",
+	"name": "Davit Cempe",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Jansen ",
+	"Davit Cempe",
+	"1671-12-14",
+	"Unknown"]
+},
+{
+	"id": "number 544",
+	"source": "Pieter Jaspersen",
+	"target": "Gerson Isaacxs Cockuijt",
+	"name": "Gerson Isaacxs Cockuijt",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Jaspersen",
+	"Gerson Isaacxs Cockuijt",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 548",
+	"source": "Pieter van Lanckum",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Pieter van Lanckum",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
+},
+{
+	"id": "number 549",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-1-11",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-1-11",
+	"Unknown"]
+},
+{
+	"id": "number 550",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-14",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-9-14",
+	"Unknown"]
+},
+{
+	"id": "number 551",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-8-3",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-8-3",
+	"Unknown"]
+},
+{
+	"id": "number 552",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-5",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-9-5",
+	"Unknown"]
+},
+{
+	"id": "number 554",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1671-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1671-12-14",
+	"Unknown"]
+},
+{
+	"id": "number 555",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Andriessen, Van Cleef, Jan Robbertsen, Bolle, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-10-16",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1671-10-16",
+	"Unknown"]
+},
+{
+	"id": "number 557",
+	"source": "R. Dickenson",
+	"target": "Hendrick vande Poele",
+	"name": "Hendrick vande Poele",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["R. Dickenson",
+	"Hendrick vande Poele",
+	"1672-1-2",
+	"Unknown"]
+},
+{
+	"id": "number 559",
+	"source": "Raphaell Aboab",
+	"target": "Josyna Hursels",
+	"name": "Josyna Hursels",
+	"description": "Cornelis Bastiaensz (kapitein), Jacob Soetelinck, Jan Andriessen, kapitein Raes, Jacob Dimmensen (broer), Jan van Ruijven, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-1",
+	"fuzzy": "4",
+	"tableContent": ["Raphaell Aboab",
+	"Josyna Hursels",
+	"1672-1-1",
+	"Unknown"]
+},
+{
+	"id": "number 563",
+	"source": "Reijnier Warner",
+	"target": "Marija Cruise",
+	"name": "Marija Cruise",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Reijnier Warner",
+	"Marija Cruise",
+	"1672-1-12",
+	"Unknown"]
+},
+{
+	"id": "number 564",
+	"source": "Robert Honlyham",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-11",
+	"fuzzy": "4",
+	"tableContent": ["Robert Honlyham",
+	"Onbekend",
+	"1672-1-11",
+	"Unknown"]
+},
+{
+	"id": "number 573",
+	"source": "Samuel de Witt",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Samuel de Witt",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 578",
+	"source": "Sarah Brandt",
+	"target": "Richard Done",
+	"name": "Richard Done",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1671-12-17",
+	"fuzzy": "4",
+	"tableContent": ["Sarah Brandt",
+	"Richard Done",
+	"1671-12-17",
+	"Unknown"]
+},
+{
+	"id": "number 579",
+	"source": "Sarah van Scharphuisen",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-8",
+	"fuzzy": "4",
+	"tableContent": ["Sarah van Scharphuisen",
+	"Onbekend",
+	"1672-1-8",
+	"Unknown"]
+},
+{
+	"id": "1362",
+	"source": "Pieter Boudaen Courten",
+	"target": "Willem de Somer",
+	"name": "Willem de Somer",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Willem de Somer",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 582",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 594",
+	"source": "Susanna Cowell",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-5",
+	"fuzzy": "4",
+	"tableContent": ["Susanna Cowell",
+	"David Kempe",
+	"1672-1-5",
+	"Unknown"]
+},
+{
+	"id": "number 595",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 596",
+	"source": "Trintie Segers",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Trintie Segers",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "number 597",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 598",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-6-20",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-6-20",
+	"Unknown"]
+},
+{
+	"id": "number 599",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-6-23",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-6-23",
+	"Unknown"]
+},
+{
+	"id": "number 600",
+	"source": "Pieter Versterre",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-8-4",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-8-4",
+	"Unknown"]
+},
+{
+	"id": "number 601",
+	"source": "Nicolaas Combe",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 602",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 605",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Barent Hermens Vooght",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 606",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 607",
+	"source": "Wijllem Gijssessen Danijnsijns",
+	"target": "Maeken Jans",
+	"name": "Maeken Jans",
+	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-16",
+	"fuzzy": "4",
+	"tableContent": ["Wijllem Gijssessen Danijnsijns",
+	"Maeken Jans",
+	"1672-9-16",
+	"Unknown"]
+},
+{
+	"id": "number 609",
+	"source": "Willem Bleau",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Willem Bleau",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "number 611",
+	"source": "Willem Bleau",
+	"target": "Barent Helleman",
+	"name": "Barent Helleman",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Willem Bleau",
+	"Barent Helleman",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "number 614",
+	"source": "Willem de Somer",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Willem de Somer",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 615",
+	"source": "Willem Gilessen Canisius",
+	"target": "Maaike Jans",
+	"name": "Maaike Jans",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Willem Gilessen Canisius",
+	"Maaike Jans",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 616",
+	"source": "William Pringell en Rogier Dickenson",
+	"target": "Gaspaert Ingelsen",
+	"name": "Gaspaert Ingelsen",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-12-1",
+	"fuzzy": "4",
+	"tableContent": ["William Pringell en Rogier Dickenson",
+	"Gaspaert Ingelsen",
+	"1672-12-1",
+	"Unknown"]
+},
+{
+	"id": "number 618",
+	"source": "cognossement",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "number 619",
+	"source": "Jacob Antonissen",
+	"target": "Indijch Jooristange",
+	"name": "Indijch Jooristange",
+	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Jacob Antonissen",
+	"Indijch Jooristange",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Barent Hermens Vooght",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "1671-8-8",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-8",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Lijssebet Roos",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-4-19",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-4-19",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Johan en Pieter Boudaen Courten",
+	"name": "Johan en Pieter Boudaen Courten",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-9-4",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Johan en Pieter Boudaen Courten",
+	"1672-9-4",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Johan en Pieter Boudaen Courten",
+	"name": "Johan en Pieter Boudaen Courten",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Johan en Pieter Boudaen Courten",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-8-5",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-5",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-6-20",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-6-20",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Clement",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-8-2",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-2",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-9-3",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-9-3",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-3-24",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-3-24",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-8",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-8-23",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-23",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-3-1",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-3-1",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-5-26",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-5-26",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-11-20",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-11-20",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-8-19",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-19",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "Middelburg"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Lijssebet Roos",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1671-8-8",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-8",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-2-10",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-2-10",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Jan Marckes",
+	"name": "Jan Marckes",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Jan Marckes",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van der Meulen ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-1-5",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-1-5",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Cornelija de Gelder",
+	"name": "Cornelija de Gelder",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Cornelija de Gelder",
+	"1672-1-10",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van der Meulen ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "1672-11-17",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-11-17",
+	"Unknown"]
+},
+{
+	"id": "",
+	"source": "Onbekend",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "Unknown"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
+}]

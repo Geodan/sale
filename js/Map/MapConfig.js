@@ -44,7 +44,7 @@ function MapConfig(options) {
 		 */
 		legend : true, // if a legend at the bottom of the map should be shown or not
 		mapMerge : false, // if the elements of distinct datasets should be merged into one set or not
-		useGraphics : false,  // if different graphics should represent different datasets or not
+		useGraphics : true,  // if different graphics should represent different datasets or not
 		graphics : [
 			{
 				shape: "circle",
@@ -69,18 +69,18 @@ function MapConfig(options) {
 		osmMaps : true, // enable/disable OSM maps
 		baseLayer : 'Open Street Map', // initial layer to show (e.g. 'Google Streets')
 		resetMap : true, // show/hide map reset button
-		countrySelect : true, // show/hide map country selection control button
-		polygonSelect : true, // show/hide map polygon selection control button
-		circleSelect : true, // show/hide map circle selection control button
-		squareSelect : true, // show/hide map square selection control button
-		multiSelection : true, // true, if multiple polygons or multiple circles should be selectable
+		countrySelect : false, // show/hide map country selection control button
+		polygonSelect : false, // show/hide map polygon selection control button
+		circleSelect : false, // show/hide map circle selection control button
+		squareSelect : false, // show/hide map square selection control button
+		multiSelection : false, // true, if multiple polygons or multiple circles should be selectable
 		popups : true, // enabled popups will show popup windows for circles on the map
 		olNavigation : false, // show/hide OpenLayers navigation panel
 		olLayerSwitcher : false, // show/hide OpenLayers layer switcher
 		olMapOverview : false, // show/hide OpenLayers map overview
 		olKeyboardDefaults : true, // (de)activate Openlayers keyboard defaults
 		olScaleLine : false, // (de)activate Openlayers keyboard defaults
-		geoLocation : true, // show/hide GeoLocation feature
+		geoLocation : false, // show/hide GeoLocation feature
 		boundaries : {
 			minLon : -29,
 			minLat : 35,
@@ -88,11 +88,11 @@ function MapConfig(options) {
 			maxLat : 67
 		}, // initial map boundaries or 'false' for no boundaries
 		mapBackground : '#bbd0ed',
-		labelGrid : true, // show label grid on hover
+		labelGrid : false, // show label grid on hover
 		maxPlaceLabels : 60, // Integer value for fixed number of place labels: 0 --> unlimited, 1 --> 1 label (won't be shown in popup, 2 --> is not possible because of others & all labels --> 3 labels, [3,...,N] --> [3,...,N] place labels)
 		selectDefault : true, // true, if strongest label should be selected as default
 		maxLabelIncrease : 2, // maximum increase (in em) for the font size of a label
-		labelHover : false, // true, to update on label hover
+		labelHover : true, // true, to update on label hover
 		ieHighlightLabel : "color: COLOR1; background-color: COLOR0; filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=80)';", // css code for a highlighted place label in IE
 		highlightLabel : "color: COLOR0; text-shadow: 0 0 0.4em black, 0 0 0.4em black, 0 0 0.4em black, 0 0 0.4em COLOR0;", // css code for a highlighted place label
 		ieSelectedLabel : "color: COLOR1; font-weight: bold;", // css code for a selected place label in IE
@@ -111,9 +111,9 @@ function MapConfig(options) {
 		circleOpacity : 'balloon', // 'balloon' for dynamic opacity of the circles or a value t with 0 <= t <= 1
 		minTransparency : 0.55, // maximum transparency of a circle
 		maxTransparency : 0.8, // minimum transparency of a circle
-		binning : 'generic', // binning algorithm for the map, possible values are: 'generic', 'square', 'hexagonal', 'triangular' or false for 'no binning'
+		binning : false, // binning algorithm for the map, possible values are: 'generic', 'square', 'hexagonal', 'triangular' or false for 'no binning'
 		noBinningRadii : 'dynamic', // for 'no binning': 'static' for only minimum radii, 'dynamic' for increasing radii for increasing weights
-		circlePackings : true, // if circles of multiple result sets should be displayed in circle packs, if a binning is performed
+		circlePackings : false, // if circles of multiple result sets should be displayed in circle packs, if a binning is performed
 		binCount : 10, // number of bins for x and y dimension for lowest zoom level
 		showDescriptions : true, // true to show descriptions of data items (must be provided by kml/json), false if not
 		mapSelection : true, // show/hide select map dropdown

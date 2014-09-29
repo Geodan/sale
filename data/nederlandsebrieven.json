@@ -15,6 +15,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1671-08-12",
+	"fuzzy": "4",
 	"tableContent": ["B. Raule",
 	"Augustin Brolt",
 	"1671-08-12",
@@ -37,6 +38,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-10",
+	"fuzzy": "4",
 	"tableContent": ["Jan van der Meulen ",
 	"David Kempe",
 	"1671-12-10",
@@ -59,6 +61,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-28",
+	"fuzzy": "4",
 	"tableContent": ["Jan van der Meulen ",
 	"David Kempe",
 	"1671-12-28",
@@ -81,6 +84,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-12-02",
+	"fuzzy": "4",
 	"tableContent": ["Jan van der Meulen ",
 	"David Kempe",
 	"1672-12-02",
@@ -103,6 +107,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["D. Rasenberch",
 	"Anna van Rasenberch",
 	"1672-1-13",
@@ -125,6 +130,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "4",
 	"tableContent": ["Jan van der Meulen ",
 	"Philipus Julijus Lichtenburch",
 	"1672-1-13",
@@ -147,6 +153,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-20",
+	"fuzzy": "4",
 	"tableContent": ["Jan van der Meulen ",
 	"Philipus Julijus Lichtenburch",
 	"1671-12-20",
@@ -169,6 +176,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-24",
+	"fuzzy": "1",
 	"tableContent": ["Jan van der Meulen ",
 	"David Kempe",
 	"1671-12-24",
@@ -191,6 +199,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1672-11-22",
+	"fuzzy": "4",
 	"tableContent": ["Albert Clasen Vis",
 	"Onbekend",
 	"1672-11-22",
@@ -213,6 +222,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-12",
+	"fuzzy": "1",
 	"tableContent": ["G. Wobma",
 	"Andries Clasen Vos",
 	"1672-9-12",
@@ -235,6 +245,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1671-11-23",
+	"fuzzy": "1",
 	"tableContent": ["Ouwel Jansz",
 	"Saartjie Hendricx",
 	"1671-11-23",
@@ -257,6 +268,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1671-10-26",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Jan Bolle",
 	"1671-10-26",
@@ -279,6 +291,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-5",
+	"fuzzy": "4",
 	"tableContent": ["J. Crenen",
 	"Jacobes vander Beke",
 	"1672-9-5",
@@ -301,6 +314,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-5",
+	"fuzzy": "4",
 	"tableContent": ["J. Crenen",
 	"Neelken Scheuijen",
 	"1672-9-5",
@@ -323,6 +337,7 @@
 		"place": "Suriname"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"mr. Abrahamsis",
 	"",
@@ -345,6 +360,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Joris Darvall",
 	"Onbekend",
 	"",
@@ -367,6 +383,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-5-25",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Heerensen",
 	"Jan en Pieter Bodaen Coerten",
 	"1672-5-25",
@@ -389,6 +406,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
@@ -411,6 +429,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-11-11",
+	"fuzzy": "4",
 	"tableContent": ["onbekend",
 	"Onbekend",
 	"1672-11-11",
@@ -433,6 +452,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-16",
+	"fuzzy": "1",
 	"tableContent": ["Samuel de Witt",
 	"Abraham de Hartogh",
 	"1671-12-16",
@@ -455,6 +475,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Samuel Thierrij",
 	"Pieter Thierrij",
 	"",
@@ -477,6 +498,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Sera de Lisle",
 	"Abraham Marchan",
 	"1672-1-8",
@@ -499,6 +521,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Johan Simon",
 	"Jacobus vander Hoeve",
 	"1672-1-11",
@@ -521,6 +544,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Johan Simon",
 	"Onbekend",
 	"",
@@ -543,6 +567,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Johan Simon",
 	"Leintje Frans",
 	"",
@@ -565,6 +590,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jetien Jans",
 	"Jan Dees",
 	"1672-1-8",
@@ -587,6 +613,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["A. Backer",
 	"Guiljam de Backer",
 	"1672-1-13",
@@ -609,6 +636,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "1",
 	"tableContent": ["A. Brunsz",
 	"Cornelia Bruns",
 	"1672-1-1",
@@ -631,6 +659,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["A. Brunsz",
 	"Benjamin Raule",
 	"",
@@ -653,6 +682,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-09-10",
+	"fuzzy": "3",
 	"tableContent": ["A. Thisso",
 	"Onbekend",
 	"1672-09-10",
@@ -675,6 +705,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-12",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Huijbert",
 	"1672-01-12",
@@ -697,6 +728,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-13",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Pieter van Delle",
 	"1672-01-13",
@@ -719,6 +751,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-09-13",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Abraham Musch",
 	"1672-09-13",
@@ -741,6 +774,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Collaerdt",
 	"1672-01-08",
@@ -763,6 +797,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Claessen",
 	"1672-01-08",
@@ -785,6 +820,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Sausel de Meur",
 	"1672-01-08",
@@ -807,6 +843,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Gasparus Englis ",
 	"1672-01-08",
@@ -829,6 +866,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Huijbert",
 	"1672-01-08",
@@ -851,6 +889,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["A. Thisso",
 	"Abraham",
 	"1672-01-08",
@@ -873,6 +912,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-11-22",
+	"fuzzy": "1",
 	"tableContent": ["Anderisense Vos",
 	"Imje Henderijcks",
 	"1671-11-22",
@@ -895,6 +935,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Ad Schoors",
 	"Mr. Cahlies",
 	"",
@@ -917,6 +958,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Ab Schoors",
 	"Jacob Schoors",
 	"1672-1-8",
@@ -939,6 +981,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Ab Schoors",
 	"Jean en Pieter Boudaen Courten",
 	"1672-1-8",
@@ -961,6 +1004,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-26",
+	"fuzzy": "1",
 	"tableContent": ["Abraham Haghens",
 	"Adrianus van der Spoor",
 	"1671-12-26",
@@ -983,6 +1027,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-27",
+	"fuzzy": "1",
 	"tableContent": ["Abraham Haghens",
 	"Jacob Pedeceur",
 	"1671-12-27",
@@ -1005,6 +1050,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-5",
+	"fuzzy": "1",
 	"tableContent": ["Abraham Paldinck",
 	"Onbekend",
 	"1672-1-5",
@@ -1027,6 +1073,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-15",
+	"fuzzy": "1",
 	"tableContent": ["Abraham Pattijn",
 	"Neelken Anderijsen",
 	"1672-9-15",
@@ -1049,6 +1096,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "",
 	"tableContent": ["Adrijaen van der Spiegel",
 	"Cornelis Verhuilst",
 	"1672-1-6",
@@ -1071,6 +1119,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "1",
 	"tableContent": ["Adrijaen van der Spiegel",
 	"Abraham de Hertogh",
 	"1672-1-6",
@@ -1093,6 +1142,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-15",
+	"fuzzy": "1",
 	"tableContent": ["Adrijaen Jansen",
 	"Jan de Backer",
 	"1672-9-15",
@@ -1115,6 +1165,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Adrijaen van de Spiegel",
 	"Weduwe van Caristijaen Coollemans",
 	"1672-1-12",
@@ -1137,6 +1188,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-2-3",
+	"fuzzy": "4",
 	"tableContent": ["Adrijaen Wadde",
 	"Onbekend",
 	"1672-2-3",
@@ -1159,6 +1211,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "4",
 	"tableContent": ["Adryaen Claese",
 	"Maeycke Jacobs",
 	"1672-1-6",
@@ -1181,6 +1234,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -1203,6 +1257,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -1225,6 +1280,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Alexander Batij",
 	"Abraham Sis",
 	"1672-1-10",
@@ -1247,6 +1303,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Alexander Batij",
 	"Christiaen Gruterus",
 	"1672-1-11",
@@ -1269,6 +1326,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Alexander Batij",
 	"Anna Mees ",
 	"1672-1-11",
@@ -1291,6 +1349,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-13",
+	"fuzzy": "1",
 	"tableContent": ["Alexander Batij",
 	"Anna Mees ",
 	"1672-9-13",
@@ -1313,6 +1372,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-11-27",
+	"fuzzy": "1",
 	"tableContent": ["Alexander Batij",
 	"Maeijken Cornelisen Robels ",
 	"1671-11-27",
@@ -1335,6 +1395,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-6-5",
+	"fuzzy": "4",
 	"tableContent": ["Alexander Batij",
 	"Onbekend",
 	"1672-6-5",
@@ -1357,6 +1418,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Alexander Batij",
 	"Alexander Batij",
 	"1672-1-7",
@@ -1379,6 +1441,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Alexander Batij",
 	"Jacob van Hoorn",
 	"1672-1-7",
@@ -1401,6 +1464,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Alexander Batij",
 	"Elisabet de Grave",
 	"1672-1-7",
@@ -1423,6 +1487,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "4",
 	"tableContent": ["Alexander Batij",
 	"Onbekend",
 	"1672-1-8",
@@ -1445,6 +1510,7 @@
 		"place": "Torarica"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Alexander Batij",
 	"Onbekend",
 	"",
@@ -1467,6 +1533,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Alexander Batij ",
 	"Onbekend",
 	"1672-1-10",
@@ -1489,6 +1556,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-29",
+	"fuzzy": "4",
 	"tableContent": ["Alexander Batij ",
 	"Onbekend",
 	"1671-12-29",
@@ -1511,6 +1579,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-31",
+	"fuzzy": "1",
 	"tableContent": ["Andraes Engelse",
 	"Susanneke de Sever",
 	"1671-12-31",
@@ -1533,6 +1602,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-01-13",
+	"fuzzy": "1",
 	"tableContent": ["Anna van Staden",
 	"Drost",
 	"1672-01-13",
@@ -1555,6 +1625,7 @@
 		"place": "Elmina"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Annetie Wittebol",
 	"Jan Wittebol",
 	"",
@@ -1577,6 +1648,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-3",
+	"fuzzy": "1",
 	"tableContent": ["Ans Cornelijssen",
 	"Flijp Jansen",
 	"1672-1-3",
@@ -1599,6 +1671,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-8",
+	"fuzzy": "1",
 	"tableContent": ["Antonis Jeroensen Rijckquaert",
 	"Onbekend",
 	"1672-9-8",
@@ -1621,6 +1694,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-8",
+	"fuzzy": "1",
 	"tableContent": ["Antonis Jeroensen Rijckquaert",
 	"Jeroen Rijkaart",
 	"1672-9-8",
@@ -1643,6 +1717,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-31",
+	"fuzzy": "1",
 	"tableContent": ["Antonis Jeroensen Rijckquaert",
 	"Frans Dinie schekvaerts",
 	"1671-12-31",
@@ -1665,6 +1740,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "1",
 	"tableContent": ["Augustinus Brun",
 	"Willem Wilhelmie",
 	"1672-1-1",
@@ -1687,6 +1763,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Augustinus Brun",
 	"Johannes de Loovers ",
 	"1672-1-11",
@@ -1709,6 +1786,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "1",
 	"tableContent": ["Augustinus Brun",
 	"weduwe van Crijn Mangelaer",
 	"1672-1-1",
@@ -1731,6 +1809,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Berge",
 	"Johannes Baert",
 	"",
@@ -1753,6 +1832,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1671-10-16",
+	"fuzzy": "1",
 	"tableContent": ["Augustinus Brun",
 	"Henricus Carker",
 	"1671-10-16",
@@ -1775,6 +1855,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Augustinus Brun",
 	"Jacobus Alleyn",
 	"1672-1-12",
@@ -1797,6 +1878,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Augustinus Brun",
 	"Josijas Alleijn",
 	"1672-1-12",
@@ -1819,6 +1901,7 @@
 		"place": "Suriname "
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "4",
 	"tableContent": ["Barent Harmansz Voocht",
 	"Anderies Claessen Vocht",
 	"1672-1-12",
@@ -1841,6 +1924,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Barent Harmansz Voocht",
 	"Heerman Abramz",
 	"1672-1-12",
@@ -1863,6 +1947,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Barent Harmensz Voocht",
 	"Jintie Henderickz",
 	"1672-1-12",
@@ -1885,6 +1970,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["Basseliers",
 	"Daniel Mildert",
 	"1672-1-9",
@@ -1907,6 +1993,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Basseliers ",
 	"Onbekend",
 	"",
@@ -1929,6 +2016,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Bastiaen Jansen Verhooren",
 	"Adriana Jans Last",
 	"1672-1-12",
@@ -1951,6 +2039,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-5",
+	"fuzzy": "1",
 	"tableContent": ["Bastiaen Thijssen Danielsen",
 	"Moises Cattjouw",
 	"1672-9-5",
@@ -1973,6 +2062,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-13",
+	"fuzzy": "1",
 	"tableContent": ["Bastiaen Thijssen Danielsen",
 	"Moises Cattjouw",
 	"1672-9-13",
@@ -1995,6 +2085,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-13",
+	"fuzzy": "1",
 	"tableContent": ["Bastiaen Thijssen Danielsen",
 	"Johannis Jansonus",
 	"1672-9-13",
@@ -2017,6 +2108,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-5",
+	"fuzzy": "1",
 	"tableContent": ["Bastiaen Thijssen Danielsen",
 	"Dirck Stakenburch",
 	"1672-9-5",
@@ -2039,6 +2131,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Benedictus Marius",
 	"Jan Pietersen Backer",
 	"1672-1-9",
@@ -2061,6 +2154,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Benedictus Marius",
 	"Onbekend",
 	"1672-1-9",
@@ -2083,6 +2177,7 @@
 		"place": "Torarica"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Benedictus Marius",
 	"Jaen Bruijnvis",
 	"",
@@ -2105,6 +2200,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["Benedictus Marius",
 	"Onbekend",
 	"1672-1-9",
@@ -2127,6 +2223,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -2149,6 +2246,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -2171,6 +2269,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -2193,6 +2292,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1672-12-10",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Abraham Cleeuwaert",
 	"1672-12-10",
@@ -2215,6 +2315,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1672-3-10",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Leeringson",
 	"1672-3-10",
@@ -2237,6 +2338,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1671-9-11",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Jan Bolle",
 	"1671-9-11",
@@ -2259,6 +2361,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1672-2-1",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-2-1",
@@ -2281,6 +2384,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-2-1",
+	"fuzzy": "1",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-2-1",
@@ -2303,6 +2407,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1672-2-12",
+	"fuzzy": "1",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-2-12",
@@ -2325,6 +2430,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1671-8-17",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Onbekend",
 	"1671-8-17",
@@ -2347,6 +2453,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1672-1-18",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Onbekend",
 	"1672-1-18",
@@ -2369,6 +2476,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1671-10-19",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Abraham Cleeuwaert",
 	"1671-10-19",
@@ -2391,6 +2499,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1671-8-21",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Abraham Cleeuwaert",
 	"1671-8-21",
@@ -2413,6 +2522,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1672-2-2",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-2-2",
@@ -2435,6 +2545,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1672-1-23",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Onbekend",
 	"1672-1-23",
@@ -2457,6 +2568,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1672-3-30",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-3-30",
@@ -2479,6 +2591,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1671-7-30",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Jan Bolle",
 	"1671-7-30",
@@ -2501,6 +2614,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "",
+	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Abraham Cleeuwaert",
 	"",
@@ -2523,6 +2637,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Boudewijn de Witte",
 	"Onbekend",
 	"1672-1-10",
@@ -2545,6 +2660,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1671-9-15",
+	"fuzzy": "1",
 	"tableContent": ["Boudewijn de Witte",
 	"Gilles en Pieter Munnickx",
 	"1671-9-15",
@@ -2567,6 +2683,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-16",
+	"fuzzy": "1",
 	"tableContent": ["Boudewijn de Witte",
 	"Gillis Munnicks",
 	"1671-12-16",
@@ -2589,6 +2706,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-20",
+	"fuzzy": "1",
 	"tableContent": ["Boudewijn de Witte",
 	"Jean de Witte",
 	"1671-12-20",
@@ -2611,6 +2729,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -2633,6 +2752,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -2655,6 +2775,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -2677,6 +2798,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -2699,6 +2821,7 @@
 		"place": "Suriname"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Carel Nachtegael",
 	"Susanneken Hals",
 	"",
@@ -2721,6 +2844,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "4",
 	"tableContent": ["Carel Nachtegael",
 	"Joan de Wale",
 	"1672-1-1",
@@ -2743,6 +2867,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Carel Nachtegael",
 	"Hubert Huyberts",
 	"1672-1-7",
@@ -2765,6 +2890,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "4",
 	"tableContent": ["Carel Nachtegael",
 	"Mattheus Hals",
 	"1672-1-1",
@@ -2787,6 +2913,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "1",
 	"tableContent": ["Carel Nachtegael",
 	"Pietter van Goetem",
 	"1672-1-6",
@@ -2809,6 +2936,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Carel Nachtegael",
 	"Jannes Soniers",
 	"1672-1-7",
@@ -2831,6 +2959,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Carel Nachtegael",
 	"Carel van Poelevelt",
 	"1672-1-7",
@@ -2853,6 +2982,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -2875,6 +3005,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-8",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"weduwe van Abraham Cleeuwaert",
 	"1672-9-8",
@@ -2897,6 +3028,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-11-23",
+	"fuzzy": "1",
 	"tableContent": ["Claes Anderseros",
 	"Anderis Clase Vos",
 	"1671-11-23",
@@ -2919,6 +3051,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-11-24",
+	"fuzzy": "",
 	"tableContent": ["Claes Halderbergh",
 	"Lijntie Jans",
 	"1671-11-24",
@@ -2941,6 +3074,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1671-11-23",
+	"fuzzy": "1",
 	"tableContent": ["Claes Jansz. Bloem",
 	"hr. vander Siux",
 	"1671-11-23",
@@ -2963,6 +3097,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1671-11-23",
+	"fuzzy": "1",
 	"tableContent": ["Claes Jansz. Bloem",
 	"Neeltie Claes",
 	"1671-11-23",
@@ -2985,6 +3120,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Claes Raes",
 	"Janneken Jans",
 	"1672-1-12",
@@ -3007,6 +3143,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Claes Raes",
 	"Laurens Willemsen Verpoorten",
 	"1672-1-12",
@@ -3029,6 +3166,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Claes Raes",
 	"Janneken Jans ",
 	"1672-1-12",
@@ -3051,6 +3189,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["Claes Raes",
 	"Laurens Willemsen Verpoorte",
 	"1672-1-13",
@@ -3073,6 +3212,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["Claes Raes",
 	"Sierckove",
 	"1672-1-13",
@@ -3095,6 +3235,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-14",
+	"fuzzy": "1",
 	"tableContent": ["Claes Raes",
 	"Claes Raes",
 	"1672-1-14",
@@ -3117,6 +3258,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "4",
 	"tableContent": ["Claes Raes",
 	"Louwerens Verpoorten",
 	"1672-1-12",
@@ -3139,6 +3281,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-8",
+	"fuzzy": "4",
 	"tableContent": ["Claes Raes",
 	"Laurens Willemsen Verpoorten",
 	"1671-8",
@@ -3161,6 +3304,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Claes Raes",
 	"Onbekend",
 	"",
@@ -3183,6 +3327,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-16",
+	"fuzzy": "1",
 	"tableContent": ["Claes Reijniersen",
 	"Inkemijnje Jacops ",
 	"1672-9-16",
@@ -3205,6 +3350,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3227,6 +3373,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3249,6 +3396,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3271,6 +3419,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3293,6 +3442,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Janneken Jans",
 	"",
@@ -3315,6 +3465,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3337,6 +3488,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3359,6 +3511,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3381,6 +3534,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3403,6 +3557,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3425,6 +3580,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3447,6 +3603,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-12",
+	"fuzzy": "1",
 	"tableContent": ["cognossement",
 	"Isack de Montesijnes",
 	"1671-12-12",
@@ -3469,6 +3626,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3491,6 +3649,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3513,6 +3672,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3535,6 +3695,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3557,6 +3718,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3579,6 +3741,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3601,6 +3764,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3623,6 +3787,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3645,6 +3810,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3667,6 +3833,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3689,6 +3856,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -3711,6 +3879,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossment",
 	"Onbekend",
 	"",
@@ -3733,6 +3902,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Anne Genevene de Huybert",
 	"1672-1-7",
@@ -3755,6 +3925,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
@@ -3777,6 +3948,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-3",
+	"fuzzy": "1",
 	"tableContent": ["Coraelis Kien",
 	"Marija Jans",
 	"1672-1-3",
@@ -3799,6 +3971,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-3",
+	"fuzzy": "1",
 	"tableContent": ["Coraelis Kien",
 	"Maria Jans",
 	"1672-1-3",
@@ -3821,6 +3994,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Corn. Snelleman",
 	"Gilliam de Backer",
 	"1672-1-8",
@@ -3843,6 +4017,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "4",
 	"tableContent": ["Cornelis Bastiaensen",
 	"Onbekend",
 	"1672-1-12",
@@ -3865,6 +4040,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["Cornelis Bastiaensen",
 	"Onbekend",
 	"1672-1-9",
@@ -3887,6 +4063,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Cornelis Bastiaensen",
 	"Onbekend",
 	"",
@@ -3909,6 +4086,7 @@
 		"place": "Suriname "
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Berge",
 	"Elijsabet Frans",
 	"1672-1-8",
@@ -3931,6 +4109,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Berge",
 	"Onbekend",
 	"1672-1-8",
@@ -3953,6 +4132,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Berge",
 	"Pieter Kruissen",
 	"1672-1-1",
@@ -3975,6 +4155,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-14",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Berge",
 	"Onbekend",
 	"1672-1-14",
@@ -3997,6 +4178,7 @@
 		"place": "Suriname "
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "4",
 	"tableContent": ["Cornelis Berge",
 	"Cornelis Pets",
 	"1672-1-8",
@@ -4019,6 +4201,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Florisz. van Graft",
 	"Reinst Melles",
 	"1672-1-11",
@@ -4041,6 +4224,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Florisz. van Graft",
 	"Reinst Melles",
 	"1672-1-11",
@@ -4063,6 +4247,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Franssen Cuddels",
 	"Cornelis Fransse Cudde",
 	"1672-9-7",
@@ -4085,6 +4270,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Franssen Cuddels",
 	"Jacob en Geleijn Leijnsen ",
 	"1672-9-7",
@@ -4107,6 +4293,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Franssen Cuddels",
 	"Vrouw van Cornelis Fransz. Cudde",
 	"1672-9-7",
@@ -4129,6 +4316,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "4",
 	"tableContent": ["Cornelis Raes",
 	"Elisabeta Raes",
 	"1672-1-12",
@@ -4151,6 +4339,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-14",
+	"fuzzy": "4",
 	"tableContent": ["Cornelis Raes",
 	"Janken Raes",
 	"1672-1-14",
@@ -4173,6 +4362,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Cornelis Raes",
 	"Pieternella Raes",
 	"",
@@ -4195,6 +4385,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Snelleman",
 	"Hester van Sitterich",
 	"1672-1-8",
@@ -4217,6 +4408,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Snelleman",
 	"Justus Backer",
 	"1672-1-8",
@@ -4239,6 +4431,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis van Machem",
 	"Magdeleentien Walem",
 	"1672-1-11",
@@ -4261,6 +4454,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-11",
+	"fuzzy": "1",
 	"tableContent": ["Dominicus Pottey",
 	"mijnheer de Chavoones",
 	"1672-9-11",
@@ -4283,6 +4477,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-11",
+	"fuzzy": "1",
 	"tableContent": ["Dominicus Pottey",
 	"Hermanus Pottij",
 	"1672-9-11",
@@ -4305,6 +4500,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-11",
+	"fuzzy": "1",
 	"tableContent": ["Dominicus Pottey",
 	"Jacobus Veth",
 	"1672-9-11",
@@ -4327,6 +4523,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Daniel d'Olijslager",
 	"Susanna d'Olijslager",
 	"1672-1-10",
@@ -4349,6 +4546,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-15",
+	"fuzzy": "1",
 	"tableContent": ["Daniel Pets",
 	"Cornelis Pets",
 	"1672-1-15",
@@ -4371,6 +4569,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "1",
 	"tableContent": ["Dirck Abrahamsen",
 	"Pieter Akkerman",
 	"1672-1-1",
@@ -4393,6 +4592,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-11",
+	"fuzzy": "1",
 	"tableContent": ["Dominicus Pottey",
 	"mijnheer de Chavoones",
 	"1672-9-11",
@@ -4415,6 +4615,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-11",
+	"fuzzy": "1",
 	"tableContent": ["Dominicus Pottey",
 	"Hermanus Pottij",
 	"1672-9-11",
@@ -4437,6 +4638,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-11",
+	"fuzzy": "1",
 	"tableContent": ["Dominicus Pottey",
 	"Jacobus Veth",
 	"1672-9-11",
@@ -4459,6 +4661,7 @@
 		"place": "Suriname"
 	}],
 	"time": "",
+	"fuzzy": "Vlissingen",
 	"tableContent": ["Dominicus Stegelits",
 	"Onbekend",
 	"",
@@ -4481,6 +4684,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Du Plessis Du Bellay",
 	"David Kempe",
 	"1672-1-8",
@@ -4503,6 +4707,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Elijsabeth Emerij",
 	"Cornelija vanden Weijde",
 	"1672-1-9",
@@ -4525,6 +4730,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-4-2",
+	"fuzzy": "3",
 	"tableContent": ["Elijsabeth Emerij",
 	"Pieter Aerrensen",
 	"1672-4-2",
@@ -4547,6 +4753,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-5",
+	"fuzzy": "Unknown",
 	"tableContent": ["Elijsabeth Emerij",
 	"Onbekend",
 	"1672-9-5",
@@ -4569,6 +4776,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-3",
+	"fuzzy": "4",
 	"tableContent": ["Elijsabeth Emerij",
 	"Onbekend",
 	"1672-9-3",
@@ -4591,6 +4799,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-12",
+	"fuzzy": "1",
 	"tableContent": ["Elijsabeth Emerij",
 	"Neeltje van der Weijde",
 	"1672-9-12",
@@ -4613,6 +4822,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-12",
+	"fuzzy": "1",
 	"tableContent": ["Elijsabeth Emerij",
 	"Neeltje van der Weijde",
 	"1672-9-12",
@@ -4635,6 +4845,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -4657,6 +4868,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-11-24",
+	"fuzzy": "1",
 	"tableContent": ["F. V. Meijden",
 	"Fillipina van Raij",
 	"1671-11-24",
@@ -4679,6 +4891,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "1",
 	"tableContent": ["Fijlippus Bracht",
 	"Adriaan Bleeck",
 	"1672-1-6",
@@ -4701,6 +4914,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "4",
 	"tableContent": ["Fijlippus Bracht",
 	"Sin Kuevelaer",
 	"1672-1-6",
@@ -4723,6 +4937,7 @@
 		"place": "Londen"
 	}],
 	"time": "1671-2-17",
+	"fuzzy": "1",
 	"tableContent": ["Francois Tyssen",
 	"Pieter Heerensen",
 	"1671-2-17",
@@ -4745,6 +4960,7 @@
 		"place": "Londen"
 	}],
 	"time": "1671-2-6",
+	"fuzzy": "1",
 	"tableContent": ["Francois Tyssen",
 	"Pieter Heerensen",
 	"1671-2-6",
@@ -4767,6 +4983,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-4",
+	"fuzzy": "4",
 	"tableContent": ["Francoise Pradon",
 	"Charles Pradon a Gueneuille",
 	"1672-1-4",
@@ -4789,6 +5006,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-4",
+	"fuzzy": "4",
 	"tableContent": ["Francoise Pradon",
 	"Onbekend",
 	"1672-1-4",
@@ -4811,6 +5029,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Frederijck van Rijm",
 	"Hancken Jooren",
 	"1672-1-10",
@@ -4833,6 +5052,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1671-11-23",
+	"fuzzy": "1",
 	"tableContent": ["Gesiewert Roos",
 	"Luijntie Jans ",
 	"1671-11-23",
@@ -4855,6 +5075,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-12",
+	"fuzzy": "1",
 	"tableContent": ["Gerard Wobma",
 	"Andries Claasz. Vos",
 	"1672-9-12",
@@ -4877,6 +5098,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Gideon Morris",
 	"Pieter van Deijle",
 	"1672-1-12",
@@ -4899,6 +5121,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-11-12",
+	"fuzzy": "1",
 	"tableContent": ["Gillame Beddelo",
 	"Erasmus Beddelo",
 	"1672-11-12",
@@ -4921,6 +5144,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-12",
+	"fuzzy": "1",
 	"tableContent": ["Gillame Beddelo",
 	"Erasmus Beddelo",
 	"1672-9-12",
@@ -4943,6 +5167,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "4",
 	"tableContent": ["Golken Ceuvelaer",
 	"Onbekend",
 	"1672-1-11",
@@ -4965,6 +5190,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Golken Ceuvelaer",
 	"Catelijntie Grindets",
 	"1672-1-12",
@@ -4987,6 +5213,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "4",
 	"tableContent": ["Golken Ceuvelaer",
 	"Onbekend",
 	"1672-1-12",
@@ -5009,6 +5236,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "4",
 	"tableContent": ["Golken Ceuvelaer",
 	"Adriana Lemps",
 	"1672-1-11",
@@ -5031,6 +5259,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "",
 	"tableContent": ["Golken Ceuvelaer",
 	"Nicte Cornelija",
 	"1672-1-11",
@@ -5053,6 +5282,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["H. De Huijbert",
 	"David Kempe",
 	"1672-1-13",
@@ -5075,6 +5305,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["H. De Huijbert",
 	"Pieter de Huijbert",
 	"1672-1-8",
@@ -5097,6 +5328,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "1",
 	"tableContent": ["Ahbraham de Badt",
 	"Joos de Badt",
 	"1672-9-7",
@@ -5119,6 +5351,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Heinderick Straetemaens",
 	"Grije en Marije Straetemaens",
 	"1672-1-7",
@@ -5141,6 +5374,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Heinderick Straetemaens",
 	"Jacob Pietersen",
 	"1672-1-7",
@@ -5163,6 +5397,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Heinderick Straetemaens",
 	"Jacob Pietersen",
 	"1672-1-7",
@@ -5185,6 +5420,7 @@
 		"place": "Soyo"
 	}],
 	"time": "1671-10-8",
+	"fuzzy": "4",
 	"tableContent": ["Henderijk Breijhaen",
 	"Onbekend",
 	"1671-10-8",
@@ -5207,6 +5443,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Hendrick de Harder",
 	"Abiegel Harmens",
 	"",
@@ -5229,6 +5466,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-10-12",
+	"fuzzy": "1",
 	"tableContent": ["Hendrick de Harder",
 	"Heremans Aberamsen",
 	"1671-10-12",
@@ -5251,6 +5489,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Hendrick de Harder",
 	"Heremans Aberamsen",
 	"",
@@ -5273,6 +5512,7 @@
 		"place": "Malembo"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Hendrick de Harder",
 	"Onbekend",
 	"",
@@ -5295,6 +5535,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Hendrick Huiberts",
 	"Jacob Huiberts",
 	"1672-1-11",
@@ -5317,6 +5558,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "4",
 	"tableContent": ["Hendrick Huiberts",
 	"Cornelis Sies",
 	"1672-1-1",
@@ -5339,6 +5581,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Hendrick Huiberts",
 	"Wilmina Ploech",
 	"1672-1-12",
@@ -5361,6 +5604,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Hendrick Huiberts",
 	"Andries Claesen Vos",
 	"1672-1-12",
@@ -5383,6 +5627,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "4",
 	"tableContent": ["Hendrick Huiberts",
 	"Jacobus van Aelst",
 	"1672-1-12",
@@ -5405,6 +5650,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Hendrick Huiberts",
 	"Nicolaes Thijmonss Pott",
 	"1672-1-9",
@@ -5427,6 +5673,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-9",
+	"fuzzy": "4",
 	"tableContent": ["Hendrick Huiberts",
 	"Andries Claes Vos",
 	"1672-9-9",
@@ -5449,6 +5696,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Hendrickje van den Herdenbegh",
 	"Marja vanden Herdenbgh",
 	"",
@@ -5471,6 +5719,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["Herman de Huijbert",
 	"Philipus Julius Lichtenbergh",
 	"1672-1-13",
@@ -5493,6 +5742,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-12-26",
+	"fuzzy": "1",
 	"tableContent": ["Herman de Huijbert",
 	"Anna Geneveuve de Huijbert",
 	"1672-12-26",
@@ -5515,6 +5765,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Herman de Huijbert",
 	"Onbekend",
 	"1672-1-8",
@@ -5537,6 +5788,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Herman de Huijbert",
 	"Justus de Huijbert",
 	"1672-1-8",
@@ -5559,6 +5811,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "4",
 	"tableContent": ["Herman de Huijbert",
 	"Onbekend",
 	"1672-1-8",
@@ -5581,6 +5834,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "1",
 	"tableContent": ["Ia Weijers",
 	"Aderjantie Dorsmans",
 	"1672-9-14",
@@ -5603,6 +5857,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "1",
 	"tableContent": ["Ia Weijers",
 	"Gerwom Isacksen",
 	"1672-9-14",
@@ -5625,6 +5880,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-12",
+	"fuzzy": "1",
 	"tableContent": ["Isaque Monteira",
 	"Pedro Henriques Pereira ",
 	"1671-12-12",
@@ -5647,6 +5903,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Isaque Monteira",
 	"Paulo en Jacome Pintto",
 	"",
@@ -5669,6 +5926,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["J Clercq",
 	"Johan van Roosbeke",
 	"1672-1-11",
@@ -5691,6 +5949,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["J Clercq",
 	"Pieter Ackerman",
 	"1672-1-11",
@@ -5713,6 +5972,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["J Clercq",
 	"Johannus Berckman",
 	"1672-1-9",
@@ -5735,6 +5995,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["J Clercq",
 	"Jacobus Bouck",
 	"1672-1-9",
@@ -5757,6 +6018,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["J Clercq",
 	"Pieter de Clercq",
 	"1672-1-9",
@@ -5779,6 +6041,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["J Clercq",
 	"Janneken vande Putte",
 	"1672-1-9",
@@ -5801,6 +6064,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["J. van Scharphuisen",
 	"Guiljam de Backer",
 	"1672-1-13",
@@ -5823,6 +6087,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "1",
 	"tableContent": ["J.A. Weijers",
 	"Adriaantje Dorsmans",
 	"1672-9-14",
@@ -5845,6 +6110,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["J.V. Mildert",
 	"Daniel van Mildert",
 	"1672-1-7",
@@ -5867,6 +6133,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "1",
 	"tableContent": ["J.A. Weijers",
 	"John Negeman ",
 	"1672-9-14",
@@ -5889,6 +6156,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "1",
 	"tableContent": ["Jacob Antonissen",
 	"Maeijken Jacobs",
 	"1672-1-1",
@@ -5911,6 +6179,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jacob Antonissen",
 	"Neeltie Tonissen",
 	"1672-1-8",
@@ -5933,6 +6202,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-31",
+	"fuzzy": "1",
 	"tableContent": ["Jacob Byniamin",
 	"Jasper Jeroensen",
 	"1671-12-31",
@@ -5955,6 +6225,7 @@
 		"place": "Suriname"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Jacob Cornelis van Machem",
 	"Maretjen Tijes",
 	"",
@@ -5977,6 +6248,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-1",
+	"fuzzy": "1",
 	"tableContent": ["Jacob Pietersen",
 	"Habijgel Wendelende",
 	"1672-9-1",
@@ -5999,6 +6271,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-10-20",
+	"fuzzy": "1",
 	"tableContent": ["Jacob Poorte",
 	"Onbekend",
 	"1671-10-20",
@@ -6021,6 +6294,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jacob Soetelingh",
 	"Janneken Jonghe",
 	"1672-1-8",
@@ -6043,6 +6317,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jacob Soetelingh",
 	"Geleijn Blanckebijl",
 	"1672-1-9",
@@ -6065,6 +6340,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jacob Tonissen Antonissen",
 	"Gillis Mesdag",
 	"1672-1-8",
@@ -6087,6 +6363,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-10",
+	"fuzzy": "1",
 	"tableContent": ["Jacob van de Velde",
 	"Reinier Warner",
 	"1672-9-10",
@@ -6109,6 +6386,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "1",
 	"tableContent": ["Jacob van de Velde",
 	"Elizabeth Gillis",
 	"1672-9-14",
@@ -6131,6 +6409,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-13",
+	"fuzzy": "1",
 	"tableContent": ["Jacob van de Velde",
 	"Abraham Vlaminck",
 	"1672-9-13",
@@ -6153,6 +6432,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "1",
 	"tableContent": ["Jacob van de Velde",
 	"Elijsabeth Gillis",
 	"1672-9-14",
@@ -6175,6 +6455,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-10",
+	"fuzzy": "1",
 	"tableContent": ["Jacob van de Velde",
 	"Reijnier Warner",
 	"1672-9-10",
@@ -6197,6 +6478,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-3",
+	"fuzzy": "1",
 	"tableContent": ["Jan Andriesen",
 	"Maeiken van Dule Aranse-Adriaense",
 	"1672-1-3",
@@ -6219,6 +6501,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-3",
+	"fuzzy": "1",
 	"tableContent": ["Jan Andriesen",
 	"Carel Abrahamse",
 	"1672-1-3",
@@ -6241,6 +6524,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Jan Andriesen",
 	"Lourens Willemsen Verpoorte",
 	"1672-1-12",
@@ -6263,6 +6547,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "4",
 	"tableContent": ["Jan Andriesen",
 	"Anna Jansen",
 	"1672-9-14",
@@ -6285,6 +6570,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "1",
 	"tableContent": ["Jan Andriesen",
 	"Anna Jansen",
 	"1672-9-14",
@@ -6307,6 +6593,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-12-29",
+	"fuzzy": "1",
 	"tableContent": ["Jan Andriesen",
 	"Anna Jansen",
 	"1672-12-29",
@@ -6329,6 +6616,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-15",
+	"fuzzy": "4",
 	"tableContent": ["Jan Andriesen",
 	"Lourens Willemsen Verpoorte",
 	"1672-9-15",
@@ -6351,6 +6639,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-6",
+	"fuzzy": "4",
 	"tableContent": ["Jan de Passer",
 	"Tobias Claijsen",
 	"1672-9-6",
@@ -6373,6 +6662,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan de Clercq de Jonge",
 	"Johan de Clercq",
 	"1672-1-9",
@@ -6395,6 +6685,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-6",
+	"fuzzy": "1",
 	"tableContent": ["Jan de Passer",
 	"Paulienke Jansen",
 	"1672-9-6",
@@ -6417,6 +6708,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Jan Dimmese",
 	"Gilles Adriaansz. Tand",
 	"1672-1-12",
@@ -6439,6 +6731,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "Middelburg",
 	"tableContent": ["Jan Dimmese",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1672-1-12",
@@ -6461,6 +6754,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Jan Dimmese",
 	"Jan Dimmes",
 	"1672-1-12",
@@ -6483,6 +6777,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan Dimmese",
 	"Isaack de Vrucht",
 	"1672-1-9",
@@ -6505,6 +6800,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan Dimmese",
 	"Jacob vande Kerckhove",
 	"1672-1-9",
@@ -6527,6 +6823,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "Middelburg",
 	"tableContent": ["Jan Dimmese",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1672-1-9",
@@ -6549,6 +6846,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["Jan Dimmese",
 	"Maeijken Cornel. Robes",
 	"1672-1-9",
@@ -6571,6 +6869,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Jan Dimmese",
 	"Daniel Snoeck",
 	"1672-1-12",
@@ -6593,6 +6892,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Jan Eghbertz",
 	"Aafje Jans",
 	"1672-1-10",
@@ -6615,6 +6915,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-14",
+	"fuzzy": "1",
 	"tableContent": ["Jan Eghbertz",
 	"Aafje Jans",
 	"1672-1-14",
@@ -6637,6 +6938,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-5",
+	"fuzzy": "1",
 	"tableContent": ["Jan Fransen Doens",
 	"Neeltje Scheijen",
 	"1672-9-5",
@@ -6659,6 +6961,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan Jansen Maroes",
 	"Elizabeth Jans",
 	"1672-1-9",
@@ -6681,6 +6984,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Jan Jansen Maroes",
 	"Filips Boncet",
 	"1672-1-7",
@@ -6703,6 +7007,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan Jansen Maroes",
 	"Daniel Danckers",
 	"1672-1-9",
@@ -6725,6 +7030,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan Janssen Hooijmaijer",
 	"Elijsabeth Pieters",
 	"1672-1-9",
@@ -6747,6 +7053,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-21",
+	"fuzzy": "1",
 	"tableContent": ["Jan Janssen Hooijmaijer",
 	"Elijsabeth Pieters",
 	"1671-12-21",
@@ -6769,6 +7076,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan Janssen Hooijmaijer",
 	"Elijsabeth Pieters",
 	"1672-1-9",
@@ -6791,6 +7099,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Jan Tinnegieter",
 	"Onbekend",
 	"1672-1-10",
@@ -6813,6 +7122,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Jan Tinnegieter",
 	"Johannis Baert",
 	"1672-1-10",
@@ -6835,6 +7145,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Jan Tinnegieter",
 	"Maeijken Abrahams",
 	"1672-1-12",
@@ -6857,6 +7168,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan Tinnegieter",
 	"Pieter van Ixen",
 	"1672-1-9",
@@ -6879,6 +7191,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Jan Tinnegieter ",
 	"Adrieijaen Christiaensen",
 	"1672-1-9",
@@ -6901,6 +7214,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-10-3",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Pieter Jaspers Heerense",
 	"1672-10-3",
@@ -6923,6 +7237,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-10",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Pieter Jaspers Heerense",
 	"1672-01-10",
@@ -6945,6 +7260,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-10",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Abraham Sis",
 	"1672-01-10",
@@ -6967,6 +7283,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-10-17",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Pieter Jaspers Heerense",
 	"1671-10-17",
@@ -6989,6 +7306,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-29",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Abraham Teerlinck",
 	"1671-12-29",
@@ -7011,6 +7329,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-29",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Gerard Blaase",
 	"1671-12-29",
@@ -7033,6 +7352,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-29",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Daniel Thyson Jansson",
 	"1671-12-29",
@@ -7055,6 +7375,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-08-30",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"huisvrouw van Jan Barberij",
 	"1672-08-30",
@@ -7077,6 +7398,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-09-03",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Lourens Willemsen Verpoorte",
 	"1672-09-03",
@@ -7099,6 +7421,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-09-03",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Bergen",
 	"Guilliaem de Backer",
 	"1672-09-03",
@@ -7121,6 +7444,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-09-03",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Johannis Boot",
 	"1672-09-03",
@@ -7143,6 +7467,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Abraham Bischop",
 	"1672-01-08",
@@ -7165,6 +7490,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Pieter Boudaen Courten",
 	"1672-01-08",
@@ -7187,6 +7513,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Jacob Pietersen ",
 	"1672-01-08",
@@ -7209,6 +7536,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Lourens Willemsen Verpoorte",
 	"1672-01-08",
@@ -7231,6 +7559,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Adriaen Tandt",
 	"1672-01-08",
@@ -7253,6 +7582,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Adriaen van Geel",
 	"1672-01-08",
@@ -7275,6 +7605,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Baestiaensen ",
 	"Cornelis Janssen",
 	"1672-01-08",
@@ -7297,6 +7628,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Bartholomeus Nouters",
 	"1672-01-08",
@@ -7319,6 +7651,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-01-08",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Jan Riecke Stuurman",
 	"1672-01-08",
@@ -7341,6 +7674,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-01",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Guilliam de Backer",
 	"1671-12-01",
@@ -7363,6 +7697,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"I. Engelijen Lamsen",
 	"1671-02-03",
@@ -7385,6 +7720,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Capt. Constandt",
 	"1671-02-03",
@@ -7407,6 +7743,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Willem Hodge",
 	"1671-02-03",
@@ -7429,6 +7766,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
+	"fuzzy": "3",
 	"tableContent": ["Jan van Ruijven",
 	"Onbekend",
 	"1671-02-03",
@@ -7451,6 +7789,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
+	"fuzzy": "3",
 	"tableContent": ["Jan van Ruijven",
 	"Onbekend",
 	"1671-02-03",
@@ -7473,6 +7812,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
+	"fuzzy": "1",
 	"tableContent": ["Jan van Ruijven",
 	"Anthoni Wilmerdom",
 	"1671-02-03",
@@ -7495,6 +7835,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
+	"fuzzy": "3",
 	"tableContent": ["Jan van Ruijven",
 	"Onbekend",
 	"1671-02-03",
@@ -7517,6 +7858,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-02-03",
+	"fuzzy": "3",
 	"tableContent": ["Jan van Ruijven",
 	"Onbekend",
 	"1671-02-03",
@@ -7539,6 +7881,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-01-11",
+	"fuzzy": "1",
 	"tableContent": ["Cornelis Baestiaensen ",
 	"Machiel van Amelant",
 	"1672-01-11",
@@ -7561,6 +7904,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-4",
+	"fuzzy": "1",
 	"tableContent": ["Jan Willemsen van Tollen",
 	"huisvrouw van Jan Willems Tuentte",
 	"1672-1-4",
@@ -7583,6 +7927,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jannis van Bambeke",
 	"Flip van Bambeke",
 	"1672-1-8",
@@ -7605,6 +7950,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jannis van Bambeke",
 	"Francoijs Christijaensen",
 	"1672-1-8",
@@ -7627,6 +7973,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jannis van Bambeke",
 	"Marija van Bambeke",
 	"1672-1-8",
@@ -7649,6 +7996,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jannis van Bambeke",
 	"Johanis Blondel",
 	"1672-1-8",
@@ -7671,6 +8019,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Jannis van Bambeke",
 	"Marija van Bambeke",
 	"1672-1-8",
@@ -7693,6 +8042,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-8",
+	"fuzzy": "1",
 	"tableContent": ["Jannis van Bambeke",
 	"Pieter de Larue",
 	"1671-12-8",
@@ -7715,6 +8065,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Jannis van Bambeke",
 	"Marija van Bambeke",
 	"",
@@ -7737,6 +8088,7 @@
 		"place": "Statia"
 	}],
 	"time": "1672-2-7",
+	"fuzzy": "4",
 	"tableContent": ["Jannis Wijnseperij",
 	"Onbekend",
 	"1672-2-7",
@@ -7759,6 +8111,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-27",
+	"fuzzy": "1",
 	"tableContent": ["Jean de Backer",
 	"Gilliaem de Backer",
 	"1671-12-27",
@@ -7781,6 +8134,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-15",
+	"fuzzy": "4",
 	"tableContent": ["Jean le Grand",
 	"Pieter Buteux",
 	"1672-9-15",
@@ -7803,6 +8157,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-9-15",
+	"fuzzy": "1",
 	"tableContent": ["Jean le Grand",
 	"Samuel van Westhuijsen",
 	"1672-9-15",
@@ -7825,6 +8180,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-6",
+	"fuzzy": "1",
 	"tableContent": ["Jean le Grand",
 	"Pieter Sandra",
 	"1672-9-6",
@@ -7847,6 +8203,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-9-6",
+	"fuzzy": "1",
 	"tableContent": ["Jean le Grand",
 	"Samuel van Westhuizen",
 	"1672-9-6",
@@ -7869,6 +8226,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Jean le Grand",
 	"Samuel van Westhuijsen",
 	"1672-1-7",
@@ -7891,6 +8249,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Jean le Grand",
 	"Moijse Catteau",
 	"1672-1-7",
@@ -7913,6 +8272,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Jean le Grand",
 	"Pieter de Vinder ",
 	"1672-1-7",
@@ -7935,6 +8295,7 @@
 		"place": "Torarica"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Jean le Grand",
 	"Onbekend",
 	"",
@@ -7957,6 +8318,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-6-1",
+	"fuzzy": "",
 	"tableContent": ["Joan Macbado, Daniel Pets en Willem Verbam",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1671-6-1",
@@ -7979,6 +8341,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-28",
+	"fuzzy": "4",
 	"tableContent": ["Joannis Robbersen",
 	"Kapitein Nicolaes Raes",
 	"1671-12-28",
@@ -8001,6 +8364,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Johan Basseliers",
 	"Elsje Jan munnick",
 	"1672-1-10",
@@ -8023,6 +8387,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Johan Basseliers",
 	"Guiljam de Backer",
 	"1672-1-10",
@@ -8045,6 +8410,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Johan Basseliers",
 	"Guiljam de Backer",
 	"1672-1-10",
@@ -8067,6 +8433,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-31",
+	"fuzzy": "1",
 	"tableContent": ["Johan Basseliers",
 	"Guiljam de Backer",
 	"1671-12-31",
@@ -8089,6 +8456,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["Johan Basseliers",
 	"Onbekend",
 	"1672-1-9",
@@ -8111,6 +8479,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Johan Basseliers",
 	"Catharina Basseliers",
 	"1672-1-9",
@@ -8133,6 +8502,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Johan Basseliers",
 	"Onbekend",
 	"",
@@ -8155,6 +8525,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["Johan Rietspier",
 	"Janneken Jans",
 	"1672-1-8",
@@ -8177,6 +8548,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Johan Simon",
 	"Van de Wiele",
 	"1672-1-11",
@@ -8199,6 +8571,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Johan Simon",
 	"Servaes van de Groene Wal",
 	"1672-1-11",
@@ -8221,6 +8594,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["Johan Simon",
 	"Servaes van de Groene Wal",
 	"1672-1-13",
@@ -8243,6 +8617,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Johan Simon",
 	"Servaes vande Groene Wal",
 	"",
@@ -8265,6 +8640,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Johan Simon",
 	"Onbekend",
 	"",
@@ -8287,6 +8663,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Johan Simon",
 	"Servaes van de Groene Wal",
 	"",
@@ -8309,6 +8686,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-11",
+	"fuzzy": "1",
 	"tableContent": ["Johan van Melckebeecke",
 	"Pieter Ackerman",
 	"1671-12-11",
@@ -8331,6 +8709,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-12-14",
+	"fuzzy": "4",
 	"tableContent": ["Johan van Melckebeecke",
 	"Cornelis Jansz. Verhulst",
 	"1672-12-14",
@@ -8353,6 +8732,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-12-14",
+	"fuzzy": "4",
 	"tableContent": ["Johan van Melckebeecke",
 	"Bartholomeus de Looper",
 	"1672-12-14",
@@ -8375,6 +8755,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Johan van Melckebeecke",
 	"Bartholomeus de Looper",
 	"1672-1-9",
@@ -8397,6 +8778,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-12-14",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Hoogesteeger",
 	"1672-12-14",
@@ -8419,6 +8801,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-12-14",
+	"fuzzy": "Nederland",
 	"tableContent": ["Johannes d'Olijslager",
 	"De Ridder",
 	"1672-12-14",
@@ -8441,6 +8824,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-12-14",
+	"fuzzy": "3",
 	"tableContent": ["Johannes d'Olijslager",
 	"Vrijbergen",
 	"1672-12-14",
@@ -8463,6 +8847,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-12-14",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"De Hubert",
 	"1672-12-14",
@@ -8485,6 +8870,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-12-14",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Josias van de Blocquerij",
 	"1672-12-14",
@@ -8507,6 +8893,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-12-14",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Johan van de Poele",
 	"1672-12-14",
@@ -8529,6 +8916,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-20",
+	"fuzzy": "3",
 	"tableContent": ["Johannes d'Olijslager",
 	"Onbekend",
 	"1671-12-20",
@@ -8551,6 +8939,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-01-06",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Isack de Vrieier ",
 	"1671-01-06",
@@ -8573,6 +8962,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-01-06",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1671-01-06",
@@ -8595,6 +8985,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Aernoult de Moulier",
 	"1672-01-09",
@@ -8617,6 +9008,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Henricus de Vael ",
 	"1672-01-09",
@@ -8639,6 +9031,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Susanna d'Olijslager",
 	"1672-01-09",
@@ -8661,6 +9054,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Gaspaer Engelsen",
 	"1672-01-09",
@@ -8683,6 +9077,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Johan de Meij",
 	"1672-01-09",
@@ -8705,6 +9100,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Pieter Muenicx",
 	"1672-01-09",
@@ -8727,6 +9123,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Daniel Fannius",
 	"1672-01-09",
@@ -8749,6 +9146,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Louijs d'Outtreleau",
 	"1672-01-09",
@@ -8771,6 +9169,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Justus de Huijbert",
 	"1672-01-09",
@@ -8793,6 +9192,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "1",
 	"tableContent": ["Johannes d'Olijslager",
 	"Daniel Waeijwel",
 	"1672-01-09",
@@ -8815,6 +9215,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "3",
 	"tableContent": ["Johannes d'Olijslager",
 	"Wildens",
 	"1672-01-09",
@@ -8837,6 +9238,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-01-09",
+	"fuzzy": "3",
 	"tableContent": ["Johannes d'Olijslager",
 	"Josijnna de Laure",
 	"1672-01-09",
@@ -8859,6 +9261,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Johannes Straeteius",
 	"Cornelis van Buijlaert",
 	"1672-1-12",
@@ -8881,6 +9284,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1671-12-15",
+	"fuzzy": "2",
 	"tableContent": ["Johannes Straeteius",
 	"Lichtenberg",
 	"1671-12-15",
@@ -8903,6 +9307,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1672-1-13",
@@ -8925,6 +9330,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "1",
 	"tableContent": ["Johannis Robbersen",
 	"Gelyamme de Backer",
 	"1672-1-2",
@@ -8947,6 +9353,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Gelyamme de Backer",
 	"1672-1-2",
@@ -8969,6 +9376,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1672-1-2",
@@ -8991,6 +9399,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Jacobus van der Mees",
 	"1672-1-2",
@@ -9013,6 +9422,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-29",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1671-12-29",
@@ -9035,6 +9445,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"",
@@ -9057,6 +9468,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-29",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1671-12-29",
@@ -9079,6 +9491,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-14",
+	"fuzzy": "Middelburg",
 	"tableContent": ["Johannis Robbersen",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1672-1-14",
@@ -9101,6 +9514,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "1",
 	"tableContent": ["Johannis Robbersen",
 	"Joanna Roels",
 	"1672-1-2",
@@ -9123,6 +9537,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "1",
 	"tableContent": ["Johannis Robbersen",
 	"Anna van Eessen",
 	"1672-1-2",
@@ -9145,6 +9560,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "1",
 	"tableContent": ["Johannis Robbersen",
 	"Josijnna de Lause",
 	"1672-1-2",
@@ -9167,6 +9583,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1672-1-2",
@@ -9189,6 +9606,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-3",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1672-1-3",
@@ -9211,6 +9629,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1672-1-6",
@@ -9233,6 +9652,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["Johannis Robbersen",
 	"Josijnna de Laule",
 	"1672-1-9",
@@ -9255,6 +9675,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["John Clement",
 	"Gilles en Pieter Muenick",
 	"1672-1-13",
@@ -9277,6 +9698,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-30",
+	"fuzzy": "1",
 	"tableContent": ["John Clement",
 	"Gilles en Pieter Muenick",
 	"1671-12-30",
@@ -9299,6 +9721,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["John Clement",
 	"Onbekend",
 	"",
@@ -9321,6 +9744,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -9343,6 +9767,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -9365,6 +9790,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -9387,6 +9813,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Joris Darvall",
 	"Jacob Pieterz",
 	"1672-1-12",
@@ -9409,6 +9836,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Joris Darvall",
 	"Dirck en Adriaen Dominicus",
 	"1672-1-12",
@@ -9431,6 +9859,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Joris Darvall",
 	"Hugo Darvall",
 	"1672-1-12",
@@ -9453,6 +9882,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Joris Darvall",
 	"Meijnsjen Harmens van Eijck",
 	"1672-1-12",
@@ -9475,6 +9905,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Joris Darvall",
 	"Cornelis Darvall",
 	"1672-1-12",
@@ -9497,6 +9928,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-12",
+	"fuzzy": "4",
 	"tableContent": ["Joris Darvall",
 	"Dirck en Adriaen Dominicus",
 	"1671-12-12",
@@ -9519,6 +9951,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-17",
+	"fuzzy": "1",
 	"tableContent": ["Joris Darvall",
 	"Dirck Dominicus",
 	"1671-12-17",
@@ -9541,6 +9974,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "1",
 	"tableContent": ["Joris Darvall",
 	"Dirck en Adriaen Dominicus",
 	"1672-9-7",
@@ -9563,6 +9997,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "1",
 	"tableContent": ["Joris Darvall",
 	"Samuel de Witt",
 	"1672-9-7",
@@ -9585,6 +10020,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Justus de Huijbert",
 	"Onbekend",
 	"",
@@ -9607,6 +10043,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -9629,6 +10066,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -9651,6 +10089,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1671-12-31",
+	"fuzzy": "4",
 	"tableContent": ["Lieve de Meij",
 	"Jan Lieve de Moore",
 	"1671-12-31",
@@ -9673,6 +10112,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["Lieven de Wever",
 	"Leintje Frans",
 	"1672-1-13",
@@ -9695,6 +10135,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["Lieven de Wever",
 	"Leintje Frans",
 	"1672-1-13",
@@ -9717,6 +10158,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["Lieven de Wever",
 	"Nicolaeis van Hoven",
 	"1672-1-13",
@@ -9739,6 +10181,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "4",
 	"tableContent": ["Lieven de Wever",
 	"Jacob Pediceur",
 	"1672-1-13",
@@ -9761,6 +10204,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-28",
+	"fuzzy": "1",
 	"tableContent": ["Lourens Menis",
 	"Mr. Van Rhee en van Phere",
 	"1671-12-28",
@@ -9783,6 +10227,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-10",
+	"fuzzy": "4",
 	"tableContent": ["Maerten Lemps",
 	"Onbekend",
 	"1672-9-10",
@@ -9805,6 +10250,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "",
 	"tableContent": ["Maerten Lemps",
 	"Adriana Couters ",
 	"1672-1-12",
@@ -9827,6 +10273,7 @@
 		"place": "Suriname "
 	}],
 	"time": "1672-1-15",
+	"fuzzy": "4",
 	"tableContent": ["Maerten Lemps",
 	"Onbekend",
 	"1672-1-15",
@@ -9849,6 +10296,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-15",
+	"fuzzy": "4",
 	"tableContent": ["Maerten Lemps",
 	"Onbekend",
 	"1672-1-15",
@@ -9871,6 +10319,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-15",
+	"fuzzy": "4",
 	"tableContent": ["Maerten Lemps",
 	"Onbekend",
 	"1672-1-15",
@@ -9893,6 +10342,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-19",
+	"fuzzy": "1",
 	"tableContent": ["Marcus Brandt",
 	"Gulliam de Backer",
 	"1671-12-19",
@@ -9915,6 +10365,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-15",
+	"fuzzy": "2",
 	"tableContent": ["Mattijs Lantmeester",
 	"Davidt Lisbrechtsen",
 	"1672-9-15",
@@ -9937,6 +10388,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Michiel Lalier",
 	"Neelken Bastiaans",
 	"1672-1-9",
@@ -9959,6 +10411,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1671-11-22",
+	"fuzzy": " broeders",
 	"tableContent": ["N. Blom",
 	"Jan Blom",
 	"1671-11-22",
@@ -9981,6 +10434,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-10-8",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas de Zoutte",
 	"Onbekend",
 	"1671-10-8",
@@ -10003,6 +10457,7 @@
 		"place": "Elmina"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nathaniel Goodhand",
 	"Charles Goodhand",
 	"",
@@ -10025,6 +10480,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nathaniel Goodhand",
 	"Onbekend",
 	"",
@@ -10047,6 +10503,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-3",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas de Zoutte",
 	"Onbekend",
 	"1672-9-3",
@@ -10069,6 +10526,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-9-3",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas de Zoutte",
 	"Onbekend",
 	"1672-9-3",
@@ -10091,6 +10549,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-8-13",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1672-8-13",
@@ -10113,6 +10572,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas de Zoutte",
 	"Onbekend",
 	"1672-1-9",
@@ -10135,6 +10595,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaes de Zoutte",
 	"Lambreght Jansen",
 	"1672-1-9",
@@ -10157,6 +10618,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaes de Zoutte",
 	"Elijsabt de Soutte",
 	"1672-1-9",
@@ -10179,6 +10641,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Jacoba Tresel",
 	"1672-1-10",
@@ -10201,6 +10664,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Jan Vans",
 	"1672-1-10",
@@ -10223,6 +10687,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Jan Davidsen",
 	"1672-1-10",
@@ -10245,6 +10710,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Herman Hellendoren",
 	"1672-1-10",
@@ -10267,6 +10733,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Pieter Penne",
 	"1672-1-10",
@@ -10289,6 +10756,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"weduwe van Isaac Nicasius",
 	"1672-1-11",
@@ -10311,6 +10779,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1672-1-11",
@@ -10333,6 +10802,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "Middelburg",
 	"tableContent": ["Nicolaas Combe",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1672-1-11",
@@ -10355,6 +10825,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Adrian Sengelinck",
 	"1672-1-12",
@@ -10377,6 +10848,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Monsieur Grimalla",
 	"1672-1-12",
@@ -10399,6 +10871,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Monsieur Christiansen",
 	"1672-1-12",
@@ -10421,6 +10894,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-9-12",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1671-9-12",
@@ -10443,6 +10917,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-13",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Capitein Liefhebber",
 	"1672-9-13",
@@ -10465,6 +10940,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Lichtenberg",
 	"1672-1-2",
@@ -10487,6 +10963,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Pieter Coorne",
 	"1672-1-2",
@@ -10509,6 +10986,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-25",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1671-12-25",
@@ -10531,6 +11009,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-26",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Weduwe van s.r Cornelis Christiansen",
 	"1671-12-26",
@@ -10553,6 +11032,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-29",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Adrian Liefhebber",
 	"1671-12-29",
@@ -10575,6 +11055,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-5",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Carel Abrahamsen",
 	"1672-1-5",
@@ -10597,6 +11078,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1672-1-7",
@@ -10619,6 +11101,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Nicolaas Combe",
 	"Lewina Munnick",
 	"1672-1-7",
@@ -10641,6 +11124,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-5-7",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1672-5-7",
@@ -10663,6 +11147,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
@@ -10685,6 +11170,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
@@ -10707,6 +11193,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
@@ -10729,6 +11216,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
@@ -10751,6 +11239,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"David Kempe",
 	"",
@@ -10773,6 +11262,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -10795,6 +11285,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -10817,6 +11308,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -10839,6 +11331,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -10861,6 +11354,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -10883,6 +11377,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -10905,6 +11400,7 @@
 		"place": "Elmina"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Pieter de Neijn",
 	"Cornelis de Neijn",
 	"",
@@ -10927,6 +11423,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1671-11-22",
+	"fuzzy": "4",
 	"tableContent": ["Pieter de Neijn",
 	"Onbekend",
 	"1671-11-22",
@@ -10949,6 +11446,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-19",
+	"fuzzy": "Middelburg",
 	"tableContent": ["Pieter Doncker",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1672-9-19",
@@ -10971,6 +11469,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-5-2",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Heerensen",
 	"Jan en Pieter Bodaen Courten",
 	"1672-5-2",
@@ -10993,6 +11492,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-14",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Jansen",
 	"Onbekend",
 	"1671-12-14",
@@ -11015,6 +11515,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-12-14",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Jansen ",
 	"Davit Cempe",
 	"1671-12-14",
@@ -11037,6 +11538,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Jaspersen",
 	"Gerson Isaacxs Cockuijt",
 	"",
@@ -11059,6 +11561,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1671-11-22",
+	"fuzzy": "",
 	"tableContent": ["Pieter Mortier",
 	"weduwe van Pieter Montier",
 	"1671-11-22",
@@ -11081,6 +11584,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-16",
+	"fuzzy": "1",
 	"tableContent": ["Pieter Pieterssen van der Vaeren",
 	"Jacomijntie Sijmeijns",
 	"1672-9-16",
@@ -11103,6 +11607,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-16",
+	"fuzzy": "1",
 	"tableContent": ["Pieter Pieterssen van der Vaeren",
 	"Jacomijntje Simons",
 	"1672-9-16",
@@ -11125,6 +11630,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "4",
 	"tableContent": ["Pieter van Lanckum",
 	"Onbekend",
 	"1672-1-9",
@@ -11147,6 +11653,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-1-11",
@@ -11169,6 +11676,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-14",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-9-14",
@@ -11191,6 +11699,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-8-3",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-8-3",
@@ -11213,6 +11722,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-5",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-9-5",
@@ -11235,6 +11745,7 @@
 		"place": "Elmina"
 	}],
 	"time": "1671-11-22",
+	"fuzzy": "",
 	"tableContent": ["Pieter Dierkse Heemskerk",
 	"Serdike Janie Karnelijs",
 	"1671-11-22",
@@ -11257,6 +11768,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1671-12-14",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1671-12-14",
@@ -11279,6 +11791,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-10-16",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1671-10-16",
@@ -11301,6 +11814,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "1",
 	"tableContent": ["R. D. Plessis",
 	"Matthijs van Eepen",
 	"1672-1-8",
@@ -11323,6 +11837,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "4",
 	"tableContent": ["R. Dickenson",
 	"Hendrick vande Poele",
 	"1672-1-2",
@@ -11345,6 +11860,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-10",
+	"fuzzy": "1",
 	"tableContent": ["R. Simpson",
 	"John Tobiasson",
 	"1672-9-10",
@@ -11367,6 +11883,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-1",
+	"fuzzy": "4",
 	"tableContent": ["Raphaell Aboab",
 	"Josyna Hursels",
 	"1672-1-1",
@@ -11389,6 +11906,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Raphaell Aboab",
 	"Jan Willems",
 	"",
@@ -11411,6 +11929,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Reijnier Warner",
 	"Marijn Erdisse",
 	"1672-1-12",
@@ -11433,6 +11952,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Reijnier Warner",
 	"Pijeter Cruis",
 	"1672-1-10",
@@ -11455,6 +11975,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "4",
 	"tableContent": ["Reijnier Warner",
 	"Marija Cruise",
 	"1672-1-12",
@@ -11477,6 +11998,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-11",
+	"fuzzy": "4",
 	"tableContent": ["Robert Honlyham",
 	"Onbekend",
 	"1672-1-11",
@@ -11499,6 +12021,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Rogier Dickenson",
 	"Pieter van Goethem",
 	"1672-1-12",
@@ -11521,6 +12044,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-2",
+	"fuzzy": "1",
 	"tableContent": ["Rogier Dickenson",
 	"Johannis vande Poele",
 	"1672-1-2",
@@ -11543,6 +12067,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-3",
+	"fuzzy": "1",
 	"tableContent": ["Rogier Dickenson",
 	"Jacob Maertens",
 	"1672-1-3",
@@ -11565,6 +12090,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Salomon Maertens",
 	"Martinnis Maertins",
 	"1672-1-9",
@@ -11587,6 +12113,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-7",
+	"fuzzy": "1",
 	"tableContent": ["Salomon Maertens",
 	"Martinnis Maertins",
 	"1672-1-7",
@@ -11609,6 +12136,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-5",
+	"fuzzy": "1",
 	"tableContent": ["Samuel de Witt",
 	"Baltenswack",
 	"1672-1-5",
@@ -11631,6 +12159,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "1",
 	"tableContent": ["Samuel de Witt",
 	"Aeftie van Duijchenburgh",
 	"1672-1-6",
@@ -11653,6 +12182,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Samuel de Witt",
 	"Onbekend",
 	"",
@@ -11675,6 +12205,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-8",
+	"fuzzy": "1",
 	"tableContent": ["Samuel Nassi",
 	"Machil van Ammelandt",
 	"1672-9-8",
@@ -11697,6 +12228,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-9",
+	"fuzzy": "1",
 	"tableContent": ["Samuel Nassi",
 	"Harman Abrahams",
 	"1672-9-9",
@@ -11719,6 +12251,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-5",
+	"fuzzy": "1",
 	"tableContent": ["Samuel Thierrij",
 	"Pieter Thierrij ",
 	"1672-1-5",
@@ -11741,6 +12274,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-5",
+	"fuzzy": "1",
 	"tableContent": ["Samuel Thierrij",
 	"Daniel van Mildert",
 	"1672-1-5",
@@ -11763,6 +12297,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1671-12-17",
+	"fuzzy": "4",
 	"tableContent": ["Sarah Brandt",
 	"Richard Done",
 	"1671-12-17",
@@ -11785,6 +12320,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-8",
+	"fuzzy": "4",
 	"tableContent": ["Sarah van Scharphuisen",
 	"Onbekend",
 	"1672-1-8",
@@ -11807,6 +12343,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "1",
 	"tableContent": ["Sarah van Scharphuisen",
 	"Elsie Jans Munnick",
 	"1672-1-6",
@@ -11829,6 +12366,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Willem de Somer",
 	"",
@@ -11851,6 +12389,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -11873,6 +12412,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Sijmon Aertsen",
 	"Sijmon Aertsen",
 	"",
@@ -11895,6 +12435,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-11",
+	"fuzzy": "1",
 	"tableContent": ["Sijmon Lijon",
 	"Nelcken Frans",
 	"1672-9-11",
@@ -11917,6 +12458,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-12",
+	"fuzzy": "1",
 	"tableContent": ["Sijmon Lijon",
 	"Machiel Leueseer",
 	"1672-9-12",
@@ -11939,6 +12481,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-12",
+	"fuzzy": "1",
 	"tableContent": ["Sijmon Lijon",
 	"Nelcken Frans",
 	"1672-9-12",
@@ -11961,6 +12504,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["Sijmon Lijon",
 	"Wedee van capt. Cornelis Jansen Dronchap",
 	"1672-1-13",
@@ -11983,6 +12527,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Sijmon Maes",
 	"Jacob van de Velde",
 	"1672-1-9",
@@ -12005,6 +12550,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Sijmon Maes",
 	"Isaack van Hommerigh",
 	"1672-1-9",
@@ -12027,6 +12573,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "Unknown",
 	"tableContent": ["Sijmon Maes",
 	"Jan Pieters ",
 	"1672-1-9",
@@ -12049,6 +12596,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "1",
 	"tableContent": ["Simon van Cleeff",
 	"Willem van Cleeff",
 	"1672-9-7",
@@ -12071,6 +12619,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "Utrecht",
 	"tableContent": ["Simon van Cleeff",
 	"Egbertus van Cleeff",
 	"1672-9-7",
@@ -12093,6 +12642,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-7",
+	"fuzzy": "1",
 	"tableContent": ["Simon van Cleeff",
 	"Johan van Dinteren",
 	"1672-9-7",
@@ -12115,6 +12665,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-5",
+	"fuzzy": "4",
 	"tableContent": ["Susanna Cowell",
 	"David Kempe",
 	"1672-1-5",
@@ -12137,6 +12688,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12159,6 +12711,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Trintie Segers",
 	"Onbekend",
 	"1672-1-10",
@@ -12181,6 +12734,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12203,6 +12757,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-6-20",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-6-20",
@@ -12225,6 +12780,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-6-23",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-6-23",
@@ -12247,6 +12803,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-8-4",
+	"fuzzy": "4",
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-8-4",
@@ -12269,6 +12826,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
@@ -12291,6 +12849,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12313,6 +12872,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-13",
+	"fuzzy": "1",
 	"tableContent": ["W. Rasenberg",
 	"Anna van Rasenberg",
 	"1672-1-13",
@@ -12335,6 +12895,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-6",
+	"fuzzy": "1",
 	"tableContent": ["W. Rasenberg",
 	"Anna van Rasenberg",
 	"1672-1-6",
@@ -12357,6 +12918,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12379,6 +12941,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12401,6 +12964,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-9-16",
+	"fuzzy": "4",
 	"tableContent": ["Wijllem Gijssessen Danijnsijns",
 	"Maeken Jans",
 	"1672-9-16",
@@ -12423,6 +12987,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Willem Bleau",
 	"Anna Maria Soetens",
 	"1672-1-10",
@@ -12445,6 +13010,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Willem Bleau",
 	"Onbekend",
 	"1672-1-10",
@@ -12467,6 +13033,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Willem Bleau",
 	"Jan van Lidt",
 	"1672-1-10",
@@ -12489,6 +13056,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Willem Bleau",
 	"Barent Helleman",
 	"1672-1-10",
@@ -12511,6 +13079,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Willem Bleau",
 	"Jacob Gyplant",
 	"1672-1-10",
@@ -12533,6 +13102,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "1",
 	"tableContent": ["Willem Bleau",
 	"Pieter vander Heere",
 	"1672-1-10",
@@ -12555,6 +13125,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Willem de Somer",
 	"Onbekend",
 	"",
@@ -12577,6 +13148,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Willem Gilessen Canisius",
 	"Maaike Jans",
 	"",
@@ -12599,6 +13171,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-12-1",
+	"fuzzy": "4",
 	"tableContent": ["William Pringell en Rogier Dickenson",
 	"Gaspaert Ingelsen",
 	"1672-12-1",
@@ -12621,6 +13194,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["William Pringell en Rogier Dickenson",
 	"Gaspaert Ingelsen",
 	"1672-1-12",
@@ -12643,6 +13217,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
@@ -12665,6 +13240,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Jacob Antonissen",
 	"Indijch Jooristange",
 	"1672-1-10",
@@ -12687,6 +13263,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12709,6 +13286,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12731,6 +13309,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12753,6 +13332,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "1671-8-8",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1671-8-8",
@@ -12775,6 +13355,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Chrijstijaen Backer",
 	"",
@@ -12797,6 +13378,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12819,6 +13401,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12841,6 +13424,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12863,6 +13447,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-4-19",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-4-19",
@@ -12885,6 +13470,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-4",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Johan en Pieter Boudaen Courten",
 	"1672-9-4",
@@ -12907,6 +13493,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Johan en Pieter Boudaen Courten",
 	"",
@@ -12929,6 +13516,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-8-5",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1671-8-5",
@@ -12951,6 +13539,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-6-20",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-6-20",
@@ -12973,6 +13562,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -12995,6 +13585,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13017,6 +13608,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-8-2",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-8-2",
@@ -13039,6 +13631,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13061,6 +13654,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-9-3",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-9-3",
@@ -13083,6 +13677,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-3-24",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-3-24",
@@ -13105,6 +13700,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13127,6 +13723,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-8",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1671-8",
@@ -13149,6 +13746,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13171,6 +13769,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13193,6 +13792,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-8-23",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-8-23",
@@ -13215,6 +13815,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-3-1",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-3-1",
@@ -13237,6 +13838,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-5-26",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-5-26",
@@ -13259,6 +13861,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-11-20",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-11-20",
@@ -13281,6 +13884,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-8-19",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-8-19",
@@ -13303,6 +13907,7 @@
 		"place": "Middelburg"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13325,6 +13930,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1671-8-8",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1671-8-8",
@@ -13347,6 +13953,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13369,6 +13976,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-2-10",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-2-10",
@@ -13391,6 +13999,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Jan Marckes",
 	"",
@@ -13413,6 +14022,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13435,6 +14045,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13457,6 +14068,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13479,6 +14091,7 @@
 		"place": "Suriname"
 	}],
 	"time": "1672-1-15",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Fransinte Anderriessen",
 	"1672-1-15",
@@ -13501,6 +14114,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13523,6 +14137,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13545,6 +14160,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13567,6 +14183,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13589,6 +14206,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13611,6 +14229,7 @@
 		"place": "Torarica"
 	}],
 	"time": "1672-1-9",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Bastiaen Ketelaer",
 	"1672-1-9",
@@ -13633,6 +14252,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13655,6 +14275,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13677,6 +14298,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13699,6 +14321,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13721,6 +14344,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13743,6 +14367,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13765,6 +14390,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13787,6 +14413,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13809,6 +14436,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13831,6 +14459,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13853,6 +14482,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13875,6 +14505,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13897,6 +14528,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13919,6 +14551,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13941,6 +14574,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13963,6 +14597,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -13985,6 +14620,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14007,6 +14643,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14029,6 +14666,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14051,6 +14689,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14073,6 +14712,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14095,6 +14735,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Paolo en Jacome Pinto",
 	"",
@@ -14117,6 +14758,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14139,6 +14781,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14161,6 +14804,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14183,6 +14827,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14205,6 +14850,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14227,6 +14873,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14249,6 +14896,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14271,6 +14919,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-5",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-1-5",
@@ -14293,6 +14942,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14315,6 +14965,7 @@
 		"place": "Paramaribo"
 	}],
 	"time": "1672-1-10",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Cornelija de Gelder",
 	"1672-1-10",
@@ -14337,6 +14988,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14359,6 +15011,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14381,6 +15034,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-1-12",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Julius Lichtenbergh",
 	"1672-1-12",
@@ -14403,6 +15057,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14425,6 +15080,7 @@
 		"place": "Unknown"
 	}],
 	"time": "1672-11-17",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-11-17",
@@ -14447,6 +15103,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Abraham Drago",
 	"",
@@ -14469,6 +15126,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Maddeleentie David",
 	"",
@@ -14491,6 +15149,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Cornelis Verhulst",
 	"",
@@ -14513,6 +15172,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Daniel Waeywel",
 	"",
@@ -14535,6 +15195,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Josijnna Hursels en Sussanna Hals",
 	"",
@@ -14557,6 +15218,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Gilles Adrijaensen Tant",
 	"",
@@ -14579,6 +15241,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
@@ -14601,6 +15264,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Benijamijn Rawe",
 	"",
@@ -14623,6 +15287,7 @@
 		"place": "Unknown"
 	}],
 	"time": "",
+	"fuzzy": "1",
 	"tableContent": ["Onbekend",
 	"Cornelis Lambrechtsen",
 	"",

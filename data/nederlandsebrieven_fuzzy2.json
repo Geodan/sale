@@ -1,0 +1,46 @@
+[{
+	"id": "number 446",
+	"source": "Johannes Straeteius",
+	"target": "Lichtenberg",
+	"name": "Lichtenberg",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "3.8496815",
+		"lat": "51.4940309",
+		"place": "Zeeland"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "Paramaribo"
+	}],
+	"time": "1671-12-15",
+	"fuzzy": "2",
+	"tableContent": ["Johannes Straeteius",
+	"Lichtenberg",
+	"1671-12-15",
+	"Zeeland"]
+},
+{
+	"id": "number 493",
+	"source": "Mattijs Lantmeester",
+	"target": "Davidt Lisbrechtsen",
+	"name": "Davidt Lisbrechtsen",
+	"description": "Cornelis Bastiaense, Pieter Buteux",
+	"location": [{
+		"lon": "5.1369542",
+		"lat": "52.0604289",
+		"place": "Walcheren"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "1672-9-15",
+	"fuzzy": "2",
+	"tableContent": ["Mattijs Lantmeester",
+	"Davidt Lisbrechtsen",
+	"1672-9-15",
+	"Walcheren"]
+}]
