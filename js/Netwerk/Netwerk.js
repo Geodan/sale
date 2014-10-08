@@ -17,25 +17,39 @@ Netwerk.prototype = {
 	initLayout: function() {
 		var layout = this;
 		
-
+//TODO: set the width and height to something more sensible
 		var width = 800,
 		    height = 300,
 		    links;
-
-	   layout.svg = d3.select(layout.netwerkDiv).append("svg")
+		
+		 var svgdiv = d3.select(layout.netwerkDiv).append("svg")
 		    .attr("width", width)
 		    .attr("height", height);
 
+	   layout.svg = svgdiv
+	   		    .append("g")
+    			.attr("transform", "translate(" + 0 + "," + 0 + ")");
+ 	
+var zoom = d3.behavior.zoom()
+		    .scaleExtent([1, 10])
+		    .on("zoom", zoomed);
+		function zoomed() {
+ 		 svgdiv.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+		}
+		svgdiv.call(zoom);
+		
 		layout.force = d3.layout.force()
 		    .linkDistance(80)
 		    .charge(-120)
 		    .gravity(.05)
 		    .size([width, height]);
 			this.update();
+
+
 	},
 	update : function(selection) {
+		
 		var layout = this;
-
 		var link = layout.svg.selectAll(".link");
 		var node = layout.svg.selectAll(".node");
 
