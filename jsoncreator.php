@@ -41,7 +41,7 @@ while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
 	array_push($row_array['location'], $object2);
 	$row_array['time'] = $row['datum_verzonden'];
 	$row_array['fuzzy'] = $row['fuzzy'];
-	$row_array['tableContent'] = [$row['source'], $row['target'], $row['datum_verzonden'], $row['bestemming_locatie']] ;
+	$row_array['tableContent'] = $row['source'];
 
     array_push($return_arr,$row_array);
 }

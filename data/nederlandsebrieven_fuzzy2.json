@@ -16,10 +16,7 @@
 	}],
 	"time": "1671-12-15",
 	"fuzzy": "2",
-	"tableContent": ["Johannes Straeteius",
-	"Lichtenberg",
-	"1671-12-15",
-	null]
+	"tableContent": "Johannes Straeteius"
 },
 {
 	"id": "number 493",
@@ -39,8 +36,5 @@
 	}],
 	"time": "1672-9-15",
 	"fuzzy": "2",
-	"tableContent": ["Mattijs Lantmeester",
-	"Davidt Lisbrechtsen",
-	"1672-9-15",
-	null]
+	"tableContent": "Mattijs Lantmeester"
 }]
