@@ -5,9 +5,9 @@
 	"name": "Anna van Rasenberch",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -19,7 +19,7 @@
 	"tableContent": ["D. Rasenberch",
 	"Anna van Rasenberch",
 	"1672-1-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -28,9 +28,9 @@
 	"name": "David Kempe",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -42,7 +42,7 @@
 	"tableContent": ["Jan van der Meulen ",
 	"David Kempe",
 	"1671-12-24",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -51,9 +51,9 @@
 	"name": "Andries Clasen Vos",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -65,7 +65,7 @@
 	"tableContent": ["G. Wobma",
 	"Andries Clasen Vos",
 	"1672-9-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -74,9 +74,9 @@
 	"name": "Saartjie Hendricx",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-1.35",
@@ -88,7 +88,7 @@
 	"tableContent": ["Ouwel Jansz",
 	"Saartjie Hendricx",
 	"1671-11-23",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 16",
@@ -97,9 +97,9 @@
 	"name": "mr. Abrahamsis",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -111,7 +111,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"mr. Abrahamsis",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 22",
@@ -120,9 +120,9 @@
 	"name": "Abraham de Hartogh",
 	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
 	"location": [{
-		"lon": "4.4811111",
+		"lon": null,
 		"lat": "51.9216667",
-		"place": "Rotterdam"
+		"place": "The Netherlands\/Zuid-Holland\/Rotterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -134,7 +134,7 @@
 	"tableContent": ["Samuel de Witt",
 	"Abraham de Hartogh",
 	"1671-12-16",
-	"Rotterdam"]
+	"The Netherlands\/Zuid-Holland\/Rotterdam"]
 },
 {
 	"id": "number 23",
@@ -143,9 +143,9 @@
 	"name": "Pieter Thierrij",
 	"description": "Lijssebet Roos",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -157,7 +157,7 @@
 	"tableContent": ["Samuel Thierrij",
 	"Pieter Thierrij",
 	"",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 24",
@@ -166,9 +166,9 @@
 	"name": "Abraham Marchan",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -180,7 +180,7 @@
 	"tableContent": ["Sera de Lisle",
 	"Abraham Marchan",
 	"1672-1-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 25",
@@ -189,9 +189,9 @@
 	"name": "Jacobus vander Hoeve",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -203,7 +203,7 @@
 	"tableContent": ["Johan Simon",
 	"Jacobus vander Hoeve",
 	"1672-1-11",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 28",
@@ -212,9 +212,9 @@
 	"name": "Jan Dees",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -226,7 +226,7 @@
 	"tableContent": ["Jetien Jans",
 	"Jan Dees",
 	"1672-1-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 29",
@@ -235,9 +235,9 @@
 	"name": "Guiljam de Backer",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -249,7 +249,7 @@
 	"tableContent": ["A. Backer",
 	"Guiljam de Backer",
 	"1672-1-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 30",
@@ -258,9 +258,9 @@
 	"name": "Cornelia Bruns",
 	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -272,7 +272,7 @@
 	"tableContent": ["A. Brunsz",
 	"Cornelia Bruns",
 	"1672-1-1",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 31",
@@ -281,9 +281,9 @@
 	"name": "Benjamin Raule",
 	"description": "Johannis Robbersen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -295,7 +295,7 @@
 	"tableContent": ["A. Brunsz",
 	"Benjamin Raule",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 33",
@@ -304,9 +304,9 @@
 	"name": "Huijbert",
 	"description": "Onbekend",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -318,7 +318,7 @@
 	"tableContent": ["A. Thisso",
 	"Huijbert",
 	"1672-01-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 34",
@@ -327,9 +327,9 @@
 	"name": "Pieter van Delle",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -341,7 +341,7 @@
 	"tableContent": ["A. Thisso",
 	"Pieter van Delle",
 	"1672-01-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 35",
@@ -350,9 +350,9 @@
 	"name": "Abraham Musch",
 	"description": "Onbekend",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -364,7 +364,7 @@
 	"tableContent": ["A. Thisso",
 	"Abraham Musch",
 	"1672-09-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 36",
@@ -373,9 +373,9 @@
 	"name": "Collaerdt",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -387,7 +387,7 @@
 	"tableContent": ["A. Thisso",
 	"Collaerdt",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 37",
@@ -396,9 +396,9 @@
 	"name": "Claessen",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -410,7 +410,7 @@
 	"tableContent": ["A. Thisso",
 	"Claessen",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "3709",
@@ -419,9 +419,9 @@
 	"name": "Sausel de Meur",
 	"description": "Onbekend",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -433,7 +433,7 @@
 	"tableContent": ["A. Thisso",
 	"Sausel de Meur",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 39",
@@ -442,9 +442,9 @@
 	"name": "Gasparus Englis ",
 	"description": "Onbekend",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -456,7 +456,7 @@
 	"tableContent": ["A. Thisso",
 	"Gasparus Englis ",
 	"1672-01-08",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 40",
@@ -465,9 +465,9 @@
 	"name": "Huijbert",
 	"description": "Onbekend",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -479,7 +479,7 @@
 	"tableContent": ["A. Thisso",
 	"Huijbert",
 	"1672-01-08",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 41",
@@ -488,9 +488,9 @@
 	"name": "Abraham",
 	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -502,7 +502,7 @@
 	"tableContent": ["A. Thisso",
 	"Abraham",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 42",
@@ -511,9 +511,9 @@
 	"name": "Imje Henderijcks",
 	"description": "Barent Hermens Vooght",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -525,7 +525,7 @@
 	"tableContent": ["Anderisense Vos",
 	"Imje Henderijcks",
 	"1671-11-22",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 44",
@@ -534,9 +534,9 @@
 	"name": "Jacob Schoors",
 	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -548,7 +548,7 @@
 	"tableContent": ["Ab Schoors",
 	"Jacob Schoors",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 45",
@@ -557,9 +557,9 @@
 	"name": "Jean en Pieter Boudaen Courten",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -571,7 +571,7 @@
 	"tableContent": ["Ab Schoors",
 	"Jean en Pieter Boudaen Courten",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 46",
@@ -580,9 +580,9 @@
 	"name": "Adrianus van der Spoor",
 	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
 	"location": [{
-		"lon": "4.4811111",
+		"lon": null,
 		"lat": "51.9216667",
-		"place": "Rotterdam"
+		"place": "The Netherlands\/Zuid-Holland\/Rotterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -594,7 +594,7 @@
 	"tableContent": ["Abraham Haghens",
 	"Adrianus van der Spoor",
 	"1671-12-26",
-	"Rotterdam"]
+	"The Netherlands\/Zuid-Holland\/Rotterdam"]
 },
 {
 	"id": "number 47",
@@ -603,9 +603,9 @@
 	"name": "Jacob Pedeceur",
 	"description": "Lijssebet Roos",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -617,7 +617,7 @@
 	"tableContent": ["Abraham Haghens",
 	"Jacob Pedeceur",
 	"1671-12-27",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 48",
@@ -626,9 +626,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg "
+		"place": "The Netherlands\/Zeeland\/Middelburg "
 	},
 	{
 		"lon": "-56.027783",
@@ -640,7 +640,7 @@
 	"tableContent": ["Abraham Paldinck",
 	"Onbekend",
 	"1672-1-5",
-	"Middelburg "]
+	"The Netherlands\/Zeeland\/Middelburg "]
 },
 {
 	"id": "number 49",
@@ -649,9 +649,9 @@
 	"name": "Neelken Anderijsen",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -663,7 +663,7 @@
 	"tableContent": ["Abraham Pattijn",
 	"Neelken Anderijsen",
 	"1672-9-15",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 51",
@@ -672,9 +672,9 @@
 	"name": "Abraham de Hertogh",
 	"description": "",
 	"location": [{
-		"lon": "4.4811111",
+		"lon": null,
 		"lat": "51.9216667",
-		"place": "Rotterdam"
+		"place": "The Netherlands\/Zuid-Holland\/Rotterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -686,7 +686,7 @@
 	"tableContent": ["Adrijaen van der Spiegel",
 	"Abraham de Hertogh",
 	"1672-1-6",
-	"Rotterdam"]
+	"The Netherlands\/Zuid-Holland\/Rotterdam"]
 },
 {
 	"id": "number 52",
@@ -695,9 +695,9 @@
 	"name": "Jan de Backer",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -709,7 +709,7 @@
 	"tableContent": ["Adrijaen Jansen",
 	"Jan de Backer",
 	"1672-9-15",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 53",
@@ -718,9 +718,9 @@
 	"name": "Weduwe van Caristijaen Coollemans",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -732,7 +732,7 @@
 	"tableContent": ["Adrijaen van de Spiegel",
 	"Weduwe van Caristijaen Coollemans",
 	"1672-1-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 58",
@@ -741,9 +741,9 @@
 	"name": "Abraham Sis",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -755,7 +755,7 @@
 	"tableContent": ["Alexander Batij",
 	"Abraham Sis",
 	"1672-1-10",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 59",
@@ -764,9 +764,9 @@
 	"name": "Christiaen Gruterus",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -778,7 +778,7 @@
 	"tableContent": ["Alexander Batij",
 	"Christiaen Gruterus",
 	"1672-1-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 60",
@@ -787,9 +787,9 @@
 	"name": "Anna Mees ",
 	"description": "Willem Span (predikant) (weduwe)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -801,7 +801,7 @@
 	"tableContent": ["Alexander Batij",
 	"Anna Mees ",
 	"1672-1-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 61",
@@ -810,9 +810,9 @@
 	"name": "Anna Mees ",
 	"description": "Willem Span (predikant) (weduwe)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -824,7 +824,7 @@
 	"tableContent": ["Alexander Batij",
 	"Anna Mees ",
 	"1672-9-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 62",
@@ -833,9 +833,9 @@
 	"name": "Maeijken Cornelisen Robels ",
 	"description": " Jacob Dimmesen (weduwe)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -847,7 +847,7 @@
 	"tableContent": ["Alexander Batij",
 	"Maeijken Cornelisen Robels ",
 	"1671-11-27",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2864",
@@ -856,9 +856,9 @@
 	"name": "Alexander Batij",
 	"description": "",
 	"location": [{
-		"lon": "4.3006999",
+		"lon": null,
 		"lat": "52.0704978",
-		"place": "Den Haag"
+		"place": "The Netherlands\/Zuid-Holland\/Den Haag"
 	},
 	{
 		"lon": "-55.0333333",
@@ -870,7 +870,7 @@
 	"tableContent": ["Alexander Batij",
 	"Alexander Batij",
 	"1672-1-7",
-	"Den Haag"]
+	"The Netherlands\/Zuid-Holland\/Den Haag"]
 },
 {
 	"id": "2524",
@@ -879,9 +879,9 @@
 	"name": "Jacob van Hoorn",
 	"description": "Jacob Pink, Jan Bolle, Cornelis Bastiaensen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -893,7 +893,7 @@
 	"tableContent": ["Alexander Batij",
 	"Jacob van Hoorn",
 	"1672-1-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 66",
@@ -902,9 +902,9 @@
 	"name": "Elisabet de Grave",
 	"description": "Pieter Versterre (moeder)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -916,7 +916,7 @@
 	"tableContent": ["Alexander Batij",
 	"Elisabet de Grave",
 	"1672-1-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 71",
@@ -925,9 +925,9 @@
 	"name": "Susanneke de Sever",
 	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -939,7 +939,7 @@
 	"tableContent": ["Andraes Engelse",
 	"Susanneke de Sever",
 	"1671-12-31",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 72",
@@ -948,9 +948,9 @@
 	"name": "Drost",
 	"description": "",
 	"location": [{
-		"lon": "4.4811111",
+		"lon": null,
 		"lat": "51.9216667",
-		"place": "Rotterdam "
+		"place": "The Netherlands\/Zuid-Holland\/Rotterdam "
 	},
 	{
 		"lon": "-83.7466403",
@@ -962,7 +962,7 @@
 	"tableContent": ["Anna van Staden",
 	"Drost",
 	"1672-01-13",
-	"Rotterdam "]
+	"The Netherlands\/Zuid-Holland\/Rotterdam "]
 },
 {
 	"id": "number 73",
@@ -971,9 +971,9 @@
 	"name": "Jan Wittebol",
 	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-1.35",
@@ -985,7 +985,7 @@
 	"tableContent": ["Annetie Wittebol",
 	"Jan Wittebol",
 	"",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 74",
@@ -994,9 +994,9 @@
 	"name": "Flijp Jansen",
 	"description": "Lijssebet Roos",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1008,7 +1008,7 @@
 	"tableContent": ["Ans Cornelijssen",
 	"Flijp Jansen",
 	"1672-1-3",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 75",
@@ -1017,9 +1017,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1031,7 +1031,7 @@
 	"tableContent": ["Antonis Jeroensen Rijckquaert",
 	"Onbekend",
 	"1672-9-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 76",
@@ -1040,9 +1040,9 @@
 	"name": "Jeroen Rijkaart",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1054,7 +1054,7 @@
 	"tableContent": ["Antonis Jeroensen Rijckquaert",
 	"Jeroen Rijkaart",
 	"1672-9-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 77",
@@ -1063,9 +1063,9 @@
 	"name": "Frans Dinie schekvaerts",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1077,7 +1077,7 @@
 	"tableContent": ["Antonis Jeroensen Rijckquaert",
 	"Frans Dinie schekvaerts",
 	"1671-12-31",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "3112",
@@ -1086,9 +1086,9 @@
 	"name": "Willem Wilhelmie",
 	"description": "Daniel Jansen van de Putte, Alecxander Artur, Jan Andriesen, jacob soetelinck, Cornelis berge ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1100,7 +1100,7 @@
 	"tableContent": ["Augustinus Brun",
 	"Willem Wilhelmie",
 	"1672-1-1",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 79",
@@ -1109,9 +1109,9 @@
 	"name": "Johannes de Loovers ",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1123,7 +1123,7 @@
 	"tableContent": ["Augustinus Brun",
 	"Johannes de Loovers ",
 	"1672-1-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 80",
@@ -1132,9 +1132,9 @@
 	"name": "weduwe van Crijn Mangelaer",
 	"description": "",
 	"location": [{
-		"lon": "3.9184977",
+		"lon": null,
 		"lat": "51.6501218",
-		"place": "Zierikzee"
+		"place": "The Netherlands\/Zeeland\/Zierikzee"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1146,7 +1146,7 @@
 	"tableContent": ["Augustinus Brun",
 	"weduwe van Crijn Mangelaer",
 	"1672-1-1",
-	"Zierikzee"]
+	"The Netherlands\/Zeeland\/Zierikzee"]
 },
 {
 	"id": "2834",
@@ -1155,9 +1155,9 @@
 	"name": "Johannes Baert",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1169,7 +1169,7 @@
 	"tableContent": ["Cornelis Berge",
 	"Johannes Baert",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "3259",
@@ -1178,9 +1178,9 @@
 	"name": "Henricus Carker",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1192,7 +1192,7 @@
 	"tableContent": ["Augustinus Brun",
 	"Henricus Carker",
 	"1671-10-16",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "3387",
@@ -1201,9 +1201,9 @@
 	"name": "Jacobus Alleyn",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1215,7 +1215,7 @@
 	"tableContent": ["Augustinus Brun",
 	"Jacobus Alleyn",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "3408",
@@ -1224,9 +1224,9 @@
 	"name": "Josijas Alleijn",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1238,7 +1238,7 @@
 	"tableContent": ["Augustinus Brun",
 	"Josijas Alleijn",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 86",
@@ -1247,9 +1247,9 @@
 	"name": "Heerman Abramz",
 	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -1261,7 +1261,7 @@
 	"tableContent": ["Barent Harmansz Voocht",
 	"Heerman Abramz",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 87",
@@ -1270,9 +1270,9 @@
 	"name": "Jintie Henderickz",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -1284,7 +1284,7 @@
 	"tableContent": ["Barent Harmensz Voocht",
 	"Jintie Henderickz",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 90",
@@ -1293,9 +1293,9 @@
 	"name": "Adriana Jans Last",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -1307,7 +1307,7 @@
 	"tableContent": ["Bastiaen Jansen Verhooren",
 	"Adriana Jans Last",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 91",
@@ -1316,9 +1316,9 @@
 	"name": "Moises Cattjouw",
 	"description": "",
 	"location": [{
-		"lon": "3.6660061",
+		"lon": null,
 		"lat": "51.5482937",
-		"place": "Veere"
+		"place": "The Netherlands\/ZeelandVeere"
 	},
 	{
 		"lon": "-56.027783",
@@ -1330,7 +1330,7 @@
 	"tableContent": ["Bastiaen Thijssen Danielsen",
 	"Moises Cattjouw",
 	"1672-9-5",
-	"Veere"]
+	"The Netherlands\/ZeelandVeere"]
 },
 {
 	"id": "number 92",
@@ -1339,9 +1339,9 @@
 	"name": "Moises Cattjouw",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1353,7 +1353,7 @@
 	"tableContent": ["Bastiaen Thijssen Danielsen",
 	"Moises Cattjouw",
 	"1672-9-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 93",
@@ -1362,9 +1362,9 @@
 	"name": "Johannis Jansonus",
 	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1376,7 +1376,7 @@
 	"tableContent": ["Bastiaen Thijssen Danielsen",
 	"Johannis Jansonus",
 	"1672-9-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 94",
@@ -1385,9 +1385,9 @@
 	"name": "Dirck Stakenburch",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -1399,7 +1399,7 @@
 	"tableContent": ["Bastiaen Thijssen Danielsen",
 	"Dirck Stakenburch",
 	"1672-9-5",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 95",
@@ -1408,9 +1408,9 @@
 	"name": "Jan Pietersen Backer",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -1422,7 +1422,7 @@
 	"tableContent": ["Benedictus Marius",
 	"Jan Pietersen Backer",
 	"1672-1-9",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 96",
@@ -1431,9 +1431,9 @@
 	"name": "Onbekend",
 	"description": "Johannis Robbersen",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -1445,7 +1445,7 @@
 	"tableContent": ["Benedictus Marius",
 	"Onbekend",
 	"1672-1-9",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "283",
@@ -1454,9 +1454,9 @@
 	"name": "Pieter Heringsen",
 	"description": "",
 	"location": [{
-		"lon": "-7.1291667",
+		"lon": null,
 		"lat": "52.2566667",
-		"place": "Waterford"
+		"place": "England\/Waterford\/Waterford"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1468,7 +1468,7 @@
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-2-1",
-	"Waterford"]
+	"England\/Waterford\/Waterford"]
 },
 {
 	"id": "number 107",
@@ -1477,21 +1477,21 @@
 	"name": "Pieter Heringsen",
 	"description": "",
 	"location": [{
-		"lon": "-7.1291667",
+		"lon": null,
 		"lat": "52.2566667",
-		"place": "Waterford"
+		"place": "England\/Waterford\/Waterford"
 	},
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1672-2-12",
 	"fuzzy": "1",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-2-12",
-	"Waterford"]
+	"England\/Waterford\/Waterford"]
 },
 {
 	"id": "number 118",
@@ -1500,9 +1500,9 @@
 	"name": "Gilles en Pieter Munnickx",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1514,7 +1514,7 @@
 	"tableContent": ["Boudewijn de Witte",
 	"Gilles en Pieter Munnickx",
 	"1671-9-15",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 119",
@@ -1523,9 +1523,9 @@
 	"name": "Gillis Munnicks",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1537,7 +1537,7 @@
 	"tableContent": ["Boudewijn de Witte",
 	"Gillis Munnicks",
 	"1671-12-16",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 120",
@@ -1546,9 +1546,9 @@
 	"name": "Jean de Witte",
 	"description": "",
 	"location": [{
-		"lon": "4.4811111",
+		"lon": null,
 		"lat": "51.9216667",
-		"place": "Rotterdam"
+		"place": "The Netherlands\/Zuid-Holland\/Rotterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1560,7 +1560,7 @@
 	"tableContent": ["Boudewijn de Witte",
 	"Jean de Witte",
 	"1671-12-20",
-	"Rotterdam"]
+	"The Netherlands\/Zuid-Holland\/Rotterdam"]
 },
 {
 	"id": "2668",
@@ -1569,9 +1569,9 @@
 	"name": "Susanneken Hals",
 	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1583,7 +1583,7 @@
 	"tableContent": ["Carel Nachtegael",
 	"Susanneken Hals",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2688",
@@ -1592,9 +1592,9 @@
 	"name": "Hubert Huyberts",
 	"description": "Arthur Nachtegael (broer)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1606,7 +1606,7 @@
 	"tableContent": ["Carel Nachtegael",
 	"Hubert Huyberts",
 	"1672-1-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2522",
@@ -1615,9 +1615,9 @@
 	"name": "Pietter van Goetem",
 	"description": "Alexander Arter, Cornelis Bastiaensen, Raphaell Boab",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -1629,7 +1629,7 @@
 	"tableContent": ["Carel Nachtegael",
 	"Pietter van Goetem",
 	"1672-1-6",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2518",
@@ -1638,9 +1638,9 @@
 	"name": "Jannes Soniers",
 	"description": "Alexander Arter, Cornelis Bastiaenssen, Raphaell Boas",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1652,7 +1652,7 @@
 	"tableContent": ["Carel Nachtegael",
 	"Jannes Soniers",
 	"1672-1-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 131",
@@ -1661,9 +1661,9 @@
 	"name": "Carel van Poelevelt",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1675,7 +1675,7 @@
 	"tableContent": ["Carel Nachtegael",
 	"Carel van Poelevelt",
 	"1672-1-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 133",
@@ -1684,9 +1684,9 @@
 	"name": "weduwe van Abraham Cleeuwaert",
 	"description": "Johannis Robbersen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -1698,7 +1698,7 @@
 	"tableContent": ["Onbekend",
 	"weduwe van Abraham Cleeuwaert",
 	"1672-9-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 134",
@@ -1707,9 +1707,9 @@
 	"name": "Anderis Clase Vos",
 	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1721,7 +1721,7 @@
 	"tableContent": ["Claes Anderseros",
 	"Anderis Clase Vos",
 	"1671-11-23",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 136",
@@ -1730,9 +1730,9 @@
 	"name": "hr. vander Siux",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-1.35",
@@ -1744,7 +1744,7 @@
 	"tableContent": ["Claes Jansz. Bloem",
 	"hr. vander Siux",
 	"1671-11-23",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 137",
@@ -1753,9 +1753,9 @@
 	"name": "Neeltie Claes",
 	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-1.35",
@@ -1767,7 +1767,7 @@
 	"tableContent": ["Claes Jansz. Bloem",
 	"Neeltie Claes",
 	"1671-11-23",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 138",
@@ -1776,9 +1776,9 @@
 	"name": "Janneken Jans",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg "
+		"place": "The Netherlands\/Zeeland\/Middelburg "
 	},
 	{
 		"lon": "-55.2038278",
@@ -1790,7 +1790,7 @@
 	"tableContent": ["Claes Raes",
 	"Janneken Jans",
 	"1672-1-12",
-	"Middelburg "]
+	"The Netherlands\/Zeeland\/Middelburg "]
 },
 {
 	"id": "number 139",
@@ -1799,9 +1799,9 @@
 	"name": "Laurens Willemsen Verpoorten",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1813,7 +1813,7 @@
 	"tableContent": ["Claes Raes",
 	"Laurens Willemsen Verpoorten",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 140",
@@ -1822,9 +1822,9 @@
 	"name": "Janneken Jans ",
 	"description": "Johannis Robbersen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -1836,7 +1836,7 @@
 	"tableContent": ["Claes Raes",
 	"Janneken Jans ",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 141",
@@ -1845,9 +1845,9 @@
 	"name": "Laurens Willemsen Verpoorte",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -1859,7 +1859,7 @@
 	"tableContent": ["Claes Raes",
 	"Laurens Willemsen Verpoorte",
 	"1672-1-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 142",
@@ -1868,9 +1868,9 @@
 	"name": "Sierckove",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1882,7 +1882,7 @@
 	"tableContent": ["Claes Raes",
 	"Sierckove",
 	"1672-1-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 143",
@@ -1891,9 +1891,9 @@
 	"name": "Claes Raes",
 	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1905,7 +1905,7 @@
 	"tableContent": ["Claes Raes",
 	"Claes Raes",
 	"1672-1-14",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 147",
@@ -1914,9 +1914,9 @@
 	"name": "Inkemijnje Jacops ",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1928,7 +1928,7 @@
 	"tableContent": ["Claes Reijniersen",
 	"Inkemijnje Jacops ",
 	"1672-9-16",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 159",
@@ -1937,9 +1937,9 @@
 	"name": "Isack de Montesijnes",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1951,7 +1951,7 @@
 	"tableContent": ["cognossement",
 	"Isack de Montesijnes",
 	"1671-12-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 172",
@@ -1960,9 +1960,9 @@
 	"name": "Anne Genevene de Huybert",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -1974,7 +1974,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Anne Genevene de Huybert",
 	"1672-1-7",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 174",
@@ -1983,9 +1983,9 @@
 	"name": "Marija Jans",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -1997,7 +1997,7 @@
 	"tableContent": ["Coraelis Kien",
 	"Marija Jans",
 	"1672-1-3",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 175",
@@ -2006,9 +2006,9 @@
 	"name": "Maria Jans",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2020,7 +2020,7 @@
 	"tableContent": ["Coraelis Kien",
 	"Maria Jans",
 	"1672-1-3",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 176",
@@ -2029,9 +2029,9 @@
 	"name": "Gilliam de Backer",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -2043,7 +2043,7 @@
 	"tableContent": ["Corn. Snelleman",
 	"Gilliam de Backer",
 	"1672-1-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2844",
@@ -2052,9 +2052,9 @@
 	"name": "Elijsabet Frans",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -2066,7 +2066,7 @@
 	"tableContent": ["Cornelis Berge",
 	"Elijsabet Frans",
 	"1672-1-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 181",
@@ -2075,9 +2075,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2089,7 +2089,7 @@
 	"tableContent": ["Cornelis Berge",
 	"Onbekend",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2936",
@@ -2098,9 +2098,9 @@
 	"name": "Pieter Kruissen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2112,7 +2112,7 @@
 	"tableContent": ["Cornelis Berge",
 	"Pieter Kruissen",
 	"1672-1-1",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 183",
@@ -2121,9 +2121,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2135,7 +2135,7 @@
 	"tableContent": ["Cornelis Berge",
 	"Onbekend",
 	"1672-1-14",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 185",
@@ -2144,9 +2144,9 @@
 	"name": "Reinst Melles",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -2158,7 +2158,7 @@
 	"tableContent": ["Cornelis Florisz. van Graft",
 	"Reinst Melles",
 	"1672-1-11",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 186",
@@ -2167,9 +2167,9 @@
 	"name": "Reinst Melles",
 	"description": "",
 	"location": [{
-		"lon": "4.832044",
+		"lon": null,
 		"lat": "52.5622696",
-		"place": "Graft"
+		"place": "The Netherlands\/Noord-Holland\/Graft"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2181,7 +2181,7 @@
 	"tableContent": ["Cornelis Florisz. van Graft",
 	"Reinst Melles",
 	"1672-1-11",
-	"Graft"]
+	"The Netherlands\/Noord-Holland\/Graft"]
 },
 {
 	"id": "number 187",
@@ -2190,9 +2190,9 @@
 	"name": "Cornelis Fransse Cudde",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -2204,7 +2204,7 @@
 	"tableContent": ["Cornelis Franssen Cuddels",
 	"Cornelis Fransse Cudde",
 	"1672-9-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 188",
@@ -2213,9 +2213,9 @@
 	"name": "Jacob en Geleijn Leijnsen ",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -2227,7 +2227,7 @@
 	"tableContent": ["Cornelis Franssen Cuddels",
 	"Jacob en Geleijn Leijnsen ",
 	"1672-9-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 189",
@@ -2236,9 +2236,9 @@
 	"name": "Vrouw van Cornelis Fransz. Cudde",
 	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2250,7 +2250,7 @@
 	"tableContent": ["Cornelis Franssen Cuddels",
 	"Vrouw van Cornelis Fransz. Cudde",
 	"1672-9-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 193",
@@ -2259,9 +2259,9 @@
 	"name": "Hester van Sitterich",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -2273,7 +2273,7 @@
 	"tableContent": ["Cornelis Snelleman",
 	"Hester van Sitterich",
 	"1672-1-8",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 194",
@@ -2282,9 +2282,9 @@
 	"name": "Justus Backer",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -2296,7 +2296,7 @@
 	"tableContent": ["Cornelis Snelleman",
 	"Justus Backer",
 	"1672-1-8",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 195",
@@ -2305,9 +2305,9 @@
 	"name": "Magdeleentien Walem",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -2319,7 +2319,7 @@
 	"tableContent": ["Cornelis van Machem",
 	"Magdeleentien Walem",
 	"1672-1-11",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 196",
@@ -2328,9 +2328,9 @@
 	"name": "mijnheer de Chavoones",
 	"description": "Johannis Robbersen",
 	"location": [{
-		"lon": "4.0548869",
+		"lon": null,
 		"lat": "51.2806907",
-		"place": "Hulst"
+		"place": "The Netherlands\/Zeeland\/Hulst"
 	},
 	{
 		"lon": "-56.027783",
@@ -2342,7 +2342,7 @@
 	"tableContent": ["Dominicus Pottey",
 	"mijnheer de Chavoones",
 	"1672-9-11",
-	"Hulst"]
+	"The Netherlands\/Zeeland\/Hulst"]
 },
 {
 	"id": "number 197",
@@ -2351,9 +2351,9 @@
 	"name": "Hermanus Pottij",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2365,7 +2365,7 @@
 	"tableContent": ["Dominicus Pottey",
 	"Hermanus Pottij",
 	"1672-9-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 198",
@@ -2374,9 +2374,9 @@
 	"name": "Jacobus Veth",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2388,7 +2388,7 @@
 	"tableContent": ["Dominicus Pottey",
 	"Jacobus Veth",
 	"1672-9-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 199",
@@ -2397,9 +2397,9 @@
 	"name": "Susanna d'Olijslager",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2411,7 +2411,7 @@
 	"tableContent": ["Daniel d'Olijslager",
 	"Susanna d'Olijslager",
 	"1672-1-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 200",
@@ -2420,9 +2420,9 @@
 	"name": "Cornelis Pets",
 	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg "
+		"place": "The Netherlands\/Zeeland\/Middelburg "
 	},
 	{
 		"lon": "-56.027783",
@@ -2434,7 +2434,7 @@
 	"tableContent": ["Daniel Pets",
 	"Cornelis Pets",
 	"1672-1-15",
-	"Middelburg "]
+	"The Netherlands\/Zeeland\/Middelburg "]
 },
 {
 	"id": "number 201",
@@ -2443,9 +2443,9 @@
 	"name": "Pieter Akkerman",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2457,7 +2457,7 @@
 	"tableContent": ["Dirck Abrahamsen",
 	"Pieter Akkerman",
 	"1672-1-1",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 202",
@@ -2466,9 +2466,9 @@
 	"name": "mijnheer de Chavoones",
 	"description": "",
 	"location": [{
-		"lon": "4.0548869",
+		"lon": null,
 		"lat": "51.2806907",
-		"place": "Hulst"
+		"place": "The Netherlands\/Zeeland\/Hulst"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2480,7 +2480,7 @@
 	"tableContent": ["Dominicus Pottey",
 	"mijnheer de Chavoones",
 	"1672-9-11",
-	"Hulst"]
+	"The Netherlands\/Zeeland\/Hulst"]
 },
 {
 	"id": "number 203",
@@ -2489,9 +2489,9 @@
 	"name": "Hermanus Pottij",
 	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2503,7 +2503,7 @@
 	"tableContent": ["Dominicus Pottey",
 	"Hermanus Pottij",
 	"1672-9-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 204",
@@ -2512,9 +2512,9 @@
 	"name": "Jacobus Veth",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2526,7 +2526,30 @@
 	"tableContent": ["Dominicus Pottey",
 	"Jacobus Veth",
 	"1672-9-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
+},
+{
+	"id": "number 205",
+	"source": "Dominicus Stegelits",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
+	"location": [{
+		"lon": null,
+		"lat": "51.4536672",
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "Suriname"
+	}],
+	"time": "",
+	"fuzzy": "1",
+	"tableContent": ["Dominicus Stegelits",
+	"Onbekend",
+	"",
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 206",
@@ -2535,9 +2558,9 @@
 	"name": "David Kempe",
 	"description": "Lijssebet Roos",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -2549,7 +2572,7 @@
 	"tableContent": ["Du Plessis Du Bellay",
 	"David Kempe",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 207",
@@ -2558,9 +2581,9 @@
 	"name": "Cornelija vanden Weijde",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2572,7 +2595,7 @@
 	"tableContent": ["Elijsabeth Emerij",
 	"Cornelija vanden Weijde",
 	"1672-1-9",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 211",
@@ -2581,9 +2604,9 @@
 	"name": "Neeltje van der Weijde",
 	"description": "Jan Machielsen (broer), Naechtergael, Pieter Vermere, ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2595,7 +2618,7 @@
 	"tableContent": ["Elijsabeth Emerij",
 	"Neeltje van der Weijde",
 	"1672-9-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 212",
@@ -2604,9 +2627,9 @@
 	"name": "Neeltje van der Weijde",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2618,7 +2641,7 @@
 	"tableContent": ["Elijsabeth Emerij",
 	"Neeltje van der Weijde",
 	"1672-9-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 232",
@@ -2627,9 +2650,9 @@
 	"name": "Fillipina van Raij",
 	"description": "",
 	"location": [{
-		"lon": "4.3006999",
+		"lon": null,
 		"lat": "52.0704978",
-		"place": "Den Haag"
+		"place": "The Netherlands\/Zuid-Holland\/Den Haag"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2641,7 +2664,7 @@
 	"tableContent": ["F. V. Meijden",
 	"Fillipina van Raij",
 	"1671-11-24",
-	"Den Haag"]
+	"The Netherlands\/Zuid-Holland\/Den Haag"]
 },
 {
 	"id": "number 233",
@@ -2650,9 +2673,9 @@
 	"name": "Adriaan Bleeck",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -2664,7 +2687,7 @@
 	"tableContent": ["Fijlippus Bracht",
 	"Adriaan Bleeck",
 	"1672-1-6",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 235",
@@ -2673,9 +2696,9 @@
 	"name": "Pieter Heerensen",
 	"description": "",
 	"location": [{
-		"lon": "-7.1291667",
+		"lon": null,
 		"lat": "52.2566667",
-		"place": "Waterford"
+		"place": "England\/Waterford\/Waterford"
 	},
 	{
 		"lon": "-0.1254872",
@@ -2687,7 +2710,7 @@
 	"tableContent": ["Francois Tyssen",
 	"Pieter Heerensen",
 	"1671-2-17",
-	"Waterford"]
+	"England\/Waterford\/Waterford"]
 },
 {
 	"id": "number 236",
@@ -2696,9 +2719,9 @@
 	"name": "Pieter Heerensen",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "-7.1291667",
+		"lon": null,
 		"lat": "52.2566667",
-		"place": "Waterford"
+		"place": "England\/Waterford\/Waterford"
 	},
 	{
 		"lon": "-0.1254872",
@@ -2710,7 +2733,7 @@
 	"tableContent": ["Francois Tyssen",
 	"Pieter Heerensen",
 	"1671-2-6",
-	"Waterford"]
+	"England\/Waterford\/Waterford"]
 },
 {
 	"id": "number 239",
@@ -2719,9 +2742,9 @@
 	"name": "Hancken Jooren",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2733,7 +2756,7 @@
 	"tableContent": ["Frederijck van Rijm",
 	"Hancken Jooren",
 	"1672-1-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 240",
@@ -2742,9 +2765,9 @@
 	"name": "Luijntie Jans ",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-1.35",
@@ -2756,7 +2779,7 @@
 	"tableContent": ["Gesiewert Roos",
 	"Luijntie Jans ",
 	"1671-11-23",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 241",
@@ -2765,9 +2788,9 @@
 	"name": "Andries Claasz. Vos",
 	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2779,7 +2802,7 @@
 	"tableContent": ["Gerard Wobma",
 	"Andries Claasz. Vos",
 	"1672-9-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 242",
@@ -2788,9 +2811,9 @@
 	"name": "Pieter van Deijle",
 	"description": "Barent Hermens Vooght",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -2802,7 +2825,7 @@
 	"tableContent": ["Gideon Morris",
 	"Pieter van Deijle",
 	"1672-1-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 243",
@@ -2811,9 +2834,9 @@
 	"name": "Erasmus Beddelo",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2825,7 +2848,7 @@
 	"tableContent": ["Gillame Beddelo",
 	"Erasmus Beddelo",
 	"1672-11-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 244",
@@ -2834,9 +2857,9 @@
 	"name": "Erasmus Beddelo",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2848,7 +2871,7 @@
 	"tableContent": ["Gillame Beddelo",
 	"Erasmus Beddelo",
 	"1672-9-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 246",
@@ -2857,9 +2880,9 @@
 	"name": "Catelijntie Grindets",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -2871,7 +2894,7 @@
 	"tableContent": ["Golken Ceuvelaer",
 	"Catelijntie Grindets",
 	"1672-1-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 250",
@@ -2880,9 +2903,9 @@
 	"name": "David Kempe",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -2894,7 +2917,7 @@
 	"tableContent": ["H. De Huijbert",
 	"David Kempe",
 	"1672-1-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 251",
@@ -2903,9 +2926,9 @@
 	"name": "Pieter de Huijbert",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -2917,7 +2940,7 @@
 	"tableContent": ["H. De Huijbert",
 	"Pieter de Huijbert",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 252",
@@ -2926,9 +2949,9 @@
 	"name": "Joos de Badt",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -2940,7 +2963,7 @@
 	"tableContent": ["Ahbraham de Badt",
 	"Joos de Badt",
 	"1672-9-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 253",
@@ -2949,9 +2972,9 @@
 	"name": "Grije en Marije Straetemaens",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2963,7 +2986,7 @@
 	"tableContent": ["Heinderick Straetemaens",
 	"Grije en Marije Straetemaens",
 	"1672-1-7",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 254",
@@ -2972,9 +2995,9 @@
 	"name": "Jacob Pietersen",
 	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -2986,7 +3009,7 @@
 	"tableContent": ["Heinderick Straetemaens",
 	"Jacob Pietersen",
 	"1672-1-7",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 255",
@@ -2995,9 +3018,9 @@
 	"name": "Jacob Pietersen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -3009,7 +3032,7 @@
 	"tableContent": ["Heinderick Straetemaens",
 	"Jacob Pietersen",
 	"1672-1-7",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 257",
@@ -3018,9 +3041,9 @@
 	"name": "Abiegel Harmens",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3032,7 +3055,7 @@
 	"tableContent": ["Hendrick de Harder",
 	"Abiegel Harmens",
 	"",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 258",
@@ -3041,9 +3064,9 @@
 	"name": "Heremans Aberamsen",
 	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3055,7 +3078,7 @@
 	"tableContent": ["Hendrick de Harder",
 	"Heremans Aberamsen",
 	"1671-10-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 259",
@@ -3064,9 +3087,9 @@
 	"name": "Heremans Aberamsen",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3078,7 +3101,7 @@
 	"tableContent": ["Hendrick de Harder",
 	"Heremans Aberamsen",
 	"",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 261",
@@ -3087,9 +3110,9 @@
 	"name": "Jacob Huiberts",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "5.8987296",
+		"lon": null,
 		"lat": "51.9851034",
-		"place": "Arnhem"
+		"place": "The Netherlands\/Gelderland\/Arnhem"
 	},
 	{
 		"lon": "-56.027783",
@@ -3101,7 +3124,7 @@
 	"tableContent": ["Hendrick Huiberts",
 	"Jacob Huiberts",
 	"1672-1-11",
-	"Arnhem"]
+	"The Netherlands\/Gelderland\/Arnhem"]
 },
 {
 	"id": "number 263",
@@ -3110,9 +3133,9 @@
 	"name": "Wilmina Ploech",
 	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -3124,7 +3147,7 @@
 	"tableContent": ["Hendrick Huiberts",
 	"Wilmina Ploech",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 264",
@@ -3133,9 +3156,9 @@
 	"name": "Andries Claesen Vos",
 	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -3147,7 +3170,7 @@
 	"tableContent": ["Hendrick Huiberts",
 	"Andries Claesen Vos",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 266",
@@ -3156,9 +3179,9 @@
 	"name": "Nicolaes Thijmonss Pott",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -3170,7 +3193,7 @@
 	"tableContent": ["Hendrick Huiberts",
 	"Nicolaes Thijmonss Pott",
 	"1672-1-9",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 269",
@@ -3179,9 +3202,9 @@
 	"name": "Philipus Julius Lichtenbergh",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3193,7 +3216,7 @@
 	"tableContent": ["Herman de Huijbert",
 	"Philipus Julius Lichtenbergh",
 	"1672-1-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 270",
@@ -3202,9 +3225,9 @@
 	"name": "Anna Geneveuve de Huijbert",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -3216,7 +3239,7 @@
 	"tableContent": ["Herman de Huijbert",
 	"Anna Geneveuve de Huijbert",
 	"1672-12-26",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 271",
@@ -3225,9 +3248,9 @@
 	"name": "Onbekend",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3239,7 +3262,7 @@
 	"tableContent": ["Herman de Huijbert",
 	"Onbekend",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 272",
@@ -3248,9 +3271,9 @@
 	"name": "Justus de Huijbert",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3262,7 +3285,7 @@
 	"tableContent": ["Herman de Huijbert",
 	"Justus de Huijbert",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 274",
@@ -3271,9 +3294,9 @@
 	"name": "Aderjantie Dorsmans",
 	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3285,7 +3308,7 @@
 	"tableContent": ["Ia Weijers",
 	"Aderjantie Dorsmans",
 	"1672-9-14",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 275",
@@ -3294,9 +3317,9 @@
 	"name": "Gerwom Isacksen",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -3308,7 +3331,7 @@
 	"tableContent": ["Ia Weijers",
 	"Gerwom Isacksen",
 	"1672-9-14",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 276",
@@ -3317,9 +3340,9 @@
 	"name": "Pedro Henriques Pereira ",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "4.4024643",
+		"lon": null,
 		"lat": "51.2194475",
-		"place": "Antwerpen"
+		"place": "Belgium\/Antwerpen\/Antwerpen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3331,7 +3354,7 @@
 	"tableContent": ["Isaque Monteira",
 	"Pedro Henriques Pereira ",
 	"1671-12-12",
-	"Antwerpen"]
+	"Belgium\/Antwerpen\/Antwerpen"]
 },
 {
 	"id": "number 277",
@@ -3340,9 +3363,9 @@
 	"name": "Paulo en Jacome Pintto",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3354,7 +3377,7 @@
 	"tableContent": ["Isaque Monteira",
 	"Paulo en Jacome Pintto",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 278",
@@ -3363,9 +3386,9 @@
 	"name": "Johan van Roosbeke",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3377,7 +3400,7 @@
 	"tableContent": ["J Clercq",
 	"Johan van Roosbeke",
 	"1672-1-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 279",
@@ -3386,9 +3409,9 @@
 	"name": "Pieter Ackerman",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3400,7 +3423,7 @@
 	"tableContent": ["J Clercq",
 	"Pieter Ackerman",
 	"1672-1-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 280",
@@ -3409,9 +3432,9 @@
 	"name": "Johannus Berckman",
 	"description": "Cornelis Maertins",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3423,7 +3446,7 @@
 	"tableContent": ["J Clercq",
 	"Johannus Berckman",
 	"1672-1-9",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 281",
@@ -3432,9 +3455,9 @@
 	"name": "Jacobus Bouck",
 	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3446,7 +3469,7 @@
 	"tableContent": ["J Clercq",
 	"Jacobus Bouck",
 	"1672-1-9",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 282",
@@ -3455,9 +3478,9 @@
 	"name": "Pieter de Clercq",
 	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3469,7 +3492,7 @@
 	"tableContent": ["J Clercq",
 	"Pieter de Clercq",
 	"1672-1-9",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 284",
@@ -3478,9 +3501,9 @@
 	"name": "Guiljam de Backer",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3492,7 +3515,7 @@
 	"tableContent": ["J. van Scharphuisen",
 	"Guiljam de Backer",
 	"1672-1-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 285",
@@ -3501,9 +3524,9 @@
 	"name": "Adriaantje Dorsmans",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3515,7 +3538,7 @@
 	"tableContent": ["J.A. Weijers",
 	"Adriaantje Dorsmans",
 	"1672-9-14",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 286",
@@ -3524,9 +3547,9 @@
 	"name": "Daniel van Mildert",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3538,7 +3561,7 @@
 	"tableContent": ["J.V. Mildert",
 	"Daniel van Mildert",
 	"1672-1-7",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 287",
@@ -3547,9 +3570,9 @@
 	"name": "John Negeman ",
 	"description": "Cornelis Maertins",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -3561,7 +3584,7 @@
 	"tableContent": ["J.A. Weijers",
 	"John Negeman ",
 	"1672-9-14",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 288",
@@ -3570,9 +3593,9 @@
 	"name": "Maeijken Jacobs",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3584,7 +3607,7 @@
 	"tableContent": ["Jacob Antonissen",
 	"Maeijken Jacobs",
 	"1672-1-1",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 289",
@@ -3593,9 +3616,9 @@
 	"name": "Neeltie Tonissen",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3607,7 +3630,7 @@
 	"tableContent": ["Jacob Antonissen",
 	"Neeltie Tonissen",
 	"1672-1-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 290",
@@ -3616,9 +3639,9 @@
 	"name": "Jasper Jeroensen",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3630,7 +3653,7 @@
 	"tableContent": ["Jacob Byniamin",
 	"Jasper Jeroensen",
 	"1671-12-31",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 292",
@@ -3639,9 +3662,9 @@
 	"name": "Habijgel Wendelende",
 	"description": "Barent Hermens Vooght",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -3653,7 +3676,7 @@
 	"tableContent": ["Jacob Pietersen",
 	"Habijgel Wendelende",
 	"1672-9-1",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 293",
@@ -3662,9 +3685,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3676,7 +3699,7 @@
 	"tableContent": ["Jacob Poorte",
 	"Onbekend",
 	"1671-10-20",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 294",
@@ -3685,9 +3708,9 @@
 	"name": "Janneken Jonghe",
 	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3699,7 +3722,7 @@
 	"tableContent": ["Jacob Soetelingh",
 	"Janneken Jonghe",
 	"1672-1-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 295",
@@ -3708,9 +3731,9 @@
 	"name": "Geleijn Blanckebijl",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -3722,7 +3745,7 @@
 	"tableContent": ["Jacob Soetelingh",
 	"Geleijn Blanckebijl",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 296",
@@ -3731,9 +3754,9 @@
 	"name": "Gillis Mesdag",
 	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3745,7 +3768,7 @@
 	"tableContent": ["Jacob Tonissen Antonissen",
 	"Gillis Mesdag",
 	"1672-1-8",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 297",
@@ -3754,9 +3777,9 @@
 	"name": "Reinier Warner",
 	"description": "Lijssebet Roos",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3768,7 +3791,7 @@
 	"tableContent": ["Jacob van de Velde",
 	"Reinier Warner",
 	"1672-9-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 298",
@@ -3777,9 +3800,9 @@
 	"name": "Elizabeth Gillis",
 	"description": "Cornelis Maertins",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3791,7 +3814,7 @@
 	"tableContent": ["Jacob van de Velde",
 	"Elizabeth Gillis",
 	"1672-9-14",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 299",
@@ -3800,9 +3823,9 @@
 	"name": "Abraham Vlaminck",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3814,7 +3837,7 @@
 	"tableContent": ["Jacob van de Velde",
 	"Abraham Vlaminck",
 	"1672-9-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 300",
@@ -3823,9 +3846,9 @@
 	"name": "Elijsabeth Gillis",
 	"description": "Cornelis Maertins",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -3837,7 +3860,7 @@
 	"tableContent": ["Jacob van de Velde",
 	"Elijsabeth Gillis",
 	"1672-9-14",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 301",
@@ -3846,9 +3869,9 @@
 	"name": "Reijnier Warner",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -3860,7 +3883,7 @@
 	"tableContent": ["Jacob van de Velde",
 	"Reijnier Warner",
 	"1672-9-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 302",
@@ -3869,9 +3892,9 @@
 	"name": "Maeiken van Dule Aranse-Adriaense",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -3883,7 +3906,7 @@
 	"tableContent": ["Jan Andriesen",
 	"Maeiken van Dule Aranse-Adriaense",
 	"1672-1-3",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 303",
@@ -3892,9 +3915,9 @@
 	"name": "Carel Abrahamse",
 	"description": "",
 	"location": [{
-		"lon": "3.6660061",
+		"lon": null,
 		"lat": "51.5482937",
-		"place": "Veere"
+		"place": "The Netherlands\/Zeeland\/Veere"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3906,7 +3929,7 @@
 	"tableContent": ["Jan Andriesen",
 	"Carel Abrahamse",
 	"1672-1-3",
-	"Veere"]
+	"The Netherlands\/Zeeland\/Veere"]
 },
 {
 	"id": "number 304",
@@ -3915,9 +3938,9 @@
 	"name": "Lourens Willemsen Verpoorte",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3929,7 +3952,7 @@
 	"tableContent": ["Jan Andriesen",
 	"Lourens Willemsen Verpoorte",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 306",
@@ -3938,9 +3961,9 @@
 	"name": "Anna Jansen",
 	"description": "Barent Hermens Vooght",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3952,7 +3975,7 @@
 	"tableContent": ["Jan Andriesen",
 	"Anna Jansen",
 	"1672-9-14",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 307",
@@ -3961,9 +3984,9 @@
 	"name": "Anna Jansen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -3975,7 +3998,7 @@
 	"tableContent": ["Jan Andriesen",
 	"Anna Jansen",
 	"1672-12-29",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 310",
@@ -3984,9 +4007,9 @@
 	"name": "Johan de Clercq",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "5.4895653",
+		"lon": null,
 		"lat": "51.6456103",
-		"place": "Aerdenburgh"
+		"place": "The Netherlands\/Zeeland\/Aardenburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -3998,7 +4021,7 @@
 	"tableContent": ["Jan de Clercq de Jonge",
 	"Johan de Clercq",
 	"1672-1-9",
-	"Aerdenburgh"]
+	"The Netherlands\/Zeeland\/Aardenburg"]
 },
 {
 	"id": "number 311",
@@ -4007,9 +4030,9 @@
 	"name": "Paulienke Jansen",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4021,7 +4044,7 @@
 	"tableContent": ["Jan de Passer",
 	"Paulienke Jansen",
 	"1672-9-6",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 312",
@@ -4030,9 +4053,9 @@
 	"name": "Gilles Adriaansz. Tand",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4044,7 +4067,7 @@
 	"tableContent": ["Jan Dimmese",
 	"Gilles Adriaansz. Tand",
 	"1672-1-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 314",
@@ -4053,9 +4076,9 @@
 	"name": "Jan Dimmes",
 	"description": "Cornelis Maertins",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4067,7 +4090,7 @@
 	"tableContent": ["Jan Dimmese",
 	"Jan Dimmes",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 315",
@@ -4076,9 +4099,9 @@
 	"name": "Isaack de Vrucht",
 	"description": "Cornelis Maertins",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4090,7 +4113,7 @@
 	"tableContent": ["Jan Dimmese",
 	"Isaack de Vrucht",
 	"1672-1-9",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 316",
@@ -4099,9 +4122,9 @@
 	"name": "Jacob vande Kerckhove",
 	"description": "Antonis Jeronsen Rijckquaert",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4113,7 +4136,7 @@
 	"tableContent": ["Jan Dimmese",
 	"Jacob vande Kerckhove",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 319",
@@ -4122,9 +4145,9 @@
 	"name": "Daniel Snoeck",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4136,7 +4159,7 @@
 	"tableContent": ["Jan Dimmese",
 	"Daniel Snoeck",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 320",
@@ -4145,9 +4168,9 @@
 	"name": "Aafje Jans",
 	"description": "Cornelis Maertins",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4159,7 +4182,7 @@
 	"tableContent": ["Jan Eghbertz",
 	"Aafje Jans",
 	"1672-1-10",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 321",
@@ -4168,9 +4191,9 @@
 	"name": "Aafje Jans",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -4182,7 +4205,7 @@
 	"tableContent": ["Jan Eghbertz",
 	"Aafje Jans",
 	"1672-1-14",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 322",
@@ -4191,9 +4214,9 @@
 	"name": "Neeltje Scheijen",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4205,7 +4228,7 @@
 	"tableContent": ["Jan Fransen Doens",
 	"Neeltje Scheijen",
 	"1672-9-5",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 323",
@@ -4214,9 +4237,9 @@
 	"name": "Elizabeth Jans",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4228,7 +4251,7 @@
 	"tableContent": ["Jan Jansen Maroes",
 	"Elizabeth Jans",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 324",
@@ -4237,9 +4260,9 @@
 	"name": "Filips Boncet",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4251,7 +4274,7 @@
 	"tableContent": ["Jan Jansen Maroes",
 	"Filips Boncet",
 	"1672-1-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 325",
@@ -4260,9 +4283,9 @@
 	"name": "Daniel Danckers",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -4274,7 +4297,7 @@
 	"tableContent": ["Jan Jansen Maroes",
 	"Daniel Danckers",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 326",
@@ -4283,9 +4306,9 @@
 	"name": "Elijsabeth Pieters",
 	"description": "Barent Hermens Vooght",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4297,7 +4320,7 @@
 	"tableContent": ["Jan Janssen Hooijmaijer",
 	"Elijsabeth Pieters",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 327",
@@ -4306,9 +4329,9 @@
 	"name": "Elijsabeth Pieters",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4320,7 +4343,7 @@
 	"tableContent": ["Jan Janssen Hooijmaijer",
 	"Elijsabeth Pieters",
 	"1671-12-21",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 328",
@@ -4329,9 +4352,9 @@
 	"name": "Elijsabeth Pieters",
 	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4343,7 +4366,7 @@
 	"tableContent": ["Jan Janssen Hooijmaijer",
 	"Elijsabeth Pieters",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "3292",
@@ -4352,9 +4375,9 @@
 	"name": "Johannis Baert",
 	"description": "Jilis Aerjaense (kapitein)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4366,7 +4389,7 @@
 	"tableContent": ["Jan Tinnegieter",
 	"Johannis Baert",
 	"1672-1-10",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 331",
@@ -4375,9 +4398,9 @@
 	"name": "Maeijken Abrahams",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4389,7 +4412,7 @@
 	"tableContent": ["Jan Tinnegieter",
 	"Maeijken Abrahams",
 	"1672-1-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2770",
@@ -4398,9 +4421,9 @@
 	"name": "Pieter van Ixen",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4412,7 +4435,7 @@
 	"tableContent": ["Jan Tinnegieter",
 	"Pieter van Ixen",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2446",
@@ -4421,9 +4444,9 @@
 	"name": "Adrieijaen Christiaensen",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4435,7 +4458,7 @@
 	"tableContent": ["Jan Tinnegieter ",
 	"Adrieijaen Christiaensen",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 334",
@@ -4444,9 +4467,9 @@
 	"name": "Pieter Jaspers Heerense",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4458,7 +4481,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Pieter Jaspers Heerense",
 	"1672-10-3",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2682",
@@ -4467,9 +4490,9 @@
 	"name": "Pieter Jaspers Heerense",
 	"description": "Mildert Corn(eli)s, ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4481,7 +4504,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Pieter Jaspers Heerense",
 	"1672-01-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 336",
@@ -4490,9 +4513,9 @@
 	"name": "Abraham Sis",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4504,7 +4527,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Abraham Sis",
 	"1672-01-10",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 347",
@@ -4513,9 +4536,9 @@
 	"name": "Pieter Jaspers Heerense",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4527,7 +4550,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Pieter Jaspers Heerense",
 	"1671-10-17",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 348",
@@ -4536,9 +4559,9 @@
 	"name": "Abraham Teerlinck",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4550,7 +4573,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Abraham Teerlinck",
 	"1671-12-29",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "3231",
@@ -4559,9 +4582,9 @@
 	"name": "Gerard Blaase",
 	"description": "Jan Andriesen ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4573,7 +4596,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Gerard Blaase",
 	"1671-12-29",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2781",
@@ -4582,9 +4605,9 @@
 	"name": "Daniel Thyson Jansson",
 	"description": "Jan Andriesen, Corn. Ceuvelaer ",
 	"location": [{
-		"lon": "3.6660061",
+		"lon": null,
 		"lat": "51.5482937",
-		"place": "Veere"
+		"place": "The Netherlands\/Zeeland\/Veere"
 	},
 	{
 		"lon": "-56.027783",
@@ -4596,7 +4619,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Daniel Thyson Jansson",
 	"1671-12-29",
-	"Veere"]
+	"The Netherlands\/Zeeland\/Veere"]
 },
 {
 	"id": "number 351",
@@ -4605,9 +4628,9 @@
 	"name": "huisvrouw van Jan Barberij",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4619,7 +4642,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"huisvrouw van Jan Barberij",
 	"1672-08-30",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2700",
@@ -4628,9 +4651,9 @@
 	"name": "Lourens Willemsen Verpoorte",
 	"description": "capt(eijn) Claes raes, Jan dimmes(sen), Jacob soeteling, Jan andriesen ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4642,7 +4665,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Lourens Willemsen Verpoorte",
 	"1672-09-03",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2724",
@@ -4651,9 +4674,9 @@
 	"name": "Guilliaem de Backer",
 	"description": "Petrus Paludanus, Boeck- verkooper in de Wijn- straet. ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -4665,7 +4688,7 @@
 	"tableContent": ["Cornelis Bergen",
 	"Guilliaem de Backer",
 	"1672-09-03",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "253",
@@ -4674,9 +4697,9 @@
 	"name": "Johannis Boot",
 	"description": "Jan Dimmes, Jacob Soeteling",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4688,7 +4711,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Johannis Boot",
 	"1672-09-03",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 359",
@@ -4697,9 +4720,9 @@
 	"name": "Abraham Bischop",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4711,7 +4734,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Abraham Bischop",
 	"1672-01-08",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 360",
@@ -4720,9 +4743,9 @@
 	"name": "Pieter Boudaen Courten",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4734,7 +4757,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Pieter Boudaen Courten",
 	"1672-01-08",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 362",
@@ -4743,9 +4766,9 @@
 	"name": "Jacob Pietersen ",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4757,7 +4780,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Jacob Pietersen ",
 	"1672-01-08",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 363",
@@ -4766,9 +4789,9 @@
 	"name": "Lourens Willemsen Verpoorte",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -4780,7 +4803,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Lourens Willemsen Verpoorte",
 	"1672-01-08",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "1069",
@@ -4789,9 +4812,9 @@
 	"name": "Adriaen Tandt",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4803,7 +4826,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Adriaen Tandt",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2528",
@@ -4812,9 +4835,9 @@
 	"name": "Adriaen van Geel",
 	"description": "Jan Andriesen ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4826,7 +4849,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Adriaen van Geel",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2924",
@@ -4835,9 +4858,9 @@
 	"name": "Cornelis Janssen",
 	"description": "Petrus Paludanus ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4849,7 +4872,7 @@
 	"tableContent": ["Cornelis Baestiaensen ",
 	"Cornelis Janssen",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 367",
@@ -4858,9 +4881,9 @@
 	"name": "Bartholomeus Nouters",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4872,7 +4895,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Bartholomeus Nouters",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 368",
@@ -4881,9 +4904,9 @@
 	"name": "Jan Riecke Stuurman",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4895,7 +4918,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Jan Riecke Stuurman",
 	"1672-01-08",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "3013",
@@ -4904,9 +4927,9 @@
 	"name": "Guilliam de Backer",
 	"description": "Cornelis Bergen ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4918,7 +4941,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Guilliam de Backer",
 	"1671-12-01",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2590",
@@ -4927,9 +4950,9 @@
 	"name": "I. Engelijen Lamsen",
 	"description": "Daniel Jamsen (Schipper), Cornelis Bastiaense (Schipper)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4941,7 +4964,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"I. Engelijen Lamsen",
 	"1671-02-03",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "1070",
@@ -4950,9 +4973,9 @@
 	"name": "Capt. Constandt",
 	"description": "J. Aarssen, Jan Bollen, Jacob Soeteling",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4964,7 +4987,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Capt. Constandt",
 	"1671-02-03",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "2606",
@@ -4973,9 +4996,9 @@
 	"name": "Willem Hodge",
 	"description": "Simon Lion, Jan Janssen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -4987,7 +5010,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Willem Hodge",
 	"1671-02-03",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "1044",
@@ -4996,9 +5019,9 @@
 	"name": "Anthoni Wilmerdom",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -5010,7 +5033,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Anthoni Wilmerdom",
 	"1671-02-03",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "5584",
@@ -5019,9 +5042,9 @@
 	"name": "Machiel van Amelant",
 	"description": "Petrus Paludanus ",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.2038278",
@@ -5033,7 +5056,7 @@
 	"tableContent": ["Cornelis Baestiaensen ",
 	"Machiel van Amelant",
 	"1672-01-11",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 382",
@@ -5042,9 +5065,9 @@
 	"name": "huisvrouw van Jan Willems Tuentte",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -5056,7 +5079,7 @@
 	"tableContent": ["Jan Willemsen van Tollen",
 	"huisvrouw van Jan Willems Tuentte",
 	"1672-1-4",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 383",
@@ -5065,9 +5088,9 @@
 	"name": "Flip van Bambeke",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg "
+		"place": "The Netherlands\/Zeeland\/Middelburg "
 	},
 	{
 		"lon": "-56.027783",
@@ -5079,7 +5102,7 @@
 	"tableContent": ["Jannis van Bambeke",
 	"Flip van Bambeke",
 	"1672-1-8",
-	"Middelburg "]
+	"The Netherlands\/Zeeland\/Middelburg "]
 },
 {
 	"id": "number 384",
@@ -5088,9 +5111,9 @@
 	"name": "Francoijs Christijaensen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -5102,7 +5125,7 @@
 	"tableContent": ["Jannis van Bambeke",
 	"Francoijs Christijaensen",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 385",
@@ -5111,9 +5134,9 @@
 	"name": "Marija van Bambeke",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -5125,7 +5148,7 @@
 	"tableContent": ["Jannis van Bambeke",
 	"Marija van Bambeke",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 386",
@@ -5134,9 +5157,9 @@
 	"name": "Johanis Blondel",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -5148,7 +5171,7 @@
 	"tableContent": ["Jannis van Bambeke",
 	"Johanis Blondel",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 387",
@@ -5157,9 +5180,9 @@
 	"name": "Marija van Bambeke",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -5171,7 +5194,7 @@
 	"tableContent": ["Jannis van Bambeke",
 	"Marija van Bambeke",
 	"1672-1-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 388",
@@ -5180,9 +5203,9 @@
 	"name": "Pieter de Larue",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -5194,7 +5217,7 @@
 	"tableContent": ["Jannis van Bambeke",
 	"Pieter de Larue",
 	"1671-12-8",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 389",
@@ -5203,9 +5226,9 @@
 	"name": "Marija van Bambeke",
 	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -5217,7 +5240,7 @@
 	"tableContent": ["Jannis van Bambeke",
 	"Marija van Bambeke",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 391",
@@ -5226,9 +5249,9 @@
 	"name": "Gilliaem de Backer",
 	"description": "Claes Raes",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen "
+		"place": "The Netherlands\/Zeeland\/Vlissingen "
 	},
 	{
 		"lon": "-83.7466403",
@@ -5240,7 +5263,7 @@
 	"tableContent": ["Jean de Backer",
 	"Gilliaem de Backer",
 	"1671-12-27",
-	"Vlissingen "]
+	"The Netherlands\/Zeeland\/Vlissingen "]
 },
 {
 	"id": "1486",
@@ -5249,9 +5272,9 @@
 	"name": "Samuel van Westhuijsen",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -5263,7 +5286,7 @@
 	"tableContent": ["Jean le Grand",
 	"Samuel van Westhuijsen",
 	"1672-9-15",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 396",
@@ -5272,9 +5295,9 @@
 	"name": "Pieter Sandra",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5286,7 +5309,7 @@
 	"tableContent": ["Jean le Grand",
 	"Pieter Sandra",
 	"1672-9-6",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 397",
@@ -5295,9 +5318,9 @@
 	"name": "Samuel van Westhuizen",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -5309,7 +5332,7 @@
 	"tableContent": ["Jean le Grand",
 	"Samuel van Westhuizen",
 	"1672-9-6",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 399",
@@ -5318,9 +5341,9 @@
 	"name": "Samuel van Westhuijsen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -5332,7 +5355,7 @@
 	"tableContent": ["Jean le Grand",
 	"Samuel van Westhuijsen",
 	"1672-1-7",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2684",
@@ -5341,9 +5364,9 @@
 	"name": "Moijse Catteau",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5355,7 +5378,7 @@
 	"tableContent": ["Jean le Grand",
 	"Moijse Catteau",
 	"1672-1-7",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "3296",
@@ -5364,9 +5387,9 @@
 	"name": "Pieter de Vinder ",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5378,7 +5401,7 @@
 	"tableContent": ["Jean le Grand",
 	"Pieter de Vinder ",
 	"1672-1-7",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 406",
@@ -5387,9 +5410,9 @@
 	"name": "Elsje Jan munnick",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -5401,7 +5424,7 @@
 	"tableContent": ["Johan Basseliers",
 	"Elsje Jan munnick",
 	"1672-1-10",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 407",
@@ -5410,9 +5433,9 @@
 	"name": "Guiljam de Backer",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen "
+		"place": "The Netherlands\/Zeeland\/Vlissingen "
 	},
 	{
 		"lon": "-55.0333333",
@@ -5424,7 +5447,7 @@
 	"tableContent": ["Johan Basseliers",
 	"Guiljam de Backer",
 	"1672-1-10",
-	"Vlissingen "]
+	"The Netherlands\/Zeeland\/Vlissingen "]
 },
 {
 	"id": "number 408",
@@ -5433,9 +5456,9 @@
 	"name": "Guiljam de Backer",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen "
+		"place": "The Netherlands\/Zeeland\/Vlissingen "
 	},
 	{
 		"lon": "-55.0333333",
@@ -5447,7 +5470,7 @@
 	"tableContent": ["Johan Basseliers",
 	"Guiljam de Backer",
 	"1672-1-10",
-	"Vlissingen "]
+	"The Netherlands\/Zeeland\/Vlissingen "]
 },
 {
 	"id": "number 409",
@@ -5456,9 +5479,9 @@
 	"name": "Guiljam de Backer",
 	"description": "Jan van Ruiven",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -5470,7 +5493,7 @@
 	"tableContent": ["Johan Basseliers",
 	"Guiljam de Backer",
 	"1671-12-31",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 411",
@@ -5479,9 +5502,9 @@
 	"name": "Catharina Basseliers",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -5493,7 +5516,7 @@
 	"tableContent": ["Johan Basseliers",
 	"Catharina Basseliers",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 413",
@@ -5502,9 +5525,9 @@
 	"name": "Janneken Jans",
 	"description": "Claes Raes",
 	"location": [{
-		"lon": "3.8911304",
+		"lon": null,
 		"lat": "51.5046455",
-		"place": "Goes"
+		"place": "The Netherlands\/Goes\/Zeeland"
 	},
 	{
 		"lon": "-56.027783",
@@ -5516,7 +5539,7 @@
 	"tableContent": ["Johan Rietspier",
 	"Janneken Jans",
 	"1672-1-8",
-	"Goes"]
+	"The Netherlands\/Goes\/Zeeland"]
 },
 {
 	"id": "number 414",
@@ -5525,9 +5548,9 @@
 	"name": "Van de Wiele",
 	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -5539,7 +5562,7 @@
 	"tableContent": ["Johan Simon",
 	"Van de Wiele",
 	"1672-1-11",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 415",
@@ -5548,9 +5571,9 @@
 	"name": "Servaes van de Groene Wal",
 	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -5562,7 +5585,7 @@
 	"tableContent": ["Johan Simon",
 	"Servaes van de Groene Wal",
 	"1672-1-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 416",
@@ -5571,9 +5594,9 @@
 	"name": "Servaes van de Groene Wal",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -5585,7 +5608,7 @@
 	"tableContent": ["Johan Simon",
 	"Servaes van de Groene Wal",
 	"1672-1-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 417",
@@ -5594,9 +5617,9 @@
 	"name": "Servaes vande Groene Wal",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -5608,7 +5631,7 @@
 	"tableContent": ["Johan Simon",
 	"Servaes vande Groene Wal",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 418",
@@ -5617,9 +5640,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -5631,7 +5654,7 @@
 	"tableContent": ["Johan Simon",
 	"Onbekend",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 419",
@@ -5640,9 +5663,9 @@
 	"name": "Servaes van de Groene Wal",
 	"description": "Claes Raes",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -5654,7 +5677,7 @@
 	"tableContent": ["Johan Simon",
 	"Servaes van de Groene Wal",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 420",
@@ -5663,9 +5686,9 @@
 	"name": "Pieter Ackerman",
 	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -5677,7 +5700,7 @@
 	"tableContent": ["Johan van Melckebeecke",
 	"Pieter Ackerman",
 	"1671-12-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 423",
@@ -5686,9 +5709,9 @@
 	"name": "Bartholomeus de Looper",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "3.8324265",
+		"lon": null,
 		"lat": "51.3322854",
-		"place": "Terneuzen"
+		"place": "The Netherlands\/Zeeland\/Terneuzen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5700,7 +5723,7 @@
 	"tableContent": ["Johan van Melckebeecke",
 	"Bartholomeus de Looper",
 	"1672-1-9",
-	"Terneuzen"]
+	"The Netherlands\/Zeeland\/Terneuzen"]
 },
 {
 	"id": "2382",
@@ -5709,9 +5732,9 @@
 	"name": "Hoogesteeger",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5723,7 +5746,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Hoogesteeger",
 	"1672-12-14",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2384",
@@ -5732,9 +5755,9 @@
 	"name": "De Hubert",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5746,7 +5769,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"De Hubert",
 	"1672-12-14",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2561",
@@ -5755,9 +5778,9 @@
 	"name": "Josias van de Blocquerij",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5769,7 +5792,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Josias van de Blocquerij",
 	"1672-12-14",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 429",
@@ -5778,9 +5801,9 @@
 	"name": "Johan van de Poele",
 	"description": "Jacob Soetelinck",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5792,7 +5815,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Johan van de Poele",
 	"1672-12-14",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2424",
@@ -5801,9 +5824,9 @@
 	"name": "Isack de Vrieier ",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5815,7 +5838,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Isack de Vrieier ",
 	"1671-01-06",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2382",
@@ -5824,9 +5847,9 @@
 	"name": "Louwerens Willemsen Verpoorte, koopman",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5838,7 +5861,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1671-01-06",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 433",
@@ -5847,9 +5870,9 @@
 	"name": "Aernoult de Moulier",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5861,7 +5884,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Aernoult de Moulier",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "2373",
@@ -5870,9 +5893,9 @@
 	"name": "Henricus de Vael ",
 	"description": "",
 	"location": [{
-		"lon": "4.3006999",
+		"lon": null,
 		"lat": "52.0704978",
-		"place": "Den Haag"
+		"place": "The Netherlands\/Zuid-Holland\/Den Haag"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5884,7 +5907,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Henricus de Vael ",
 	"1672-01-09",
-	"Den Haag"]
+	"The Netherlands\/Zuid-Holland\/Den Haag"]
 },
 {
 	"id": "number 435",
@@ -5893,9 +5916,9 @@
 	"name": "Susanna d'Olijslager",
 	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5907,7 +5930,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Susanna d'Olijslager",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 436",
@@ -5916,9 +5939,9 @@
 	"name": "Gaspaer Engelsen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5930,7 +5953,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Gaspaer Engelsen",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 437",
@@ -5939,9 +5962,9 @@
 	"name": "Johan de Meij",
 	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5953,7 +5976,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Johan de Meij",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 438",
@@ -5962,9 +5985,9 @@
 	"name": "Pieter Muenicx",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5976,7 +5999,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Pieter Muenicx",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 439",
@@ -5985,9 +6008,9 @@
 	"name": "Daniel Fannius",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -5999,7 +6022,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Daniel Fannius",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 440",
@@ -6008,9 +6031,9 @@
 	"name": "Louijs d'Outtreleau",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6022,7 +6045,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Louijs d'Outtreleau",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 441",
@@ -6031,9 +6054,9 @@
 	"name": "Justus de Huijbert",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6045,7 +6068,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Justus de Huijbert",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 442",
@@ -6054,9 +6077,9 @@
 	"name": "Daniel Waeijwel",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6068,7 +6091,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Daniel Waeijwel",
 	"1672-01-09",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 445",
@@ -6077,9 +6100,9 @@
 	"name": "Cornelis van Buijlaert",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -6091,7 +6114,7 @@
 	"tableContent": ["Johannes Straeteius",
 	"Cornelis van Buijlaert",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 448",
@@ -6100,9 +6123,9 @@
 	"name": "Gelyamme de Backer",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6114,7 +6137,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Gelyamme de Backer",
 	"1672-1-2",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 456",
@@ -6123,9 +6146,9 @@
 	"name": "Joanna Roels",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6137,7 +6160,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Joanna Roels",
 	"1672-1-2",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 457",
@@ -6146,9 +6169,9 @@
 	"name": "Anna van Eessen",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6160,7 +6183,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Anna van Eessen",
 	"1672-1-2",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 458",
@@ -6169,9 +6192,9 @@
 	"name": "Josijnna de Lause",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6183,7 +6206,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Josijnna de Lause",
 	"1672-1-2",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 463",
@@ -6192,9 +6215,9 @@
 	"name": "Gilles en Pieter Muenick",
 	"description": "Jacob Soetelingh",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6206,7 +6229,7 @@
 	"tableContent": ["John Clement",
 	"Gilles en Pieter Muenick",
 	"1672-1-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 464",
@@ -6215,9 +6238,9 @@
 	"name": "Gilles en Pieter Muenick",
 	"description": "Jacob Soetelingh",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6229,7 +6252,7 @@
 	"tableContent": ["John Clement",
 	"Gilles en Pieter Muenick",
 	"1671-12-30",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -6238,9 +6261,9 @@
 	"name": "Jacob Pieterz",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6252,7 +6275,7 @@
 	"tableContent": ["Joris Darvall",
 	"Jacob Pieterz",
 	"1672-1-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "",
@@ -6261,9 +6284,9 @@
 	"name": "Dirck en Adriaen Dominicus",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6275,7 +6298,7 @@
 	"tableContent": ["Joris Darvall",
 	"Dirck en Adriaen Dominicus",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -6284,9 +6307,9 @@
 	"name": "Hugo Darvall",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6298,7 +6321,7 @@
 	"tableContent": ["Joris Darvall",
 	"Hugo Darvall",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -6307,9 +6330,9 @@
 	"name": "Meijnsjen Harmens van Eijck",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6321,7 +6344,7 @@
 	"tableContent": ["Joris Darvall",
 	"Meijnsjen Harmens van Eijck",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -6330,9 +6353,9 @@
 	"name": "Cornelis Darvall",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6344,7 +6367,7 @@
 	"tableContent": ["Joris Darvall",
 	"Cornelis Darvall",
 	"1672-1-12",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "3703",
@@ -6353,9 +6376,9 @@
 	"name": "Dirck Dominicus",
 	"description": "Barent Hermens Vooght",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6367,7 +6390,7 @@
 	"tableContent": ["Joris Darvall",
 	"Dirck Dominicus",
 	"1671-12-17",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -6376,9 +6399,9 @@
 	"name": "Dirck en Adriaen Dominicus",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6390,7 +6413,7 @@
 	"tableContent": ["Joris Darvall",
 	"Dirck en Adriaen Dominicus",
 	"1672-9-7",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -6399,9 +6422,9 @@
 	"name": "Samuel de Witt",
 	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -6413,7 +6436,7 @@
 	"tableContent": ["Joris Darvall",
 	"Samuel de Witt",
 	"1672-9-7",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 482",
@@ -6422,9 +6445,9 @@
 	"name": "Leintje Frans",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -6436,7 +6459,7 @@
 	"tableContent": ["Lieven de Wever",
 	"Leintje Frans",
 	"1672-1-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 483",
@@ -6445,9 +6468,9 @@
 	"name": "Leintje Frans",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -6459,7 +6482,7 @@
 	"tableContent": ["Lieven de Wever",
 	"Leintje Frans",
 	"1672-1-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 484",
@@ -6468,9 +6491,9 @@
 	"name": "Nicolaeis van Hoven",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.2038278",
@@ -6482,7 +6505,7 @@
 	"tableContent": ["Lieven de Wever",
 	"Nicolaeis van Hoven",
 	"1672-1-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 486",
@@ -6491,9 +6514,9 @@
 	"name": "Mr. Van Rhee en van Phere",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -6505,7 +6528,7 @@
 	"tableContent": ["Lourens Menis",
 	"Mr. Van Rhee en van Phere",
 	"1671-12-28",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 492",
@@ -6514,9 +6537,9 @@
 	"name": "Gulliam de Backer",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -6528,7 +6551,7 @@
 	"tableContent": ["Marcus Brandt",
 	"Gulliam de Backer",
 	"1671-12-19",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 494",
@@ -6537,9 +6560,9 @@
 	"name": "Neelken Bastiaans",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -6551,7 +6574,7 @@
 	"tableContent": ["Michiel Lalier",
 	"Neelken Bastiaans",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 503",
@@ -6560,9 +6583,9 @@
 	"name": "Lambreght Jansen",
 	"description": "Augustinus Brunz",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -6574,7 +6597,7 @@
 	"tableContent": ["Nicolaes de Zoutte",
 	"Lambreght Jansen",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 504",
@@ -6583,9 +6606,9 @@
 	"name": "Elijsabt de Soutte",
 	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6597,7 +6620,7 @@
 	"tableContent": ["Nicolaes de Zoutte",
 	"Elijsabt de Soutte",
 	"1672-1-9",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 505",
@@ -6606,9 +6629,9 @@
 	"name": "Jacoba Tresel",
 	"description": "Barent Hermens Vooght",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6620,7 +6643,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Jacoba Tresel",
 	"1672-1-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 507",
@@ -6629,9 +6652,9 @@
 	"name": "Jan Davidsen",
 	"description": "Augustinus Brunz",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6643,7 +6666,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Jan Davidsen",
 	"1672-1-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 509",
@@ -6652,9 +6675,9 @@
 	"name": "Pieter Penne",
 	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6666,7 +6689,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Pieter Penne",
 	"1672-1-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 510",
@@ -6675,9 +6698,9 @@
 	"name": "weduwe van Isaac Nicasius",
 	"description": "Augustinus Brunz",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6689,7 +6712,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"weduwe van Isaac Nicasius",
 	"1672-1-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 511",
@@ -6698,9 +6721,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6712,7 +6735,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1672-1-11",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 514",
@@ -6721,9 +6744,9 @@
 	"name": "Monsieur Grimalla",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6735,7 +6758,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Monsieur Grimalla",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 515",
@@ -6744,9 +6767,9 @@
 	"name": "Monsieur Christiansen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6758,7 +6781,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Monsieur Christiansen",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 517",
@@ -6767,9 +6790,9 @@
 	"name": "Capitein Liefhebber",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6781,7 +6804,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Capitein Liefhebber",
 	"1672-9-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 519",
@@ -6790,9 +6813,9 @@
 	"name": "Pieter Coorne",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6804,7 +6827,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Pieter Coorne",
 	"1672-1-2",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 521",
@@ -6813,9 +6836,9 @@
 	"name": "Weduwe van s.r Cornelis Christiansen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6827,7 +6850,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Weduwe van s.r Cornelis Christiansen",
 	"1671-12-26",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 522",
@@ -6836,9 +6859,9 @@
 	"name": "Adrian Liefhebber",
 	"description": "Kapitein Corneles Bastiaensen, Jan Fransen",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6850,7 +6873,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Adrian Liefhebber",
 	"1671-12-29",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 523",
@@ -6859,7 +6882,7 @@
 	"name": "Carel Abrahamsen",
 	"description": "Jan Andriessen",
 	"location": [{
-		"lon": "3.6660061",
+		"lon": null,
 		"lat": "51.5482937",
 		"place": "Veere"
 	},
@@ -6882,9 +6905,9 @@
 	"name": "Lewina Munnick",
 	"description": "Jan Hijussen (kapitein)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -6896,7 +6919,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Lewina Munnick",
 	"1672-1-7",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 546",
@@ -6905,9 +6928,9 @@
 	"name": "Jacomijntie Sijmeijns",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -6919,7 +6942,7 @@
 	"tableContent": ["Pieter Pieterssen van der Vaeren",
 	"Jacomijntie Sijmeijns",
 	"1672-9-16",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 547",
@@ -6928,9 +6951,9 @@
 	"name": "Jacomijntje Simons",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -6942,7 +6965,7 @@
 	"tableContent": ["Pieter Pieterssen van der Vaeren",
 	"Jacomijntje Simons",
 	"1672-9-16",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 556",
@@ -6951,9 +6974,9 @@
 	"name": "Matthijs van Eepen",
 	"description": "",
 	"location": [{
-		"lon": "3.6660061",
+		"lon": null,
 		"lat": "51.5482937",
-		"place": "Veere"
+		"place": "The Netherlands\/Zeeland\/Veere"
 	},
 	{
 		"lon": "-55.2038278",
@@ -6965,7 +6988,7 @@
 	"tableContent": ["R. D. Plessis",
 	"Matthijs van Eepen",
 	"1672-1-8",
-	"Veere"]
+	"The Netherlands\/Zeeland\/Veere"]
 },
 {
 	"id": "number 558",
@@ -6974,9 +6997,9 @@
 	"name": "John Tobiasson",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -6988,7 +7011,7 @@
 	"tableContent": ["R. Simpson",
 	"John Tobiasson",
 	"1672-9-10",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 560",
@@ -6997,9 +7020,9 @@
 	"name": "Jan Willems",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7011,7 +7034,7 @@
 	"tableContent": ["Raphaell Aboab",
 	"Jan Willems",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 561",
@@ -7020,9 +7043,9 @@
 	"name": "Marijn Erdisse",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -7034,7 +7057,7 @@
 	"tableContent": ["Reijnier Warner",
 	"Marijn Erdisse",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 562",
@@ -7043,9 +7066,9 @@
 	"name": "Pijeter Cruis",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -7057,18 +7080,18 @@
 	"tableContent": ["Reijnier Warner",
 	"Pijeter Cruis",
 	"1672-1-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 565",
 	"source": "Rogier Dickenson",
 	"target": "Pieter van Goethem",
 	"name": "Pieter van Goethem",
-	"description": "Lysbet Pieters (vrouw van Jan Jansen Hoeymayer, Peperstraat Vlissingen)",
+	"description": "Lysbet Pieters (vrouw van Jan Jansen Hoeymayer, Peperstraat The Netherlands\/Zeeland\/Vlissingen)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -7080,7 +7103,7 @@
 	"tableContent": ["Rogier Dickenson",
 	"Pieter van Goethem",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 566",
@@ -7089,9 +7112,9 @@
 	"name": "Johannis vande Poele",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg "
+		"place": "The Netherlands\/Zeeland\/Middelburg "
 	},
 	{
 		"lon": "-56.027783",
@@ -7103,7 +7126,7 @@
 	"tableContent": ["Rogier Dickenson",
 	"Johannis vande Poele",
 	"1672-1-2",
-	"Middelburg "]
+	"The Netherlands\/Zeeland\/Middelburg "]
 },
 {
 	"id": "number 567",
@@ -7112,9 +7135,9 @@
 	"name": "Jacob Maertens",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg "
+		"place": "The Netherlands\/Zeeland\/Middelburg "
 	},
 	{
 		"lon": "-56.027783",
@@ -7126,7 +7149,7 @@
 	"tableContent": ["Rogier Dickenson",
 	"Jacob Maertens",
 	"1672-1-3",
-	"Middelburg "]
+	"The Netherlands\/Zeeland\/Middelburg "]
 },
 {
 	"id": "number 569",
@@ -7135,9 +7158,9 @@
 	"name": "Martinnis Maertins",
 	"description": "Augustinus Brunz",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -7149,7 +7172,7 @@
 	"tableContent": ["Salomon Maertens",
 	"Martinnis Maertins",
 	"1672-1-9",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 570",
@@ -7158,9 +7181,9 @@
 	"name": "Martinnis Maertins",
 	"description": "Augustinus Brunz",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.2038278",
@@ -7172,7 +7195,7 @@
 	"tableContent": ["Salomon Maertens",
 	"Martinnis Maertins",
 	"1672-1-7",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 571",
@@ -7181,9 +7204,9 @@
 	"name": "Baltenswack",
 	"description": "",
 	"location": [{
-		"lon": "4.4811111",
+		"lon": null,
 		"lat": "51.9216667",
-		"place": "Rotterdam"
+		"place": "The Netherlands\/Zuid-Holland\/Rotterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -7195,7 +7218,7 @@
 	"tableContent": ["Samuel de Witt",
 	"Baltenswack",
 	"1672-1-5",
-	"Rotterdam"]
+	"The Netherlands\/Zuid-Holland\/Rotterdam"]
 },
 {
 	"id": "number 572",
@@ -7204,9 +7227,9 @@
 	"name": "Aeftie van Duijchenburgh",
 	"description": "Augustinus Brunz",
 	"location": [{
-		"lon": "4.4970097",
+		"lon": null,
 		"lat": "52.1601144",
-		"place": "Leiden"
+		"place": "The Netherlands\/Zuid-Holland\/Leiden"
 	},
 	{
 		"lon": "-56.027783",
@@ -7218,7 +7241,7 @@
 	"tableContent": ["Samuel de Witt",
 	"Aeftie van Duijchenburgh",
 	"1672-1-6",
-	"Leiden"]
+	"The Netherlands\/Zuid-Holland\/Leiden"]
 },
 {
 	"id": "number 574",
@@ -7227,9 +7250,9 @@
 	"name": "Machil van Ammelandt",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -7241,7 +7264,7 @@
 	"tableContent": ["Samuel Nassi",
 	"Machil van Ammelandt",
 	"1672-9-8",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 575",
@@ -7250,9 +7273,9 @@
 	"name": "Harman Abrahams",
 	"description": "Augustinus Brunz",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -7264,7 +7287,7 @@
 	"tableContent": ["Samuel Nassi",
 	"Harman Abrahams",
 	"1672-9-9",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 576",
@@ -7273,9 +7296,9 @@
 	"name": "Pieter Thierrij ",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -7287,7 +7310,7 @@
 	"tableContent": ["Samuel Thierrij",
 	"Pieter Thierrij ",
 	"1672-1-5",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 577",
@@ -7296,9 +7319,9 @@
 	"name": "Daniel van Mildert",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -7310,7 +7333,7 @@
 	"tableContent": ["Samuel Thierrij",
 	"Daniel van Mildert",
 	"1672-1-5",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 580",
@@ -7319,9 +7342,9 @@
 	"name": "Elsie Jans Munnick",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7333,7 +7356,7 @@
 	"tableContent": ["Sarah van Scharphuisen",
 	"Elsie Jans Munnick",
 	"1672-1-6",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 583",
@@ -7342,9 +7365,9 @@
 	"name": "Sijmon Aertsen",
 	"description": "Jan Tinnegieter",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7356,7 +7379,7 @@
 	"tableContent": ["Sijmon Aertsen",
 	"Sijmon Aertsen",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 584",
@@ -7365,9 +7388,9 @@
 	"name": "Nelcken Frans",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7379,7 +7402,7 @@
 	"tableContent": ["Sijmon Lijon",
 	"Nelcken Frans",
 	"1672-9-11",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 585",
@@ -7388,9 +7411,9 @@
 	"name": "Machiel Leueseer",
 	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7402,7 +7425,7 @@
 	"tableContent": ["Sijmon Lijon",
 	"Machiel Leueseer",
 	"1672-9-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 586",
@@ -7411,9 +7434,9 @@
 	"name": "Nelcken Frans",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7425,7 +7448,7 @@
 	"tableContent": ["Sijmon Lijon",
 	"Nelcken Frans",
 	"1672-9-12",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 587",
@@ -7434,9 +7457,9 @@
 	"name": "Wedee van capt. Cornelis Jansen Dronchap",
 	"description": "Barent Hermens Vooght",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -7448,7 +7471,7 @@
 	"tableContent": ["Sijmon Lijon",
 	"Wedee van capt. Cornelis Jansen Dronchap",
 	"1672-1-13",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 588",
@@ -7457,9 +7480,9 @@
 	"name": "Jacob van de Velde",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-55.0333333",
@@ -7471,7 +7494,7 @@
 	"tableContent": ["Sijmon Maes",
 	"Jacob van de Velde",
 	"1672-1-9",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "number 589",
@@ -7480,9 +7503,9 @@
 	"name": "Isaack van Hommerigh",
 	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -7494,7 +7517,7 @@
 	"tableContent": ["Sijmon Maes",
 	"Isaack van Hommerigh",
 	"1672-1-9",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 591",
@@ -7503,9 +7526,9 @@
 	"name": "Willem van Cleeff",
 	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-56.027783",
@@ -7517,7 +7540,7 @@
 	"tableContent": ["Simon van Cleeff",
 	"Willem van Cleeff",
 	"1672-9-7",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "number 593",
@@ -7526,9 +7549,9 @@
 	"name": "Johan van Dinteren",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -7540,7 +7563,7 @@
 	"tableContent": ["Simon van Cleeff",
 	"Johan van Dinteren",
 	"1672-9-7",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 603",
@@ -7549,9 +7572,9 @@
 	"name": "Anna van Rasenberg",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7563,7 +7586,7 @@
 	"tableContent": ["W. Rasenberg",
 	"Anna van Rasenberg",
 	"1672-1-13",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 604",
@@ -7572,9 +7595,9 @@
 	"name": "Anna van Rasenberg",
 	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7586,7 +7609,7 @@
 	"tableContent": ["W. Rasenberg",
 	"Anna van Rasenberg",
 	"1672-1-6",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 608",
@@ -7595,9 +7618,9 @@
 	"name": "Anna Maria Soetens",
 	"description": "",
 	"location": [{
-		"lon": "4.3006999",
+		"lon": null,
 		"lat": "52.0704978",
-		"place": "Den Haag"
+		"place": "The Netherlands\/Zuid-Holland\/Den Haag"
 	},
 	{
 		"lon": "-56.027783",
@@ -7609,7 +7632,7 @@
 	"tableContent": ["Willem Bleau",
 	"Anna Maria Soetens",
 	"1672-1-10",
-	"Den Haag"]
+	"The Netherlands\/Zuid-Holland\/Den Haag"]
 },
 {
 	"id": "number 610",
@@ -7618,9 +7641,9 @@
 	"name": "Jan van Lidt",
 	"description": "Lijssebet Roos",
 	"location": [{
-		"lon": "4.4811111",
+		"lon": null,
 		"lat": "51.9216667",
-		"place": "Rotterdam"
+		"place": "The Netherlands\/Zuid-Holland\/Rotterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -7632,7 +7655,7 @@
 	"tableContent": ["Willem Bleau",
 	"Jan van Lidt",
 	"1672-1-10",
-	"Rotterdam"]
+	"The Netherlands\/Zuid-Holland\/Rotterdam"]
 },
 {
 	"id": "number 612",
@@ -7641,9 +7664,9 @@
 	"name": "Jacob Gyplant",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "4.4811111",
+		"lon": null,
 		"lat": "51.9216667",
-		"place": "Rotterdam"
+		"place": "The Netherlands\/Zuid-Holland\/Rotterdam"
 	},
 	{
 		"lon": "-55.0333333",
@@ -7655,7 +7678,7 @@
 	"tableContent": ["Willem Bleau",
 	"Jacob Gyplant",
 	"1672-1-10",
-	"Rotterdam"]
+	"The Netherlands\/Zuid-Holland\/Rotterdam"]
 },
 {
 	"id": "number 613",
@@ -7664,9 +7687,9 @@
 	"name": "Pieter vander Heere",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -7678,7 +7701,7 @@
 	"tableContent": ["Willem Bleau",
 	"Pieter vander Heere",
 	"1672-1-10",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "number 617",
@@ -7687,9 +7710,9 @@
 	"name": "Gaspaert Ingelsen",
 	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-56.027783",
@@ -7701,7 +7724,7 @@
 	"tableContent": ["William Pringell en Rogier Dickenson",
 	"Gaspaert Ingelsen",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -7710,9 +7733,9 @@
 	"name": "Chrijstijaen Backer",
 	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7724,7 +7747,7 @@
 	"tableContent": ["Onbekend",
 	"Chrijstijaen Backer",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "",
@@ -7733,9 +7756,9 @@
 	"name": "Fransinte Anderriessen",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-56.027783",
@@ -7747,7 +7770,7 @@
 	"tableContent": ["Onbekend",
 	"Fransinte Anderriessen",
 	"1672-1-15",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "",
@@ -7756,9 +7779,9 @@
 	"name": "Bastiaen Ketelaer",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-55.0333333",
@@ -7770,7 +7793,7 @@
 	"tableContent": ["Onbekend",
 	"Bastiaen Ketelaer",
 	"1672-1-9",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -7779,9 +7802,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7793,7 +7816,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -7802,9 +7825,9 @@
 	"name": "Onbekend",
 	"description": "Johannes d'Olijslager",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7816,7 +7839,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -7825,9 +7848,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7839,7 +7862,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -7848,9 +7871,9 @@
 	"name": "Onbekend",
 	"description": "Francoise Pradon",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7862,7 +7885,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "",
@@ -7871,9 +7894,9 @@
 	"name": "Paolo en Jacome Pinto",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7885,7 +7908,7 @@
 	"tableContent": ["Onbekend",
 	"Paolo en Jacome Pinto",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -7894,9 +7917,9 @@
 	"name": "Onbekend",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7908,7 +7931,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -7917,9 +7940,9 @@
 	"name": "Julius Lichtenbergh",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7931,7 +7954,7 @@
 	"tableContent": ["Onbekend",
 	"Julius Lichtenbergh",
 	"1672-1-12",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -7940,9 +7963,9 @@
 	"name": "Abraham Drago",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7954,7 +7977,7 @@
 	"tableContent": ["Onbekend",
 	"Abraham Drago",
 	"",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -7963,9 +7986,9 @@
 	"name": "Maddeleentie David",
 	"description": "",
 	"location": [{
-		"lon": "4.8951679",
+		"lon": null,
 		"lat": "52.3702157",
-		"place": "Amsterdam"
+		"place": "The Netherlands\/Noord-Holland\/Amsterdam"
 	},
 	{
 		"lon": "-83.7466403",
@@ -7977,7 +8000,7 @@
 	"tableContent": ["Onbekend",
 	"Maddeleentie David",
 	"",
-	"Amsterdam"]
+	"The Netherlands\/Noord-Holland\/Amsterdam"]
 },
 {
 	"id": "",
@@ -7986,9 +8009,9 @@
 	"name": "Cornelis Verhulst",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -8000,7 +8023,7 @@
 	"tableContent": ["Onbekend",
 	"Cornelis Verhulst",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "",
@@ -8009,9 +8032,9 @@
 	"name": "Daniel Waeywel",
 	"description": "Jan van der Meulen ",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -8023,7 +8046,7 @@
 	"tableContent": ["Onbekend",
 	"Daniel Waeywel",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -8032,9 +8055,9 @@
 	"name": "Josijnna Hursels en Sussanna Hals",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -8046,7 +8069,7 @@
 	"tableContent": ["Onbekend",
 	"Josijnna Hursels en Sussanna Hals",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "",
@@ -8055,9 +8078,9 @@
 	"name": "Gilles Adrijaensen Tant",
 	"description": "",
 	"location": [{
-		"lon": "3.5709125",
+		"lon": null,
 		"lat": "51.4536672",
-		"place": "Vlissingen"
+		"place": "The Netherlands\/Zeeland\/Vlissingen"
 	},
 	{
 		"lon": "-83.7466403",
@@ -8069,7 +8092,7 @@
 	"tableContent": ["Onbekend",
 	"Gilles Adrijaensen Tant",
 	"",
-	"Vlissingen"]
+	"The Netherlands\/Zeeland\/Vlissingen"]
 },
 {
 	"id": "",
@@ -8078,9 +8101,9 @@
 	"name": "Benijamijn Rawe",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -8092,7 +8115,7 @@
 	"tableContent": ["Onbekend",
 	"Benijamijn Rawe",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 },
 {
 	"id": "",
@@ -8101,9 +8124,9 @@
 	"name": "Cornelis Lambrechtsen",
 	"description": "",
 	"location": [{
-		"lon": "3.610998",
+		"lon": null,
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	},
 	{
 		"lon": "-83.7466403",
@@ -8115,5 +8138,5 @@
 	"tableContent": ["Onbekend",
 	"Cornelis Lambrechtsen",
 	"",
-	"Middelburg"]
+	"The Netherlands\/Zeeland\/Middelburg"]
 }]
