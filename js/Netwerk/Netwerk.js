@@ -22,21 +22,31 @@ Netwerk.prototype = {
 		    height = 300,
 		    links;
 		
+      
+        
 		 var svgdiv = d3.select(layout.netwerkDiv).append("svg")
-		    .attr("width", width)
-		    .attr("height", height);
+      .attr({
+        "width": "100%",
+        "height": "300px"
+      })
+      .attr("viewBox", "0 0 " + width + " " + height )
+      .attr("preserveAspectRatio", "xMidYMid meet")
+      .attr("pointer-events", "all")
+    .call(d3.behavior.zoom().on("zoom", redraw));
 
-	   layout.svg = svgdiv
-	   		    .append("g")
-    			.attr("transform", "translate(" + 0 + "," + 0 + ")");
- 	
-var zoom = d3.behavior.zoom()
-		    .scaleExtent([1, 10])
-		    .on("zoom", zoomed);
-		function zoomed() {
- 		 svgdiv.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
-		}
-		svgdiv.call(zoom);
+             var vis = svgdiv
+    .append('svg:g');
+
+             layout.svg = vis;
+       
+	   		    
+    		function redraw() {
+  console.log("here", d3.event.translate, d3.event.scale);
+  vis.attr("transform",
+      "translate(" + d3.event.translate + ")"
+      + " scale(" + d3.event.scale + ")");
+}	
+
 		
 		layout.force = d3.layout.force()
 		    .linkDistance(80)
