@@ -20,7 +20,7 @@ if (!$db_selected)
 
 $return_arr = array();
 
-$fetch = mysql_query('SELECT * FROM networks WHERE landcode = 1 AND fuzzy = 1'); 
+$fetch = mysql_query('SELECT * FROM networks WHERE landcode = 1 AND fuzzy = 4'); 
 
 while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
     $row_array['id'] = $row['idmeertens'];
@@ -32,7 +32,7 @@ while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
 	$object1 = new StdClass();
 	$object1->lon = $row['lng_ontvanger'];
 	$object1 ->lat = $row['lat_ontvanger'];
-	$object1 ->place = $row['bestemming_locatie'];
+	$object1 ->place = $row['ontvangerlocatie'];
 	$object2 = new StdClass();
 	$object2 ->lon = $row['lng_zender']; 
 	$object2 ->lat = $row['lat_zender']; 

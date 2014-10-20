@@ -12,14 +12,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1671-10-26",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Jan Bolle",
 	"1671-10-26",
-	"Suriname"]
+	null]
 },
 {
 	"id": "number 32",
@@ -42,7 +42,7 @@
 	"tableContent": ["A. Thisso",
 	"Onbekend",
 	"1672-09-10",
-	"Nederland"]
+	null]
 },
 {
 	"id": "1146",
@@ -58,14 +58,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1672-12-10",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Abraham Cleeuwaert",
 	"1672-12-10",
-	"Suriname"]
+	null]
 },
 {
 	"id": "1162",
@@ -81,14 +81,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1672-3-10",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Leeringson",
 	"1672-3-10",
-	"Suriname"]
+	null]
 },
 {
 	"id": "number 104",
@@ -104,14 +104,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1671-9-11",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Jan Bolle",
 	"1671-9-11",
-	"Suriname"]
+	null]
 },
 {
 	"id": "1312",
@@ -127,14 +127,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1672-2-1",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-2-1",
-	"Suriname"]
+	null]
 },
 {
 	"id": "number 109",
@@ -145,19 +145,19 @@
 	"location": [{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "Unknown"
 	},
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1672-1-18",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Onbekend",
 	"1672-1-18",
-	"Suriname"]
+	null]
 },
 {
 	"id": "143",
@@ -168,19 +168,19 @@
 	"location": [{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "Unknown"
 	},
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1671-10-19",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Abraham Cleeuwaert",
 	"1671-10-19",
-	"Suriname"]
+	null]
 },
 {
 	"id": "number 114",
@@ -191,19 +191,19 @@
 	"location": [{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "Unknown"
 	},
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1672-3-30",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-3-30",
-	"Suriname"]
+	null]
 },
 {
 	"id": "143",
@@ -214,19 +214,19 @@
 	"location": [{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "Unknown"
 	},
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "",
 	"fuzzy": "3",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Abraham Cleeuwaert",
 	"",
-	"Suriname"]
+	null]
 },
 {
 	"id": "number 208",
@@ -237,7 +237,7 @@
 	"location": [{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "Unknown"
 	},
 	{
 		"lon": "-83.7466403",
@@ -249,7 +249,7 @@
 	"tableContent": ["Elijsabeth Emerij",
 	"Pieter Aerrensen",
 	"1672-4-2",
-	"Suriname"]
+	null]
 },
 {
 	"id": "number 373",
@@ -260,7 +260,7 @@
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
@@ -272,7 +272,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Onbekend",
 	"1671-02-03",
-	"Nederland"]
+	null]
 },
 {
 	"id": "number 374",
@@ -283,7 +283,7 @@
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
@@ -295,7 +295,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Onbekend",
 	"1671-02-03",
-	"Nederland"]
+	null]
 },
 {
 	"id": "number 376",
@@ -306,7 +306,7 @@
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
@@ -318,7 +318,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Onbekend",
 	"1671-02-03",
-	"Nederland"]
+	null]
 },
 {
 	"id": "number 377",
@@ -329,7 +329,7 @@
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
@@ -341,7 +341,7 @@
 	"tableContent": ["Jan van Ruijven",
 	"Onbekend",
 	"1671-02-03",
-	"Nederland"]
+	null]
 },
 {
 	"id": "2364",
@@ -352,7 +352,7 @@
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "The Netherlands"
 	},
 	{
 		"lon": "-55.0333333",
@@ -364,7 +364,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Vrijbergen",
 	"1672-12-14",
-	"Nederland"]
+	null]
 },
 {
 	"id": "number 430",
@@ -375,7 +375,7 @@
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "The Netherlands"
 	},
 	{
 		"lon": "-55.0333333",
@@ -387,7 +387,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Onbekend",
 	"1671-12-20",
-	"Nederland"]
+	null]
 },
 {
 	"id": "3330",
@@ -398,7 +398,7 @@
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "The Netherlands"
 	},
 	{
 		"lon": "-55.0333333",
@@ -410,7 +410,7 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Wildens",
 	"1672-01-09",
-	"Nederland"]
+	null]
 },
 {
 	"id": "number 444",
@@ -421,7 +421,7 @@
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "The Netherlands"
 	},
 	{
 		"lon": "-55.0333333",
@@ -433,5 +433,5 @@
 	"tableContent": ["Johannes d'Olijslager",
 	"Josijnna de Laure",
 	"1672-01-09",
-	"Nederland"]
+	null]
 }]

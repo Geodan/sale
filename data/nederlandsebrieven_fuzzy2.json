@@ -7,7 +7,7 @@
 	"location": [{
 		"lon": "3.8496815",
 		"lat": "51.4940309",
-		"place": "Zeeland"
+		"place": "The Netherlands/Zeeland"
 	},
 	{
 		"lon": "-55.2038278",
@@ -19,7 +19,7 @@
 	"tableContent": ["Johannes Straeteius",
 	"Lichtenberg",
 	"1671-12-15",
-	"Zeeland"]
+	null]
 },
 {
 	"id": "number 493",
@@ -28,9 +28,9 @@
 	"name": "Davidt Lisbrechtsen",
 	"description": "Cornelis Bastiaense, Pieter Buteux",
 	"location": [{
-		"lon": "5.1369542",
-		"lat": "52.0604289",
-		"place": "Walcheren"
+		"lon": "3.8496815",
+		"lat": "51.4940309",
+		"place": "The Netherlands/Zeeland"
 	},
 	{
 		"lon": "-56.027783",
@@ -42,5 +42,5 @@
 	"tableContent": ["Mattijs Lantmeester",
 	"Davidt Lisbrechtsen",
 	"1672-9-15",
-	"Walcheren"]
+	null]
 }]

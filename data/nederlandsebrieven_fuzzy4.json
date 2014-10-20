@@ -12,14 +12,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1671-08-12",
 	"fuzzy": "4",
 	"tableContent": ["B. Raule",
 	"Augustin Brolt",
 	"1671-08-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "3354",
@@ -42,7 +42,7 @@
 	"tableContent": ["Jan van der Meulen ",
 	"David Kempe",
 	"1671-12-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "3362",
@@ -65,7 +65,7 @@
 	"tableContent": ["Jan van der Meulen ",
 	"David Kempe",
 	"1671-12-28",
-	"Unknown"]
+	null]
 },
 {
 	"id": "2986",
@@ -88,7 +88,7 @@
 	"tableContent": ["Jan van der Meulen ",
 	"David Kempe",
 	"1672-12-02",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -111,7 +111,7 @@
 	"tableContent": ["Jan van der Meulen ",
 	"Philipus Julijus Lichtenburch",
 	"1672-1-13",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -134,7 +134,7 @@
 	"tableContent": ["Jan van der Meulen ",
 	"Philipus Julijus Lichtenburch",
 	"1671-12-20",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -157,7 +157,7 @@
 	"tableContent": ["Albert Clasen Vis",
 	"Onbekend",
 	"1672-11-22",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -180,7 +180,7 @@
 	"tableContent": ["J. Crenen",
 	"Jacobes vander Beke",
 	"1672-9-5",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -203,7 +203,7 @@
 	"tableContent": ["J. Crenen",
 	"Neelken Scheuijen",
 	"1672-9-5",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 18",
@@ -226,7 +226,7 @@
 	"tableContent": ["Joris Darvall",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 19",
@@ -249,7 +249,7 @@
 	"tableContent": ["Pieter Heerensen",
 	"Jan en Pieter Bodaen Coerten",
 	"1672-5-25",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 20",
@@ -272,7 +272,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 21",
@@ -295,7 +295,7 @@
 	"tableContent": ["onbekend",
 	"Onbekend",
 	"1672-11-11",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 26",
@@ -318,7 +318,7 @@
 	"tableContent": ["Johan Simon",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 27",
@@ -341,7 +341,7 @@
 	"tableContent": ["Johan Simon",
 	"Leintje Frans",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 43",
@@ -364,7 +364,7 @@
 	"tableContent": ["Ad Schoors",
 	"Mr. Cahlies",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 54",
@@ -387,7 +387,7 @@
 	"tableContent": ["Adrijaen Wadde",
 	"Onbekend",
 	"1672-2-3",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 55",
@@ -410,7 +410,7 @@
 	"tableContent": ["Adryaen Claese",
 	"Maeycke Jacobs",
 	"1672-1-6",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -433,7 +433,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -456,7 +456,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 63",
@@ -479,7 +479,7 @@
 	"tableContent": ["Alexander Batij",
 	"Onbekend",
 	"1672-6-5",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 67",
@@ -502,7 +502,7 @@
 	"tableContent": ["Alexander Batij",
 	"Onbekend",
 	"1672-1-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 68",
@@ -525,7 +525,7 @@
 	"tableContent": ["Alexander Batij",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 69",
@@ -548,7 +548,7 @@
 	"tableContent": ["Alexander Batij ",
 	"Onbekend",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 70",
@@ -571,7 +571,7 @@
 	"tableContent": ["Alexander Batij ",
 	"Onbekend",
 	"1671-12-29",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 85",
@@ -594,7 +594,7 @@
 	"tableContent": ["Barent Harmansz Voocht",
 	"Anderies Claessen Vocht",
 	"1672-1-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 88",
@@ -617,7 +617,7 @@
 	"tableContent": ["Basseliers",
 	"Daniel Mildert",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 89",
@@ -640,7 +640,7 @@
 	"tableContent": ["Basseliers ",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 97",
@@ -663,7 +663,7 @@
 	"tableContent": ["Benedictus Marius",
 	"Jaen Bruijnvis",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 98",
@@ -686,7 +686,7 @@
 	"tableContent": ["Benedictus Marius",
 	"Onbekend",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -709,7 +709,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -732,7 +732,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -755,7 +755,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 108",
@@ -771,14 +771,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1671-8-17",
 	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Onbekend",
 	"1671-8-17",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 111",
@@ -794,14 +794,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1671-8-21",
 	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Abraham Cleeuwaert",
 	"1671-8-21",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 112",
@@ -817,14 +817,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1672-2-2",
 	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Pieter Heringsen",
 	"1672-2-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 113",
@@ -840,14 +840,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1672-1-23",
 	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Onbekend",
 	"1672-1-23",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 115",
@@ -863,14 +863,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1671-7-30",
 	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Jan Bolle",
 	"1671-7-30",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 117",
@@ -893,7 +893,7 @@
 	"tableContent": ["Boudewijn de Witte",
 	"Onbekend",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -916,7 +916,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -939,7 +939,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -962,7 +962,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -985,7 +985,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 126",
@@ -1008,7 +1008,7 @@
 	"tableContent": ["Carel Nachtegael",
 	"Joan de Wale",
 	"1672-1-1",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 128",
@@ -1031,7 +1031,7 @@
 	"tableContent": ["Carel Nachtegael",
 	"Mattheus Hals",
 	"1672-1-1",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 132",
@@ -1054,7 +1054,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 144",
@@ -1077,7 +1077,7 @@
 	"tableContent": ["Claes Raes",
 	"Louwerens Verpoorten",
 	"1672-1-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 145",
@@ -1100,7 +1100,7 @@
 	"tableContent": ["Claes Raes",
 	"Laurens Willemsen Verpoorten",
 	"1671-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 146",
@@ -1123,7 +1123,7 @@
 	"tableContent": ["Claes Raes",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 148",
@@ -1146,7 +1146,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 149",
@@ -1169,7 +1169,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 150",
@@ -1192,7 +1192,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 151",
@@ -1215,7 +1215,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 152",
@@ -1238,7 +1238,7 @@
 	"tableContent": ["cognossement",
 	"Janneken Jans",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 153",
@@ -1261,7 +1261,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 154",
@@ -1284,7 +1284,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 155",
@@ -1307,7 +1307,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 156",
@@ -1330,7 +1330,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 157",
@@ -1353,7 +1353,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 158",
@@ -1376,7 +1376,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 160",
@@ -1399,7 +1399,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 161",
@@ -1422,7 +1422,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 162",
@@ -1445,7 +1445,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 163",
@@ -1468,7 +1468,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 164",
@@ -1491,7 +1491,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 165",
@@ -1514,7 +1514,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 166",
@@ -1537,7 +1537,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 167",
@@ -1560,7 +1560,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 168",
@@ -1583,7 +1583,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 169",
@@ -1606,7 +1606,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 170",
@@ -1629,7 +1629,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 171",
@@ -1652,7 +1652,7 @@
 	"tableContent": ["cognossment",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 173",
@@ -1675,7 +1675,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 177",
@@ -1698,7 +1698,7 @@
 	"tableContent": ["Cornelis Bastiaensen",
 	"Onbekend",
 	"1672-1-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 178",
@@ -1721,7 +1721,7 @@
 	"tableContent": ["Cornelis Bastiaensen",
 	"Onbekend",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 179",
@@ -1744,7 +1744,7 @@
 	"tableContent": ["Cornelis Bastiaensen",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 184",
@@ -1767,7 +1767,7 @@
 	"tableContent": ["Cornelis Berge",
 	"Cornelis Pets",
 	"1672-1-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 190",
@@ -1790,7 +1790,7 @@
 	"tableContent": ["Cornelis Raes",
 	"Elisabeta Raes",
 	"1672-1-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 191",
@@ -1813,7 +1813,7 @@
 	"tableContent": ["Cornelis Raes",
 	"Janken Raes",
 	"1672-1-14",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 192",
@@ -1836,7 +1836,7 @@
 	"tableContent": ["Cornelis Raes",
 	"Pieternella Raes",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 210",
@@ -1859,7 +1859,7 @@
 	"tableContent": ["Elijsabeth Emerij",
 	"Onbekend",
 	"1672-9-3",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -1882,7 +1882,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 234",
@@ -1905,7 +1905,7 @@
 	"tableContent": ["Fijlippus Bracht",
 	"Sin Kuevelaer",
 	"1672-1-6",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 237",
@@ -1928,7 +1928,7 @@
 	"tableContent": ["Francoise Pradon",
 	"Charles Pradon a Gueneuille",
 	"1672-1-4",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 238",
@@ -1951,7 +1951,7 @@
 	"tableContent": ["Francoise Pradon",
 	"Onbekend",
 	"1672-1-4",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 245",
@@ -1974,7 +1974,7 @@
 	"tableContent": ["Golken Ceuvelaer",
 	"Onbekend",
 	"1672-1-11",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 247",
@@ -1997,7 +1997,7 @@
 	"tableContent": ["Golken Ceuvelaer",
 	"Onbekend",
 	"1672-1-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 248",
@@ -2020,7 +2020,7 @@
 	"tableContent": ["Golken Ceuvelaer",
 	"Adriana Lemps",
 	"1672-1-11",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 256",
@@ -2043,7 +2043,7 @@
 	"tableContent": ["Henderijk Breijhaen",
 	"Onbekend",
 	"1671-10-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 260",
@@ -2066,7 +2066,7 @@
 	"tableContent": ["Hendrick de Harder",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 262",
@@ -2089,7 +2089,7 @@
 	"tableContent": ["Hendrick Huiberts",
 	"Cornelis Sies",
 	"1672-1-1",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 265",
@@ -2112,7 +2112,7 @@
 	"tableContent": ["Hendrick Huiberts",
 	"Jacobus van Aelst",
 	"1672-1-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 267",
@@ -2135,7 +2135,7 @@
 	"tableContent": ["Hendrick Huiberts",
 	"Andries Claes Vos",
 	"1672-9-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 268",
@@ -2158,7 +2158,7 @@
 	"tableContent": ["Hendrickje van den Herdenbegh",
 	"Marja vanden Herdenbgh",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 273",
@@ -2181,7 +2181,7 @@
 	"tableContent": ["Herman de Huijbert",
 	"Onbekend",
 	"1672-1-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 283",
@@ -2204,7 +2204,7 @@
 	"tableContent": ["J Clercq",
 	"Janneken vande Putte",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 291",
@@ -2227,7 +2227,7 @@
 	"tableContent": ["Jacob Cornelis van Machem",
 	"Maretjen Tijes",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 305",
@@ -2250,7 +2250,7 @@
 	"tableContent": ["Jan Andriesen",
 	"Anna Jansen",
 	"1672-9-14",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 308",
@@ -2273,7 +2273,7 @@
 	"tableContent": ["Jan Andriesen",
 	"Lourens Willemsen Verpoorte",
 	"1672-9-15",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 309",
@@ -2296,7 +2296,7 @@
 	"tableContent": ["Jan de Passer",
 	"Tobias Claijsen",
 	"1672-9-6",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 318",
@@ -2319,7 +2319,7 @@
 	"tableContent": ["Jan Dimmese",
 	"Maeijken Cornel. Robes",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 329",
@@ -2342,7 +2342,7 @@
 	"tableContent": ["Jan Tinnegieter",
 	"Onbekend",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 390",
@@ -2365,7 +2365,7 @@
 	"tableContent": ["Jannis Wijnseperij",
 	"Onbekend",
 	"1672-2-7",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 392",
@@ -2388,7 +2388,7 @@
 	"tableContent": ["Jean le Grand",
 	"Pieter Buteux",
 	"1672-9-15",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 403",
@@ -2411,7 +2411,7 @@
 	"tableContent": ["Jean le Grand",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 405",
@@ -2434,7 +2434,7 @@
 	"tableContent": ["Joannis Robbersen",
 	"Kapitein Nicolaes Raes",
 	"1671-12-28",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 410",
@@ -2457,7 +2457,7 @@
 	"tableContent": ["Johan Basseliers",
 	"Onbekend",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 412",
@@ -2480,7 +2480,7 @@
 	"tableContent": ["Johan Basseliers",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 421",
@@ -2503,7 +2503,7 @@
 	"tableContent": ["Johan van Melckebeecke",
 	"Cornelis Jansz. Verhulst",
 	"1672-12-14",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 422",
@@ -2526,7 +2526,7 @@
 	"tableContent": ["Johan van Melckebeecke",
 	"Bartholomeus de Looper",
 	"1672-12-14",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 447",
@@ -2549,7 +2549,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Louwerens Willemsen Verpoorte, koopman",
 	"1672-1-13",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 449",
@@ -2572,7 +2572,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Gelyamme de Backer",
 	"1672-1-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 450",
@@ -2595,7 +2595,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1672-1-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 451",
@@ -2618,7 +2618,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Jacobus van der Mees",
 	"1672-1-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 452",
@@ -2641,7 +2641,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1671-12-29",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 453",
@@ -2664,7 +2664,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 454",
@@ -2687,7 +2687,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1671-12-29",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 459",
@@ -2710,7 +2710,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1672-1-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 460",
@@ -2733,7 +2733,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1672-1-3",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 461",
@@ -2756,7 +2756,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Onbekend",
 	"1672-1-6",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 462",
@@ -2779,7 +2779,7 @@
 	"tableContent": ["Johannis Robbersen",
 	"Josijnna de Laule",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 465",
@@ -2802,7 +2802,7 @@
 	"tableContent": ["John Clement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 466",
@@ -2825,7 +2825,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 467",
@@ -2848,7 +2848,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 468",
@@ -2871,7 +2871,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -2894,7 +2894,7 @@
 	"tableContent": ["Joris Darvall",
 	"Dirck en Adriaen Dominicus",
 	"1671-12-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 478",
@@ -2917,7 +2917,7 @@
 	"tableContent": ["Justus de Huijbert",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -2940,7 +2940,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 480",
@@ -2963,7 +2963,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 481",
@@ -2986,7 +2986,7 @@
 	"tableContent": ["Lieve de Meij",
 	"Jan Lieve de Moore",
 	"1671-12-31",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 485",
@@ -3009,7 +3009,7 @@
 	"tableContent": ["Lieven de Wever",
 	"Jacob Pediceur",
 	"1672-1-13",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 487",
@@ -3032,7 +3032,7 @@
 	"tableContent": ["Maerten Lemps",
 	"Onbekend",
 	"1672-9-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 489",
@@ -3055,7 +3055,7 @@
 	"tableContent": ["Maerten Lemps",
 	"Onbekend",
 	"1672-1-15",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 490",
@@ -3078,7 +3078,7 @@
 	"tableContent": ["Maerten Lemps",
 	"Onbekend",
 	"1672-1-15",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 491",
@@ -3101,7 +3101,7 @@
 	"tableContent": ["Maerten Lemps",
 	"Onbekend",
 	"1672-1-15",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 496",
@@ -3124,7 +3124,7 @@
 	"tableContent": ["Nicolaas de Zoutte",
 	"Onbekend",
 	"1671-10-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 497",
@@ -3147,7 +3147,7 @@
 	"tableContent": ["Nathaniel Goodhand",
 	"Charles Goodhand",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 498",
@@ -3170,7 +3170,7 @@
 	"tableContent": ["Nathaniel Goodhand",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 499",
@@ -3193,7 +3193,7 @@
 	"tableContent": ["Nicolaas de Zoutte",
 	"Onbekend",
 	"1672-9-3",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 500",
@@ -3216,7 +3216,7 @@
 	"tableContent": ["Nicolaas de Zoutte",
 	"Onbekend",
 	"1672-9-3",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 501",
@@ -3239,7 +3239,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1672-8-13",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 502",
@@ -3262,7 +3262,7 @@
 	"tableContent": ["Nicolaas de Zoutte",
 	"Onbekend",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 506",
@@ -3285,7 +3285,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Jan Vans",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 508",
@@ -3308,7 +3308,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Herman Hellendoren",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 513",
@@ -3331,7 +3331,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Adrian Sengelinck",
 	"1672-1-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 516",
@@ -3354,7 +3354,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1671-9-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 518",
@@ -3377,7 +3377,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Lichtenberg",
 	"1672-1-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 520",
@@ -3400,7 +3400,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1671-12-25",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 524",
@@ -3423,7 +3423,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1672-1-7",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 526",
@@ -3446,7 +3446,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"1672-5-7",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 527",
@@ -3469,7 +3469,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 528",
@@ -3492,7 +3492,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 529",
@@ -3515,7 +3515,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 530",
@@ -3538,7 +3538,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 531",
@@ -3561,7 +3561,7 @@
 	"tableContent": ["Onbekend",
 	"David Kempe",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -3584,7 +3584,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -3607,7 +3607,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -3630,7 +3630,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -3653,7 +3653,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -3676,7 +3676,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -3699,7 +3699,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 538",
@@ -3722,7 +3722,7 @@
 	"tableContent": ["Pieter de Neijn",
 	"Cornelis de Neijn",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 539",
@@ -3745,7 +3745,7 @@
 	"tableContent": ["Pieter de Neijn",
 	"Onbekend",
 	"1671-11-22",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 541",
@@ -3768,7 +3768,7 @@
 	"tableContent": ["Pieter Heerensen",
 	"Jan en Pieter Bodaen Courten",
 	"1672-5-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 542",
@@ -3791,7 +3791,7 @@
 	"tableContent": ["Pieter Jansen",
 	"Onbekend",
 	"1671-12-14",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 543",
@@ -3814,7 +3814,7 @@
 	"tableContent": ["Pieter Jansen ",
 	"Davit Cempe",
 	"1671-12-14",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 544",
@@ -3837,7 +3837,7 @@
 	"tableContent": ["Pieter Jaspersen",
 	"Gerson Isaacxs Cockuijt",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 548",
@@ -3860,7 +3860,7 @@
 	"tableContent": ["Pieter van Lanckum",
 	"Onbekend",
 	"1672-1-9",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 549",
@@ -3883,7 +3883,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-1-11",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 550",
@@ -3906,7 +3906,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-9-14",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 551",
@@ -3929,7 +3929,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-8-3",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 552",
@@ -3952,7 +3952,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-9-5",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 554",
@@ -3975,7 +3975,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1671-12-14",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 555",
@@ -3998,7 +3998,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1671-10-16",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 557",
@@ -4021,7 +4021,7 @@
 	"tableContent": ["R. Dickenson",
 	"Hendrick vande Poele",
 	"1672-1-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 559",
@@ -4044,7 +4044,7 @@
 	"tableContent": ["Raphaell Aboab",
 	"Josyna Hursels",
 	"1672-1-1",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 563",
@@ -4067,7 +4067,7 @@
 	"tableContent": ["Reijnier Warner",
 	"Marija Cruise",
 	"1672-1-12",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 564",
@@ -4090,7 +4090,7 @@
 	"tableContent": ["Robert Honlyham",
 	"Onbekend",
 	"1672-1-11",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 573",
@@ -4113,7 +4113,7 @@
 	"tableContent": ["Samuel de Witt",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 578",
@@ -4136,7 +4136,7 @@
 	"tableContent": ["Sarah Brandt",
 	"Richard Done",
 	"1671-12-17",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 579",
@@ -4159,7 +4159,7 @@
 	"tableContent": ["Sarah van Scharphuisen",
 	"Onbekend",
 	"1672-1-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "1362",
@@ -4175,14 +4175,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "",
 	"fuzzy": "4",
 	"tableContent": ["Pieter Boudaen Courten",
 	"Willem de Somer",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 582",
@@ -4205,7 +4205,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 594",
@@ -4228,7 +4228,7 @@
 	"tableContent": ["Susanna Cowell",
 	"David Kempe",
 	"1672-1-5",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 595",
@@ -4251,7 +4251,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 596",
@@ -4274,7 +4274,7 @@
 	"tableContent": ["Trintie Segers",
 	"Onbekend",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 597",
@@ -4297,7 +4297,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 598",
@@ -4320,7 +4320,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-6-20",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 599",
@@ -4343,7 +4343,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-6-23",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 600",
@@ -4366,7 +4366,7 @@
 	"tableContent": ["Pieter Versterre",
 	"Onbekend",
 	"1672-8-4",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 601",
@@ -4389,7 +4389,7 @@
 	"tableContent": ["Nicolaas Combe",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 602",
@@ -4412,7 +4412,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 605",
@@ -4435,7 +4435,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 606",
@@ -4458,7 +4458,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 607",
@@ -4481,7 +4481,7 @@
 	"tableContent": ["Wijllem Gijssessen Danijnsijns",
 	"Maeken Jans",
 	"1672-9-16",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 609",
@@ -4504,7 +4504,7 @@
 	"tableContent": ["Willem Bleau",
 	"Onbekend",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 611",
@@ -4527,7 +4527,7 @@
 	"tableContent": ["Willem Bleau",
 	"Barent Helleman",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 614",
@@ -4550,7 +4550,7 @@
 	"tableContent": ["Willem de Somer",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 615",
@@ -4573,7 +4573,7 @@
 	"tableContent": ["Willem Gilessen Canisius",
 	"Maaike Jans",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 616",
@@ -4596,7 +4596,7 @@
 	"tableContent": ["William Pringell en Rogier Dickenson",
 	"Gaspaert Ingelsen",
 	"1672-12-1",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 618",
@@ -4619,7 +4619,7 @@
 	"tableContent": ["cognossement",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "number 619",
@@ -4642,7 +4642,7 @@
 	"tableContent": ["Jacob Antonissen",
 	"Indijch Jooristange",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4665,7 +4665,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4688,7 +4688,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4711,7 +4711,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4727,14 +4727,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "1671-8-8",
 	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1671-8-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4757,7 +4757,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4780,7 +4780,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4803,7 +4803,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4826,7 +4826,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-4-19",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4849,7 +4849,7 @@
 	"tableContent": ["Onbekend",
 	"Johan en Pieter Boudaen Courten",
 	"1672-9-4",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4872,7 +4872,7 @@
 	"tableContent": ["Onbekend",
 	"Johan en Pieter Boudaen Courten",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4895,7 +4895,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1671-8-5",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4918,7 +4918,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-6-20",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4941,7 +4941,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4964,7 +4964,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -4987,7 +4987,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-8-2",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5010,7 +5010,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5033,7 +5033,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-9-3",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5056,7 +5056,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-3-24",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5079,7 +5079,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5102,7 +5102,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1671-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5125,7 +5125,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5148,7 +5148,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5171,7 +5171,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-8-23",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5194,7 +5194,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-3-1",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5217,7 +5217,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-5-26",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5240,7 +5240,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-11-20",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5263,7 +5263,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-8-19",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5279,14 +5279,14 @@
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "The Netherlands\/Zeeland\/Middelburg"
 	}],
 	"time": "",
 	"fuzzy": "4",
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5309,7 +5309,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1671-8-8",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5332,7 +5332,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5355,7 +5355,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-2-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5378,7 +5378,7 @@
 	"tableContent": ["Onbekend",
 	"Jan Marckes",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5401,7 +5401,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5424,7 +5424,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5447,7 +5447,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5470,7 +5470,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5493,7 +5493,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5516,7 +5516,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5539,7 +5539,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5562,7 +5562,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5585,7 +5585,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5608,7 +5608,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5631,7 +5631,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5654,7 +5654,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5677,7 +5677,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5700,7 +5700,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5723,7 +5723,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5746,7 +5746,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5769,7 +5769,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5792,7 +5792,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5815,7 +5815,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5838,7 +5838,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5861,7 +5861,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5884,7 +5884,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5907,7 +5907,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5930,7 +5930,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5953,7 +5953,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5976,7 +5976,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -5999,7 +5999,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6022,7 +6022,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6045,7 +6045,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6068,7 +6068,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6091,7 +6091,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6114,7 +6114,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6137,7 +6137,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-1-5",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6160,7 +6160,7 @@
 	"tableContent": ["Onbekend",
 	"Cornelija de Gelder",
 	"1672-1-10",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6183,7 +6183,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6206,7 +6206,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6229,7 +6229,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6252,7 +6252,7 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"1672-11-17",
-	"Unknown"]
+	null]
 },
 {
 	"id": "",
@@ -6275,5 +6275,5 @@
 	"tableContent": ["Onbekend",
 	"Onbekend",
 	"",
-	"Unknown"]
+	null]
 }]
