@@ -16,7 +16,10 @@
 	}],
 	"time": "1671-10-26",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Jan Bolle",
+	"1671-10-26",
+	"Suriname"]
 },
 {
 	"id": "number 32",
@@ -36,7 +39,10 @@
 	}],
 	"time": "1672-09-10",
 	"fuzzy": "3",
-	"tableContent": "A. Thisso"
+	"tableContent": ["A. Thisso",
+	"Onbekend",
+	"1672-09-10",
+	"Nederland"]
 },
 {
 	"id": "1146",
@@ -56,7 +62,10 @@
 	}],
 	"time": "1672-12-10",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Abraham Cleeuwaert",
+	"1672-12-10",
+	"Suriname"]
 },
 {
 	"id": "1162",
@@ -76,7 +85,10 @@
 	}],
 	"time": "1672-3-10",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Pieter Leeringson",
+	"1672-3-10",
+	"Suriname"]
 },
 {
 	"id": "number 104",
@@ -96,7 +108,10 @@
 	}],
 	"time": "1671-9-11",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Jan Bolle",
+	"1671-9-11",
+	"Suriname"]
 },
 {
 	"id": "1312",
@@ -116,7 +131,10 @@
 	}],
 	"time": "1672-2-1",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Pieter Heringsen",
+	"1672-2-1",
+	"Suriname"]
 },
 {
 	"id": "number 109",
@@ -136,7 +154,10 @@
 	}],
 	"time": "1672-1-18",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Onbekend",
+	"1672-1-18",
+	"Unknown"]
 },
 {
 	"id": "143",
@@ -156,7 +177,10 @@
 	}],
 	"time": "1671-10-19",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Abraham Cleeuwaert",
+	"1671-10-19",
+	"Unknown"]
 },
 {
 	"id": "number 114",
@@ -176,7 +200,10 @@
 	}],
 	"time": "1672-3-30",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Pieter Heringsen",
+	"1672-3-30",
+	"Unknown"]
 },
 {
 	"id": "143",
@@ -196,7 +223,10 @@
 	}],
 	"time": "",
 	"fuzzy": "3",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Abraham Cleeuwaert",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 208",
@@ -216,7 +246,10 @@
 	}],
 	"time": "1672-4-2",
 	"fuzzy": "3",
-	"tableContent": "Elijsabeth Emerij"
+	"tableContent": ["Elijsabeth Emerij",
+	"Pieter Aerrensen",
+	"1672-4-2",
+	"Unknown"]
 },
 {
 	"id": "number 373",
@@ -236,7 +269,10 @@
 	}],
 	"time": "1671-02-03",
 	"fuzzy": "3",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": ["Jan van Ruijven",
+	"Onbekend",
+	"1671-02-03",
+	"The Netherlands"]
 },
 {
 	"id": "number 374",
@@ -256,7 +292,10 @@
 	}],
 	"time": "1671-02-03",
 	"fuzzy": "3",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": ["Jan van Ruijven",
+	"Onbekend",
+	"1671-02-03",
+	"The Netherlands"]
 },
 {
 	"id": "number 376",
@@ -276,7 +315,10 @@
 	}],
 	"time": "1671-02-03",
 	"fuzzy": "3",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": ["Jan van Ruijven",
+	"Onbekend",
+	"1671-02-03",
+	"The Netherlands"]
 },
 {
 	"id": "number 377",
@@ -296,7 +338,10 @@
 	}],
 	"time": "1671-02-03",
 	"fuzzy": "3",
-	"tableContent": "Jan van Ruijven"
+	"tableContent": ["Jan van Ruijven",
+	"Onbekend",
+	"1671-02-03",
+	"The Netherlands"]
 },
 {
 	"id": "2364",
@@ -316,7 +361,10 @@
 	}],
 	"time": "1672-12-14",
 	"fuzzy": "3",
-	"tableContent": "Johannes d'Olijslager"
+	"tableContent": ["Johannes d'Olijslager",
+	"Vrijbergen",
+	"1672-12-14",
+	"The Netherlands"]
 },
 {
 	"id": "number 430",
@@ -336,7 +384,10 @@
 	}],
 	"time": "1671-12-20",
 	"fuzzy": "3",
-	"tableContent": "Johannes d'Olijslager"
+	"tableContent": ["Johannes d'Olijslager",
+	"Onbekend",
+	"1671-12-20",
+	"The Netherlands"]
 },
 {
 	"id": "3330",
@@ -356,7 +407,10 @@
 	}],
 	"time": "1672-01-09",
 	"fuzzy": "3",
-	"tableContent": "Johannes d'Olijslager"
+	"tableContent": ["Johannes d'Olijslager",
+	"Wildens",
+	"1672-01-09",
+	"The Netherlands"]
 },
 {
 	"id": "number 444",
@@ -376,5 +430,8 @@
 	}],
 	"time": "1672-01-09",
 	"fuzzy": "3",
-	"tableContent": "Johannes d'Olijslager"
+	"tableContent": ["Johannes d'Olijslager",
+	"Josijnna de Laure",
+	"1672-01-09",
+	"The Netherlands"]
 }]

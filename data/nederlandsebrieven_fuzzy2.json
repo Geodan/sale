@@ -16,7 +16,10 @@
 	}],
 	"time": "1671-12-15",
 	"fuzzy": "2",
-	"tableContent": "Johannes Straeteius"
+	"tableContent": ["Johannes Straeteius",
+	"Lichtenberg",
+	"1671-12-15",
+	"The Netherlands/Zeeland"]
 },
 {
 	"id": "number 493",
@@ -36,5 +39,8 @@
 	}],
 	"time": "1672-9-15",
 	"fuzzy": "2",
-	"tableContent": "Mattijs Lantmeester"
+	"tableContent": ["Mattijs Lantmeester",
+	"Davidt Lisbrechtsen",
+	"1672-9-15",
+	"The Netherlands/Zeeland"]
 }]

@@ -16,7 +16,10 @@
 	}],
 	"time": "1671-08-12",
 	"fuzzy": "4",
-	"tableContent": "B. Raule"
+	"tableContent": ["B. Raule",
+	"Augustin Brolt",
+	"1671-08-12",
+	"Unknown"]
 },
 {
 	"id": "3354",
@@ -36,7 +39,10 @@
 	}],
 	"time": "1671-12-10",
 	"fuzzy": "4",
-	"tableContent": "Jan van der Meulen "
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1671-12-10",
+	"Unknown"]
 },
 {
 	"id": "3362",
@@ -56,7 +62,10 @@
 	}],
 	"time": "1671-12-28",
 	"fuzzy": "4",
-	"tableContent": "Jan van der Meulen "
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1671-12-28",
+	"Unknown"]
 },
 {
 	"id": "2986",
@@ -76,7 +85,10 @@
 	}],
 	"time": "1672-12-02",
 	"fuzzy": "4",
-	"tableContent": "Jan van der Meulen "
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1672-12-02",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -96,7 +108,10 @@
 	}],
 	"time": "1672-1-13",
 	"fuzzy": "4",
-	"tableContent": "Jan van der Meulen "
+	"tableContent": ["Jan van der Meulen ",
+	"Philipus Julijus Lichtenburch",
+	"1672-1-13",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -116,7 +131,10 @@
 	}],
 	"time": "1671-12-20",
 	"fuzzy": "4",
-	"tableContent": "Jan van der Meulen "
+	"tableContent": ["Jan van der Meulen ",
+	"Philipus Julijus Lichtenburch",
+	"1671-12-20",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -136,7 +154,10 @@
 	}],
 	"time": "1672-11-22",
 	"fuzzy": "4",
-	"tableContent": "Albert Clasen Vis"
+	"tableContent": ["Albert Clasen Vis",
+	"Onbekend",
+	"1672-11-22",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -156,7 +177,10 @@
 	}],
 	"time": "1672-9-5",
 	"fuzzy": "4",
-	"tableContent": "J. Crenen"
+	"tableContent": ["J. Crenen",
+	"Jacobes vander Beke",
+	"1672-9-5",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -176,7 +200,10 @@
 	}],
 	"time": "1672-9-5",
 	"fuzzy": "4",
-	"tableContent": "J. Crenen"
+	"tableContent": ["J. Crenen",
+	"Neelken Scheuijen",
+	"1672-9-5",
+	"Unknown"]
 },
 {
 	"id": "number 18",
@@ -196,7 +223,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Joris Darvall"
+	"tableContent": ["Joris Darvall",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 19",
@@ -216,7 +246,10 @@
 	}],
 	"time": "1672-5-25",
 	"fuzzy": "4",
-	"tableContent": "Pieter Heerensen"
+	"tableContent": ["Pieter Heerensen",
+	"Jan en Pieter Bodaen Coerten",
+	"1672-5-25",
+	"Unknown"]
 },
 {
 	"id": "number 20",
@@ -236,7 +269,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 21",
@@ -256,7 +292,10 @@
 	}],
 	"time": "1672-11-11",
 	"fuzzy": "4",
-	"tableContent": "onbekend"
+	"tableContent": ["onbekend",
+	"Onbekend",
+	"1672-11-11",
+	"Unknown"]
 },
 {
 	"id": "number 26",
@@ -276,7 +315,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Johan Simon"
+	"tableContent": ["Johan Simon",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 27",
@@ -296,7 +338,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Johan Simon"
+	"tableContent": ["Johan Simon",
+	"Leintje Frans",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 43",
@@ -316,7 +361,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Ad Schoors"
+	"tableContent": ["Ad Schoors",
+	"Mr. Cahlies",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 54",
@@ -336,7 +384,10 @@
 	}],
 	"time": "1672-2-3",
 	"fuzzy": "4",
-	"tableContent": "Adrijaen Wadde"
+	"tableContent": ["Adrijaen Wadde",
+	"Onbekend",
+	"1672-2-3",
+	"Unknown"]
 },
 {
 	"id": "number 55",
@@ -356,7 +407,10 @@
 	}],
 	"time": "1672-1-6",
 	"fuzzy": "4",
-	"tableContent": "Adryaen Claese"
+	"tableContent": ["Adryaen Claese",
+	"Maeycke Jacobs",
+	"1672-1-6",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -376,7 +430,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -396,7 +453,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 63",
@@ -416,7 +476,10 @@
 	}],
 	"time": "1672-6-5",
 	"fuzzy": "4",
-	"tableContent": "Alexander Batij"
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"1672-6-5",
+	"Unknown"]
 },
 {
 	"id": "number 67",
@@ -436,7 +499,10 @@
 	}],
 	"time": "1672-1-8",
 	"fuzzy": "4",
-	"tableContent": "Alexander Batij"
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"1672-1-8",
+	"Unknown"]
 },
 {
 	"id": "number 68",
@@ -456,7 +522,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Alexander Batij"
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 69",
@@ -476,7 +545,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Alexander Batij "
+	"tableContent": ["Alexander Batij ",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "number 70",
@@ -496,7 +568,10 @@
 	}],
 	"time": "1671-12-29",
 	"fuzzy": "4",
-	"tableContent": "Alexander Batij "
+	"tableContent": ["Alexander Batij ",
+	"Onbekend",
+	"1671-12-29",
+	"Unknown"]
 },
 {
 	"id": "number 85",
@@ -516,7 +591,10 @@
 	}],
 	"time": "1672-1-12",
 	"fuzzy": "4",
-	"tableContent": "Barent Harmansz Voocht"
+	"tableContent": ["Barent Harmansz Voocht",
+	"Anderies Claessen Vocht",
+	"1672-1-12",
+	"Unknown"]
 },
 {
 	"id": "number 88",
@@ -536,7 +614,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "Basseliers"
+	"tableContent": ["Basseliers",
+	"Daniel Mildert",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "number 89",
@@ -556,7 +637,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Basseliers "
+	"tableContent": ["Basseliers ",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 97",
@@ -576,7 +660,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Benedictus Marius"
+	"tableContent": ["Benedictus Marius",
+	"Jaen Bruijnvis",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 98",
@@ -596,7 +683,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "Benedictus Marius"
+	"tableContent": ["Benedictus Marius",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -616,7 +706,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -636,7 +729,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -656,7 +752,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 108",
@@ -676,7 +775,10 @@
 	}],
 	"time": "1671-8-17",
 	"fuzzy": "4",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Onbekend",
+	"1671-8-17",
+	"Unknown"]
 },
 {
 	"id": "number 111",
@@ -696,7 +798,10 @@
 	}],
 	"time": "1671-8-21",
 	"fuzzy": "4",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Abraham Cleeuwaert",
+	"1671-8-21",
+	"Unknown"]
 },
 {
 	"id": "number 112",
@@ -716,7 +821,10 @@
 	}],
 	"time": "1672-2-2",
 	"fuzzy": "4",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Pieter Heringsen",
+	"1672-2-2",
+	"Unknown"]
 },
 {
 	"id": "number 113",
@@ -736,7 +844,10 @@
 	}],
 	"time": "1672-1-23",
 	"fuzzy": "4",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Onbekend",
+	"1672-1-23",
+	"Unknown"]
 },
 {
 	"id": "number 115",
@@ -756,7 +867,10 @@
 	}],
 	"time": "1671-7-30",
 	"fuzzy": "4",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Jan Bolle",
+	"1671-7-30",
+	"Unknown"]
 },
 {
 	"id": "number 117",
@@ -776,7 +890,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Boudewijn de Witte"
+	"tableContent": ["Boudewijn de Witte",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -796,7 +913,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -816,7 +936,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -836,7 +959,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -856,7 +982,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 126",
@@ -876,7 +1005,10 @@
 	}],
 	"time": "1672-1-1",
 	"fuzzy": "4",
-	"tableContent": "Carel Nachtegael"
+	"tableContent": ["Carel Nachtegael",
+	"Joan de Wale",
+	"1672-1-1",
+	"Unknown"]
 },
 {
 	"id": "number 128",
@@ -896,7 +1028,10 @@
 	}],
 	"time": "1672-1-1",
 	"fuzzy": "4",
-	"tableContent": "Carel Nachtegael"
+	"tableContent": ["Carel Nachtegael",
+	"Mattheus Hals",
+	"1672-1-1",
+	"Unknown"]
 },
 {
 	"id": "number 132",
@@ -916,7 +1051,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 144",
@@ -936,7 +1074,10 @@
 	}],
 	"time": "1672-1-12",
 	"fuzzy": "4",
-	"tableContent": "Claes Raes"
+	"tableContent": ["Claes Raes",
+	"Louwerens Verpoorten",
+	"1672-1-12",
+	"Unknown"]
 },
 {
 	"id": "number 145",
@@ -956,7 +1097,10 @@
 	}],
 	"time": "1671-8",
 	"fuzzy": "4",
-	"tableContent": "Claes Raes"
+	"tableContent": ["Claes Raes",
+	"Laurens Willemsen Verpoorten",
+	"1671-8",
+	"Unknown"]
 },
 {
 	"id": "number 146",
@@ -976,7 +1120,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Claes Raes"
+	"tableContent": ["Claes Raes",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 148",
@@ -996,7 +1143,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 149",
@@ -1016,7 +1166,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 150",
@@ -1036,7 +1189,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 151",
@@ -1056,7 +1212,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 152",
@@ -1076,7 +1235,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Janneken Jans",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 153",
@@ -1096,7 +1258,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 154",
@@ -1116,7 +1281,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 155",
@@ -1136,7 +1304,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 156",
@@ -1156,7 +1327,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 157",
@@ -1176,7 +1350,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 158",
@@ -1196,7 +1373,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 160",
@@ -1216,7 +1396,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 161",
@@ -1236,7 +1419,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 162",
@@ -1256,7 +1442,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 163",
@@ -1276,7 +1465,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 164",
@@ -1296,7 +1488,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 165",
@@ -1316,7 +1511,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 166",
@@ -1336,7 +1534,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 167",
@@ -1356,7 +1557,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 168",
@@ -1376,7 +1580,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 169",
@@ -1396,7 +1603,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 170",
@@ -1416,7 +1626,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 171",
@@ -1436,7 +1649,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossment"
+	"tableContent": ["cognossment",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 173",
@@ -1456,7 +1672,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 177",
@@ -1476,7 +1695,10 @@
 	}],
 	"time": "1672-1-12",
 	"fuzzy": "4",
-	"tableContent": "Cornelis Bastiaensen"
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"1672-1-12",
+	"Unknown"]
 },
 {
 	"id": "number 178",
@@ -1496,7 +1718,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "Cornelis Bastiaensen"
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "number 179",
@@ -1516,7 +1741,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Cornelis Bastiaensen"
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 184",
@@ -1536,7 +1764,10 @@
 	}],
 	"time": "1672-1-8",
 	"fuzzy": "4",
-	"tableContent": "Cornelis Berge"
+	"tableContent": ["Cornelis Berge",
+	"Cornelis Pets",
+	"1672-1-8",
+	"Unknown"]
 },
 {
 	"id": "number 190",
@@ -1556,7 +1787,10 @@
 	}],
 	"time": "1672-1-12",
 	"fuzzy": "4",
-	"tableContent": "Cornelis Raes"
+	"tableContent": ["Cornelis Raes",
+	"Elisabeta Raes",
+	"1672-1-12",
+	"Unknown"]
 },
 {
 	"id": "number 191",
@@ -1576,7 +1810,10 @@
 	}],
 	"time": "1672-1-14",
 	"fuzzy": "4",
-	"tableContent": "Cornelis Raes"
+	"tableContent": ["Cornelis Raes",
+	"Janken Raes",
+	"1672-1-14",
+	"Unknown"]
 },
 {
 	"id": "number 192",
@@ -1596,7 +1833,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Cornelis Raes"
+	"tableContent": ["Cornelis Raes",
+	"Pieternella Raes",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 210",
@@ -1616,7 +1856,10 @@
 	}],
 	"time": "1672-9-3",
 	"fuzzy": "4",
-	"tableContent": "Elijsabeth Emerij"
+	"tableContent": ["Elijsabeth Emerij",
+	"Onbekend",
+	"1672-9-3",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -1636,7 +1879,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 234",
@@ -1656,7 +1902,10 @@
 	}],
 	"time": "1672-1-6",
 	"fuzzy": "4",
-	"tableContent": "Fijlippus Bracht"
+	"tableContent": ["Fijlippus Bracht",
+	"Sin Kuevelaer",
+	"1672-1-6",
+	"Unknown"]
 },
 {
 	"id": "number 237",
@@ -1676,7 +1925,10 @@
 	}],
 	"time": "1672-1-4",
 	"fuzzy": "4",
-	"tableContent": "Francoise Pradon"
+	"tableContent": ["Francoise Pradon",
+	"Charles Pradon a Gueneuille",
+	"1672-1-4",
+	"Unknown"]
 },
 {
 	"id": "number 238",
@@ -1696,7 +1948,10 @@
 	}],
 	"time": "1672-1-4",
 	"fuzzy": "4",
-	"tableContent": "Francoise Pradon"
+	"tableContent": ["Francoise Pradon",
+	"Onbekend",
+	"1672-1-4",
+	"Unknown"]
 },
 {
 	"id": "number 245",
@@ -1716,7 +1971,10 @@
 	}],
 	"time": "1672-1-11",
 	"fuzzy": "4",
-	"tableContent": "Golken Ceuvelaer"
+	"tableContent": ["Golken Ceuvelaer",
+	"Onbekend",
+	"1672-1-11",
+	"Unknown"]
 },
 {
 	"id": "number 247",
@@ -1736,7 +1994,10 @@
 	}],
 	"time": "1672-1-12",
 	"fuzzy": "4",
-	"tableContent": "Golken Ceuvelaer"
+	"tableContent": ["Golken Ceuvelaer",
+	"Onbekend",
+	"1672-1-12",
+	"Unknown"]
 },
 {
 	"id": "number 248",
@@ -1756,7 +2017,10 @@
 	}],
 	"time": "1672-1-11",
 	"fuzzy": "4",
-	"tableContent": "Golken Ceuvelaer"
+	"tableContent": ["Golken Ceuvelaer",
+	"Adriana Lemps",
+	"1672-1-11",
+	"Unknown"]
 },
 {
 	"id": "number 256",
@@ -1776,7 +2040,10 @@
 	}],
 	"time": "1671-10-8",
 	"fuzzy": "4",
-	"tableContent": "Henderijk Breijhaen"
+	"tableContent": ["Henderijk Breijhaen",
+	"Onbekend",
+	"1671-10-8",
+	"Unknown"]
 },
 {
 	"id": "number 260",
@@ -1796,7 +2063,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Hendrick de Harder"
+	"tableContent": ["Hendrick de Harder",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 262",
@@ -1816,7 +2086,10 @@
 	}],
 	"time": "1672-1-1",
 	"fuzzy": "4",
-	"tableContent": "Hendrick Huiberts"
+	"tableContent": ["Hendrick Huiberts",
+	"Cornelis Sies",
+	"1672-1-1",
+	"Unknown"]
 },
 {
 	"id": "number 265",
@@ -1836,7 +2109,10 @@
 	}],
 	"time": "1672-1-12",
 	"fuzzy": "4",
-	"tableContent": "Hendrick Huiberts"
+	"tableContent": ["Hendrick Huiberts",
+	"Jacobus van Aelst",
+	"1672-1-12",
+	"Unknown"]
 },
 {
 	"id": "number 267",
@@ -1856,7 +2132,10 @@
 	}],
 	"time": "1672-9-9",
 	"fuzzy": "4",
-	"tableContent": "Hendrick Huiberts"
+	"tableContent": ["Hendrick Huiberts",
+	"Andries Claes Vos",
+	"1672-9-9",
+	"Unknown"]
 },
 {
 	"id": "number 268",
@@ -1876,7 +2155,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Hendrickje van den Herdenbegh"
+	"tableContent": ["Hendrickje van den Herdenbegh",
+	"Marja vanden Herdenbgh",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 273",
@@ -1896,7 +2178,10 @@
 	}],
 	"time": "1672-1-8",
 	"fuzzy": "4",
-	"tableContent": "Herman de Huijbert"
+	"tableContent": ["Herman de Huijbert",
+	"Onbekend",
+	"1672-1-8",
+	"Unknown"]
 },
 {
 	"id": "number 283",
@@ -1916,7 +2201,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "J Clercq"
+	"tableContent": ["J Clercq",
+	"Janneken vande Putte",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "number 291",
@@ -1936,7 +2224,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Jacob Cornelis van Machem"
+	"tableContent": ["Jacob Cornelis van Machem",
+	"Maretjen Tijes",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 305",
@@ -1956,7 +2247,10 @@
 	}],
 	"time": "1672-9-14",
 	"fuzzy": "4",
-	"tableContent": "Jan Andriesen"
+	"tableContent": ["Jan Andriesen",
+	"Anna Jansen",
+	"1672-9-14",
+	"Unknown"]
 },
 {
 	"id": "number 308",
@@ -1976,7 +2270,10 @@
 	}],
 	"time": "1672-9-15",
 	"fuzzy": "4",
-	"tableContent": "Jan Andriesen"
+	"tableContent": ["Jan Andriesen",
+	"Lourens Willemsen Verpoorte",
+	"1672-9-15",
+	"Unknown"]
 },
 {
 	"id": "number 309",
@@ -1996,7 +2293,10 @@
 	}],
 	"time": "1672-9-6",
 	"fuzzy": "4",
-	"tableContent": "Jan de Passer"
+	"tableContent": ["Jan de Passer",
+	"Tobias Claijsen",
+	"1672-9-6",
+	"Unknown"]
 },
 {
 	"id": "number 318",
@@ -2016,7 +2316,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "Jan Dimmese"
+	"tableContent": ["Jan Dimmese",
+	"Maeijken Cornel. Robes",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "number 329",
@@ -2036,7 +2339,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Jan Tinnegieter"
+	"tableContent": ["Jan Tinnegieter",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "number 390",
@@ -2056,7 +2362,10 @@
 	}],
 	"time": "1672-2-7",
 	"fuzzy": "4",
-	"tableContent": "Jannis Wijnseperij"
+	"tableContent": ["Jannis Wijnseperij",
+	"Onbekend",
+	"1672-2-7",
+	"Unknown"]
 },
 {
 	"id": "number 392",
@@ -2076,7 +2385,10 @@
 	}],
 	"time": "1672-9-15",
 	"fuzzy": "4",
-	"tableContent": "Jean le Grand"
+	"tableContent": ["Jean le Grand",
+	"Pieter Buteux",
+	"1672-9-15",
+	"Unknown"]
 },
 {
 	"id": "number 403",
@@ -2096,7 +2408,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Jean le Grand"
+	"tableContent": ["Jean le Grand",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 405",
@@ -2116,7 +2431,10 @@
 	}],
 	"time": "1671-12-28",
 	"fuzzy": "4",
-	"tableContent": "Joannis Robbersen"
+	"tableContent": ["Joannis Robbersen",
+	"Kapitein Nicolaes Raes",
+	"1671-12-28",
+	"Unknown"]
 },
 {
 	"id": "number 410",
@@ -2136,7 +2454,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "Johan Basseliers"
+	"tableContent": ["Johan Basseliers",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "number 412",
@@ -2156,7 +2477,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Johan Basseliers"
+	"tableContent": ["Johan Basseliers",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 421",
@@ -2176,7 +2500,10 @@
 	}],
 	"time": "1672-12-14",
 	"fuzzy": "4",
-	"tableContent": "Johan van Melckebeecke"
+	"tableContent": ["Johan van Melckebeecke",
+	"Cornelis Jansz. Verhulst",
+	"1672-12-14",
+	"Unknown"]
 },
 {
 	"id": "number 422",
@@ -2196,7 +2523,10 @@
 	}],
 	"time": "1672-12-14",
 	"fuzzy": "4",
-	"tableContent": "Johan van Melckebeecke"
+	"tableContent": ["Johan van Melckebeecke",
+	"Bartholomeus de Looper",
+	"1672-12-14",
+	"Unknown"]
 },
 {
 	"id": "number 447",
@@ -2216,7 +2546,10 @@
 	}],
 	"time": "1672-1-13",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Louwerens Willemsen Verpoorte, koopman",
+	"1672-1-13",
+	"Unknown"]
 },
 {
 	"id": "number 449",
@@ -2236,7 +2569,10 @@
 	}],
 	"time": "1672-1-2",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Gelyamme de Backer",
+	"1672-1-2",
+	"Unknown"]
 },
 {
 	"id": "number 450",
@@ -2256,7 +2592,10 @@
 	}],
 	"time": "1672-1-2",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-2",
+	"Unknown"]
 },
 {
 	"id": "number 451",
@@ -2276,7 +2615,10 @@
 	}],
 	"time": "1672-1-2",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Jacobus van der Mees",
+	"1672-1-2",
+	"Unknown"]
 },
 {
 	"id": "number 452",
@@ -2296,7 +2638,10 @@
 	}],
 	"time": "1671-12-29",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1671-12-29",
+	"Unknown"]
 },
 {
 	"id": "number 453",
@@ -2316,7 +2661,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 454",
@@ -2336,7 +2684,10 @@
 	}],
 	"time": "1671-12-29",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1671-12-29",
+	"Unknown"]
 },
 {
 	"id": "number 459",
@@ -2356,7 +2707,10 @@
 	}],
 	"time": "1672-1-2",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-2",
+	"Unknown"]
 },
 {
 	"id": "number 460",
@@ -2376,7 +2730,10 @@
 	}],
 	"time": "1672-1-3",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-3",
+	"Unknown"]
 },
 {
 	"id": "number 461",
@@ -2396,7 +2753,10 @@
 	}],
 	"time": "1672-1-6",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-6",
+	"Unknown"]
 },
 {
 	"id": "number 462",
@@ -2416,7 +2776,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "Johannis Robbersen"
+	"tableContent": ["Johannis Robbersen",
+	"Josijnna de Laule",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "number 465",
@@ -2436,7 +2799,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "John Clement"
+	"tableContent": ["John Clement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 466",
@@ -2456,7 +2822,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 467",
@@ -2476,7 +2845,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 468",
@@ -2496,7 +2868,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -2516,7 +2891,10 @@
 	}],
 	"time": "1671-12-12",
 	"fuzzy": "4",
-	"tableContent": "Joris Darvall"
+	"tableContent": ["Joris Darvall",
+	"Dirck en Adriaen Dominicus",
+	"1671-12-12",
+	"Unknown"]
 },
 {
 	"id": "number 478",
@@ -2536,7 +2914,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Justus de Huijbert"
+	"tableContent": ["Justus de Huijbert",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -2556,7 +2937,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 480",
@@ -2576,7 +2960,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 481",
@@ -2596,7 +2983,10 @@
 	}],
 	"time": "1671-12-31",
 	"fuzzy": "4",
-	"tableContent": "Lieve de Meij"
+	"tableContent": ["Lieve de Meij",
+	"Jan Lieve de Moore",
+	"1671-12-31",
+	"Unknown"]
 },
 {
 	"id": "number 485",
@@ -2616,7 +3006,10 @@
 	}],
 	"time": "1672-1-13",
 	"fuzzy": "4",
-	"tableContent": "Lieven de Wever"
+	"tableContent": ["Lieven de Wever",
+	"Jacob Pediceur",
+	"1672-1-13",
+	"Unknown"]
 },
 {
 	"id": "number 487",
@@ -2636,7 +3029,10 @@
 	}],
 	"time": "1672-9-10",
 	"fuzzy": "4",
-	"tableContent": "Maerten Lemps"
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-9-10",
+	"Unknown"]
 },
 {
 	"id": "number 489",
@@ -2656,7 +3052,10 @@
 	}],
 	"time": "1672-1-15",
 	"fuzzy": "4",
-	"tableContent": "Maerten Lemps"
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"Unknown"]
 },
 {
 	"id": "number 490",
@@ -2676,7 +3075,10 @@
 	}],
 	"time": "1672-1-15",
 	"fuzzy": "4",
-	"tableContent": "Maerten Lemps"
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"Unknown"]
 },
 {
 	"id": "number 491",
@@ -2696,7 +3098,10 @@
 	}],
 	"time": "1672-1-15",
 	"fuzzy": "4",
-	"tableContent": "Maerten Lemps"
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"Unknown"]
 },
 {
 	"id": "number 496",
@@ -2716,7 +3121,10 @@
 	}],
 	"time": "1671-10-8",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas de Zoutte"
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1671-10-8",
+	"Unknown"]
 },
 {
 	"id": "number 497",
@@ -2736,7 +3144,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nathaniel Goodhand"
+	"tableContent": ["Nathaniel Goodhand",
+	"Charles Goodhand",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 498",
@@ -2756,7 +3167,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nathaniel Goodhand"
+	"tableContent": ["Nathaniel Goodhand",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 499",
@@ -2776,7 +3190,10 @@
 	}],
 	"time": "1672-9-3",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas de Zoutte"
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-9-3",
+	"Unknown"]
 },
 {
 	"id": "number 500",
@@ -2796,7 +3213,10 @@
 	}],
 	"time": "1672-9-3",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas de Zoutte"
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-9-3",
+	"Unknown"]
 },
 {
 	"id": "number 501",
@@ -2816,7 +3236,10 @@
 	}],
 	"time": "1672-8-13",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-8-13",
+	"Unknown"]
 },
 {
 	"id": "number 502",
@@ -2836,7 +3259,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas de Zoutte"
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "number 506",
@@ -2856,7 +3282,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Jan Vans",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "number 508",
@@ -2876,7 +3305,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Herman Hellendoren",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "number 513",
@@ -2896,7 +3328,10 @@
 	}],
 	"time": "1672-1-12",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Adrian Sengelinck",
+	"1672-1-12",
+	"Unknown"]
 },
 {
 	"id": "number 516",
@@ -2916,7 +3351,10 @@
 	}],
 	"time": "1671-9-12",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1671-9-12",
+	"Unknown"]
 },
 {
 	"id": "number 518",
@@ -2936,7 +3374,10 @@
 	}],
 	"time": "1672-1-2",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Lichtenberg",
+	"1672-1-2",
+	"Unknown"]
 },
 {
 	"id": "number 520",
@@ -2956,7 +3397,10 @@
 	}],
 	"time": "1671-12-25",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1671-12-25",
+	"Unknown"]
 },
 {
 	"id": "number 524",
@@ -2976,7 +3420,10 @@
 	}],
 	"time": "1672-1-7",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-1-7",
+	"Unknown"]
 },
 {
 	"id": "number 526",
@@ -2996,7 +3443,10 @@
 	}],
 	"time": "1672-5-7",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-5-7",
+	"Unknown"]
 },
 {
 	"id": "number 527",
@@ -3016,7 +3466,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 528",
@@ -3036,7 +3489,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 529",
@@ -3056,7 +3512,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 530",
@@ -3076,7 +3535,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 531",
@@ -3096,7 +3558,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"David Kempe",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -3116,7 +3581,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -3136,7 +3604,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -3156,7 +3627,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -3176,7 +3650,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -3196,7 +3673,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -3216,7 +3696,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 538",
@@ -3236,7 +3719,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Pieter de Neijn"
+	"tableContent": ["Pieter de Neijn",
+	"Cornelis de Neijn",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 539",
@@ -3256,7 +3742,10 @@
 	}],
 	"time": "1671-11-22",
 	"fuzzy": "4",
-	"tableContent": "Pieter de Neijn"
+	"tableContent": ["Pieter de Neijn",
+	"Onbekend",
+	"1671-11-22",
+	"Unknown"]
 },
 {
 	"id": "number 541",
@@ -3276,7 +3765,10 @@
 	}],
 	"time": "1672-5-2",
 	"fuzzy": "4",
-	"tableContent": "Pieter Heerensen"
+	"tableContent": ["Pieter Heerensen",
+	"Jan en Pieter Bodaen Courten",
+	"1672-5-2",
+	"Unknown"]
 },
 {
 	"id": "number 542",
@@ -3296,7 +3788,10 @@
 	}],
 	"time": "1671-12-14",
 	"fuzzy": "4",
-	"tableContent": "Pieter Jansen"
+	"tableContent": ["Pieter Jansen",
+	"Onbekend",
+	"1671-12-14",
+	"Unknown"]
 },
 {
 	"id": "number 543",
@@ -3316,7 +3811,10 @@
 	}],
 	"time": "1671-12-14",
 	"fuzzy": "4",
-	"tableContent": "Pieter Jansen "
+	"tableContent": ["Pieter Jansen ",
+	"Davit Cempe",
+	"1671-12-14",
+	"Unknown"]
 },
 {
 	"id": "number 544",
@@ -3336,7 +3834,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Pieter Jaspersen"
+	"tableContent": ["Pieter Jaspersen",
+	"Gerson Isaacxs Cockuijt",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 548",
@@ -3356,7 +3857,10 @@
 	}],
 	"time": "1672-1-9",
 	"fuzzy": "4",
-	"tableContent": "Pieter van Lanckum"
+	"tableContent": ["Pieter van Lanckum",
+	"Onbekend",
+	"1672-1-9",
+	"Unknown"]
 },
 {
 	"id": "number 549",
@@ -3376,7 +3880,10 @@
 	}],
 	"time": "1672-1-11",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-1-11",
+	"Unknown"]
 },
 {
 	"id": "number 550",
@@ -3396,7 +3903,10 @@
 	}],
 	"time": "1672-9-14",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-9-14",
+	"Unknown"]
 },
 {
 	"id": "number 551",
@@ -3416,7 +3926,10 @@
 	}],
 	"time": "1672-8-3",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-8-3",
+	"Unknown"]
 },
 {
 	"id": "number 552",
@@ -3436,7 +3949,10 @@
 	}],
 	"time": "1672-9-5",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-9-5",
+	"Unknown"]
 },
 {
 	"id": "number 554",
@@ -3456,7 +3972,10 @@
 	}],
 	"time": "1671-12-14",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1671-12-14",
+	"Unknown"]
 },
 {
 	"id": "number 555",
@@ -3476,7 +3995,10 @@
 	}],
 	"time": "1671-10-16",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1671-10-16",
+	"Unknown"]
 },
 {
 	"id": "number 557",
@@ -3496,7 +4018,10 @@
 	}],
 	"time": "1672-1-2",
 	"fuzzy": "4",
-	"tableContent": "R. Dickenson"
+	"tableContent": ["R. Dickenson",
+	"Hendrick vande Poele",
+	"1672-1-2",
+	"Unknown"]
 },
 {
 	"id": "number 559",
@@ -3516,7 +4041,10 @@
 	}],
 	"time": "1672-1-1",
 	"fuzzy": "4",
-	"tableContent": "Raphaell Aboab"
+	"tableContent": ["Raphaell Aboab",
+	"Josyna Hursels",
+	"1672-1-1",
+	"Unknown"]
 },
 {
 	"id": "number 563",
@@ -3536,7 +4064,10 @@
 	}],
 	"time": "1672-1-12",
 	"fuzzy": "4",
-	"tableContent": "Reijnier Warner"
+	"tableContent": ["Reijnier Warner",
+	"Marija Cruise",
+	"1672-1-12",
+	"Unknown"]
 },
 {
 	"id": "number 564",
@@ -3556,7 +4087,10 @@
 	}],
 	"time": "1672-1-11",
 	"fuzzy": "4",
-	"tableContent": "Robert Honlyham"
+	"tableContent": ["Robert Honlyham",
+	"Onbekend",
+	"1672-1-11",
+	"Unknown"]
 },
 {
 	"id": "number 573",
@@ -3576,7 +4110,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Samuel de Witt"
+	"tableContent": ["Samuel de Witt",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 578",
@@ -3596,7 +4133,10 @@
 	}],
 	"time": "1671-12-17",
 	"fuzzy": "4",
-	"tableContent": "Sarah Brandt"
+	"tableContent": ["Sarah Brandt",
+	"Richard Done",
+	"1671-12-17",
+	"Unknown"]
 },
 {
 	"id": "number 579",
@@ -3616,7 +4156,10 @@
 	}],
 	"time": "1672-1-8",
 	"fuzzy": "4",
-	"tableContent": "Sarah van Scharphuisen"
+	"tableContent": ["Sarah van Scharphuisen",
+	"Onbekend",
+	"1672-1-8",
+	"Unknown"]
 },
 {
 	"id": "1362",
@@ -3636,7 +4179,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Pieter Boudaen Courten"
+	"tableContent": ["Pieter Boudaen Courten",
+	"Willem de Somer",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 582",
@@ -3656,7 +4202,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 594",
@@ -3676,7 +4225,10 @@
 	}],
 	"time": "1672-1-5",
 	"fuzzy": "4",
-	"tableContent": "Susanna Cowell"
+	"tableContent": ["Susanna Cowell",
+	"David Kempe",
+	"1672-1-5",
+	"Unknown"]
 },
 {
 	"id": "number 595",
@@ -3696,7 +4248,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 596",
@@ -3716,7 +4271,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Trintie Segers"
+	"tableContent": ["Trintie Segers",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "number 597",
@@ -3736,7 +4294,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 598",
@@ -3756,7 +4317,10 @@
 	}],
 	"time": "1672-6-20",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-6-20",
+	"Unknown"]
 },
 {
 	"id": "number 599",
@@ -3776,7 +4340,10 @@
 	}],
 	"time": "1672-6-23",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-6-23",
+	"Unknown"]
 },
 {
 	"id": "number 600",
@@ -3796,7 +4363,10 @@
 	}],
 	"time": "1672-8-4",
 	"fuzzy": "4",
-	"tableContent": "Pieter Versterre"
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-8-4",
+	"Unknown"]
 },
 {
 	"id": "number 601",
@@ -3816,7 +4386,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Nicolaas Combe"
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 602",
@@ -3836,7 +4409,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 605",
@@ -3856,7 +4432,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 606",
@@ -3876,7 +4455,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 607",
@@ -3896,7 +4478,10 @@
 	}],
 	"time": "1672-9-16",
 	"fuzzy": "4",
-	"tableContent": "Wijllem Gijssessen Danijnsijns"
+	"tableContent": ["Wijllem Gijssessen Danijnsijns",
+	"Maeken Jans",
+	"1672-9-16",
+	"Unknown"]
 },
 {
 	"id": "number 609",
@@ -3916,7 +4501,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Willem Bleau"
+	"tableContent": ["Willem Bleau",
+	"Onbekend",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "number 611",
@@ -3936,7 +4524,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Willem Bleau"
+	"tableContent": ["Willem Bleau",
+	"Barent Helleman",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "number 614",
@@ -3956,7 +4547,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Willem de Somer"
+	"tableContent": ["Willem de Somer",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 615",
@@ -3976,7 +4570,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Willem Gilessen Canisius"
+	"tableContent": ["Willem Gilessen Canisius",
+	"Maaike Jans",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 616",
@@ -3996,7 +4593,10 @@
 	}],
 	"time": "1672-12-1",
 	"fuzzy": "4",
-	"tableContent": "William Pringell en Rogier Dickenson"
+	"tableContent": ["William Pringell en Rogier Dickenson",
+	"Gaspaert Ingelsen",
+	"1672-12-1",
+	"Unknown"]
 },
 {
 	"id": "number 618",
@@ -4016,7 +4616,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "cognossement"
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "number 619",
@@ -4036,7 +4639,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Jacob Antonissen"
+	"tableContent": ["Jacob Antonissen",
+	"Indijch Jooristange",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4056,7 +4662,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4076,7 +4685,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4096,7 +4708,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4116,7 +4731,10 @@
 	}],
 	"time": "1671-8-8",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-8",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4136,7 +4754,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4156,7 +4777,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4176,7 +4800,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4196,7 +4823,10 @@
 	}],
 	"time": "1672-4-19",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-4-19",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4216,7 +4846,10 @@
 	}],
 	"time": "1672-9-4",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Johan en Pieter Boudaen Courten",
+	"1672-9-4",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4236,7 +4869,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Johan en Pieter Boudaen Courten",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4256,7 +4892,10 @@
 	}],
 	"time": "1671-8-5",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-5",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4276,7 +4915,10 @@
 	}],
 	"time": "1672-6-20",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-6-20",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4296,7 +4938,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4316,7 +4961,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4336,7 +4984,10 @@
 	}],
 	"time": "1672-8-2",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-2",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4356,7 +5007,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4376,7 +5030,10 @@
 	}],
 	"time": "1672-9-3",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-9-3",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4396,7 +5053,10 @@
 	}],
 	"time": "1672-3-24",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-3-24",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4416,7 +5076,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4436,7 +5099,10 @@
 	}],
 	"time": "1671-8",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4456,7 +5122,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4476,7 +5145,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4496,7 +5168,10 @@
 	}],
 	"time": "1672-8-23",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-23",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4516,7 +5191,10 @@
 	}],
 	"time": "1672-3-1",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-3-1",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4536,7 +5214,10 @@
 	}],
 	"time": "1672-5-26",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-5-26",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4556,7 +5237,10 @@
 	}],
 	"time": "1672-11-20",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-11-20",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4576,7 +5260,10 @@
 	}],
 	"time": "1672-8-19",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-19",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4596,7 +5283,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4616,7 +5306,10 @@
 	}],
 	"time": "1671-8-8",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-8",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4636,7 +5329,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4656,7 +5352,10 @@
 	}],
 	"time": "1672-2-10",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-2-10",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4676,7 +5375,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Jan Marckes",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4696,7 +5398,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4716,7 +5421,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4736,7 +5444,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4756,7 +5467,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4776,7 +5490,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4796,7 +5513,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4816,7 +5536,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4836,7 +5559,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4856,7 +5582,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4876,7 +5605,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4896,7 +5628,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4916,7 +5651,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4936,7 +5674,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4956,7 +5697,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4976,7 +5720,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -4996,7 +5743,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5016,7 +5766,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5036,7 +5789,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5056,7 +5812,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5076,7 +5835,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5096,7 +5858,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5116,7 +5881,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5136,7 +5904,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5156,7 +5927,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5176,7 +5950,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5196,7 +5973,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5216,7 +5996,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5236,7 +6019,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5256,7 +6042,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5276,7 +6065,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5296,7 +6088,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5316,7 +6111,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5336,7 +6134,10 @@
 	}],
 	"time": "1672-1-5",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-1-5",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5356,7 +6157,10 @@
 	}],
 	"time": "1672-1-10",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Cornelija de Gelder",
+	"1672-1-10",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5376,7 +6180,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5396,7 +6203,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5416,7 +6226,10 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5436,7 +6249,10 @@
 	}],
 	"time": "1672-11-17",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-11-17",
+	"Unknown"]
 },
 {
 	"id": "",
@@ -5456,5 +6272,8 @@
 	}],
 	"time": "",
 	"fuzzy": "4",
-	"tableContent": "Onbekend"
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"Unknown"]
 }]
