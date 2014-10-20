@@ -41,7 +41,7 @@ Netwerk.prototype = {
        
 	   		    
     		function redraw() {
-  console.log("here", d3.event.translate, d3.event.scale);
+  
   vis.attr("transform",
       "translate(" + d3.event.translate + ")"
       + " scale(" + d3.event.scale + ")");
