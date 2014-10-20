@@ -102,7 +102,7 @@ line.link {
 
 
 <div id="wrapper1">
-	<!-- <div id="someMapDivName2"></div> -->
+	<div id="someMapDivName2"></div>
 	<div id="someMapDivName1"></div>
 </div>
 	
@@ -141,19 +141,19 @@ line.link {
 		   
 		});
 
-	//	var mapDiv2 = document.getElementById("someMapDivName2");
-	//	 var map2 = new WidgetWrapper();
-	//	 var mapWidget2 = new MapWidget(map2,mapDiv2,{
-	//	 mapIndex: 1,
-	//	mapTitle: "Afzenders",
-	//		 alternativeMap : {
-		//	 name: '1715',
-		//	 url: '/geoserver/wms',
-	   //     layer: 'historic:cntry1715'
+		var mapDiv2 = document.getElementById("someMapDivName2");
+		 var map2 = new WidgetWrapper();
+		 var mapWidget2 = new MapWidget(map2,mapDiv2,{
+		 mapIndex: 1,
+		mapTitle: "Afzenders",
+			 alternativeMap : {
+			 name: '1715',
+			 url: '/geoserver/wms',
+	        layer: 'historic:cntry1715'
 			
-        //    }   
+           }   
 		   
-	//	});
+		});
 		
 
 
@@ -235,7 +235,7 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
         datasets.push(dataset);
 				
 		map1.display(datasets);
-		//map2.display(datasets);
+		map2.display(datasets);
 		time.display(datasets);
 		table.display(datasets);
 		netwerk.display(datasets);
