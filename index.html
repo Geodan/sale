@@ -129,21 +129,19 @@ line.link {
 
 <script>
 
-
+var netwerk;
+var datasets = [];
 	Publisher.Subscribe( 'GeoTemCoReady', this, function(){
-		var datasets = [];
+		
 		var mapDiv1 = document.getElementById("someMapDivName1");
 		var map1 = new WidgetWrapper();
 		var mapWidget1 = new MapWidget(map1,mapDiv1,{
 		mapIndex: 0,
 		mapTitle: "Ontvangers",
-		 alternativeMap : {
-		 name: '1715',
-			url: '/geoserver/wms',
-			layer: 'historic:cntry1715'
-			
-        }   
-		   
+		 alternativeMap :false,
+		   mapSelection : false,
+           resetMap: false,
+           squareSelect: true
 		});
 
 		var mapDiv2 = document.getElementById("someMapDivName2");
@@ -151,13 +149,9 @@ line.link {
 		 var mapWidget2 = new MapWidget(map2,mapDiv2,{
 		 mapIndex: 1,
 		mapTitle: "Afzenders",
-			 alternativeMap : {
-			 name: '1715',
-			 url: '/geoserver/wms',
-	        layer: 'historic:cntry1715'
-			
-           }   
-		   
+			 alternativeMap : false,
+		   mapSelection : false,
+             squareSelect: true
 		});
 		
 
@@ -194,7 +188,7 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 		});
 
 		var netwerkDiv = document.getElementById("netwerk");
-		var netwerk = new WidgetWrapper();
+		 netwerk = new WidgetWrapper();
 	    var netwerkWidget = new NetwerkWidget(netwerk,netwerkDiv,{ 
 	 });
 		
@@ -228,22 +222,7 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 		time.display(datasets);
 		table.display(datasets);
 		netwerk.display(datasets);
-/*
-		$.ajax({
-			url: 'data/test2.json',
-			async: false,
-			dataType: 'json',
-			success: function(json){
-				var data = STIStatic.loadSpatioTemporalJSONData(json);
-				gui.initializeMapGUI("mapContainerDiv");
-				gui.initializePlotGUI("plotContainerDiv");
-				gui.initializeTableGUI("tableContainerDiv");
-				SpaceWrapper.display([data]);
-				TimeWrapper.display([data]);
-				TableWrapper.display([data],['Test']);
-			}
-		});
-*/
+
 	 });
     </script>
 

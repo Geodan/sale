@@ -7,12 +7,12 @@
 	"location": [{
 		"lon": "-83.7466403",
 		"lat": "42.230537",
-		"place": "Unknown"
+		"place": "World"
 	},
 	{
 		"lon": "3.610998",
 		"lat": "51.4987962",
-		"place": "Middelburg"
+		"place": "World/The Netherlands/Zeeland/Middelburg"
 	}],
 	"time": "1671-08-12",
 	"fuzzy": "4",

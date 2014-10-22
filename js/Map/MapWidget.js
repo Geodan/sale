@@ -1179,7 +1179,7 @@ MapWidget.prototype = {
 
 				}
 			}
-
+          
 			var slices = this.core.timeplot.getSlices();
 			for (var i = 0; i < slices.length; i++) {
 				for (var j = 0; j < slices[i].stacks.length; j++) {

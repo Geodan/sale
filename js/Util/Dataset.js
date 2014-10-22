@@ -31,8 +31,10 @@
  * @param {String} label label for the datasets
  */
 function Dataset(objects, label) {
-
+    this.org = objects;
 	this.objects = objects;
 	this.label = label;
-
+    this.reset = function(){
+        this.objects = this.org;
+    }
 }

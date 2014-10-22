@@ -45,6 +45,8 @@ function WidgetWrapper() {
 			}
 		}
 	};
+    
+
 
 	Publisher.Subscribe('highlight', this, function(data) {
 		if (data == undefined) {
@@ -58,6 +60,13 @@ function WidgetWrapper() {
 	Publisher.Subscribe('selection', this, function(data) {
 		if ( typeof wrapper.widget != 'undefined') {
 			wrapper.widget.selectionChanged(data);
+		}
+	});
+    
+    Publisher.Subscribe('reset', this, function() {
+		if ( typeof wrapper.widget != 'undefined') {
+			wrapper.widget.datasets.forEach(function(d){d.reset()});
+                wrapper.display(wrapper.widget.datasets)
 		}
 	});
 
@@ -79,6 +88,10 @@ function WidgetWrapper() {
 
 	this.triggerRefining = function(datasets) {
 		Publisher.Publish('filterData', datasets, null);
+	};
+    
+    this.reset = function() {
+		Publisher.Publish('reset');
 	};
 
 	this.triggerSelection = function(selectedObjects) {

@@ -36,12 +36,14 @@ function FilterBar(parent, parentDiv) {
 
 	this.filter = document.createElement('div');
 	this.filter.setAttribute('class', 'smallButton filterDisabled');
+    this.filter.setAttribute('title', 'Create a selection and use this button to show only this selection');
 	this.filter.onclick = function() {
 		parent.filtering();
 	};
 
 	this.filterInverse = document.createElement('div');
 	this.filterInverse.setAttribute('class', 'smallButton filterInverseDisabled');
+    this.filterInverse.setAttribute('title', 'Create a selection and use this button to show only the current items outside this selection');
 	this.filterInverse.onclick = function() {
 		parent.inverseFiltering();
 	};
@@ -50,9 +52,11 @@ function FilterBar(parent, parentDiv) {
 	}
 
 	this.cancelSelection = document.createElement('div');
-	this.cancelSelection.setAttribute('class', 'smallButton filterCancelDisabled');
-	this.cancelSelection.onclick = function() {
-		parent.deselection();
+	this.cancelSelection.setAttribute('class', 'smallButton filterCancel');
+    
+	this.cancelSelection.setAttribute('title', 'Reset all filters to the original datasets');
+    this.cancelSelection.onclick = function() {
+		parent.core.reset();
 	};
 
 	this.appendTo = function(parentDiv) {
@@ -67,12 +71,15 @@ function FilterBar(parent, parentDiv) {
 	this.reset = function(show) {
 		if (show) {
 			this.filter.setAttribute('class', 'smallButton filter');
+            this.filter.setAttribute('title', 'Show only the selection');
 			this.filterInverse.setAttribute('class', 'smallButton filterInverse');
-			this.cancelSelection.setAttribute('class', 'smallButton filterCancel');
+            this.filterInverse.setAttribute('title', 'Show only the current items outside the selection');
+			
 		} else {
 			this.filter.setAttribute('class', 'smallButton filterDisabled');
+            this.filter.setAttribute('title', 'Create a selection and use this button to show only this selection');
 			this.filterInverse.setAttribute('class', 'smallButton filterInverseDisabled');
-			this.cancelSelection.setAttribute('class', 'smallButton filterCancelDisabled');
+			this.filterInverse.setAttribute('title', 'Create a selection and use this button to show only the current items outside this selection');
 		}
 	};
 
