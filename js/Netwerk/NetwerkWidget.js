@@ -11,7 +11,7 @@ function NetwerkWidget(core, div, options) {
 	this.options = (new NetwerkConfig(options)).options;
 	this.gui = new NetwerkGui(this, div, this.options);
 	
-
+ 
 }
 
 NetwerkWidget.prototype = {
@@ -48,7 +48,7 @@ NetwerkWidget.prototype = {
 			this.netwerkTabs.push(netwerkTab);
 			var elements = [];
 			for (var j in data[i].objects ) {
-				elements.push(new NetwerkElement(data[i].objects[j]));
+				elements.push(new NetwerkElement(data[i].objects[j],this.core));
 				this.netwerkHash[i][data[i].objects[j].index] = elements[elements.length - 1];
 			}
 			var netwerk = new Netwerk(elements, this, i);
