@@ -54,7 +54,7 @@ function FilterBar(parent, parentDiv) {
 	this.cancelSelection = document.createElement('div');
 	this.cancelSelection.setAttribute('class', 'smallButton filterCancel');
     
-	this.cancelSelection.setAttribute('title', 'Reset all filters to the original datasets');
+	this.cancelSelection.setAttribute('title', 'Remove all filters and show the original datasets');
     this.cancelSelection.onclick = function() {
 		parent.core.reset();
 	};

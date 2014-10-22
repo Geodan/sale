@@ -1324,6 +1324,7 @@ MapWidget.prototype = {
 		if (this.options.squareSelect) {
 			var button = document.createElement("div");
 			$(button).addClass('mapControl');
+            $(button).prop('title','Select items by drawing a rectangle on the map');
 			var activate = function() {
 				map.drawSquare.activate();
 			}
@@ -1346,6 +1347,7 @@ MapWidget.prototype = {
 		if (this.options.polygonSelect) {
 			var button = document.createElement("div");
 			$(button).addClass('mapControl');
+             $(button).prop('title','Select items by drawing a polygon on the map');
 			var activate = function() {
 				map.drawPolygon.activate();
 			}
