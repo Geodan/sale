@@ -1,0 +1,6825 @@
+[{
+	"id": "number 111",
+	"source_id": "7",
+	"source": "Pieter Boudaen Courten",
+	"target_id": "11",
+	"target": "Abraham Cleeuwaert",
+	"name": "Abraham Cleeuwaert",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"time": "1671-8-21",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Abraham Cleeuwaert",
+	"1671-8-21",
+	"World"]
+},
+{
+	"id": "number 513",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "47",
+	"target": "Adrian Sengelinck",
+	"name": "Adrian Sengelinck",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Adrian Sengelinck",
+	"1672-1-12",
+	"World"]
+},
+{
+	"id": "number 248",
+	"source_id": "107",
+	"source": "Golken Ceuvelaer",
+	"target_id": "50",
+	"target": "Adriana Lemps",
+	"name": "Adriana Lemps",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-11",
+	"fuzzy": "4",
+	"tableContent": ["Golken Ceuvelaer",
+	"Adriana Lemps",
+	"1672-1-11",
+	"World"]
+},
+{
+	"id": "number 85",
+	"source_id": "41",
+	"source": "Barent Harmansz Voocht",
+	"target_id": "57",
+	"target": "Anderies Claessen Vocht",
+	"name": "Anderies Claessen Vocht",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Barent Harmansz Voocht",
+	"Anderies Claessen Vocht",
+	"1672-1-12",
+	"World"]
+},
+{
+	"id": "number 267",
+	"source_id": "113",
+	"source": "Hendrick Huiberts",
+	"target_id": "60",
+	"target": "Andries Claes Vos",
+	"name": "Andries Claes Vos",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-9",
+	"fuzzy": "4",
+	"tableContent": ["Hendrick Huiberts",
+	"Andries Claes Vos",
+	"1672-9-9",
+	"World"]
+},
+{
+	"id": "number 305",
+	"source_id": "130",
+	"source": "Jan Andriesen",
+	"target_id": "65",
+	"target": "Anna Jansen",
+	"name": "Anna Jansen",
+	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-14",
+	"fuzzy": "4",
+	"tableContent": ["Jan Andriesen",
+	"Anna Jansen",
+	"1672-9-14",
+	"World"]
+},
+{
+	"id": "3521",
+	"source_id": "1",
+	"source": "B. Raule",
+	"target_id": "83",
+	"target": "Augustin Brolt",
+	"name": "Augustin Brolt",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World"
+	}],
+	"time": "1671-08-12",
+	"fuzzy": "4",
+	"tableContent": ["B. Raule",
+	"Augustin Brolt",
+	"1671-08-12",
+	"World"]
+},
+{
+	"id": "number 611",
+	"source_id": "206",
+	"source": "Willem Bleau",
+	"target_id": "85",
+	"target": "Barent Helleman",
+	"name": "Barent Helleman",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Willem Bleau",
+	"Barent Helleman",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 422",
+	"source_id": "146",
+	"source": "Johan van Melckebeecke",
+	"target_id": "86",
+	"target": "Bartholomeus de Looper",
+	"name": "Bartholomeus de Looper",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Johan van Melckebeecke",
+	"Bartholomeus de Looper",
+	"1672-12-14",
+	"World"]
+},
+{
+	"id": "number 497",
+	"source_id": "167",
+	"source": "Nathaniel Goodhand",
+	"target_id": "99",
+	"target": "Charles Goodhand",
+	"name": "Charles Goodhand",
+	"description": "Augustinus Brunz",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-1.35",
+		"lat": "5.0833333",
+		"place": "World/Ghana/Elmina"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nathaniel Goodhand",
+	"Charles Goodhand",
+	"",
+	"World"]
+},
+{
+	"id": "number 237",
+	"source_id": "102",
+	"source": "Francoise Pradon",
+	"target_id": "100",
+	"target": "Charles Pradon a Gueneuille",
+	"name": "Charles Pradon a Gueneuille",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-4",
+	"fuzzy": "4",
+	"tableContent": ["Francoise Pradon",
+	"Charles Pradon a Gueneuille",
+	"1672-1-4",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "286",
+	"source": "Onbekend",
+	"target_id": "107",
+	"target": "Cornelija de Gelder",
+	"name": "Cornelija de Gelder",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Cornelija de Gelder",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 538",
+	"source_id": "171",
+	"source": "Pieter de Neijn",
+	"target_id": "110",
+	"target": "Cornelis de Neijn",
+	"name": "Cornelis de Neijn",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-1.35",
+		"lat": "5.0833333",
+		"place": "World/Ghana/Elmina"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Pieter de Neijn",
+	"Cornelis de Neijn",
+	"",
+	"World"]
+},
+{
+	"id": "number 421",
+	"source_id": "146",
+	"source": "Johan van Melckebeecke",
+	"target_id": "113",
+	"target": "Cornelis Jansz. Verhulst",
+	"name": "Cornelis Jansz. Verhulst",
+	"description": "Jan Tinnegieter",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Johan van Melckebeecke",
+	"Cornelis Jansz. Verhulst",
+	"1672-12-14",
+	"World"]
+},
+{
+	"id": "number 184",
+	"source_id": "88",
+	"source": "Cornelis Berge",
+	"target_id": "115",
+	"target": "Cornelis Pets",
+	"name": "Cornelis Pets",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-8",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Berge",
+	"Cornelis Pets",
+	"1672-1-8",
+	"World"]
+},
+{
+	"id": "number 262",
+	"source_id": "113",
+	"source": "Hendrick Huiberts",
+	"target_id": "117",
+	"target": "Cornelis Sies",
+	"name": "Cornelis Sies",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-1",
+	"fuzzy": "4",
+	"tableContent": ["Hendrick Huiberts",
+	"Cornelis Sies",
+	"1672-1-1",
+	"World"]
+},
+{
+	"id": "number 88",
+	"source_id": "461",
+	"source": "Basseliers",
+	"target_id": "131",
+	"target": "Daniel Mildert",
+	"name": "Daniel Mildert",
+	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Basseliers",
+	"Daniel Mildert",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "3354",
+	"source_id": "2",
+	"source": "Jan van der Meulen ",
+	"target_id": "147",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-12-10",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1671-12-10",
+	"World"]
+},
+{
+	"id": "2986",
+	"source_id": "2",
+	"source": "Jan van der Meulen ",
+	"target_id": "147",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-12-02",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1672-12-02",
+	"World"]
+},
+{
+	"id": "number 531",
+	"source_id": "170",
+	"source": "Onbekend",
+	"target_id": "147",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "Augustinus Brunz",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"David Kempe",
+	"",
+	"World"]
+},
+{
+	"id": "number 594",
+	"source_id": "196",
+	"source": "Susanna Cowell",
+	"target_id": "147",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-5",
+	"fuzzy": "4",
+	"tableContent": ["Susanna Cowell",
+	"David Kempe",
+	"1672-1-5",
+	"World"]
+},
+{
+	"id": "3362",
+	"source_id": "2",
+	"source": "Jan van der Meulen ",
+	"target_id": "147",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Torarica"
+	}],
+	"time": "1671-12-28",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"David Kempe",
+	"1671-12-28",
+	"World"]
+},
+{
+	"id": "number 543",
+	"source_id": "173",
+	"source": "Pieter Jansen ",
+	"target_id": "147",
+	"target": "David Kempe",
+	"name": "David Kempe",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Jansen ",
+	"David Kempe",
+	"1671-12-14",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "155",
+	"source": "Joris Darvall",
+	"target_id": "161",
+	"target": "Dirck en Adriaen Dominicus",
+	"name": "Dirck en Adriaen Dominicus",
+	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1671-12-12",
+	"fuzzy": "4",
+	"tableContent": ["Joris Darvall",
+	"Dirck en Adriaen Dominicus",
+	"1671-12-12",
+	"World"]
+},
+{
+	"id": "number 190",
+	"source_id": "91",
+	"source": "Cornelis Raes",
+	"target_id": "175",
+	"target": "Elisabeta Raes",
+	"name": "Elisabeta Raes",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Raes",
+	"Elisabeta Raes",
+	"1672-1-12",
+	"World"]
+},
+{
+	"id": "number 616",
+	"source_id": "209",
+	"source": "William Pringell en Rogier Dickenson",
+	"target_id": "204",
+	"target": "Gaspaer Engelsen",
+	"name": "Gaspaer Engelsen",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-12-1",
+	"fuzzy": "4",
+	"tableContent": ["William Pringell en Rogier Dickenson",
+	"Gaspaer Engelsen",
+	"1672-12-1",
+	"World"]
+},
+{
+	"id": "number 449",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "209",
+	"target": "Gelyamme de Backer",
+	"name": "Gelyamme de Backer",
+	"description": "Jacob Soetelingh",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Gelyamme de Backer",
+	"1672-1-2",
+	"World"]
+},
+{
+	"id": "number 544",
+	"source_id": "174",
+	"source": "Pieter Jaspersen",
+	"target_id": "212",
+	"target": "Gerson Isaacxs Cockuijt",
+	"name": "Gerson Isaacxs Cockuijt",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Jaspersen",
+	"Gerson Isaacxs Cockuijt",
+	"",
+	"World"]
+},
+{
+	"id": "number 557",
+	"source_id": "180",
+	"source": "R. Dickenson",
+	"target_id": "236",
+	"target": "Hendrick vande Poele",
+	"name": "Hendrick vande Poele",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["R. Dickenson",
+	"Hendrick vande Poele",
+	"1672-1-2",
+	"World"]
+},
+{
+	"id": "number 508",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "244",
+	"target": "Herman Hellendoren",
+	"name": "Herman Hellendoren",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Herman Hellendoren",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 619",
+	"source_id": "211",
+	"source": "Jacob Antonissen",
+	"target_id": "259",
+	"target": "Indijch Jooristange",
+	"name": "Indijch Jooristange",
+	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Jacob Antonissen",
+	"Indijch Jooristange",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 485",
+	"source_id": "160",
+	"source": "Lieven de Wever",
+	"target_id": "300",
+	"target": "Jacob Pediceur",
+	"name": "Jacob Pediceur",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-1-13",
+	"fuzzy": "4",
+	"tableContent": ["Lieven de Wever",
+	"Jacob Pediceur",
+	"1672-1-13",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "8",
+	"source": "J. Crenen",
+	"target_id": "310",
+	"target": "Jacobes vander Beke",
+	"name": "Jacobes vander Beke",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-5",
+	"fuzzy": "4",
+	"tableContent": ["J. Crenen",
+	"Jacobes vander Beke",
+	"1672-9-5",
+	"World"]
+},
+{
+	"id": "number 265",
+	"source_id": "113",
+	"source": "Hendrick Huiberts",
+	"target_id": "313",
+	"target": "Jacobus van Aelst",
+	"name": "Jacobus van Aelst",
+	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Hendrick Huiberts",
+	"Jacobus van Aelst",
+	"1672-1-12",
+	"World"]
+},
+{
+	"id": "number 451",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "314",
+	"target": "Jacobus van der Mees",
+	"name": "Jacobus van der Mees",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Jacobus van der Mees",
+	"1672-1-2",
+	"World"]
+},
+{
+	"id": "number 97",
+	"source_id": "44",
+	"source": "Benedictus Marius",
+	"target_id": "320",
+	"target": "Jaen Bruijnvis",
+	"name": "Jaen Bruijnvis",
+	"description": "Soetelinck (neef), Jean Sijmoensse (buurman)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Benedictus Marius",
+	"Jaen Bruijnvis",
+	"",
+	"World"]
+},
+{
+	"id": "number 115",
+	"source_id": "7",
+	"source": "Pieter Boudaen Courten",
+	"target_id": "325",
+	"target": "Jan Bolle",
+	"name": "Jan Bolle",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"time": "1671-7-30",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Jan Bolle",
+	"1671-7-30",
+	"World"]
+},
+{
+	"id": "number 19",
+	"source_id": "11",
+	"source": "Pieter Heerensen",
+	"target_id": "332",
+	"target": "Jan en Pieter Bodaen Coerten",
+	"name": "Jan en Pieter Bodaen Coerten",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-5-25",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Heerensen",
+	"Jan en Pieter Bodaen Coerten",
+	"1672-5-25",
+	"World"]
+},
+{
+	"id": "number 541",
+	"source_id": "11",
+	"source": "Pieter Heerensen",
+	"target_id": "333",
+	"target": "Jan en Pieter Bodaen Courten",
+	"name": "Jan en Pieter Bodaen Courten",
+	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-5-2",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Heerensen",
+	"Jan en Pieter Bodaen Courten",
+	"1672-5-2",
+	"World"]
+},
+{
+	"id": "number 481",
+	"source_id": "159",
+	"source": "Lieve de Meij",
+	"target_id": "334",
+	"target": "Jan Lieve de Moore",
+	"name": "Jan Lieve de Moore",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1671-12-31",
+	"fuzzy": "4",
+	"tableContent": ["Lieve de Meij",
+	"Jan Lieve de Moore",
+	"1671-12-31",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "244",
+	"source": "Onbekend",
+	"target_id": "335",
+	"target": "Jan Marckes",
+	"name": "Jan Marckes",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Jan Marckes",
+	"",
+	"World"]
+},
+{
+	"id": "number 506",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "340",
+	"target": "Jan Vans",
+	"name": "Jan Vans",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Jan Vans",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 191",
+	"source_id": "91",
+	"source": "Cornelis Raes",
+	"target_id": "343",
+	"target": "Janken Raes",
+	"name": "Janken Raes",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-14",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Raes",
+	"Janken Raes",
+	"1672-1-14",
+	"World"]
+},
+{
+	"id": "number 152",
+	"source_id": "64",
+	"source": "cognossement",
+	"target_id": "344",
+	"target": "Janneken Jans",
+	"name": "Janneken Jans",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Janneken Jans",
+	"",
+	"World"]
+},
+{
+	"id": "number 283",
+	"source_id": "118",
+	"source": "J Clercq",
+	"target_id": "349",
+	"target": "Janneken vande Putte",
+	"name": "Janneken vande Putte",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["J Clercq",
+	"Janneken vande Putte",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "number 126",
+	"source_id": "52",
+	"source": "Carel Nachtegael",
+	"target_id": "358",
+	"target": "Joan de Wale",
+	"name": "Joan de Wale",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-1",
+	"fuzzy": "4",
+	"tableContent": ["Carel Nachtegael",
+	"Joan de Wale",
+	"1672-1-1",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "221",
+	"source": "Onbekend",
+	"target_id": "362",
+	"target": "Johan en Pieter Boudaen Courten",
+	"name": "Johan en Pieter Boudaen Courten",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-9-4",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Johan en Pieter Boudaen Courten",
+	"1672-9-4",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "222",
+	"source": "Onbekend",
+	"target_id": "363",
+	"target": "Johan en Pieter Boudaen Courten",
+	"name": "Johan en Pieter Boudaen Courten",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Johan en Pieter Boudaen Courten",
+	"",
+	"World"]
+},
+{
+	"id": "number 462",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "389",
+	"target": "Josijnna de Laule",
+	"name": "Josijnna de Laule",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Josijnna de Laule",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "number 559",
+	"source_id": "182",
+	"source": "Raphaell Aboab",
+	"target_id": "394",
+	"target": "Josyna Hursels",
+	"name": "Josyna Hursels",
+	"description": "Cornelis Bastiaensz (kapitein), Jacob Soetelinck, Jan Andriessen, kapitein Raes, Jacob Dimmensen (broer), Jan van Ruijven, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-1",
+	"fuzzy": "4",
+	"tableContent": ["Raphaell Aboab",
+	"Josyna Hursels",
+	"1672-1-1",
+	"World"]
+},
+{
+	"id": "number 405",
+	"source_id": "144",
+	"source": "Joannis Robbersen",
+	"target_id": "399",
+	"target": "Kapitein Nicolaes Raes",
+	"name": "Kapitein Nicolaes Raes",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1671-12-28",
+	"fuzzy": "4",
+	"tableContent": ["Joannis Robbersen",
+	"Kapitein Nicolaes Raes",
+	"1671-12-28",
+	"World"]
+},
+{
+	"id": "number 145",
+	"source_id": "58",
+	"source": "Claes Raes",
+	"target_id": "401",
+	"target": "Laurens Willemsen Verpoorte",
+	"name": "Laurens Willemsen Verpoorte",
+	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-8",
+	"fuzzy": "4",
+	"tableContent": ["Claes Raes",
+	"Laurens Willemsen Verpoorte",
+	"1671-8",
+	"World"]
+},
+{
+	"id": "number 27",
+	"source_id": "17",
+	"source": "Johan Simon",
+	"target_id": "404",
+	"target": "Leintje Frans",
+	"name": "Leintje Frans",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Johan Simon",
+	"Leintje Frans",
+	"",
+	"World"]
+},
+{
+	"id": "number 518",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "410",
+	"target": "Lichtenberg",
+	"name": "Lichtenberg",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Lichtenberg",
+	"1672-1-2",
+	"World"]
+},
+{
+	"id": "number 308",
+	"source_id": "130",
+	"source": "Jan Andriesen",
+	"target_id": "401",
+	"target": "Laurens Willemsen Verpoorte",
+	"name": "Laurens Willemsen Verpoorte",
+	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-15",
+	"fuzzy": "4",
+	"tableContent": ["Jan Andriesen",
+	"Laurens Willemsen Verpoorte",
+	"1672-9-15",
+	"World"]
+},
+{
+	"id": "number 144",
+	"source_id": "58",
+	"source": "Claes Raes",
+	"target_id": "401",
+	"target": "Laurens Willemsen Verpoorte",
+	"name": "Laurens Willemsen Verpoorte",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Claes Raes",
+	"Laurens Willemsen Verpoorte",
+	"1672-1-12",
+	"World"]
+},
+{
+	"id": "number 447",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "401",
+	"target": "Laurens Willemsen Verpoorte",
+	"name": "Laurens Willemsen Verpoorte",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-13",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Laurens Willemsen Verpoorte",
+	"1672-1-13",
+	"World"]
+},
+{
+	"id": "number 615",
+	"source_id": "208",
+	"source": "Willem Gilessen Canisius",
+	"target_id": "430",
+	"target": "Maaike Jans",
+	"name": "Maaike Jans",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Willem Gilessen Canisius",
+	"Maaike Jans",
+	"",
+	"World"]
+},
+{
+	"id": "number 318",
+	"source_id": "132",
+	"source": "Jan Dimmese",
+	"target_id": "436",
+	"target": "Maeijken Cornel. Robes",
+	"name": "Maeijken Cornel. Robes",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Jan Dimmese",
+	"Maeijken Cornel. Robes",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "number 607",
+	"source_id": "205",
+	"source": "Wijllem Gijssessen Danijnsijns",
+	"target_id": "440",
+	"target": "Maeken Jans",
+	"name": "Maeken Jans",
+	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-16",
+	"fuzzy": "4",
+	"tableContent": ["Wijllem Gijssessen Danijnsijns",
+	"Maeken Jans",
+	"1672-9-16",
+	"World"]
+},
+{
+	"id": "number 55",
+	"source_id": "29",
+	"source": "Adryaen Claese",
+	"target_id": "441",
+	"target": "Maeycke Jacobs",
+	"name": "Maeycke Jacobs",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-6",
+	"fuzzy": "4",
+	"tableContent": ["Adryaen Claese",
+	"Maeycke Jacobs",
+	"1672-1-6",
+	"World"]
+},
+{
+	"id": "number 291",
+	"source_id": "124",
+	"source": "Jacob Cornelis van Machem",
+	"target_id": "448",
+	"target": "Maretjen Tijes",
+	"name": "Maretjen Tijes",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Jacob Cornelis van Machem",
+	"Maretjen Tijes",
+	"",
+	"World"]
+},
+{
+	"id": "number 563",
+	"source_id": "185",
+	"source": "Reijnier Warner",
+	"target_id": "450",
+	"target": "Marija Cruise",
+	"name": "Marija Cruise",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Reijnier Warner",
+	"Marija Cruise",
+	"1672-1-12",
+	"World"]
+},
+{
+	"id": "number 268",
+	"source_id": "114",
+	"source": "Hendrickje van den Herdenbegh",
+	"target_id": "456",
+	"target": "Marja vanden Herdenbgh",
+	"name": "Marja vanden Herdenbgh",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Hendrickje van den Herdenbegh",
+	"Marja vanden Herdenbgh",
+	"",
+	"World"]
+},
+{
+	"id": "number 128",
+	"source_id": "52",
+	"source": "Carel Nachtegael",
+	"target_id": "459",
+	"target": "Mattheus Hals",
+	"name": "Mattheus Hals",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-1",
+	"fuzzy": "4",
+	"tableContent": ["Carel Nachtegael",
+	"Mattheus Hals",
+	"1672-1-1",
+	"World"]
+},
+{
+	"id": "number 43",
+	"source_id": "463",
+	"source": "Ad Schoors",
+	"target_id": "474",
+	"target": "Mr. Cahlies",
+	"name": "Mr. Cahlies",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Ad Schoors",
+	"Mr. Cahlies",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "8",
+	"source": "J. Crenen",
+	"target_id": "478",
+	"target": "Neelken Scheuijen",
+	"name": "Neelken Scheuijen",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-5",
+	"fuzzy": "4",
+	"tableContent": ["J. Crenen",
+	"Neelken Scheuijen",
+	"1672-9-5",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "4",
+	"source": "Albert Clasen Vis",
+	"target_id": "489",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-1.35",
+		"lat": "5.0833333",
+		"place": "World/Ghana/Elmina"
+	}],
+	"time": "1672-11-22",
+	"fuzzy": "4",
+	"tableContent": ["Albert Clasen Vis",
+	"Onbekend",
+	"1672-11-22",
+	"World"]
+},
+{
+	"id": "number 539",
+	"source_id": "171",
+	"source": "Pieter de Neijn",
+	"target_id": "490",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Augustinus Brunz",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-1.35",
+		"lat": "5.0833333",
+		"place": "World/Ghana/Elmina"
+	}],
+	"time": "1671-11-22",
+	"fuzzy": "4",
+	"tableContent": ["Pieter de Neijn",
+	"Onbekend",
+	"1671-11-22",
+	"World"]
+},
+{
+	"id": "number 260",
+	"source_id": "112",
+	"source": "Hendrick de Harder",
+	"target_id": "491",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "12.1944504",
+		"lat": "-5.5608101",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Hendrick de Harder",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 177",
+	"source_id": "87",
+	"source": "Cornelis Bastiaensen",
+	"target_id": "492",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"1672-1-12",
+	"World"]
+},
+{
+	"id": "number 273",
+	"source_id": "115",
+	"source": "Herman de Huijbert",
+	"target_id": "494",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-1-8",
+	"fuzzy": "4",
+	"tableContent": ["Herman de Huijbert",
+	"Onbekend",
+	"1672-1-8",
+	"World"]
+},
+{
+	"id": "number 596",
+	"source_id": "198",
+	"source": "Trintie Segers",
+	"target_id": "495",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Trintie Segers",
+	"Onbekend",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 600",
+	"source_id": "200",
+	"source": "Pieter Versterre",
+	"target_id": "496",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-8-4",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-8-4",
+	"World"]
+},
+{
+	"id": "number 117",
+	"source_id": "472",
+	"source": "Boudewijn de Witte",
+	"target_id": "497",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Boudewijn de Witte",
+	"Onbekend",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 549",
+	"source_id": "506",
+	"source": "Pieter Versterre",
+	"target_id": "498",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-1-11",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-1-11",
+	"World"]
+},
+{
+	"id": "number 551",
+	"source_id": "506",
+	"source": "Pieter Versterre",
+	"target_id": "499",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-8-3",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-8-3",
+	"World"]
+},
+{
+	"id": "number 554",
+	"source_id": "506",
+	"source": "Pieter Versterre",
+	"target_id": "500",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1671-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1671-12-14",
+	"World"]
+},
+{
+	"id": "number 256",
+	"source_id": "111",
+	"source": "Henderijk Breijhaen",
+	"target_id": "501",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "12.3521148",
+		"lat": "-6.1410265",
+		"place": "World"
+	}],
+	"time": "1671-10-8",
+	"fuzzy": "4",
+	"tableContent": ["Henderijk Breijhaen",
+	"Onbekend",
+	"1671-10-8",
+	"World"]
+},
+{
+	"id": "number 390",
+	"source_id": "140",
+	"source": "Jannis Wijnseperij",
+	"target_id": "502",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-62.973555",
+		"lat": "17.4890306",
+		"place": "World"
+	}],
+	"time": "1672-2-7",
+	"fuzzy": "4",
+	"tableContent": ["Jannis Wijnseperij",
+	"Onbekend",
+	"1672-2-7",
+	"World"]
+},
+{
+	"id": "number 501",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "507",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Tinnegieter",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-8-13",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-8-13",
+	"World"]
+},
+{
+	"id": "number 516",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "509",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1671-9-12",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1671-9-12",
+	"World"]
+},
+{
+	"id": "number 520",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "510",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1671-12-25",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1671-12-25",
+	"World"]
+},
+{
+	"id": "number 524",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "511",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-7",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-1-7",
+	"World"]
+},
+{
+	"id": "number 54",
+	"source_id": "28",
+	"source": "Adrijaen Wadde",
+	"target_id": "514",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-2-3",
+	"fuzzy": "4",
+	"tableContent": ["Adrijaen Wadde",
+	"Onbekend",
+	"1672-2-3",
+	"World"]
+},
+{
+	"id": "number 238",
+	"source_id": "102",
+	"source": "Francoise Pradon",
+	"target_id": "519",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Tinnegieter",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-4",
+	"fuzzy": "4",
+	"tableContent": ["Francoise Pradon",
+	"Onbekend",
+	"1672-1-4",
+	"World"]
+},
+{
+	"id": "number 245",
+	"source_id": "107",
+	"source": "Golken Ceuvelaer",
+	"target_id": "520",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-11",
+	"fuzzy": "4",
+	"tableContent": ["Golken Ceuvelaer",
+	"Onbekend",
+	"1672-1-11",
+	"World"]
+},
+{
+	"id": "number 247",
+	"source_id": "107",
+	"source": "Golken Ceuvelaer",
+	"target_id": "521",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-12",
+	"fuzzy": "4",
+	"tableContent": ["Golken Ceuvelaer",
+	"Onbekend",
+	"1672-1-12",
+	"World"]
+},
+{
+	"id": "number 410",
+	"source_id": "145",
+	"source": "Johan Basseliers",
+	"target_id": "522",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Johan Basseliers",
+	"Onbekend",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "number 454",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "523",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1671-12-29",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1671-12-29",
+	"World"]
+},
+{
+	"id": "number 459",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "524",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-2",
+	"World"]
+},
+{
+	"id": "number 460",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "525",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-3",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-3",
+	"World"]
+},
+{
+	"id": "number 461",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "526",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-6",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-6",
+	"World"]
+},
+{
+	"id": "number 496",
+	"source_id": "166",
+	"source": "Nicolaas de Zoutte",
+	"target_id": "527",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "v",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1671-10-8",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1671-10-8",
+	"World"]
+},
+{
+	"id": "number 599",
+	"source_id": "200",
+	"source": "Pieter Versterre",
+	"target_id": "528",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-6-23",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-6-23",
+	"World"]
+},
+{
+	"id": "number 609",
+	"source_id": "206",
+	"source": "Willem Bleau",
+	"target_id": "529",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Willem Bleau",
+	"Onbekend",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 329",
+	"source_id": "454",
+	"source": "Jan Tinnegieter",
+	"target_id": "534",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Jan Tinnegieter",
+	"Onbekend",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 487",
+	"source_id": "462",
+	"source": "Maerten Lemps",
+	"target_id": "535",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-10",
+	"fuzzy": "4",
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-9-10",
+	"World"]
+},
+{
+	"id": "number 490",
+	"source_id": "462",
+	"source": "Maerten Lemps",
+	"target_id": "536",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-15",
+	"fuzzy": "4",
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"World"]
+},
+{
+	"id": "number 491",
+	"source_id": "462",
+	"source": "Maerten Lemps",
+	"target_id": "537",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-15",
+	"fuzzy": "4",
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"World"]
+},
+{
+	"id": "number 550",
+	"source_id": "506",
+	"source": "Pieter Versterre",
+	"target_id": "538",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-14",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-9-14",
+	"World"]
+},
+{
+	"id": "number 552",
+	"source_id": "506",
+	"source": "Pieter Versterre",
+	"target_id": "539",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-9-5",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-9-5",
+	"World"]
+},
+{
+	"id": "number 489",
+	"source_id": "462",
+	"source": "Maerten Lemps",
+	"target_id": "540",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-15",
+	"fuzzy": "4",
+	"tableContent": ["Maerten Lemps",
+	"Onbekend",
+	"1672-1-15",
+	"World"]
+},
+{
+	"id": "number 63",
+	"source_id": "32",
+	"source": "Alexander Batij",
+	"target_id": "541",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-6-5",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"1672-6-5",
+	"World"]
+},
+{
+	"id": "number 67",
+	"source_id": "32",
+	"source": "Alexander Batij",
+	"target_id": "542",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-1-8",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"1672-1-8",
+	"World"]
+},
+{
+	"id": "number 68",
+	"source_id": "32",
+	"source": "Alexander Batij",
+	"target_id": "543",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 69",
+	"source_id": "32",
+	"source": "Alexander Batij ",
+	"target_id": "544",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-1-10",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij ",
+	"Onbekend",
+	"1672-1-10",
+	"World"]
+},
+{
+	"id": "number 70",
+	"source_id": "32",
+	"source": "Alexander Batij ",
+	"target_id": "545",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1671-12-29",
+	"fuzzy": "4",
+	"tableContent": ["Alexander Batij ",
+	"Onbekend",
+	"1671-12-29",
+	"World"]
+},
+{
+	"id": "number 98",
+	"source_id": "44",
+	"source": "Benedictus Marius",
+	"target_id": "546",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Barent Hermens Vooght",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Benedictus Marius",
+	"Onbekend",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "number 210",
+	"source_id": "97",
+	"source": "Elijsabeth Emerij",
+	"target_id": "548",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Cornelis Bastiaensen (kapitein)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-9-3",
+	"fuzzy": "4",
+	"tableContent": ["Elijsabeth Emerij",
+	"Onbekend",
+	"1672-9-3",
+	"World"]
+},
+{
+	"id": "number 403",
+	"source_id": "142",
+	"source": "Jean le Grand",
+	"target_id": "549",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Claes Raes",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Jean le Grand",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 499",
+	"source_id": "168",
+	"source": "Nicolaas de Zoutte",
+	"target_id": "551",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-9-3",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-9-3",
+	"World"]
+},
+{
+	"id": "number 500",
+	"source_id": "168",
+	"source": "Nicolaas de Zoutte",
+	"target_id": "552",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-9-3",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-9-3",
+	"World"]
+},
+{
+	"id": "number 18",
+	"source_id": "10",
+	"source": "Joris Darvall",
+	"target_id": "553",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Barent Hermens Vooght",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Joris Darvall",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 20",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "554",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 173",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "555",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 526",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "556",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-5-7",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"1672-5-7",
+	"World"]
+},
+{
+	"id": "number 527",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "557",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 528",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "558",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 529",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "559",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 530",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "560",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 601",
+	"source_id": "12",
+	"source": "Nicolaas Combe",
+	"target_id": "561",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas Combe",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 21",
+	"source_id": "13",
+	"source": "onbekend",
+	"target_id": "562",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-11-11",
+	"fuzzy": "4",
+	"tableContent": ["onbekend",
+	"Onbekend",
+	"1672-11-11",
+	"World"]
+},
+{
+	"id": "number 26",
+	"source_id": "17",
+	"source": "Johan Simon",
+	"target_id": "563",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Johan Simon",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "30",
+	"source": "Onbekend",
+	"target_id": "564",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "31",
+	"source": "Onbekend",
+	"target_id": "565",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "45",
+	"source": "Onbekend",
+	"target_id": "566",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "46",
+	"source": "Onbekend",
+	"target_id": "567",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "47",
+	"source": "Onbekend",
+	"target_id": "568",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "48",
+	"source": "Onbekend",
+	"target_id": "569",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "49",
+	"source": "Onbekend",
+	"target_id": "570",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "50",
+	"source": "Onbekend",
+	"target_id": "571",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "51",
+	"source": "Onbekend",
+	"target_id": "572",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 132",
+	"source_id": "53",
+	"source": "Onbekend",
+	"target_id": "573",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 146",
+	"source_id": "58",
+	"source": "Claes Raes",
+	"target_id": "574",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Claes Raes",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 148",
+	"source_id": "60",
+	"source": "cognossement",
+	"target_id": "575",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 149",
+	"source_id": "61",
+	"source": "cognossement",
+	"target_id": "576",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 150",
+	"source_id": "62",
+	"source": "cognossement",
+	"target_id": "577",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 151",
+	"source_id": "63",
+	"source": "cognossement",
+	"target_id": "578",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 153",
+	"source_id": "65",
+	"source": "cognossement",
+	"target_id": "579",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 154",
+	"source_id": "66",
+	"source": "cognossement",
+	"target_id": "580",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 155",
+	"source_id": "67",
+	"source": "cognossement",
+	"target_id": "581",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 156",
+	"source_id": "68",
+	"source": "cognossement",
+	"target_id": "582",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 157",
+	"source_id": "69",
+	"source": "cognossement",
+	"target_id": "583",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 158",
+	"source_id": "70",
+	"source": "cognossement",
+	"target_id": "584",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 160",
+	"source_id": "72",
+	"source": "cognossement",
+	"target_id": "585",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van Ruiven",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 161",
+	"source_id": "73",
+	"source": "cognossement",
+	"target_id": "586",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 162",
+	"source_id": "74",
+	"source": "cognossement",
+	"target_id": "587",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 163",
+	"source_id": "75",
+	"source": "cognossement",
+	"target_id": "588",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 164",
+	"source_id": "76",
+	"source": "cognossement",
+	"target_id": "589",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 165",
+	"source_id": "77",
+	"source": "cognossement",
+	"target_id": "590",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 166",
+	"source_id": "78",
+	"source": "cognossement",
+	"target_id": "591",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 167",
+	"source_id": "79",
+	"source": "cognossement",
+	"target_id": "592",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 168",
+	"source_id": "80",
+	"source": "cognossement",
+	"target_id": "593",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 169",
+	"source_id": "81",
+	"source": "cognossement",
+	"target_id": "594",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 170",
+	"source_id": "82",
+	"source": "cognossement",
+	"target_id": "595",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannis Robbersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 171",
+	"source_id": "83",
+	"source": "cognossment",
+	"target_id": "596",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossment",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 178",
+	"source_id": "87",
+	"source": "Cornelis Bastiaensen",
+	"target_id": "597",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "michiel copman, tobias claijsen Jan de Pre, Jan Andriesenn, Pieter Jsperen, Capitein Soetelinck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "number 179",
+	"source_id": "87",
+	"source": "Cornelis Bastiaensen",
+	"target_id": "598",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Capitein Raes, Isacq Dragon, Bolle, Kapitein Donker, Johan Olijslager, Clemendt, Thijssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Bastiaensen",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "98",
+	"source": "Onbekend",
+	"target_id": "600",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 412",
+	"source_id": "145",
+	"source": "Johan Basseliers",
+	"target_id": "602",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Johan Basseliers",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 450",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "603",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelingh",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-2",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1672-1-2",
+	"World"]
+},
+{
+	"id": "number 452",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "604",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-12-29",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"1671-12-29",
+	"World"]
+},
+{
+	"id": "number 453",
+	"source_id": "149",
+	"source": "Johannis Robbersen",
+	"target_id": "605",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Johannis Robbersen",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 465",
+	"source_id": "150",
+	"source": "John Clement",
+	"target_id": "606",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jacob Soetelingh",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["John Clement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 466",
+	"source_id": "151",
+	"source": "Onbekend",
+	"target_id": "607",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 467",
+	"source_id": "152",
+	"source": "Onbekend",
+	"target_id": "608",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 468",
+	"source_id": "153",
+	"source": "Onbekend",
+	"target_id": "609",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 478",
+	"source_id": "156",
+	"source": "Justus de Huijbert",
+	"target_id": "610",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Justus de Huijbert",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "157",
+	"source": "Onbekend",
+	"target_id": "611",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Tinnegieter",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 480",
+	"source_id": "158",
+	"source": "Onbekend",
+	"target_id": "612",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Lijssebet Roos",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 498",
+	"source_id": "167",
+	"source": "Nathaniel Goodhand",
+	"target_id": "613",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Nathaniel Goodhand",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 502",
+	"source_id": "168",
+	"source": "Nicolaas de Zoutte",
+	"target_id": "614",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Nicolaas de Zoutte",
+	"Onbekend",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "170",
+	"source": "Onbekend",
+	"target_id": "615",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "170",
+	"source": "Onbekend",
+	"target_id": "616",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "170",
+	"source": "Onbekend",
+	"target_id": "617",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "170",
+	"source": "Onbekend",
+	"target_id": "618",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "170",
+	"source": "Onbekend",
+	"target_id": "619",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "170",
+	"source": "Onbekend",
+	"target_id": "620",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 542",
+	"source_id": "173",
+	"source": "Pieter Jansen",
+	"target_id": "621",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Lijssebet Roos",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-12-14",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Jansen",
+	"Onbekend",
+	"1671-12-14",
+	"World"]
+},
+{
+	"id": "number 548",
+	"source_id": "177",
+	"source": "Pieter van Lanckum",
+	"target_id": "622",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-9",
+	"fuzzy": "4",
+	"tableContent": ["Pieter van Lanckum",
+	"Onbekend",
+	"1672-1-9",
+	"World"]
+},
+{
+	"id": "number 564",
+	"source_id": "186",
+	"source": "Robert Honlyham",
+	"target_id": "623",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-11",
+	"fuzzy": "4",
+	"tableContent": ["Robert Honlyham",
+	"Onbekend",
+	"1672-1-11",
+	"World"]
+},
+{
+	"id": "number 573",
+	"source_id": "188",
+	"source": "Samuel de Witt",
+	"target_id": "624",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Samuel de Witt",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 579",
+	"source_id": "191",
+	"source": "Sarah van Scharphuisen",
+	"target_id": "625",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-8",
+	"fuzzy": "4",
+	"tableContent": ["Sarah van Scharphuisen",
+	"Onbekend",
+	"1672-1-8",
+	"World"]
+},
+{
+	"id": "number 582",
+	"source_id": "192",
+	"source": "Onbekend",
+	"target_id": "626",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 595",
+	"source_id": "197",
+	"source": "Onbekend",
+	"target_id": "627",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 597",
+	"source_id": "199",
+	"source": "Onbekend",
+	"target_id": "628",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 598",
+	"source_id": "200",
+	"source": "Pieter Versterre",
+	"target_id": "629",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-6-20",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1672-6-20",
+	"World"]
+},
+{
+	"id": "number 602",
+	"source_id": "201",
+	"source": "Onbekend",
+	"target_id": "630",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 605",
+	"source_id": "203",
+	"source": "Onbekend",
+	"target_id": "631",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Barent Hermens Vooght",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 606",
+	"source_id": "204",
+	"source": "Onbekend",
+	"target_id": "632",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 614",
+	"source_id": "207",
+	"source": "Willem de Somer",
+	"target_id": "633",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Willem de Somer",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 618",
+	"source_id": "210",
+	"source": "cognossement",
+	"target_id": "634",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Abraham Vlaminck, Pieter Heersensen, Huibrecht Pietersen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["cognossement",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "212",
+	"source": "Onbekend",
+	"target_id": "635",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Barent Hermens Vooght",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "213",
+	"source": "Onbekend",
+	"target_id": "636",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "214",
+	"source": "Onbekend",
+	"target_id": "637",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "217",
+	"source": "Onbekend",
+	"target_id": "638",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Lijssebet Roos",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "218",
+	"source": "Onbekend",
+	"target_id": "639",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "219",
+	"source": "Onbekend",
+	"target_id": "640",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "220",
+	"source": "Onbekend",
+	"target_id": "641",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-4-19",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-4-19",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "223",
+	"source": "Onbekend",
+	"target_id": "642",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-8-5",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-5",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "224",
+	"source": "Onbekend",
+	"target_id": "643",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-6-20",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-6-20",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "225",
+	"source": "Onbekend",
+	"target_id": "644",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "226",
+	"source": "Onbekend",
+	"target_id": "645",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Clement",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "227",
+	"source": "Onbekend",
+	"target_id": "646",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-8-2",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-2",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "228",
+	"source": "Onbekend",
+	"target_id": "647",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "229",
+	"source": "Onbekend",
+	"target_id": "648",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-9-3",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-9-3",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "230",
+	"source": "Onbekend",
+	"target_id": "649",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Rafael Abouhap, Bolle, Olijslager, Clemendt, Bastiaen Thyssen, Jan Andriessen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-3-24",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-3-24",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "231",
+	"source": "Onbekend",
+	"target_id": "650",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Jansen, Kapitein Lambrecht, Cornelijs de Vrijese, Jsack Jersoenen. Bastiaen Elijnck",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "232",
+	"source": "Onbekend",
+	"target_id": "651",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-8",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "233",
+	"source": "Onbekend",
+	"target_id": "652",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Daneel Emerij (weduwe van), Pieter Jaspers (schipper)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "234",
+	"source": "Onbekend",
+	"target_id": "653",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "235",
+	"source": "Onbekend",
+	"target_id": "654",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-8-23",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-23",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "236",
+	"source": "Onbekend",
+	"target_id": "655",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-3-1",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-3-1",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "237",
+	"source": "Onbekend",
+	"target_id": "656",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-5-26",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-5-26",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "238",
+	"source": "Onbekend",
+	"target_id": "657",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Pieter Jaspersen (kapitein), Pieter Herensen (kapitein), ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-11-20",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-11-20",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "239",
+	"source": "Onbekend",
+	"target_id": "658",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-8-19",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-8-19",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "241",
+	"source": "Onbekend",
+	"target_id": "659",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Lijssebet Roos",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-8-8",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-8",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "242",
+	"source": "Onbekend",
+	"target_id": "660",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "243",
+	"source": "Onbekend",
+	"target_id": "661",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-2-10",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-2-10",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "245",
+	"source": "Onbekend",
+	"target_id": "662",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "246",
+	"source": "Onbekend",
+	"target_id": "663",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "247",
+	"source": "Onbekend",
+	"target_id": "664",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "249",
+	"source": "Onbekend",
+	"target_id": "665",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "250",
+	"source": "Onbekend",
+	"target_id": "666",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "251",
+	"source": "Onbekend",
+	"target_id": "667",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "252",
+	"source": "Onbekend",
+	"target_id": "668",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "253",
+	"source": "Onbekend",
+	"target_id": "669",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "255",
+	"source": "Onbekend",
+	"target_id": "670",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "256",
+	"source": "Onbekend",
+	"target_id": "671",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "257",
+	"source": "Onbekend",
+	"target_id": "672",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "258",
+	"source": "Onbekend",
+	"target_id": "673",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "259",
+	"source": "Onbekend",
+	"target_id": "674",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "260",
+	"source": "Onbekend",
+	"target_id": "675",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "261",
+	"source": "Onbekend",
+	"target_id": "676",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "262",
+	"source": "Onbekend",
+	"target_id": "677",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "263",
+	"source": "Onbekend",
+	"target_id": "678",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "264",
+	"source": "Onbekend",
+	"target_id": "679",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "265",
+	"source": "Onbekend",
+	"target_id": "680",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "266",
+	"source": "Onbekend",
+	"target_id": "681",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "267",
+	"source": "Onbekend",
+	"target_id": "682",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "269",
+	"source": "Onbekend",
+	"target_id": "684",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "272",
+	"source": "Onbekend",
+	"target_id": "687",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "273",
+	"source": "Onbekend",
+	"target_id": "688",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "274",
+	"source": "Onbekend",
+	"target_id": "689",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "277",
+	"source": "Onbekend",
+	"target_id": "691",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "278",
+	"source": "Onbekend",
+	"target_id": "692",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "279",
+	"source": "Onbekend",
+	"target_id": "693",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van der Meulen ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "280",
+	"source": "Onbekend",
+	"target_id": "694",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "281",
+	"source": "Onbekend",
+	"target_id": "695",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "282",
+	"source": "Onbekend",
+	"target_id": "696",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "283",
+	"source": "Onbekend",
+	"target_id": "697",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "284",
+	"source": "Onbekend",
+	"target_id": "698",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-1-5",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-1-5",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "287",
+	"source": "Onbekend",
+	"target_id": "700",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "288",
+	"source": "Onbekend",
+	"target_id": "701",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "290",
+	"source": "Onbekend",
+	"target_id": "702",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "291",
+	"source": "Onbekend",
+	"target_id": "703",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan van der Meulen ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-11-17",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1672-11-17",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "298",
+	"source": "Onbekend",
+	"target_id": "704",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 89",
+	"source_id": "461",
+	"source": "Basseliers ",
+	"target_id": "762",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Basseliers ",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "number 555",
+	"source_id": "506",
+	"source": "Pieter Versterre",
+	"target_id": "764",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Jan Andriessen, Van Cleef, Jan Robbertsen, Bolle, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1671-10-16",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Versterre",
+	"Onbekend",
+	"1671-10-16",
+	"World"]
+},
+{
+	"id": "number 108",
+	"source_id": "7",
+	"source": "Pieter Boudaen Courten",
+	"target_id": "765",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"time": "1671-8-17",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Onbekend",
+	"1671-8-17",
+	"World"]
+},
+{
+	"id": "number 113",
+	"source_id": "7",
+	"source": "Pieter Boudaen Courten",
+	"target_id": "767",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"time": "1672-1-23",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Onbekend",
+	"1672-1-23",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "215",
+	"source": "Onbekend",
+	"target_id": "768",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"time": "1671-8-8",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"1671-8-8",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "240",
+	"source": "Onbekend",
+	"target_id": "769",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Cornelis (neef), Jacob Soetelinck, Monsr Jacobus vader, ",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Onbekend",
+	"Onbekend",
+	"",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "2",
+	"source": "Jan van der Meulen ",
+	"target_id": "812",
+	"target": "Philipus Julijus Lichtenburch",
+	"name": "Philipus Julijus Lichtenburch",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1672-1-13",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"Philipus Julijus Lichtenburch",
+	"1672-1-13",
+	"World"]
+},
+{
+	"id": "",
+	"source_id": "2",
+	"source": "Jan van der Meulen ",
+	"target_id": "812",
+	"target": "Philipus Julijus Lichtenburch",
+	"name": "Philipus Julijus Lichtenburch",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1671-12-20",
+	"fuzzy": "4",
+	"tableContent": ["Jan van der Meulen ",
+	"Philipus Julijus Lichtenburch",
+	"1671-12-20",
+	"World"]
+},
+{
+	"id": "number 392",
+	"source_id": "142",
+	"source": "Jean le Grand",
+	"target_id": "820",
+	"target": "Pieter Buteux",
+	"name": "Pieter Buteux",
+	"description": "Johan d'Olijslager, Clemendt, Bastiaan Thijssen",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"time": "1672-9-15",
+	"fuzzy": "4",
+	"tableContent": ["Jean le Grand",
+	"Pieter Buteux",
+	"1672-9-15",
+	"World"]
+},
+{
+	"id": "number 112",
+	"source_id": "7",
+	"source": "Pieter Boudaen Courten",
+	"target_id": "11",
+	"target": "Pieter Heerensen",
+	"name": "Pieter Heerensen",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"time": "1672-2-2",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Pieter Heerensen",
+	"1672-2-2",
+	"World"]
+},
+{
+	"id": "number 192",
+	"source_id": "91",
+	"source": "Cornelis Raes",
+	"target_id": "848",
+	"target": "Pieternella Raes",
+	"name": "Pieternella Raes",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Cornelis Raes",
+	"Pieternella Raes",
+	"",
+	"World"]
+},
+{
+	"id": "number 578",
+	"source_id": "190",
+	"source": "Sarah Brandt",
+	"target_id": "861",
+	"target": "Richard Done",
+	"name": "Richard Done",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"time": "1671-12-17",
+	"fuzzy": "4",
+	"tableContent": ["Sarah Brandt",
+	"Richard Done",
+	"1671-12-17",
+	"World"]
+},
+{
+	"id": "number 234",
+	"source_id": "100",
+	"source": "Fijlippus Bracht",
+	"target_id": "888",
+	"target": "Sin Kuevelaer",
+	"name": "Sin Kuevelaer",
+	"description": "Pieter Jaspersen, Jan Isacsen, moeders vrient in de reigerstraat (51.49954, 3.61580)",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"time": "1672-1-6",
+	"fuzzy": "4",
+	"tableContent": ["Fijlippus Bracht",
+	"Sin Kuevelaer",
+	"1672-1-6",
+	"World"]
+},
+{
+	"id": "number 309",
+	"source_id": "564",
+	"source": "Jan de Passer",
+	"target_id": "895",
+	"target": "Tobias Claijsen",
+	"name": "Tobias Claijsen",
+	"description": "",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"time": "1672-9-6",
+	"fuzzy": "4",
+	"tableContent": ["Jan de Passer",
+	"Tobias Claijsen",
+	"1672-9-6",
+	"World"]
+},
+{
+	"id": "1362",
+	"source_id": "7",
+	"source": "Pieter Boudaen Courten",
+	"target_id": "207",
+	"target": "Willem de Somer",
+	"name": "Willem de Somer",
+	"description": "Johannes d'Olijslager",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"time": "",
+	"fuzzy": "4",
+	"tableContent": ["Pieter Boudaen Courten",
+	"Willem de Somer",
+	"",
+	"World"]
+}]

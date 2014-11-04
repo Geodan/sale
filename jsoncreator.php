@@ -24,7 +24,9 @@ $fetch = mysql_query('SELECT * FROM networks WHERE landcode = 1 AND fuzzy = 4');
 
 while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
     $row_array['id'] = $row['idmeertens'];
+	$row_array['source_id'] = $row['source_id'];
 	$row_array['source'] = $row['source'];
+	$row_array['target_id'] = $row['target_id'];
 	$row_array['target'] = $row['target'];
     $row_array['name'] = $row['target'];
     $row_array['description'] = $row['genoemde_namen'];
