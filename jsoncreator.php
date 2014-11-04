@@ -39,6 +39,7 @@ while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
 	$object2 ->lon = $row['lng_zender']; 
 	$object2 ->lat = $row['lat_zender']; 
 	$object2 ->place = $row['verzendlocatie'];
+	$row_array['TableContent'] = [];
 	$object3 = new StdClass();
 	$object3 ->verzender = $row['source'];
 	$object3 ->ontvanger = $row['target'];
@@ -46,9 +47,8 @@ while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
 	$object3 ->verzendlocatie = $row['verzendlocatie'];
 	array_push($row_array['location'], $object1);
 	array_push($row_array['location'], $object2);
-	array_push($row_array['tablecontent'], $object3);
+	array_push($row_array['TableContent'], $object3);
 	$row_array['time'] = $row['datum_verzonden'];
-	$row_array['fuzzy'] = $row['fuzzy'];
 	//$row_array['tableContent'] = [$row['source'], $row['target'], $row['datum_verzonden'], $row['ontvangerlocatie']];
 	
 
