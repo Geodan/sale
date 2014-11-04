@@ -20,7 +20,7 @@ if (!$db_selected)
 
 $return_arr = array();
 
-$fetch = mysql_query('SELECT * FROM networks WHERE landcode = 1 AND fuzzy = 4'); 
+$fetch = mysql_query('SELECT * FROM networks'); 
 
 while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
     $row_array['id'] = $row['idmeertens'];
