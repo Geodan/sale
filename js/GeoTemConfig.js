@@ -309,6 +309,8 @@ GeoTemConfig.loadJson = function(JSON) {
 			var name = item.name || "";
 			var description = item.description || "";
 			var tableContent = item.tableContent || [];
+			var source_id = item.source_id || '';
+			var target_id = item.target_id || '';
 			var locations = [];
 			if (item.location instanceof Array) {
 				for (var j = 0; j < item.location.length; j++) {
@@ -368,7 +370,7 @@ GeoTemConfig.loadJson = function(JSON) {
 				}
 			}
 			var weight = parseInt(item.weight) || 1;
-			var mapTimeObject = new DataObject(name, description, locations, dates, weight, tableContent);
+			var mapTimeObject = new DataObject(name, description, locations, dates, weight, tableContent, source_id, target_id);
 			mapTimeObject.setIndex(index);
 			mapTimeObjects.push(mapTimeObject);
 		} catch(e) {

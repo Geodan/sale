@@ -39,12 +39,14 @@
  * @param {int} weight weight of the time object
  */
 
-function DataObject(name, description, locations, dates, weight, tableContent) {
+function DataObject(name, description, locations, dates, weight, tableContent, source_id, target_id) {
 
 	this.name = name;
 	this.description = description;
 	this.weight = weight;
 	this.tableContent = tableContent;
+	this.sid = source_id;
+	this.tid = target_id;
 
 	this.percentage = 0;
 	this.setPercentage = function(percentage) {
