@@ -22,7 +22,7 @@ Netwerk.prototype = {
         var svgdiv = d3.select(layout.netwerkDiv).append("svg")
             .attr({
                 "width": "100%",
-                "height": "300px"
+                "height": "450px"
               })
             .attr("pointer-events", "all")
             .call(d3.behavior.zoom().on("zoom", redraw));
@@ -55,8 +55,8 @@ Netwerk.prototype = {
 
 		
 		layout.force = d3.layout.force()
-		    .linkDistance(80)
-		    .charge(-120)
+		    .linkDistance(5)
+		    .charge(-500)
 		    .gravity(.05)
 		    .size([width, height]);
 			this.update();
