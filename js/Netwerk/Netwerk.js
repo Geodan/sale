@@ -79,9 +79,9 @@ Netwerk.prototype = {
 		var sid =0;
 		links.forEach(function(link) {
 			link.source = nodes[link.object.sid] ||
-				(nodes[link.object.sid] = {name: link.object.tableContent[0], id : sid++});
+				(nodes[link.object.sid] = {name: link.object.tableContent.verzender, id : sid++});
 			link.target = nodes[link.object.tid] ||
-				(nodes[link.object.tid] = {name: link.object.tableContent[1], id : sid++});	
+				(nodes[link.object.tid] = {name: link.object.tableContent.ontvanger, id : sid++});	
 		});
 		layout.force
             .nodes(d3.values(nodes))
