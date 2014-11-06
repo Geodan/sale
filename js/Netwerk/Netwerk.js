@@ -76,12 +76,13 @@ Netwerk.prototype = {
 			links = layout.elements;
 		} 
 		
-		var sid =0;
+		var nid =0;
 		links.forEach(function(link) {
 			link.source = nodes[link.object.sid] ||
-				(nodes[link.object.sid] = {name: link.object.tableContent.verzender, id : sid++});
+				(nodes[link.object.sid] = {name: link.object.tableContent.verzender, id : nid++, sid: link.object.sid});
 			link.target = nodes[link.object.tid] ||
-				(nodes[link.object.tid] = {name: link.object.tableContent.ontvanger, id : sid++});	
+				(nodes[link.object.tid] = {name: link.object.tableContent.ontvanger, id : nid++, tid: link.object.tid});
+                    
 		});
 		layout.force
             .nodes(d3.values(nodes))
@@ -108,7 +109,7 @@ Netwerk.prototype = {
             .attr("class", "node")
             .on('mouseover',nodeover)
             .on('mouseleave',nodeleave)
-     //   .on('click',nodeclick)
+        .on('click',nodeclick)
             .call(layout.force.drag)
        
 
@@ -140,6 +141,7 @@ Netwerk.prototype = {
          //   layout.core.triggerHighlight([nodelinks]);
 		}
         function nodeclick(d) {
+        console.log('click');
 		/*	var nodelinks = [];
 			links.forEach(function(l){
 				if(d.name == l.source.name|| d.name == l.target.name) {

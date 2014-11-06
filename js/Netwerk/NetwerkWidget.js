@@ -89,6 +89,7 @@ NetwerkWidget.prototype = {
 	},
 
 	selectionChanged : function(selection) {
+    console.log('selected');
 	/*	for (var i in selection.objects ) {
 			
 			var elements = [];
