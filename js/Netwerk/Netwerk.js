@@ -78,6 +78,7 @@ Netwerk.prototype = {
 		
 		var nid =0;
 		links.forEach(function(link) {
+            link.id=link.object.index;
 			link.source = nodes[link.object.sid] ||
 				(nodes[link.object.sid] = {name: link.object.tableContent.verzender, id : nid++, sid: link.object.sid});
 			link.target = nodes[link.object.tid] ||
@@ -91,7 +92,9 @@ Netwerk.prototype = {
             .start();
 		 
 		// Update links.
-		link = link.data(links, function(d) { return d.target.id; });
+		link = link.data(links, function(d) { 
+        return d.id; 
+        });
 
 		link.exit().remove();
 
@@ -209,7 +212,7 @@ Netwerk.prototype = {
 }
 
 function NetwerkElement(object) {
-
+    this.id='';
 	this.object = object;
 	this.selected = false;
 	this.highlighted = false;
