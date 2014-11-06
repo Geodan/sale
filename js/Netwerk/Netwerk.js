@@ -55,7 +55,7 @@ Netwerk.prototype = {
 
 		
 		layout.force = d3.layout.force()
-		    .linkDistance(5)
+		    .linkDistance(25)
 		    .charge(-500)
 		    .gravity(.05)
 		    .size([width, height]);
