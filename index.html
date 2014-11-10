@@ -4,10 +4,11 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Sailing Networks</title>
  	<script src="js/Util/Publisher.js"></script>
-	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	<!--<script src="//code.jquery.com/jquery-1.10.2.js"></script>-->
 	<script src="http://d3js.org/d3.v3.js"></script>
  	<script src="js/Build/Loader/DynaJsLoader.js"></script>
 	<script src="js/Build/Loader/Loader.js"></script>
+	<!-- <script src="platin-min.js"></script> -->
 	
 	
 			<meta charset="utf-8">
@@ -102,18 +103,6 @@ line.link {
       </div>
     </noscript>
 
-   <!-- <div id="mapContainerDiv" style="position:relative;"></div>
-    <div id="plotContainerDiv" style="position:relative;"></div>
-	<div id="tableContainerDiv" style="position:relative;"></div> -->
-
-	
-<!-- <div id="someMapDivName1"></div>
-	<div id="someMapDivName2"></div>
-<div id="someTimeDivName1"></div>
-<div id="someTableDivName1"></div> 
-<div id="block"><script id="block" src="force_layout.js"></script></div> -->
-
-
 <div id="wrapper1">
 	<div id="someMapDivName2"></div>
 	<div id="someMapDivName1"></div>
@@ -123,6 +112,7 @@ line.link {
 <div id="wrapper2">
 <div id="netwerk"></div>
 <div id="someTimeDivName1"></div>
+<!-- <div id="FuzzyTime"></div> -->
 	<div id="someTableDivName1"></div>
 	<!--div id="block"><script id="block" src="force_layout.js"></script></div-->
 	
@@ -163,8 +153,12 @@ var datasets = [];
              squareSelect: true,
              polygonSelect: true
 		});
+//			var timeDiv = document.getElementById("FuzzyTime");
+//			var time = new WidgetWrapper();
+//			var timeWidget = new FuzzyTimelineWidget(time,timeDiv,{
+//			timeTitle: "Publication Date"
+//		});
 		
-
 
 
 //var mapDiv2 = document.getElementById("someMapDivName2");
@@ -209,23 +203,6 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 		
 		datasets.push(dataset);
 		
-	/*	var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy2.json');
-        var jsonData = GeoTemConfig.loadJson(jsonFile);
-        var dataset = new Dataset(jsonData,'Gewest');
-		
-        datasets.push(dataset);
-		
-		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy3.json');
-        var jsonData = GeoTemConfig.loadJson(jsonFile);
-        var dataset = new Dataset(jsonData,'Land');
-		
-        datasets.push(dataset);
-		
-		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy4.json');
-        var jsonData = GeoTemConfig.loadJson(jsonFile);
-        var dataset = new Dataset(jsonData,'Onbekend');
-		
-        datasets.push(dataset);*/
 				
 		map1.display(datasets);
 		map2.display(datasets);
