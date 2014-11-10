@@ -127,11 +127,11 @@ Netwerk.prototype = {
             .on("dragstart", dragstart);
     
 		var nodeEnter = node.enter().append("g")
-            .attr("class", "node")
+            .attr("class", "node")            
             .on('mouseover',nodeover)
             .on('mouseleave',nodeleave)
-        .on('click',nodeclick)
-        .on('dblclick',dblclick)
+            .on('click',nodeclick)
+            .on('dblclick',dblclick)
             .call(drag)
        
 
@@ -146,7 +146,10 @@ Netwerk.prototype = {
             .text(function(d) { return d.name; });
 
 		node.select("circle")
-            .style("fill", '#ffeeee');
+            
+            .attr("class",function(d){
+            return d.name.toLowerCase()=="onbekend"?"onbekend":""
+            });
 
         function nodeleave(d) {
           //  layout.core.triggerHighlight([]);
