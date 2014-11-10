@@ -417,7 +417,7 @@
 {
 	"id": "F",
 	"source_id": "340",
-	"source": "Iacebe de prado",
+	"source": "Isaque de Prado",
 	"target_id": "170000",
 	"target": "Abraham de Prado",
 	"name": "Abraham de Prado",
@@ -433,7 +433,7 @@
 		"place": "World"
 	}],
 	"tableContent": {
-		"verzender": "Iacebe de prado",
+		"verzender": "Isaque de Prado",
 		"ontvanger": "Abraham de Prado",
 		"verzenddatum": "1671-1-1",
 		"verzendlocatie": "World"
@@ -4967,7 +4967,7 @@
 {
 	"id": "BN",
 	"source_id": "385",
-	"source": "Raquel Gomes Viro.ias",
+	"source": "Raquel Gomes Vitone",
 	"target_id": "1870000",
 	"target": "Francisco de Medina",
 	"name": "Francisco de Medina",
@@ -4983,7 +4983,7 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
-		"verzender": "Raquel Gomes Viro.ias",
+		"verzender": "Raquel Gomes Vitone",
 		"ontvanger": "Francisco de Medina",
 		"verzenddatum": "1672-1-8",
 		"verzendlocatie": "World/Suriname"
@@ -4992,7 +4992,7 @@
 },
 {
 	"id": "BO",
-	"source_id": "357",
+	"source_id": "385",
 	"source": "Raquel Gomes Vitone",
 	"target_id": "1870000",
 	"target": "Francisco de Medina",
@@ -6760,7 +6760,7 @@
 },
 {
 	"id": "CD",
-	"source_id": "401",
+	"source_id": "40100000",
 	"source": "Irmad de Vill Iaque Baruch",
 	"target_id": "2610000",
 	"target": "Irmad David Daguilar",
@@ -7228,8 +7228,8 @@
 },
 {
 	"id": "CR",
-	"source_id": "350",
-	"source": "Joseph Baruh Carvalho",
+	"source_id": "331",
+	"source": "Joseph B. Carvallo",
 	"target_id": "2790000",
 	"target": "Ishac Ferio",
 	"name": "Ishac Ferio",
@@ -7245,7 +7245,7 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
-		"verzender": "Joseph Baruh Carvalho",
+		"verzender": "Joseph B. Carvallo",
 		"ontvanger": "Ishac Ferio",
 		"verzenddatum": "1671-12-12",
 		"verzendlocatie": "World/Suriname"
@@ -8996,7 +8996,7 @@
 },
 {
 	"id": "number 413",
-	"source_id": "146",
+	"source_id": "14600000",
 	"source": "Johan Rietspier",
 	"target_id": "3440000",
 	"target": "Janneken Jans",
@@ -21294,7 +21294,7 @@
 },
 {
 	"id": "number 201",
-	"source_id": "97",
+	"source_id": "9700000",
 	"source": "Dirck Abrahamsen",
 	"target_id": "8150000",
 	"target": "Pieter Akkerman",
@@ -22386,7 +22386,7 @@
 },
 {
 	"id": "MF",
-	"source_id": "357",
+	"source_id": "35700000",
 	"source": "Jacob da Silva",
 	"target_id": "8580000",
 	"target": "Rica da Silva",
@@ -22516,7 +22516,7 @@
 },
 {
 	"id": "MK",
-	"source_id": "332",
+	"source_id": "331",
 	"source": "Joseph B. Carvalhi",
 	"target_id": "8650000",
 	"target": "Salamoh de Soria",
