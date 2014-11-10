@@ -92,6 +92,8 @@ MapDataSource.prototype = {
 	},
 
 	setOverlay : function(mapObjects) {
+    
+        //SMO: hier de mapwidget voodoo
 		var zoom = Math.floor(this.olMap.getZoom());
 		for (var j in mapObjects ) {
 			for (var k in mapObjects[j] ) {

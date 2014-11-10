@@ -768,10 +768,26 @@ MapWidget.prototype = {
 			}
 		}
 		var displayPoints = this.mds.getObjectsByZoom();
+       
 		var resolution = this.openlayersMap.getResolution();
 		for (var i = 0; i < displayPoints.length; i++) {
+            var notshown = 0;
 			for (var j = 0; j < displayPoints[i].length; j++) {
 				var p = displayPoints[i][j];
+                p.show = false;
+                var z= this.openlayersMap.getZoom();
+                for (var k = 0; k < p.elements.length; k++) {
+                    if(p.elements[k].fuzzy[this.options.mapIndex]  == 2 && z < 6) {
+                        p.show = true;
+                    }
+                    if(p.elements[k].fuzzy[this.options.mapIndex]  == 3 && z < 10) {
+                        p.show = true;
+                    }
+                     if(p.elements[k].fuzzy[this.options.mapIndex]  == 4 ) {
+                        p.show = true;
+                    }
+                }               
+                if(p.show) {
 				var x = p.originX + resolution * p.shiftX;
 				var y = p.originY + resolution * p.shiftY;
 				p.feature.geometry.x = x;
@@ -782,8 +798,14 @@ MapWidget.prototype = {
 				p.olFeature.style.graphicZIndex = this.zIndices[i] + 1;
 				this.objectLayer.addFeatures([p.feature]);
 				this.objectLayer.addFeatures([p.olFeature]);
+                }
+                else {
+                    notshown += p.elements.length;
+                }
 			}
+            console.log(this.options.mapIndex + ': '+ notshown + " zoom: " +this.openlayersMap.getZoom());
 		}
+        
 		var zoomLevel = this.openlayersMap.getZoom();
 		/*
 		 for (var i = 0; i < this.bins[zoomLevel].length; i++) {
