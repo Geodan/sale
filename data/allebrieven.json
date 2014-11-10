@@ -1,4 +1,576 @@
 [{
+	"id": "143",
+	"source_id": "7",
+	"source": "Pieter Boudaen Courten",
+	"target_id": "110000",
+	"target": "Abraham Cleeuwaert",
+	"name": "Abraham Cleeuwaert",
+	"description": "Abraham Cleeuwaert",
+	"location": [{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"tableContent": {
+		"verzender": "Pieter Boudaen Courten",
+		"ontvanger": "Abraham Cleeuwaert",
+		"verzenddatum": "1671-10-19",
+		"verzendlocatie": "World/The Netherlands/Zeeland/Middelburg"
+	},
+	"time": "1671-10-19"
+},
+{
+	"id": "143",
+	"source_id": "7",
+	"source": "Pieter Boudaen Courten",
+	"target_id": "110000",
+	"target": "Abraham Cleeuwaert",
+	"name": "Abraham Cleeuwaert",
+	"description": "Abraham Cleeuwaert",
+	"location": [{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World"
+	},
+	{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	}],
+	"tableContent": {
+		"verzender": "Pieter Boudaen Courten",
+		"ontvanger": "Abraham Cleeuwaert",
+		"verzenddatum": "",
+		"verzendlocatie": "World/The Netherlands/Zeeland/Middelburg"
+	},
+	"time": ""
+},
+{
+	"id": "AF",
+	"source_id": "374",
+	"source": "Ishak de Avilar",
+	"target_id": "820000",
+	"target": "Armao dalma",
+	"name": "Armao dalma",
+	"description": "Armao dalma",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"tableContent": {
+		"verzender": "Ishak de Avilar",
+		"ontvanger": "Armao dalma",
+		"verzenddatum": "1672-9-1",
+		"verzendlocatie": "World/Suriname"
+	},
+	"time": "1672-9-1"
+},
+{
+	"id": "AG",
+	"source_id": "254",
+	"source": "Onbekend",
+	"target_id": "890000",
+	"target": "Bastiaen Ketelaer",
+	"name": "Bastiaen Ketelaer",
+	"description": "Bastiaen Ketelaer",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Bastiaen Ketelaer",
+		"verzenddatum": "1672-1-9",
+		"verzendlocatie": "World/Suriname/Torarica"
+	},
+	"time": "1672-1-9"
+},
+{
+	"id": "AH",
+	"source_id": "299",
+	"source": "Onbekend",
+	"target_id": "900000",
+	"target": "Benijamijn Rawe",
+	"name": "Benijamijn Rawe",
+	"description": "Benijamijn Rawe",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Benijamijn Rawe",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "AFZ",
+	"source_id": "286",
+	"source": "Onbekend",
+	"target_id": "1070000",
+	"target": "Cornelija de Gelder",
+	"name": "Cornelija de Gelder",
+	"description": "Cornelija de Gelder",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-55.2038278",
+		"lat": "5.8520355",
+		"place": "World/Suriname/Paramaribo"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Cornelija de Gelder",
+		"verzenddatum": "1672-1-10",
+		"verzendlocatie": "World/Suriname/Paramaribo"
+	},
+	"time": "1672-1-10"
+},
+{
+	"id": "AGZ",
+	"source_id": "155",
+	"source": "Joris Darvall",
+	"target_id": "1090000",
+	"target": "Cornelis Darvall",
+	"name": "Cornelis Darvall",
+	"description": "Cornelis Darvall",
+	"location": [{
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "World/The Netherlands/Noord-Holland/Amsterdam"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"tableContent": {
+		"verzender": "Joris Darvall",
+		"ontvanger": "Cornelis Darvall",
+		"verzenddatum": "1672-1-12",
+		"verzendlocatie": "World/Suriname/Torarica"
+	},
+	"time": "1672-1-12"
+},
+{
+	"id": "AH",
+	"source_id": "300",
+	"source": "Onbekend",
+	"target_id": "1140000",
+	"target": "Cornelis Lambrechtsen",
+	"name": "Cornelis Lambrechtsen",
+	"description": "Cornelis Lambrechtsen",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Cornelis Lambrechtsen",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "2382",
+	"source_id": "147",
+	"source": "Johannes d'Olijslager",
+	"target_id": "2490000",
+	"target": "Hoogesteeger",
+	"name": "Hoogesteeger",
+	"description": "Hoogesteeger",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"tableContent": {
+		"verzender": "Johannes d'Olijslager",
+		"ontvanger": "Hoogesteeger",
+		"verzenddatum": "1672-12-14",
+		"verzendlocatie": "World/Suriname/Torarica"
+	},
+	"time": "1672-12-14"
+},
+{
+	"id": "DLZ",
+	"source_id": "415",
+	"source": "Onbekend",
+	"target_id": "3230000",
+	"target": "Jakob Enreques",
+	"name": "Jakob Enreques",
+	"description": "Jakob Enreques",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Jakob Enreques",
+		"verzenddatum": "1672-9-12",
+		"verzendlocatie": "World"
+	},
+	"time": "1672-9-12"
+},
+{
+	"id": "DL",
+	"source_id": "244",
+	"source": "Onbekend",
+	"target_id": "3350000",
+	"target": "Jan Marckes",
+	"name": "Jan Marckes",
+	"description": "Jan Marckes",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Jan Marckes",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "2382",
+	"source_id": "147",
+	"source": "Johannes d'Olijslager",
+	"target_id": "4010000",
+	"target": "Laurens Willemsen Verpoorte",
+	"name": "Laurens Willemsen Verpoorte",
+	"description": "Laurens Willemsen Verpoorte",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World/Suriname/Torarica"
+	}],
+	"tableContent": {
+		"verzender": "Johannes d'Olijslager",
+		"ontvanger": "Laurens Willemsen Verpoorte",
+		"verzenddatum": "1671-01-06",
+		"verzendlocatie": "World/Suriname/Torarica"
+	},
+	"time": "1671-01-06"
+},
+{
+	"id": "FGA",
+	"source_id": "48",
+	"source": "Onbekend",
+	"target_id": "5690000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FHB",
+	"source_id": "49",
+	"source": "Onbekend",
+	"target_id": "5700000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FIC",
+	"source_id": "50",
+	"source": "Onbekend",
+	"target_id": "5710000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FJD",
+	"source_id": "51",
+	"source": "Onbekend",
+	"target_id": "5720000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FKE",
+	"source_id": "98",
+	"source": "Onbekend",
+	"target_id": "6000000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FGF",
+	"source_id": "157",
+	"source": "Onbekend",
+	"target_id": "6110000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FHG",
+	"source_id": "1700001",
+	"source": "Onbekend",
+	"target_id": "6150000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FIH",
+	"source_id": "1700002",
+	"source": "Onbekend",
+	"target_id": "6160000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FJI",
+	"source_id": "1700003",
+	"source": "Onbekend",
+	"target_id": "6170000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
+	"id": "FKJ",
+	"source_id": "1700004",
+	"source": "Onbekend",
+	"target_id": "6180000",
+	"target": "Onbekend",
+	"name": "Onbekend",
+	"description": "Onbekend",
+	"location": [{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	},
+	{
+		"lon": "-83.7466403",
+		"lat": "42.230537",
+		"place": "World"
+	}],
+	"tableContent": {
+		"verzender": "Onbekend",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "",
+		"verzendlocatie": "World"
+	},
+	"time": ""
+},
+{
 	"id": "number 320",
 	"source_id": "133",
 	"source": "Jan Eghbertz",
@@ -257,58 +829,6 @@
 		"verzendlocatie": "World/Suriname"
 	},
 	"time": "1672-01-08"
-},
-{
-	"id": "143",
-	"source_id": "7",
-	"source": "Pieter Boudaen Courten",
-	"target_id": "110000",
-	"target": "Abraham Cleeuwaert",
-	"name": "Abraham Cleeuwaert",
-	"description": "Abraham Cleeuwaert",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "World"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "World/The Netherlands/Zeeland/Middelburg"
-	}],
-	"tableContent": {
-		"verzender": "Pieter Boudaen Courten",
-		"ontvanger": "Abraham Cleeuwaert",
-		"verzenddatum": "1671-10-19",
-		"verzendlocatie": "World/The Netherlands/Zeeland/Middelburg"
-	},
-	"time": "1671-10-19"
-},
-{
-	"id": "143",
-	"source_id": "7",
-	"source": "Pieter Boudaen Courten",
-	"target_id": "110000",
-	"target": "Abraham Cleeuwaert",
-	"name": "Abraham Cleeuwaert",
-	"description": "Abraham Cleeuwaert",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "World"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "World/The Netherlands/Zeeland/Middelburg"
-	}],
-	"tableContent": {
-		"verzender": "Pieter Boudaen Courten",
-		"ontvanger": "Abraham Cleeuwaert",
-		"verzenddatum": "",
-		"verzendlocatie": "World/The Netherlands/Zeeland/Middelburg"
-	},
-	"time": ""
 },
 {
 	"id": "1146",
@@ -2105,32 +2625,6 @@
 	"time": "1672-1-3"
 },
 {
-	"id": "AF",
-	"source_id": "374",
-	"source": "Ishak de Avilar",
-	"target_id": "820000",
-	"target": "Armao dalma",
-	"name": "Armao dalma",
-	"description": "Armao dalma",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "World/Suriname"
-	}],
-	"tableContent": {
-		"verzender": "Ishak de Avilar",
-		"ontvanger": "Armao dalma",
-		"verzenddatum": "1672-9-1",
-		"verzendlocatie": "World/Suriname"
-	},
-	"time": "1672-9-1"
-},
-{
 	"id": "3521",
 	"source_id": "1",
 	"source": "B. Raule",
@@ -2285,58 +2779,6 @@
 		"verzendlocatie": "World/Suriname"
 	},
 	"time": "1672-01-08"
-},
-{
-	"id": "AG",
-	"source_id": "254",
-	"source": "Onbekend",
-	"target_id": "890000",
-	"target": "Bastiaen Ketelaer",
-	"name": "Bastiaen Ketelaer",
-	"description": "Bastiaen Ketelaer",
-	"location": [{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "World/The Netherlands/Zeeland/Middelburg"
-	},
-	{
-		"lon": "-55.0333333",
-		"lat": "5.3333333",
-		"place": "World/Suriname/Torarica"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Bastiaen Ketelaer",
-		"verzenddatum": "1672-1-9",
-		"verzendlocatie": "World/Suriname/Torarica"
-	},
-	"time": "1672-1-9"
-},
-{
-	"id": "AH",
-	"source_id": "299",
-	"source": "Onbekend",
-	"target_id": "900000",
-	"target": "Benijamijn Rawe",
-	"name": "Benijamijn Rawe",
-	"description": "Benijamijn Rawe",
-	"location": [{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "World/The Netherlands/Zeeland/Middelburg"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Benijamijn Rawe",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
 },
 {
 	"id": "number 31",
@@ -2755,32 +3197,6 @@
 	"time": "1672-1-1"
 },
 {
-	"id": "AF",
-	"source_id": "286",
-	"source": "Onbekend",
-	"target_id": "1070000",
-	"target": "Cornelija de Gelder",
-	"name": "Cornelija de Gelder",
-	"description": "Cornelija de Gelder",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-55.2038278",
-		"lat": "5.8520355",
-		"place": "World/Suriname/Paramaribo"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Cornelija de Gelder",
-		"verzenddatum": "1672-1-10",
-		"verzendlocatie": "World/Suriname/Paramaribo"
-	},
-	"time": "1672-1-10"
-},
-{
 	"id": "number 207",
 	"source_id": "97",
 	"source": "Elijsabeth Emerij",
@@ -2805,32 +3221,6 @@
 		"verzendlocatie": "World/Suriname"
 	},
 	"time": "1672-1-9"
-},
-{
-	"id": "AG",
-	"source_id": "155",
-	"source": "Joris Darvall",
-	"target_id": "1090000",
-	"target": "Cornelis Darvall",
-	"name": "Cornelis Darvall",
-	"description": "Cornelis Darvall",
-	"location": [{
-		"lon": "4.8951679",
-		"lat": "52.3702157",
-		"place": "World/The Netherlands/Noord-Holland/Amsterdam"
-	},
-	{
-		"lon": "-55.0333333",
-		"lat": "5.3333333",
-		"place": "World/Suriname/Torarica"
-	}],
-	"tableContent": {
-		"verzender": "Joris Darvall",
-		"ontvanger": "Cornelis Darvall",
-		"verzenddatum": "1672-1-12",
-		"verzendlocatie": "World/Suriname/Torarica"
-	},
-	"time": "1672-1-12"
 },
 {
 	"id": "number 538",
@@ -2935,32 +3325,6 @@
 		"verzendlocatie": "World"
 	},
 	"time": "1672-12-14"
-},
-{
-	"id": "AH",
-	"source_id": "300",
-	"source": "Onbekend",
-	"target_id": "1140000",
-	"target": "Cornelis Lambrechtsen",
-	"name": "Cornelis Lambrechtsen",
-	"description": "Cornelis Lambrechtsen",
-	"location": [{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "World/The Netherlands/Zeeland/Middelburg"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Cornelis Lambrechtsen",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
 },
 {
 	"id": "number 184",
@@ -3952,7 +4316,7 @@
 },
 {
 	"id": "number 531",
-	"source_id": "1700000",
+	"source_id": "17000000",
 	"source": "Onbekend",
 	"target_id": "1470000",
 	"target": "David Kempe",
@@ -6447,32 +6811,6 @@
 	"time": "1672-1-8"
 },
 {
-	"id": "2382",
-	"source_id": "147",
-	"source": "Johannes d'Olijslager",
-	"target_id": "2490000",
-	"target": "Hoogesteeger",
-	"name": "Hoogesteeger",
-	"description": "Hoogesteeger",
-	"location": [{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "World/The Netherlands/Zeeland/Middelburg"
-	},
-	{
-		"lon": "-55.0333333",
-		"lat": "5.3333333",
-		"place": "World/Suriname/Torarica"
-	}],
-	"tableContent": {
-		"verzender": "Johannes d'Olijslager",
-		"ontvanger": "Hoogesteeger",
-		"verzenddatum": "1672-12-14",
-		"verzendlocatie": "World/Suriname/Torarica"
-	},
-	"time": "1672-12-14"
-},
-{
 	"id": "number 136",
 	"source_id": "57",
 	"source": "Claes Jansz. Bloem",
@@ -8371,32 +8709,6 @@
 	"time": "1672-9-12"
 },
 {
-	"id": "DL",
-	"source_id": "415",
-	"source": "Onbekend",
-	"target_id": "3230000",
-	"target": "Jakob Enreques",
-	"name": "Jakob Enreques",
-	"description": "Jakob Enreques",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Jakob Enreques",
-		"verzenddatum": "1672-9-12",
-		"verzendlocatie": "World"
-	},
-	"time": "1672-9-12"
-},
-{
 	"id": "number 495",
 	"source_id": "165",
 	"source": "N. Blom",
@@ -8681,32 +8993,6 @@
 		"verzendlocatie": "World/Suriname/Torarica"
 	},
 	"time": "1671-12-31"
-},
-{
-	"id": "DL",
-	"source_id": "244",
-	"source": "Onbekend",
-	"target_id": "3350000",
-	"target": "Jan Marckes",
-	"name": "Jan Marckes",
-	"description": "Jan Marckes",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Jan Marckes",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
 },
 {
 	"id": "number 590",
@@ -10683,32 +10969,6 @@
 		"verzendlocatie": "World"
 	},
 	"time": "1671-6-1"
-},
-{
-	"id": "2382",
-	"source_id": "147",
-	"source": "Johannes d'Olijslager",
-	"target_id": "4010000",
-	"target": "Laurens Willemsen Verpoorte",
-	"name": "Laurens Willemsen Verpoorte",
-	"description": "Laurens Willemsen Verpoorte",
-	"location": [{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "World/The Netherlands/Zeeland/Middelburg"
-	},
-	{
-		"lon": "-55.0333333",
-		"lat": "5.3333333",
-		"place": "World/Suriname/Torarica"
-	}],
-	"tableContent": {
-		"verzender": "Johannes d'Olijslager",
-		"ontvanger": "Laurens Willemsen Verpoorte",
-		"verzenddatum": "1671-01-06",
-		"verzendlocatie": "World/Suriname/Torarica"
-	},
-	"time": "1671-01-06"
 },
 {
 	"id": "number 447",
@@ -15547,140 +15807,10 @@
 	"time": ""
 },
 {
-	"id": "FG",
-	"source_id": "48",
-	"source": "Onbekend",
-	"target_id": "5690000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
-	"id": "FH",
-	"source_id": "49",
-	"source": "Onbekend",
-	"target_id": "5700000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
-	"id": "FI",
-	"source_id": "50",
-	"source": "Onbekend",
-	"target_id": "5710000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
-	"id": "FJ",
-	"source_id": "51",
-	"source": "Onbekend",
-	"target_id": "5720000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
 	"id": "number 132",
 	"source_id": "53",
 	"source": "Onbekend",
 	"target_id": "5730000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
-	"id": "FK",
-	"source_id": "98",
-	"source": "Onbekend",
-	"target_id": "6000000",
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
@@ -15781,140 +15911,10 @@
 	"time": ""
 },
 {
-	"id": "FG",
-	"source_id": "157",
-	"source": "Onbekend",
-	"target_id": "6110000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
 	"id": "number 480",
 	"source_id": "158",
 	"source": "Onbekend",
 	"target_id": "6120000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
-	"id": "FH",
-	"source_id": "1700001",
-	"source": "Onbekend",
-	"target_id": "6150000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
-	"id": "FI",
-	"source_id": "1700002",
-	"source": "Onbekend",
-	"target_id": "6160000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
-	"id": "FJ",
-	"source_id": "1700003",
-	"source": "Onbekend",
-	"target_id": "6170000",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "Onbekend",
-	"location": [{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "World"
-	}],
-	"tableContent": {
-		"verzender": "Onbekend",
-		"ontvanger": "Onbekend",
-		"verzenddatum": "",
-		"verzendlocatie": "World"
-	},
-	"time": ""
-},
-{
-	"id": "FK",
-	"source_id": "1700004",
-	"source": "Onbekend",
-	"target_id": "6180000",
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
