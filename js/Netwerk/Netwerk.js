@@ -23,9 +23,17 @@ Netwerk.prototype = {
             .attr({
                 "width": "100%",
                 "height": "450px"
+              });
+              
+        d3.select(layout.netwerkDiv).select('svg')
+            .append('rect')
+             .attr({
+                "width": "100%",
+                "height": "450px"
               })
-            .attr("pointer-events", "all")
-            .call(d3.behavior.zoom().on("zoom", redraw));
+            .attr("pointer-events", "all")            
+            .call(d3.behavior.zoom().on("zoom", redraw))
+            .style('fill','white');
 
     
         svgdiv.append("svg:defs").selectAll("marker")
@@ -38,8 +46,10 @@ Netwerk.prototype = {
             .attr("markerWidth", 6)
             .attr("markerHeight", 6)
             .attr("orient", "auto")
+            
             .append("svg:path")
-            .attr("d", "M0,-5L10,0L0,5");
+            .attr("d", "M0,-5L10,0L0,5")
+            .style("fill","#888a85");
 
         var vis = svgdiv
             .append('svg:g');
@@ -55,9 +65,13 @@ Netwerk.prototype = {
 
 		
 		layout.force = d3.layout.force()
-		    .linkDistance(25)
-		    .charge(-500)
-		    .gravity(.05)
+		    //.linkStrength(0.1)
+   // .friction(0.9)
+    .distance(80)
+    .charge(-120)
+    .gravity(.05)
+    //.chargeDistance(2000)
+    
 		    .size([width, height]);
 			this.update();
 
@@ -80,9 +94,9 @@ Netwerk.prototype = {
 		links.forEach(function(link) {
             link.id=link.object.index;
 			link.source = nodes[link.object.sid] ||
-				(nodes[link.object.sid] = {name: link.object.tableContent.verzender, id : nid++, sid: link.object.sid});
+				(nodes[link.object.sid] = {name: link.object.tableContent.verzender, id : link.object.sid});
 			link.target = nodes[link.object.tid] ||
-				(nodes[link.object.tid] = {name: link.object.tableContent.ontvanger, id : nid++, tid: link.object.tid});
+				(nodes[link.object.tid] = {name: link.object.tableContent.ontvanger, id : link.object.tid});
                     
 		});
 		layout.force
@@ -99,21 +113,26 @@ Netwerk.prototype = {
 		link.exit().remove();
 
 		link.enter()//.insert("line", ".node")
-            .append("svg:path")
+            .append("line")
             .attr("class", "link")
+            .style('opacity',0.5)
             .attr("marker-end", "url(#end)");
 
 		// Update nodes.
 		node = node.data(d3.values(nodes), function(d) { return d.id; });
 
 		node.exit().remove();
-
+        
+        var drag = layout.force.drag()
+            .on("dragstart", dragstart);
+    
 		var nodeEnter = node.enter().append("g")
             .attr("class", "node")
             .on('mouseover',nodeover)
             .on('mouseleave',nodeleave)
         .on('click',nodeclick)
-            .call(layout.force.drag)
+        .on('dblclick',dblclick)
+            .call(drag)
        
 
 		nodeEnter.append("circle")
@@ -121,7 +140,7 @@ Netwerk.prototype = {
 
        
 		nodeEnter.append("text")
-            .attr("dy", ".35em");
+            .attr("dy", "1.2em");
         
 		node.select("text")
             .text(function(d) { return d.name; });
@@ -143,8 +162,31 @@ Netwerk.prototype = {
 			
          //   layout.core.triggerHighlight([nodelinks]);
 		}
+        function dragstart(d) {
+  d3.select(this).classed("fixed", d.fixed = true);
+}
+
+function dblclick(d) {
+  d3.select(this).classed("fixed", d.fixed = false);
+}
         function nodeclick(d) {
-        console.log('click');
+
+        var nodelinks = [];
+        links.forEach(function(l){
+				if(d.sid == l.source.sid|| d.tid == l.target.tid) {
+                    l.collapsed = true;
+					nodelinks.push(l.object)
+				}
+			})
+       if (d3.event.defaultPrevented) return; // ignore drag
+  if (d.children) {
+    d._children = d.children;
+    d.children = null;
+  } else {
+    d.children = d._children;
+    d._children = null;
+  }
+ // update();
 		/*	var nodelinks = [];
 			links.forEach(function(l){
 				if(d.name == l.source.name|| d.name == l.target.name) {
@@ -159,7 +201,7 @@ Netwerk.prototype = {
 		      .attr("y1", function(d) { return d.source.y; })
 		      .attr("x2", function(d) { return d.target.x; })
 		      .attr("y2", function(d) { return d.target.y; })
-              .attr("d", function(d) {
+            /*  .attr("d", function(d) {
                 var dx = d.target.x - d.source.x,
                     dy = d.target.y - d.source.y,
                     dr = Math.sqrt(dx * dx + dy * dy);
@@ -169,7 +211,7 @@ Netwerk.prototype = {
                     dr + "," + dr + " 0 0,1 " + 
                     d.target.x + "," + 
                     d.target.y;
-                });
+                });*/
 
 		  node.attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 		}
