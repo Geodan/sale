@@ -28,7 +28,15 @@
  */
 
 var arrayIndex = function(array, obj) {
-	return $.inArray(obj, array);
+	if (Array.indexOf) {
+		return array.indexOf(obj);
+	}
+	for (var i = 0; i < array.length; i++) {
+		if (array[i] == obj) {
+			return i;
+		}
+	}
+	return -1;
 }
 GeoTemCoLoader = {
 
@@ -54,20 +62,13 @@ GeoTemCoLoader = {
 		if (typeof jQuery == 'undefined') {
 			(new DynaJsLoader()).loadScripts([{
 				url : GeoTemCoLoader.urlPrefix + 'lib/jquery/jquery.min.js'
-			},{
-				url : GeoTemCoLoader.urlPrefix + 'lib/jquery/purl.min.js'
-			},{
-				url : GeoTemCoLoader.urlPrefix + 'lib/jquery/jquery.remember.js'
-			},{
-				url : GeoTemCoLoader.urlPrefix + 'lib/jquery/jquery-deparam.min.js'
-			},],GeoTemCoLoader.loadFlot);
+			}],GeoTemCoLoader.loadTimeplot);
 		}
 		else {
-			GeoTemCoLoader.loadFlot();
+			GeoTemCoLoader.loadTimeplot();
 		}
 	},
-	
-	loadFlot : function() {
+		loadFlot : function() {
 		if (typeof $.plot == 'undefined') {
 			(new DynaJsLoader()).loadScripts([{
 				url : GeoTemCoLoader.urlPrefix + 'lib/flot/jquery.flot.js'
@@ -156,11 +157,7 @@ GeoTemCoLoader = {
 	},
 
 	loadTimeplot : function() {
-		var jsFiles = [{
-			url : GeoTemCoLoader.urlPrefix + 'lib/SimileRemnants.js'
-		}];
-		
-		(new DynaJsLoader()).loadScripts(jsFiles, GeoTemCoLoader.loadScripts);
+		TimeplotLoader.load(GeoTemCoLoader.urlPrefix + 'lib/', GeoTemCoLoader.loadScripts);
 	},
 
 	loadScripts : function() {
@@ -177,12 +174,9 @@ GeoTemCoLoader = {
 		(new DynaJsLoader()).loadScripts([{
 			url : GeoTemCoLoader.urlPrefix + 'lib/slider/js/timer.js'
 		}]);
-		// SIMILE was removed (see above in "loadTimeplot")
-		/*
 		(new DynaJsLoader()).loadScripts([{
 			url : GeoTemCoLoader.urlPrefix + 'js/Time/' + 'SimileTimeplotModify.js'
 		}]);
-		*/
 		(new DynaJsLoader()).loadScripts([{
 			url : GeoTemCoLoader.urlPrefix + 'lib/' + 'openlayers/' + 'OpenLayers.js'
 		}]);
@@ -223,6 +217,30 @@ GeoTemCoLoader = {
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Table/' + 'Table.js',
 		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineConfig.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineGui.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineWidget.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineDensity.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangeSlider.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangePiechart.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangeBars.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkConfig.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkGui.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkWidget.js',
+		}, {
+			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'Netwerk.js',
+		},
+
+		 {
 			url : GeoTemCoLoader.urlPrefix + 'js/Util/' + 'DataObject.js',
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Util/' + 'Dataset.js',
@@ -246,78 +264,6 @@ GeoTemCoLoader = {
 			url : GeoTemCoLoader.urlPrefix + 'js/Util/Publisher.js',
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Util/WidgetWrapper.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Dataloader/' + 'DataloaderConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Dataloader/' + 'DataloaderGui.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Dataloader/' + 'DataloaderWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Dataloader/' + 'Dataloader.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Overlayloader/' + 'OverlayloaderConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Overlayloader/' + 'OverlayloaderGui.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Overlayloader/' + 'OverlayloaderWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Overlayloader/' + 'Overlayloader.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/PieChart/' + 'PieChartConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/PieChart/' + 'PieChartGui.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/PieChart/' + 'PieChartWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/PieChart/' + 'PieChart.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/PieChart/' + 'PieChartCategoryChooser.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/PieChart/' + 'PieChartHashFunctions.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Placetable/' + 'PlacetableConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Placetable/' + 'PlacetableGui.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Placetable/' + 'PlacetableWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Placetable/' + 'Placetable.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/LineOverlay/' + 'LineOverlayConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/LineOverlay/' + 'LineOverlayWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/LineOverlay/' + 'LineOverlay.js',
-		}, {			
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineGui.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineDensity.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangeSlider.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangePiechart.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangeBars.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkGui.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'Netwerk.js',
-		},{
-			url : GeoTemCoLoader.urlPrefix + 'js/Storytelling/' + 'StorytellingConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Storytelling/' + 'StorytellingGui.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Storytelling/' + 'StorytellingWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/Storytelling/' + 'Storytelling.js',
 		}];
 		(new DynaJsLoader()).loadScripts(geoTemCoFiles, GeoTemCoLoader.initGeoTemCo);
 
@@ -327,11 +273,7 @@ GeoTemCoLoader = {
 
 		GeoTemConfig.configure(GeoTemCoLoader.urlPrefix);
 		Publisher.Publish('GeoTemCoReady', '', null);
-		
-		//TODO: find more appropriate position for this
-		$(window).resize(function() {
-		    Publisher.Publish("resizeWidget");
-		});
+
 	}
 }
 
