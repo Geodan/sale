@@ -104,6 +104,8 @@ function DataObject(name, description, locations, dates, weight, tableContent, s
 			return SimileAjax.DateTime.getTimeString(this.granularity, this.timeStart) + "";
 		}
 	};
+
+};
 	this.contains = function(text) {
 		var allCombined = this.name + " " + this.description + " " + this.weight + " ";
 		
@@ -126,5 +128,3 @@ function DataObject(name, description, locations, dates, weight, tableContent, s
 		return (allCombined.indexOf(text) != -1);
 	};
 	
-};
-
