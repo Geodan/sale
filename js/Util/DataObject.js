@@ -106,3 +106,25 @@ function DataObject(name, description, locations, dates, weight, tableContent, s
 	};
 
 };
+	this.contains = function(text) {
+		var allCombined = this.name + " " + this.description + " " + this.weight + " ";
+		
+		$.each(this.dates, function(key, value){
+			$.each(value, function(){
+				allCombined += this + " ";
+			});
+		});
+		
+		$.each(this.locations, function(key, value){
+			$.each(value, function(){
+				allCombined += this + " ";
+			});
+		});
+		
+		$.each(this.tableContent, function(key, value){
+			allCombined += value + " ";
+		});
+		
+		return (allCombined.indexOf(text) != -1);
+	};
+	
