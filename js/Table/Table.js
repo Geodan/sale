@@ -65,6 +65,7 @@ Table.prototype = {
 		if (table.options.tableSelectPage) {
 			var selectPageItems = true;
 			this.selectPage = document.createElement('div');
+			$(this.selectPage).css("float","left");
 			this.selectPage.setAttribute('class', 'smallButton selectPage');
 			this.selectPage.title = GeoTemConfig.getString('selectTablePageItemsHelp');
 			selectors.appendChild(this.selectPage);
@@ -102,6 +103,7 @@ Table.prototype = {
 			var selectAllItems = true;
 			this.selectAll = document.createElement('div');
 			this.selectAll.setAttribute('class', 'smallButton selectAll');
+			$(this.selectAll).css("float","left");
 			table.selectAll.title = GeoTemConfig.getString('selectAllTableItemsHelp');
 			selectors.appendChild(this.selectAll);
 			this.selectAll.onclick = function() {
@@ -124,10 +126,29 @@ Table.prototype = {
 			}
 		}
 
+		if (table.options.tableInvertSelection) {
+			this.invertSelection = document.createElement('div');
+			this.invertSelection.setAttribute('class', 'smallButton invertSelection');
+			$(this.invertSelection).css("float","left");
+			table.invertSelection.title = GeoTemConfig.getString('invertSelectionHelp');
+			selectors.appendChild(this.invertSelection);
+			this.invertSelection.onclick = function() {
+				for (var i = 0; i < table.elements.length; i++) {
+					if (table.elements[i].selected === true)
+						table.elements[i].selected = false;
+					else
+						table.elements[i].selected = true;
+				}
+				table.update();
+				table.parent.tableSelection();
+			}
+		}
+		
 		this.showSelectedItems = false;
 		if (table.options.tableShowSelected) {
 			this.showSelected = document.createElement('div');
 			this.showSelected.setAttribute('class', 'smallButton showSelected');
+			$(this.showSelected).css("float","left");
 			table.showSelected.title = GeoTemConfig.getString('showSelectedHelp');
 			selectors.appendChild(this.showSelected);
 			this.showSelected.onclick = function() {
@@ -150,6 +171,55 @@ Table.prototype = {
 				table.update();
 			}
 		}
+		
+		if (table.options.tableSelectByText) {
+			this.selectByTextDiv = document.createElement('div');
+			$(this.selectByTextDiv).css("float","left");
+			$(this.selectByTextDiv).css("vertical-align", "top");
+			//TODO: improve appearance (wrong margin)
+			$(this.selectByTextDiv).css("display", "inline-block");
+			//create and append the input field
+			this.selectByTextInput = document.createElement('input');
+			$(this.selectByTextInput).attr("type","text");
+			$(this.selectByTextDiv).append(this.selectByTextInput);
+			//create and append the button
+			this.selectByTextButton = document.createElement('input');
+			$(this.selectByTextButton).attr("type","button");
+			//TODO: add button-image
+			$(this.selectByTextButton).val("search");
+			$(this.selectByTextDiv).append(this.selectByTextButton);
+			
+			table.selectByTextDiv.title = GeoTemConfig.getString('selectByTextHelp');
+			selectors.appendChild(this.selectByTextDiv);
+			$(this.selectByTextButton).click($.proxy(function() {
+				this.selectByText($(this.selectByTextInput).val());
+			},this));
+		}		
+		
+		if (table.options.tableCreateNewFromSelected) {
+			this.createNewFromSelected = document.createElement('div');
+			this.createNewFromSelected.setAttribute('class', 'smallButton createNewRefined');
+			$(this.createNewFromSelected).css("float","left");
+			this.createNewFromSelected.title = GeoTemConfig.getString('createNewFromSelectedHelp');
+			selectors.appendChild(this.createNewFromSelected);
+			this.createNewFromSelected.onclick = function() {
+				var copyID = table.id;
+				var tableWidget = table.parent;
+
+				var newObjects = [];
+				$(table.elements).each(function(){
+					if (this.selected)
+						newObjects.push(this.object);
+				});
+				
+				var newDataset = new Dataset();
+				newDataset.label = tableWidget.datasets[copyID].label + " refined";
+				newDataset.objects = newObjects;
+				
+				GeoTemConfig.addDataset(newDataset);
+			};
+		}		
+		
 		this.selectors = selectors;
 
 		//		selectors.style.width = (this.filter.offsetWidth + this.selectAll.offsetWidth + this.selectPage.offsetWidth)+"px";
@@ -158,12 +228,39 @@ Table.prototype = {
 		navigation.appendChild(results);
 
 		var pagination = document.createElement("td");
+		$(pagination).css('float', 'right');
 		navigation.appendChild(pagination);
 
 		this.resultsInfo = document.createElement('div');
 		this.resultsInfo.setAttribute('class', 'resultsInfo');
 		results.appendChild(this.resultsInfo);
 
+		this.resultsDropdown = document.createElement('div');
+		this.resultsDropdown.setAttribute('class', 'resultsDropdown');
+		pagination.appendChild(this.resultsDropdown);
+		var itemNumbers = [];
+		var addItemNumber = function(count, index) {
+			var setItemNumber = function() {
+				table.updateIndices(count);
+				table.update();
+			}
+			itemNumbers.push({
+				name : count,
+				onclick : setItemNumber
+			});
+		}
+		for (var i = 0; i < table.options.validResultsPerPage.length; i++) {
+			addItemNumber(table.options.validResultsPerPage[i], i);
+		}
+		var dropdown = new Dropdown(this.resultsDropdown, itemNumbers, GeoTemConfig.getString('paginationDropdownHelp'));
+		for (var i = 0; i < table.options.validResultsPerPage.length; i++) {
+			if (table.options.initialResultsPerPage == table.options.validResultsPerPage[i]) {
+				dropdown.setEntry(i);
+				break;
+			}
+		}
+		dropdown.div.title = GeoTemConfig.getString('paginationDropdownHelp');
+		
 		this.firstPage = document.createElement('div');
 		this.firstPage.setAttribute('class', 'paginationButton');
 		this.firstPage.title = GeoTemConfig.getString('paginationFirsPageHelp');
@@ -213,32 +310,6 @@ Table.prototype = {
 			}
 		}
 
-		this.resultsDropdown = document.createElement('div');
-		this.resultsDropdown.setAttribute('class', 'resultsDropdown');
-		pagination.appendChild(this.resultsDropdown);
-		var itemNumbers = [];
-		var addItemNumber = function(count, index) {
-			var setItemNumber = function() {
-				table.updateIndices(count);
-				table.update();
-			}
-			itemNumbers.push({
-				name : count,
-				onclick : setItemNumber
-			});
-		}
-		for (var i = 0; i < table.options.validResultsPerPage.length; i++) {
-			addItemNumber(table.options.validResultsPerPage[i], i);
-		}
-		var dropdown = new Dropdown(this.resultsDropdown, itemNumbers, 'selectMapType');
-		for (var i = 0; i < table.options.validResultsPerPage.length; i++) {
-			if (table.options.initialResultsPerPage == table.options.validResultsPerPage[i]) {
-				dropdown.setEntry(i);
-				break;
-			}
-		}
-		dropdown.div.title = GeoTemConfig.getString('paginationDropdownHelp');
-
 		this.input = document.createElement("div");
 		this.input.style.overflow = 'auto';
 		this.tableDiv.appendChild(this.input);
@@ -258,6 +329,71 @@ Table.prototype = {
 		if (GeoTemConfig.allowFilter) {
 			var cell = document.createElement('th');
 			this.elementListHeader.appendChild(cell);
+		}
+		
+		//Bottom pagination elements
+		this.bottomToolbar = document.createElement("table");
+		this.bottomToolbar.setAttribute('class', 'ddbToolbar');
+		this.bottomToolbar.style.overflow = 'auto';
+		this.tableDiv.appendChild(this.bottomToolbar);
+		
+		var bottomNavigation = document.createElement("tr");
+		this.bottomToolbar.appendChild(bottomNavigation);
+
+		var bottomPagination = document.createElement("td");
+		bottomNavigation.appendChild(bottomPagination);
+
+		this.bottomLastPage = document.createElement('div');
+		this.bottomLastPage.setAttribute('class', 'paginationButton');
+		this.bottomLastPage.title = GeoTemConfig.getString('paginationLastPageHelp');
+		$(this.bottomLastPage).css('float', 'right');
+		bottomPagination.appendChild(this.bottomLastPage);
+		this.bottomLastPage.onclick = function() {
+			if (table.page != table.pages - 1) {
+				table.page = table.pages - 1;
+				table.update();
+			}
+		}
+
+		this.bottomNextPage = document.createElement('div');
+		this.bottomNextPage.setAttribute('class', 'paginationButton');
+		this.bottomNextPage.title = GeoTemConfig.getString('paginationNextPageHelp');
+		$(this.bottomNextPage).css('float', 'right');
+		bottomPagination.appendChild(this.bottomNextPage);
+		this.bottomNextPage.onclick = function() {
+			if (table.page < table.pages - 1) {
+				table.page++;
+				table.update();
+			}
+		}
+		
+		this.bottomPageInfo = document.createElement('div');
+		this.bottomPageInfo.setAttribute('class', 'pageInfo');
+		$(this.bottomPageInfo).css('float', 'right');
+		bottomPagination.appendChild(this.bottomPageInfo);
+
+		this.bottomPreviousPage = document.createElement('div');
+		this.bottomPreviousPage.setAttribute('class', 'paginationButton');
+		this.bottomPreviousPage.title = GeoTemConfig.getString('paginationPreviousPageHelp');
+		$(this.bottomPreviousPage).css('float', 'right');
+		bottomPagination.appendChild(this.bottomPreviousPage);
+		this.bottomPreviousPage.onclick = function() {
+			if (table.page > 0) {
+				table.page--;
+				table.update();
+			}
+		}
+
+		this.bottomFirstPage = document.createElement('div');
+		this.bottomFirstPage.setAttribute('class', 'paginationButton');
+		this.bottomFirstPage.title = GeoTemConfig.getString('paginationFirsPageHelp');
+		$(this.bottomFirstPage).css('float', 'right');
+		bottomPagination.appendChild(this.bottomFirstPage);
+		this.bottomFirstPage.onclick = function() {
+			if (table.page != 0) {
+				table.page = 0;
+				table.update();
+			}
 		}
 
 		if ( typeof (this.elements[0]) == 'undefined') {
@@ -308,7 +444,6 @@ Table.prototype = {
 		for (var key in this.elements[0].object.tableContent) {
 			addSortButton(key);
 		}
-
 	},
 
 	sortAscending : function(key) {
@@ -330,12 +465,36 @@ Table.prototype = {
 		}
 		this.elements.sort(sortFunction);
 	},
+	
+	selectByText : function(text) {
+		//deselect all elements
+		$(this.elements).each(function(){
+			this.selected = false;
+		});
+		
+		var selectedCount = 0;
+		$(this.elements).filter(function(index){
+			return this.object.contains(text);
+		}).each(function(){
+			this.selected = true;
+			selectedCount++;
+		});
+		
+		//only show selected elements
+		this.showSelectedItems = true;
+		this.showElementsLength = selectedCount;
+		this.showSelected.setAttribute('class', 'smallButton showAll');
+		
+		this.update();
+		this.parent.tableSelection();
+	},
 
 	setPagesText : function() {
 		var infoText = GeoTemConfig.getString('pageInfo');
 		infoText = infoText.replace('PAGES_ID', this.pages);
 		infoText = infoText.replace('PAGE_ID', this.page + 1);
 		this.pageInfo.innerHTML = infoText;
+		this.bottomPageInfo.innerHTML = infoText;
 	},
 
 	setResultsText : function() {
@@ -375,16 +534,24 @@ Table.prototype = {
 		if (this.page == 0) {
 			this.previousPage.setAttribute('class', 'paginationButton previousPageDisabled');
 			this.firstPage.setAttribute('class', 'paginationButton firstPageDisabled');
+			this.bottomPreviousPage.setAttribute('class', 'paginationButton previousPageDisabled');
+			this.bottomFirstPage.setAttribute('class', 'paginationButton firstPageDisabled');
 		} else {
 			this.previousPage.setAttribute('class', 'paginationButton previousPageEnabled');
 			this.firstPage.setAttribute('class', 'paginationButton firstPageEnabled');
+			this.bottomPreviousPage.setAttribute('class', 'paginationButton previousPageEnabled');
+			this.bottomFirstPage.setAttribute('class', 'paginationButton firstPageEnabled');
 		}
 		if (this.page == this.pages - 1) {
 			this.nextPage.setAttribute('class', 'paginationButton nextPageDisabled');
 			this.lastPage.setAttribute('class', 'paginationButton lastPageDisabled');
+			this.bottomNextPage.setAttribute('class', 'paginationButton nextPageDisabled');
+			this.bottomLastPage.setAttribute('class', 'paginationButton lastPageDisabled');
 		} else {
 			this.nextPage.setAttribute('class', 'paginationButton nextPageEnabled');
 			this.lastPage.setAttribute('class', 'paginationButton lastPageEnabled');
+			this.bottomNextPage.setAttribute('class', 'paginationButton nextPageEnabled');
+			this.bottomLastPage.setAttribute('class', 'paginationButton lastPageEnabled');
 		}
 		this.setPagesText();
 		this.setResultsText();
@@ -496,7 +663,20 @@ Table.prototype = {
 				var key = table.keyHeaderList[k];
 				//vhz
 				var text = e.object.tableContent[key];
-				var cell = $("<td/>").appendTo(itemRow);
+				if (typeof text === "undefined")
+					text = "";
+				var cell = $("<td></td>").appendTo(itemRow);
+
+				//align the elements (if unset: "center")
+				if (typeof table.options.verticalAlign !== "undefined"){
+					if (table.options.verticalAlign === "top")
+						$(cell).attr("valign","top");
+					else if (table.options.verticalAlign === "center")
+						$(cell).attr("valign","center");
+					else if (table.options.verticalAlign === "bottom")
+						$(cell).attr("valign","bottom");
+				}
+
 				if (table.options.tableContentOffset && text.length < table.options.tableContentOffset) {
 					$(cell).html(text);
 				} else {
@@ -544,9 +724,11 @@ Table.prototype = {
 	},
 
 	reset : function() {
-		this.showSelectedItems = false;
-		this.showElementsLength = this.elements.length;
-		this.showSelected.setAttribute('class', 'smallButton showSelected');
+		if (!this.options.tableKeepShowSelected){
+			this.showSelectedItems = false;
+			this.showElementsLength = this.elements.length;
+			this.showSelected.setAttribute('class', 'smallButton showSelected');
+		}
 		this.updateIndices(this.resultsPerPage);
 	},
 
