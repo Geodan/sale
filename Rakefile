@@ -7,7 +7,7 @@ CSS_FILE='css/geotemco.css'
 
 task :default => :all
 
-task :all => [COMPRESSED_OUTPUT_FILE, OUTPUT_FILE, CSS_FILE]
+task :all => [COMPRESSED_OUTPUT_FILE, OUTPUT_FILE, CSS_FILE, :copyJqueryUIImageDirectory]
 
 # javascript sources
 Files = %w(lib/jquery/jquery.min.js
@@ -77,6 +77,9 @@ js/Table/TableConfig.js
 js/Table/TableGui.js
 js/Table/TableWidget.js
 js/Table/Table.js
+js/LineOverlay/LineOverlay.js
+js/LineOverlay/LineOverlayConfig.js
+js/LineOverlay/LineOverlayWidget.js
 js/Util/DataObject.js
 js/Util/Dataset.js
 js/Time/TimeDataSource.js

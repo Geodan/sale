@@ -129,9 +129,8 @@ GeoTemCoLoader = {
 			url : GeoTemCoLoader.urlPrefix + 'js/Table/' + 'TableWidget.js',
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Table/' + 'Table.js',
-		},
-
-		 {
+		}, {
+	
 			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkConfig.js',
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkGui.js',
