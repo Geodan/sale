@@ -8,6 +8,12 @@
 	<script src="http://d3js.org/d3.v3.js"></script>
  	<script src="js/Build/Loader/DynaJsLoader.js"></script>
 	<script src="js/Build/Loader/Loader.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript">
+function toggleDiv(divId) {
+   $("#"+divId).toggle();
+}
+</script>	
 	
 	
 			<meta charset="utf-8">
@@ -19,7 +25,7 @@ body {
     margin: 0;
     padding: 0;
 }
-#wrapper1 {
+#wrapper {
     width: 1900px;
     border: 1px solid black;
     overflow: hidden; 
@@ -92,7 +98,7 @@ line.link {
   </head>
 
   <body>
-  
+
 
 
 
@@ -114,10 +120,10 @@ line.link {
 <div id="block"><script id="block" src="force_layout.js"></script></div> -->
 
 
-<div id="wrapper1">
+<!-- <div id="wrapper1"> -->
 	<div id="someMapDivName2"></div>
 	<div id="someMapDivName1"></div>
-</div>
+<!-- </div> -->
 	
 
 <div id="wrapper2">
