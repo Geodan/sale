@@ -124,7 +124,7 @@ function DataObject(name, description, locations, dates, weight, tableContent, s
 			allCombined += value + " ";
 		});
 		
-		return (allCombined.indexOf(text) != -1);
+		return (allCombined.toLowerCase().indexOf(text.toLowerCase()) != -1);
 	};
 
 };
