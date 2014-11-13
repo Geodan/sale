@@ -29,7 +29,6 @@
  */
 var Tooltips = {
 	"en" : {
-	
 		"locationType" : "Location type",
 		"selectLocationType" : "Select location type",
 		"mapType" : "Background map",

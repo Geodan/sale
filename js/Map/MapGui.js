@@ -113,21 +113,6 @@ function MapGui(map, div, options, iid) {
 		mapSum.appendChild(this.mapElements);
 		tools.appendChild(mapSum);
 	}
-	
- this.lockTitle = document.createElement("td");
- titles.appendChild(this.lockTitle);
- this.lockIcon = document.createElement("td");
- var lockButton = document.createElement("div");
- $(lockButton).addClass('mapControl');
- var activateLock = function() {
- map.navigation.deactivate();
- }
- var deactivateLock = function() {
- map.navigation.activate();
- }
- var lockMapControl = new MapControl(this.map, lockButton, 'lock', activateLock, deactivateLock);
- tools.appendChild(lockMapControl.button);
-
 
 	var gui = this;
 	if (navigator.geolocation && options.geoLocation) {

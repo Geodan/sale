@@ -1,9 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold&subset=latin);
 
-body {
-	font-family: "Droid Sans", verdana, arial, serif;
-}
-
 /*
   settings for slider object
 */
@@ -107,10 +103,6 @@ body {
 	overflow: visible;
 }
 
-.timeplot-copyright {
-    visibility: hidden;
-}
-
 .timeplot-timeflag {
     font-size: 0.8em;
     font-weight: normal;
@@ -174,18 +166,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 .plotHandleIcon {
     height: 43px;
     width: 14px;
-    margin: 0;
-    padding: 0;
-}
-
-.plotHandleBox {
-	position: absolute;
-	border: solid 1px #d0ba9a; 
-	background-color: #e8cfac;
-	filter: alpha(opacity=40);
-	opacity: 0.4;
-	margin: 0;
-	padding: 0;	
 }
 
 .plotToolbar {
@@ -642,7 +622,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	display: inline-block;
 	height: 25px;
 	max-height: 25px;
-	white-space: nowrap;
 }
 
 .dropdownLeft {
@@ -662,7 +641,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	display: table-cell;	
 	vertical-align: middle;
 	background-image: url(../images/dropdownMiddle.png);
-	white-space: nowrap;
 }
 
 .dropdownButtonEnabled {
@@ -697,7 +675,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 .dropdownMenu dl {
 	margin: 0px;
 	display: block;
-	white-space: nowrap;
 }
 
 .dropdownMenu dt {
@@ -707,12 +684,10 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
   	text-align: center;
 	color: #6f6b68;
 	font-weight: normal;
-	white-space: nowrap;
 }
 
 .dropdownMenu dt:hover {
 	background: #DFDFDD;
-	white-space: nowrap;
 }
 
 .dropdownSelectedEntry {
@@ -721,7 +696,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	font-weight: normal;
 	display: table-cell;
 	vertical-align: middle;
-	white-space: nowrap;
 }
 
 .dropdownUnselectedEntry {
@@ -730,11 +704,9 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	font-weight: normal;
 	display: table-cell;
 	vertical-align: middle;
-	white-space: nowrap;
 }
 
 .ddbElementsCount {
-	font-family: Calibri,Arial,sans-serif;
 	color: white;
 	font-style: italic;
 	font-weight: normal;
@@ -866,6 +838,18 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	cursor: pointer;
 }
 
+.zoomIn {
+	width: 19px;
+	height: 16px;
+	background-image: url("../images/zoom_in.png");
+}
+
+.zoomOut {
+	width: 19px;
+	height: 16px;
+	background-image: url("../images/zoom_out.png");
+}
+
 .ddbPopupDiv {
 	position: absolute;
 	background-color: white;
@@ -986,6 +970,7 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
 
 
+
 .descriptions {	
     display: inline-block;
     height: 20px;
@@ -995,7 +980,7 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
     cursor: pointer;
 }
 
-.mapLegend {
+.legend {
 	position: absolute;
 	right: 0px;
 	bottom: 0px;
@@ -1170,8 +1155,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
 	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
 	border-spacing: 0px;
-	height:47px;
-	overflow:auto;
 }
 
 .tableTab {
@@ -1273,14 +1256,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	background-image: url("../images/pause-disabled.png");
 }
 
-.lockDeactivated {
-	background-image: url("../images/lock-deactivated.png");
-}
-
-.lockActivated {
-	background-image: url("../images/lock-activated.png");
-}
-
 .dragControl {
 	display: inline-block;
 	height: 19px;
@@ -1304,10 +1279,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	background-image: url("../images/selectAll.png");
 }
 
-.invertSelection {
-	background-image: url("../images/invertSelection.png");
-}
-
 .deselectAll {
 	background-image: url("../images/deselectAll.png");
 }
@@ -1318,10 +1289,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 
 .showSelected {
 	background-image: url("../images/showSelected.png");
-}
-
-.createNewRefined {
-	background-image: url("../images/createNewRefined.png");
 }
 
 .selectPage {
@@ -1347,7 +1314,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
 
 .resultList th {
-	font-family: Calibri,Arial,sans-serif;
 	color: white;
 	font-size: 13px;
 	font-weight: bold;
@@ -1355,7 +1321,6 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 }
 
 .resultList td {
-	font-family: Calibri,Arial,sans-serif;
 	font-size: 13px;
 	padding: 10px;
 	border-bottom: 1px solid #878380;
@@ -1421,20 +1386,21 @@ filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	background-image: url("../images/filterCancelDisabled.png");
 }
 
-.removeDataset {
-	background-image: url("../images/filterCancel.png");
+
+path.link {
+	fill: none;
+	stroke: #666;	
+	stroke-width: 1.5px;
 }
 
-.exportDataset {
-	background-image: url("../images/exportDataset.png");
+circle2 {
+	fill: #ccc;	
+	stroke: #fff;
+	stroke-width: 1.5px;
 }
 
-.externalLink {
-	display: inline-block;
-	height: 10px;
-	width: 10px;
-	cursor: pointer;
-	padding-left: 5px;
-	padding-right: 5px;
-	background: url("../images/externalLink.png") top no-repeat;
+text { 
+	fill: #000;
+	font: 10px sans-serif;
+	pointer-events: none;
 }
