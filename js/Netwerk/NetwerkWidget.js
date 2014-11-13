@@ -85,7 +85,7 @@ NetwerkWidget.prototype = {
 	},
 
 	highlightChanged : function(objects) {
-			//console.log('highlight.changed')
+			console.log('highlight.changed')
 	},
 
 	selectionChanged : function(selection) {

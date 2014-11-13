@@ -68,93 +68,6 @@ GeoTemCoLoader = {
 			GeoTemCoLoader.loadTimeplot();
 		}
 	},
-		loadFlot : function() {
-		if (typeof $.plot == 'undefined') {
-			(new DynaJsLoader()).loadScripts([{
-				url : GeoTemCoLoader.urlPrefix + 'lib/flot/jquery.flot.js'
-			},{
-				url : GeoTemCoLoader.urlPrefix + 'lib/flot/jquery.flot.resize.js'
-			},{
-				url : GeoTemCoLoader.urlPrefix + 'lib/flot/jquery.flot.pie.js'
-			},{
-				url : GeoTemCoLoader.urlPrefix + 'lib/flot/jquery.flot.selection.js'
-			},{
-				url : GeoTemCoLoader.urlPrefix + 'lib/flot/jquery.flot.time.js'
-			},{
-				url : GeoTemCoLoader.urlPrefix + 'lib/flot/jquery.flot.tooltip.js'
-			}],GeoTemCoLoader.loadMomentJS);
-		}
-		else {
-			GeoTemCoLoader.loadMomentJS();
-		}
-	},
-	
-	loadMomentJS : function() {
-		if (typeof moment == 'undefined') {
-			(new DynaJsLoader()).loadScripts([{
-				url : GeoTemCoLoader.urlPrefix + 'lib/momentjs/moment.js'
-			}],GeoTemCoLoader.loadJSZip);
-		}
-		else {
-			GeoTemCoLoader.loadJSZip();
-		}
-	},
-	
-	loadJSZip : function() {
-		if (typeof JSZip == 'undefined') {
-			var jsZipFiles = [{
-				url : GeoTemCoLoader.urlPrefix + 'lib/jszip/jszip.min.js',
-			}];
-			
-			(new DynaJsLoader()).loadScripts(jsZipFiles, GeoTemCoLoader.loaduCSV);
-		}
-		else {
-			GeoTemCoLoader.loaduCSV();
-		}
-	},
-
-	loaduCSV : function() {
-		if (typeof CSV == 'undefined') {
-			var jsZipFiles = [{
-				url : GeoTemCoLoader.urlPrefix + 'lib/ucsv/ucsv-1.1.0-min.js',
-			}];
-			
-			(new DynaJsLoader()).loadScripts(jsZipFiles, GeoTemCoLoader.loadSheetJS);
-		}
-		else {
-			GeoTemCoLoader.loadSheetJS();
-		}
-	},
-
-	loadSheetJS : function() {
-		if (typeof XLSX == 'undefined') {
-			var sheetJSFiles = [
-			                    {url : GeoTemCoLoader.urlPrefix + 'lib/sheetjs/shim.js'},
-								{url : GeoTemCoLoader.urlPrefix + 'lib/sheetjs/xls.min.js'},
-								{url : GeoTemCoLoader.urlPrefix + 'lib/sheetjs/xlsx.js'},
-			];
-			
-			(new DynaJsLoader()).loadScripts(sheetJSFiles, GeoTemCoLoader.loadJqueryUI);
-		}
-		else {
-			GeoTemCoLoader.loadJqueryUI();
-		}
-	},
-
-	loadJqueryUI : function() {
-		if (typeof jQuery.ui == 'undefined') {
-			var jsZipFiles = [{
-				url : GeoTemCoLoader.urlPrefix + 'lib/jquery-ui/jquery-ui-1.10.3.custom.js'
-			}];
-			
-			$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', GeoTemCoLoader.urlPrefix + 'lib/jquery-ui/jquery-ui-1.10.3.custom.css') );
-			
-			(new DynaJsLoader()).loadScripts(jsZipFiles, GeoTemCoLoader.loadTimeplot);
-		}
-		else {
-			GeoTemCoLoader.loadTimeplot();
-		}
-	},
 
 	loadTimeplot : function() {
 		TimeplotLoader.load(GeoTemCoLoader.urlPrefix + 'lib/', GeoTemCoLoader.loadScripts);
@@ -216,21 +129,9 @@ GeoTemCoLoader = {
 			url : GeoTemCoLoader.urlPrefix + 'js/Table/' + 'TableWidget.js',
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Table/' + 'Table.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineConfig.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineGui.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineWidget.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineDensity.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangeSlider.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangePiechart.js',
-		}, {
-			url : GeoTemCoLoader.urlPrefix + 'js/FuzzyTimeline/' + 'FuzzyTimelineRangeBars.js',
-		}, {
+		},
+
+		 {
 			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkConfig.js',
 		}, {
 			url : GeoTemCoLoader.urlPrefix + 'js/Netwerk/' + 'NetwerkGui.js',

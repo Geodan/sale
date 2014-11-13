@@ -120,7 +120,7 @@ function MapConfig(options) {
 		binningSelection : false, // show/hide binning algorithms dropdown
 		mapSelectionTools : true, // show/hide map selector tools
 		dataInformation : true, // show/hide data information
-		overlayVisibility : true, // initial visibility of additional overlays
+		overlayVisibility : false, // initial visibility of additional overlays
 		proxyHost : ''	//required for selectCountry feature, if the requested GeoServer and GeoTemCo are NOT on the same server
 
 	};

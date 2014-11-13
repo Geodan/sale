@@ -411,7 +411,6 @@ Binning.prototype = {
 	binSize : function(elements) {
 		var size = 0;
 		for (var i in elements ) {
-            
 			size += elements[i].weight;
 		}
 		return size;
@@ -494,23 +493,11 @@ Binning.prototype = {
 				p.transform(this.map.displayProjection, this.map.projection);
 				o.x = p.x;
 				o.y = p.y;
-                var m = this.options.mapIndex;
-                if (o.fuzzy === undefined) {
-                o.fuzzy = [];
-                }
-                
-              
-                o.fuzzy[m] = o.placeDetails[m].length;
-              
-				for (var k = 0; k < this.zoomLevels; k++) {                    
+				for (var k = 0; k < this.zoomLevels; k++) {
 					var bc = binCount * Math.pow(2, k);
 					var a = 2 * l / bc;
-                    
-                   
-                   
-                        var binX = Math.floor((p.x + l) / (2 * l) * bc);
-                        var binY = Math.floor((p.y + l) / (2 * l) * bc);
-                    
+					var binX = Math.floor((p.x + l) / (2 * l) * bc);
+					var binY = Math.floor((p.y + l) / (2 * l) * bc);
 					if ( typeof bins[k]['' + binX] == 'undefined') {
 						bins[k]['' + binX] = [];
 					}
