@@ -124,6 +124,30 @@ Table.prototype = {
 			}
 		}
 
+		if (table.options.tableSelectByText) {
+			this.selectByTextDiv = document.createElement('div');
+			$(this.selectByTextDiv).css("float","left");
+			$(this.selectByTextDiv).css("vertical-align", "top");
+			//TODO: improve appearance (wrong margin)
+			$(this.selectByTextDiv).css("display", "inline-block");
+			//create and append the input field
+			this.selectByTextInput = document.createElement('input');
+			$(this.selectByTextInput).attr("type","text");
+			$(this.selectByTextDiv).append(this.selectByTextInput);
+			//create and append the button
+			this.selectByTextButton = document.createElement('input');
+			$(this.selectByTextButton).attr("type","button");
+			//TODO: add button-image
+			$(this.selectByTextButton).val("search");
+			$(this.selectByTextDiv).append(this.selectByTextButton);
+			
+			table.selectByTextDiv.title = GeoTemConfig.getString('selectByTextHelp');
+			selectors.appendChild(this.selectByTextDiv);
+			$(this.selectByTextButton).click($.proxy(function() {
+				this.selectByText($(this.selectByTextInput).val());
+			},this));
+		}		
+		
 		this.showSelectedItems = false;
 		if (table.options.tableShowSelected) {
 			this.showSelected = document.createElement('div');
@@ -329,6 +353,29 @@ Table.prototype = {
 			return 1;
 		}
 		this.elements.sort(sortFunction);
+	},
+	
+		selectByText : function(text) {
+		//deselect all elements
+		$(this.elements).each(function(){
+			this.selected = false;
+		});
+		
+		var selectedCount = 0;
+		$(this.elements).filter(function(index){
+			return this.object.contains(text);
+		}).each(function(){
+			this.selected = true;
+			selectedCount++;
+		});
+		
+		//only show selected elements
+		this.showSelectedItems = true;
+		this.showElementsLength = selectedCount;
+		this.showSelected.setAttribute('class', 'smallButton showAll');
+		
+		this.update();
+		this.parent.tableSelection();
 	},
 
 	setPagesText : function() {
