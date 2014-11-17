@@ -92,6 +92,13 @@ line.link {
  stroke: red;
  stroke-width: 1.5px;
 }
+#someMapDivName3 {
+	width: 95%;
+    border: 1px solid black;
+	float:left;
+	display:flex;
+    align-items:stretch;
+}
 
 </style>
 
@@ -135,6 +142,7 @@ line.link {
 	   
 	
 </div> 
+<div id="someMapDivName3"></div>
 <html>
 
 
@@ -170,7 +178,16 @@ var datasets = [];
              polygonSelect: true
 		});
 		
-
+	var mapDiv3 = document.getElementById("someMapDivName3");
+		 var map3 = new WidgetWrapper();
+		 var mapWidget3 = new MapWidget(map3,mapDiv3,{
+		 mapIndex: 2,
+		mapTitle: "Afzenders",
+			 alternativeMap : false,
+		   mapSelection : false,
+             squareSelect: true,
+             polygonSelect: true
+		});
 
 
 //var mapDiv2 = document.getElementById("someMapDivName2");
