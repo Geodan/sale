@@ -1,46 +1,130 @@
 [{
+	"id": "2380",
+	"source_id": "147",
+	"source": "Johannes d'Olijslager",
+	"target_id": "1580000",
+	"target": "De Ridder",
+	"name": "De Ridder",
+	"description": "De Ridder",
+	"location": [{
+		"lon": "5.291266",
+		"lat": "52.132633",
+		"place": "World\/The Netherlands"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World\/Suriname\/Torarica"
+	}],
+	"tableContent": {
+		"verzender": "Johannes d'Olijslager",
+		"ontvanger": "De Ridder",
+		"verzenddatum": "1672-12-14",
+		"verzendlocatie": "World\/Suriname\/Torarica"
+	},
+	"time": "1672-12-14"
+},
+{
+	"id": "number 444",
+	"source_id": "147",
+	"source": "Johannes d'Olijslager",
+	"target_id": "3900000",
+	"target": "Josijnna de Laure",
+	"name": "Josijnna de Laure",
+	"description": "Josijnna de Laure",
+	"location": [{
+		"lon": "5.291266",
+		"lat": "52.132633",
+		"place": "World\/The Netherlands"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World\/Suriname\/Torarica"
+	}],
+	"tableContent": {
+		"verzender": "Johannes d'Olijslager",
+		"ontvanger": "Josijnna de Laure",
+		"verzenddatum": "1672-01-09",
+		"verzendlocatie": "World\/Suriname\/Torarica"
+	},
+	"time": "1672-01-09"
+},
+{
 	"id": "number 446",
+	"source_id": "148",
 	"source": "Johannes Straeteius",
+	"target_id": "4100000",
 	"target": "Lichtenberg",
 	"name": "Lichtenberg",
-	"description": "Jacob Soetelinck",
+	"description": "Lichtenberg",
 	"location": [{
 		"lon": "3.8496815",
 		"lat": "51.4940309",
-		"place": "The Netherlands/Zeeland"
+		"place": "World\/The Netherlands\/Zeeland"
 	},
 	{
 		"lon": "-55.2038278",
 		"lat": "5.8520355",
-		"place": "Paramaribo"
+		"place": "World\/Suriname\/Paramaribo"
 	}],
-	"time": "1671-12-15",
-	"fuzzy": "2",
-	"tableContent": ["Johannes Straeteius",
-	"Lichtenberg",
-	"1671-12-15",
-	"The Netherlands/Zeeland"]
+	"tableContent": {
+		"verzender": "Johannes Straeteius",
+		"ontvanger": "Lichtenberg",
+		"verzenddatum": "1671-12-15",
+		"verzendlocatie": "World\/Suriname\/Paramaribo"
+	},
+	"time": "1671-12-15"
 },
 {
-	"id": "number 493",
-	"source": "Mattijs Lantmeester",
-	"target": "Davidt Lisbrechtsen",
-	"name": "Davidt Lisbrechtsen",
-	"description": "Cornelis Bastiaense, Pieter Buteux",
+	"id": "2364",
+	"source_id": "147",
+	"source": "Johannes d'Olijslager",
+	"target_id": "8980000",
+	"target": "Vrijbergen",
+	"name": "Vrijbergen",
+	"description": "Vrijbergen",
 	"location": [{
-		"lon": "3.8496815",
-		"lat": "51.4940309",
-		"place": "The Netherlands/Zeeland"
+		"lon": "5.291266",
+		"lat": "52.132633",
+		"place": "World\/The Netherlands"
 	},
 	{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Suriname"
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World\/Suriname\/Torarica"
 	}],
-	"time": "1672-9-15",
-	"fuzzy": "2",
-	"tableContent": ["Mattijs Lantmeester",
-	"Davidt Lisbrechtsen",
-	"1672-9-15",
-	"The Netherlands/Zeeland"]
+	"tableContent": {
+		"verzender": "Johannes d'Olijslager",
+		"ontvanger": "Vrijbergen",
+		"verzenddatum": "1672-12-14",
+		"verzendlocatie": "World\/Suriname\/Torarica"
+	},
+	"time": "1672-12-14"
+},
+{
+	"id": "3330",
+	"source_id": "147",
+	"source": "Johannes d'Olijslager",
+	"target_id": "9070000",
+	"target": "Wildens",
+	"name": "Wildens",
+	"description": "Wildens",
+	"location": [{
+		"lon": "5.291266",
+		"lat": "52.132633",
+		"place": "World\/The Netherlands"
+	},
+	{
+		"lon": "-55.0333333",
+		"lat": "5.3333333",
+		"place": "World\/Suriname\/Torarica"
+	}],
+	"tableContent": {
+		"verzender": "Johannes d'Olijslager",
+		"ontvanger": "Wildens",
+		"verzenddatum": "1672-01-09",
+		"verzendlocatie": "World\/Suriname\/Torarica"
+	},
+	"time": "1672-01-09"
 }]

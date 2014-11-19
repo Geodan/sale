@@ -1,437 +1,208 @@
 [{
-	"id": "1447",
-	"source": "Pieter Boudaen Courten",
-	"target": "Jan Bolle",
-	"name": "Jan Bolle",
-	"description": "",
+	"id": "number 493",
+	"source_id": "163",
+	"source": "Mattijs Lantmeester",
+	"target_id": "1550000",
+	"target": "Davidt Lisbrechtsen",
+	"name": "Davidt Lisbrechtsen",
+	"description": "Davidt Lisbrechtsen",
 	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Suriname"
+		"lon": "3.8496815",
+		"lat": "51.4940309",
+		"place": "World/The Netherlands/Zeeland"
 	},
 	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
 	}],
-	"time": "1671-10-26",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Jan Bolle",
-	"1671-10-26",
-	"Suriname"]
+	"tableContent": {
+		"verzender": "Mattijs Lantmeester",
+		"ontvanger": "Davidt Lisbrechtsen",
+		"verzenddatum": "1672-9-15",
+		"verzendlocatie": "World/Suriname"
+	},
+	"time": "1672-9-15"
+},
+{
+	"id": "EG",
+	"source_id": "363",
+	"source": "Izaque Meza",
+	"target_id": "4290000",
+	"target": "Luis Dias",
+	"name": "Luis Dias",
+	"description": "Luis Dias",
+	"location": [{
+		"lon": "-59.543198",
+		"lat": "13.193887",
+		"place": "World/Barbados"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"tableContent": {
+		"verzender": "Izaque Meza",
+		"ontvanger": "Luis Dias",
+		"verzenddatum": "",
+		"verzendlocatie": "World/Suriname"
+	},
+	"time": ""
 },
 {
 	"id": "number 32",
+	"source_id": "21",
 	"source": "A. Thisso",
+	"target_id": "5120000",
 	"target": "Onbekend",
 	"name": "Onbekend",
-	"description": "Peter Jaspers (schipper), Cornelis Bastiaens, Jacob Dimmessen, Kapitein Rundar, Daniel Janssen, Kapitein Lei, kapitein, Cornuel.",
+	"description": "Onbekend",
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "Nederland"
+		"place": "World/The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "World/Suriname"
 	}],
-	"time": "1672-09-10",
-	"fuzzy": "3",
-	"tableContent": ["A. Thisso",
-	"Onbekend",
-	"1672-09-10",
-	"Nederland"]
-},
-{
-	"id": "1146",
-	"source": "Pieter Boudaen Courten",
-	"target": "Abraham Cleeuwaert",
-	"name": "Abraham Cleeuwaert",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Suriname"
+	"tableContent": {
+		"verzender": "A. Thisso",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "1672-09-10",
+		"verzendlocatie": "World/Suriname"
 	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
-	}],
-	"time": "1672-12-10",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Abraham Cleeuwaert",
-	"1672-12-10",
-	"Suriname"]
-},
-{
-	"id": "1162",
-	"source": "Pieter Boudaen Courten",
-	"target": "Pieter Leeringson",
-	"name": "Pieter Leeringson",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Suriname"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
-	}],
-	"time": "1672-3-10",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Pieter Leeringson",
-	"1672-3-10",
-	"Suriname"]
-},
-{
-	"id": "number 104",
-	"source": "Pieter Boudaen Courten",
-	"target": "Jan Bolle",
-	"name": "Jan Bolle",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Suriname"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
-	}],
-	"time": "1671-9-11",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Jan Bolle",
-	"1671-9-11",
-	"Suriname"]
-},
-{
-	"id": "1312",
-	"source": "Pieter Boudaen Courten",
-	"target": "Pieter Heringsen",
-	"name": "Pieter Heringsen",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Suriname"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
-	}],
-	"time": "1672-2-1",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Pieter Heringsen",
-	"1672-2-1",
-	"Suriname"]
-},
-{
-	"id": "number 109",
-	"source": "Pieter Boudaen Courten",
-	"target": "Onbekend",
-	"name": "Onbekend",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Unknown"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
-	}],
-	"time": "1672-1-18",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Onbekend",
-	"1672-1-18",
-	"Unknown"]
-},
-{
-	"id": "143",
-	"source": "Pieter Boudaen Courten",
-	"target": "Abraham Cleeuwaert",
-	"name": "Abraham Cleeuwaert",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Unknown"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
-	}],
-	"time": "1671-10-19",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Abraham Cleeuwaert",
-	"1671-10-19",
-	"Unknown"]
-},
-{
-	"id": "number 114",
-	"source": "Pieter Boudaen Courten",
-	"target": "Pieter Heringsen",
-	"name": "Pieter Heringsen",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Unknown"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
-	}],
-	"time": "1672-3-30",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Pieter Heringsen",
-	"1672-3-30",
-	"Unknown"]
-},
-{
-	"id": "143",
-	"source": "Pieter Boudaen Courten",
-	"target": "Abraham Cleeuwaert",
-	"name": "Abraham Cleeuwaert",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Unknown"
-	},
-	{
-		"lon": "3.610998",
-		"lat": "51.4987962",
-		"place": "The Netherlands\/Zeeland\/Middelburg"
-	}],
-	"time": "",
-	"fuzzy": "3",
-	"tableContent": ["Pieter Boudaen Courten",
-	"Abraham Cleeuwaert",
-	"",
-	"Unknown"]
-},
-{
-	"id": "number 208",
-	"source": "Elijsabeth Emerij",
-	"target": "Pieter Aerrensen",
-	"name": "Pieter Aerrensen",
-	"description": "",
-	"location": [{
-		"lon": "-56.027783",
-		"lat": "3.919305",
-		"place": "Unknown"
-	},
-	{
-		"lon": "-83.7466403",
-		"lat": "42.230537",
-		"place": "Unknown"
-	}],
-	"time": "1672-4-2",
-	"fuzzy": "3",
-	"tableContent": ["Elijsabeth Emerij",
-	"Pieter Aerrensen",
-	"1672-4-2",
-	"Unknown"]
+	"time": "1672-09-10"
 },
 {
 	"id": "number 373",
+	"source_id": "9",
 	"source": "Jan van Ruijven",
+	"target_id": "5030000",
 	"target": "Onbekend",
 	"name": "Onbekend",
-	"description": "",
+	"description": "Onbekend",
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "The Netherlands"
+		"place": "World/The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "World/Suriname"
 	}],
-	"time": "1671-02-03",
-	"fuzzy": "3",
-	"tableContent": ["Jan van Ruijven",
-	"Onbekend",
-	"1671-02-03",
-	"The Netherlands"]
+	"tableContent": {
+		"verzender": "Jan van Ruijven",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "1671-02-03",
+		"verzendlocatie": "World/Suriname"
+	},
+	"time": "1671-02-03"
 },
 {
 	"id": "number 374",
+	"source_id": "9",
 	"source": "Jan van Ruijven",
+	"target_id": "5040000",
 	"target": "Onbekend",
 	"name": "Onbekend",
-	"description": "",
+	"description": "Onbekend",
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "The Netherlands"
+		"place": "World/The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "World/Suriname"
 	}],
-	"time": "1671-02-03",
-	"fuzzy": "3",
-	"tableContent": ["Jan van Ruijven",
-	"Onbekend",
-	"1671-02-03",
-	"The Netherlands"]
+	"tableContent": {
+		"verzender": "Jan van Ruijven",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "1671-02-03",
+		"verzendlocatie": "World/Suriname"
+	},
+	"time": "1671-02-03"
 },
 {
 	"id": "number 376",
+	"source_id": "9",
 	"source": "Jan van Ruijven",
+	"target_id": "5050000",
 	"target": "Onbekend",
 	"name": "Onbekend",
-	"description": "",
+	"description": "Onbekend",
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "The Netherlands"
+		"place": "World/The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "World/Suriname"
 	}],
-	"time": "1671-02-03",
-	"fuzzy": "3",
-	"tableContent": ["Jan van Ruijven",
-	"Onbekend",
-	"1671-02-03",
-	"The Netherlands"]
+	"tableContent": {
+		"verzender": "Jan van Ruijven",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "1671-02-03",
+		"verzendlocatie": "World/Suriname"
+	},
+	"time": "1671-02-03"
 },
 {
 	"id": "number 377",
+	"source_id": "9",
 	"source": "Jan van Ruijven",
+	"target_id": "5060000",
 	"target": "Onbekend",
 	"name": "Onbekend",
-	"description": "",
+	"description": "Onbekend",
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "The Netherlands"
+		"place": "World/The Netherlands"
 	},
 	{
 		"lon": "-56.027783",
 		"lat": "3.919305",
-		"place": "Suriname"
+		"place": "World/Suriname"
 	}],
-	"time": "1671-02-03",
-	"fuzzy": "3",
-	"tableContent": ["Jan van Ruijven",
-	"Onbekend",
-	"1671-02-03",
-	"The Netherlands"]
-},
-{
-	"id": "2364",
-	"source": "Johannes d'Olijslager",
-	"target": "Vrijbergen",
-	"name": "Vrijbergen",
-	"description": "",
-	"location": [{
-		"lon": "5.291266",
-		"lat": "52.132633",
-		"place": "The Netherlands"
+	"tableContent": {
+		"verzender": "Jan van Ruijven",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "1671-02-03",
+		"verzendlocatie": "World/Suriname"
 	},
-	{
-		"lon": "-55.0333333",
-		"lat": "5.3333333",
-		"place": "Torarica"
-	}],
-	"time": "1672-12-14",
-	"fuzzy": "3",
-	"tableContent": ["Johannes d'Olijslager",
-	"Vrijbergen",
-	"1672-12-14",
-	"The Netherlands"]
+	"time": "1671-02-03"
 },
 {
 	"id": "number 430",
+	"source_id": "147",
 	"source": "Johannes d'Olijslager",
+	"target_id": "5500000",
 	"target": "Onbekend",
 	"name": "Onbekend",
-	"description": "",
+	"description": "Onbekend",
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
-		"place": "The Netherlands"
+		"place": "World/The Netherlands"
 	},
 	{
 		"lon": "-55.0333333",
 		"lat": "5.3333333",
-		"place": "Torarica"
+		"place": "World/Suriname/Torarica"
 	}],
-	"time": "1671-12-20",
-	"fuzzy": "3",
-	"tableContent": ["Johannes d'Olijslager",
-	"Onbekend",
-	"1671-12-20",
-	"The Netherlands"]
-},
-{
-	"id": "3330",
-	"source": "Johannes d'Olijslager",
-	"target": "Wildens",
-	"name": "Wildens",
-	"description": "",
-	"location": [{
-		"lon": "5.291266",
-		"lat": "52.132633",
-		"place": "The Netherlands"
+	"tableContent": {
+		"verzender": "Johannes d'Olijslager",
+		"ontvanger": "Onbekend",
+		"verzenddatum": "1671-12-20",
+		"verzendlocatie": "World/Suriname/Torarica"
 	},
-	{
-		"lon": "-55.0333333",
-		"lat": "5.3333333",
-		"place": "Torarica"
-	}],
-	"time": "1672-01-09",
-	"fuzzy": "3",
-	"tableContent": ["Johannes d'Olijslager",
-	"Wildens",
-	"1672-01-09",
-	"The Netherlands"]
-},
-{
-	"id": "number 444",
-	"source": "Johannes d'Olijslager",
-	"target": "Josijnna de Laure",
-	"name": "Josijnna de Laure",
-	"description": "Jan van Ruiven",
-	"location": [{
-		"lon": "5.291266",
-		"lat": "52.132633",
-		"place": "The Netherlands"
-	},
-	{
-		"lon": "-55.0333333",
-		"lat": "5.3333333",
-		"place": "Torarica"
-	}],
-	"time": "1672-01-09",
-	"fuzzy": "3",
-	"tableContent": ["Johannes d'Olijslager",
-	"Josijnna de Laure",
-	"1672-01-09",
-	"The Netherlands"]
+	"time": "1671-12-20"
 }]

@@ -44,7 +44,7 @@ function MapConfig(options) {
 		 */
 		legend : true, // if a legend at the bottom of the map should be shown or not
 		mapMerge : false, // if the elements of distinct datasets should be merged into one set or not
-		useGraphics : true,  // if different graphics should represent different datasets or not
+		useGraphics : false,  // if different graphics should represent different datasets or not
 		graphics : [
 			{
 				shape: "circle",
@@ -120,7 +120,7 @@ function MapConfig(options) {
 		binningSelection : false, // show/hide binning algorithms dropdown
 		mapSelectionTools : true, // show/hide map selector tools
 		dataInformation : true, // show/hide data information
-		overlayVisibility : false, // initial visibility of additional overlays
+		overlayVisibility : true, // initial visibility of additional overlays
 		proxyHost : ''	//required for selectCountry feature, if the requested GeoServer and GeoTemCo are NOT on the same server
 
 	};

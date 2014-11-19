@@ -20,7 +20,7 @@ if (!$db_selected)
 
 $return_arr = array();
 
-$fetch = mysql_query('SELECT * FROM networks'); 
+$fetch = mysql_query('SELECT * FROM networks WHERE fuzzy_id_ontvanger = 1'); 
 
 while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
     $row_array['id'] = $row['idmeertens'];
