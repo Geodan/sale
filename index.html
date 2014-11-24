@@ -113,12 +113,12 @@ line.link {
 </style>
 <html> 
   <head> 
-    <script src="//code.jquery.com/jquery-1.10.2.js"></script> 
+ <!--   <script src="//code.jquery.com/jquery-1.10.2.js"></script> 
     <script> 
     $(function(){
       $("#map").load("heatmap/heatmap.html"); 
     });
-    </script> 
+    </script> -->
   </head> 
 
  
@@ -165,7 +165,8 @@ line.link {
 	   
 	
 </div> 
-<div id="map" style="width: 100%; height: 800px"></div>
+<!--<div id="map" style="width: 100%; height: 800px"></div>-->
+
 <html>
 
 
@@ -239,13 +240,13 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
 	 });
 		
 		
-		var jsonFile = GeoTemConfig.getJson('data/allebrieven.json');
+		var jsonFile = GeoTemConfig.getJson('data/allebrieven2.json');
         var jsonData = GeoTemConfig.loadJson(jsonFile);
         var dataset = new Dataset(jsonData,'Alle brieven');
 		
 		datasets.push(dataset);
 		
-		var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy1.json');
+	/*	var jsonFile = GeoTemConfig.getJson('data/nederlandsebrieven_fuzzy1.json');
         var jsonData = GeoTemConfig.loadJson(jsonFile);
         var dataset = new Dataset(jsonData,'Stad');
 		
@@ -268,7 +269,7 @@ var timeWidget2 = new TimeWidget(time2,timeDiv2,{
         var dataset = new Dataset(jsonData,'Onbekend');
 		
         datasets.push(dataset);
-				
+	*/			
 		map1.display(datasets);
 		map2.display(datasets);
 	//	map3.display(datasets);
