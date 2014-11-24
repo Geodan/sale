@@ -20,7 +20,7 @@ if (!$db_selected)
 
 $return_arr = array();
 
-$fetch = mysql_query('SELECT * FROM networks'); 
+$fetch = mysql_query('SELECT * FROM networks '); 
 
 while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
     $row_array['id'] = $row['idmeertens'];
@@ -45,6 +45,8 @@ while ($row = mysql_fetch_array($fetch, MYSQL_ASSOC)) {
 	$object3 ->ontvanger = $row['target'];
 	$object3 ->verzenddatum = $row['datum_verzonden'];
 	$object3 ->verzendlocatie = $row['verzendlocatie'];
+	$object3 ->Fuzziness = $row['fuzzy_id_ontvanger'];
+	$object3 ->Gemeenschap = $row['landcode'];
 	array_push($row_array['location'], $object1);
 	array_push($row_array['location'], $object2);
 	$row_array['tableContent'] = $object3;
