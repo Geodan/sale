@@ -142,11 +142,11 @@ Netwerk.prototype = {
              });
     nodeEnter.append("rect")
               .attr("width", function(d) { 
-                  if(d.volk == "Joods-Portugees") return 9
-                  else return  0;
+                  if(d.volk == "Hollands-Zeeuws") return 0
+                  else return  4.5;
              })              .attr("height", function(d) { 
-                  if(d.volk == "Joods-Portugees") return 9
-                                    else return  0;
+                  if(d.volk == "Hollands-Zeeuws") return 0
+                  else return  4.5;
              });
 
     
