@@ -535,9 +535,9 @@
 	"source_id": "1002",
 	"source": "Baruch da Costa",
 	"target_id": "7750000",
-	"target": "Paolo en Jacome Pinto",
-	"name": "Paolo en Jacome Pinto",
-	"description": "Paolo en Jacome Pinto",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -549,9 +549,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Baruch da Costa",
 		"ontvanger": "Paolo en Jacome Pinto",
 		"verzenddatum": "1672-8-20",
+=======
+		"verzender": "Abraham Nunes",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-1-6",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Joods-Portugees"
@@ -671,6 +677,7 @@
 	"time": "1672-1-9"
 },
 {
+<<<<<<< HEAD
 	"id": "number 117",
 	"source_id": "472",
 	"source": "Boudewijn de Witte",
@@ -678,6 +685,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "number 45",
+	"source_id": "463",
+	"source": "Ad Schoors",
+	"target_id": "7",
+	"target": "Jean en Pieter Boudaen Courten",
+	"name": "Jean en Pieter Boudaen Courten",
+	"description": "Jean en Pieter Boudaen Courten",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -2099,6 +2115,7 @@
 	"time": "1672-9-9"
 },
 {
+<<<<<<< HEAD
 	"id": "number 262",
 	"source_id": "113",
 	"source": "Hendrick Huiberts",
@@ -2106,6 +2123,15 @@
 	"target": "Cornelis Sies",
 	"name": "Cornelis Sies",
 	"description": "Cornelis Sies",
+=======
+	"id": "KL",
+	"source_id": "356",
+	"source": "Arao da Silva",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -2117,9 +2143,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Hendrick Huiberts",
 		"ontvanger": "Cornelis Sies",
 		"verzenddatum": "1672-1-1",
+=======
+		"verzender": "Arao da Silva",
+		"ontvanger": "Paulo Jacome Pinto",
+		"verzenddatum": "1671-12-6",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -2127,6 +2159,7 @@
 	"time": "1672-1-1"
 },
 {
+<<<<<<< HEAD
 	"id": "number 265",
 	"source_id": "113",
 	"source": "Hendrick Huiberts",
@@ -2134,6 +2167,15 @@
 	"target": "Jacobus van Aelst",
 	"name": "Jacobus van Aelst",
 	"description": "Jacobus van Aelst",
+=======
+	"id": "KO",
+	"source_id": "356",
+	"source": "Arao da Silva",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -2145,16 +2187,26 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Hendrick Huiberts",
 		"ontvanger": "Jacobus van Aelst",
 		"verzenddatum": "1672-1-12",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Hollands-Zeeuws"
+=======
+		"verzender": "Arao da Silva",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-1-6",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+		"Gemeenschap": "Joods-Portugees"
+>>>>>>> origin/master
 	},
 	"time": "1672-1-12"
 },
 {
+<<<<<<< HEAD
 	"id": "number 268",
 	"source_id": "114",
 	"source": "Hendrickje van den Herdenbegh",
@@ -2162,6 +2214,15 @@
 	"target": "Marja vanden Herdenbgh",
 	"name": "Marja vanden Herdenbgh",
 	"description": "Marja vanden Herdenbgh",
+=======
+	"id": "KP",
+	"source_id": "356",
+	"source": "Arao da Silva",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -2173,16 +2234,24 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Hendrickje van den Herdenbegh",
 		"ontvanger": "Marja vanden Herdenbgh",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
+=======
+		"verzender": "Arao da Silva",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-20",
+		"verzendlocatie": "World/Suriname",
+>>>>>>> origin/master
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
 	},
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "number 273",
 	"source_id": "115",
 	"source": "Herman de Huijbert",
@@ -2190,6 +2259,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "KQ",
+	"source_id": "356",
+	"source": "Arao da Silva",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -2229,9 +2307,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Isaque Meza",
 		"ontvanger": "David bay Bondia",
 		"verzenddatum": "1672-9-10",
+=======
+		"verzender": "Arao da Silva",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-12-31",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Joods-Portugees"
@@ -2239,6 +2323,7 @@
 	"time": "1672-9-10"
 },
 {
+<<<<<<< HEAD
 	"id": "EW",
 	"source_id": "400",
 	"source": "Isaque Meza",
@@ -2246,6 +2331,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "KR",
+	"source_id": "356",
+	"source": "Arao da Silva",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -2257,10 +2351,17 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Isaque Meza",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
+=======
+		"verzender": "Arao da Silva",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-31",
+		"verzendlocatie": "World/Suriname",
+>>>>>>> origin/master
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Joods-Portugees"
 	},
@@ -2271,9 +2372,9 @@
 	"source_id": "347",
 	"source": "Isaque Montesinas",
 	"target_id": "7750000",
-	"target": "Paolo en Jacome Pinto",
-	"name": "Paolo en Jacome Pinto",
-	"description": "Paolo en Jacome Pinto",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -2285,9 +2386,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Isaque Montesinas",
 		"ontvanger": "Paolo en Jacome Pinto",
 		"verzenddatum": "1672-8-29",
+=======
+		"verzender": "Arao da Silva",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-4",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Joods-Portugees"
@@ -2855,6 +2962,7 @@
 	"time": "1671-12-28"
 },
 {
+<<<<<<< HEAD
 	"id": "LY",
 	"source_id": "2",
 	"source": "Jan van der Meulen ",
@@ -2862,6 +2970,15 @@
 	"target": "Philipus Julijus Lichtenburch",
 	"name": "Philipus Julijus Lichtenburch",
 	"description": "Philipus Julijus Lichtenburch",
+=======
+	"id": "KT",
+	"source_id": "1002",
+	"source": "Baruch da Costa",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -2873,9 +2990,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Jan van der Meulen ",
 		"ontvanger": "Philipus Julijus Lichtenburch",
 		"verzenddatum": "1672-1-13",
+=======
+		"verzender": "Baruch da Costa",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-8-20",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -7259,9 +7382,43 @@
 	"name": "Onbekend",
 	"description": "Onbekend",
 	"location": [{
+<<<<<<< HEAD
 		"lon": "-83.284493",
 		"lat": "-80.6875",
 		"place": "World"
+=======
+		"lon": "4.8951679",
+		"lat": "52.3702157",
+		"place": "World/The Netherlands/Noord-Holland/Amsterdam"
+	},
+	{
+		"lon": "-56.027783",
+		"lat": "3.919305",
+		"place": "World/Suriname"
+	}],
+	"tableContent": {
+		"verzender": "Isaque de Prado",
+		"ontvanger": "Abraham Rodrique de Prado",
+		"verzenddatum": "1672-1-12",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+		"Gemeenschap": "Joods-Portugees"
+	},
+	"time": "1672-1-12"
+},
+{
+	"id": "KU",
+	"source_id": "340",
+	"source": "Isaque de Prado",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+>>>>>>> origin/master
 	},
 	{
 		"lon": "-83.284493",
@@ -7269,8 +7426,13 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
+=======
+		"verzender": "Isaque de Prado",
+		"ontvanger": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
@@ -7279,6 +7441,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "HW",
 	"source_id": "280",
 	"source": "Onbekend",
@@ -7286,6 +7449,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "KV",
+	"source_id": "394",
+	"source": "Isaque dela Parra",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7297,12 +7469,21 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Hollands-Zeeuws"
+=======
+		"verzender": "Isaque dela Parra",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-1-10",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+		"Gemeenschap": "Joods-Portugees"
+>>>>>>> origin/master
 	},
 	"time": ""
 },
@@ -7447,6 +7628,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "ID",
 	"source_id": "288",
 	"source": "Onbekend",
@@ -7458,6 +7640,19 @@
 		"lon": "-83.284493",
 		"lat": "-80.6875",
 		"place": "World"
+=======
+	"id": "number 277",
+	"source_id": "117",
+	"source": "Isaque Monteira",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+	"location": [{
+		"lon": "3.610998",
+		"lat": "51.4987962",
+		"place": "World/The Netherlands/Zeeland/Middelburg"
+>>>>>>> origin/master
 	},
 	{
 		"lon": "-83.284493",
@@ -7465,8 +7660,13 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
+=======
+		"verzender": "Isaque Monteira",
+		"ontvanger": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
@@ -7671,6 +7871,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "IN",
 	"source_id": "338",
 	"source": "Onbekend",
@@ -7678,6 +7879,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "KW",
+	"source_id": "347",
+	"source": "Isaque Montesinas",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7689,16 +7899,24 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
+=======
+		"verzender": "Isaque Montesinas",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-8-29",
+		"verzendlocatie": "World/Suriname",
+>>>>>>> origin/master
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "IO",
 	"source_id": "343",
 	"source": "Onbekend",
@@ -7706,6 +7924,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "KX",
+	"source_id": "347",
+	"source": "Isaque Montesinas",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7717,16 +7944,25 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
+=======
+		"verzender": "Isaque Montesinas",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-12",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+>>>>>>> origin/master
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "IP",
 	"source_id": "344",
 	"source": "Onbekend",
@@ -7734,6 +7970,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "KY",
+	"source_id": "347",
+	"source": "Isaque Montesinas",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7745,16 +7990,25 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
+=======
+		"verzender": "Isaque Montesinas",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-12",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+>>>>>>> origin/master
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "IQ",
 	"source_id": "359",
 	"source": "Onbekend",
@@ -7762,6 +8016,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "KZ",
+	"source_id": "347",
+	"source": "Isaque Montesinas",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7773,11 +8036,19 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
+=======
+		"verzender": "Isaque Montesinas",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-12",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+>>>>>>> origin/master
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": ""
@@ -7811,6 +8082,7 @@
 	"time": "1671"
 },
 {
+<<<<<<< HEAD
 	"id": "IS",
 	"source_id": "361000",
 	"source": "Onbekend",
@@ -7818,6 +8090,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "LA",
+	"source_id": "359",
+	"source": "Isaque R. De Prado",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7829,11 +8110,19 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
+=======
+		"verzender": "Isaque R. De Prado",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-16",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+>>>>>>> origin/master
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": ""
@@ -7867,6 +8156,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "IU",
 	"source_id": "3620001",
 	"source": "Onbekend",
@@ -7874,6 +8164,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "LB",
+	"source_id": "348",
+	"source": "Ishac Arias",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7885,16 +8184,25 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
+=======
+		"verzender": "Ishac Arias",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-1-6",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+>>>>>>> origin/master
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "IV",
 	"source_id": "3640000",
 	"source": "Onbekend",
@@ -7902,6 +8210,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "LC",
+	"source_id": "348",
+	"source": "Ishac Arias",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7913,9 +8230,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "1672-1-3",
+=======
+		"verzender": "Ishac Arias",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-12",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Joods-Portugees"
@@ -7923,6 +8246,7 @@
 	"time": "1672-1-3"
 },
 {
+<<<<<<< HEAD
 	"id": "IW",
 	"source_id": "3640002",
 	"source": "Onbekend",
@@ -7930,6 +8254,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "LD",
+	"source_id": "348",
+	"source": "Ishac Arias",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -7941,11 +8274,19 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
+=======
+		"verzender": "Ishac Arias",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-25",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+>>>>>>> origin/master
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": ""
@@ -8147,6 +8488,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "JE",
 	"source_id": "3640011",
 	"source": "Onbekend",
@@ -8154,6 +8496,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "LE",
+	"source_id": "374",
+	"source": "Ishak de Avilar",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -8165,11 +8516,19 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerOnbekend",
+=======
+		"verzender": "Ishak de Avilar",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-9-1",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+>>>>>>> origin/master
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": ""
@@ -9043,6 +9402,7 @@
 	"time": "1672-9-8"
 },
 {
+<<<<<<< HEAD
 	"id": "LV",
 	"source_id": "416",
 	"source": "Onbekend",
@@ -9050,6 +9410,15 @@
 	"target": "Pedro Henriq Pereyra",
 	"name": "Pedro Henriq Pereyra",
 	"description": "Pedro Henriq Pereyra",
+=======
+	"id": "MV",
+	"source_id": "307",
+	"source": "Jacob Nassy",
+	"target_id": "4440000",
+	"target": "Manuel Aboab",
+	"name": "Manuel Aboab",
+	"description": "Manuel Aboab",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -9061,9 +9430,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Onbekend",
 		"ontvanger": "Pedro Henriq Pereyra",
 		"verzenddatum": "1672",
+=======
+		"verzender": "Jacob Nassy",
+		"ontvanger": "Manuel Aboab",
+		"verzenddatum": "1672-1-25",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Joods-Portugees"
@@ -9155,6 +9530,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "1146",
 	"source_id": "7",
 	"source": "Pieter Boudaen Courten",
@@ -9162,6 +9538,15 @@
 	"target": "Abraham Cleeuwaert",
 	"name": "Abraham Cleeuwaert",
 	"description": "Abraham Cleeuwaert",
+=======
+	"id": "KM",
+	"source_id": "327",
+	"source": "Jacob Nunes",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacome Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -9173,12 +9558,21 @@
 		"place": "World/The Netherlands/Zeeland/Middelburg"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Pieter Boudaen Courten",
 		"ontvanger": "Abraham Cleeuwaert",
 		"verzenddatum": "1672-12-10",
 		"verzendlocatie": "World/The Netherlands/Zeeland/Middelburg",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Hollands-Zeeuws"
+=======
+		"verzender": "Jacob Nunes",
+		"ontvanger": "Paolo Jacome Pinto",
+		"verzenddatum": "1672-1-6",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+		"Gemeenschap": "Joods-Portugees"
+>>>>>>> origin/master
 	},
 	"time": "1672-12-10"
 },
@@ -9211,6 +9605,7 @@
 	"time": "1671-8-21"
 },
 {
+<<<<<<< HEAD
 	"id": "number 104",
 	"source_id": "7",
 	"source": "Pieter Boudaen Courten",
@@ -9218,6 +9613,15 @@
 	"target": "Jan Bolle",
 	"name": "Jan Bolle",
 	"description": "Jan Bolle",
+=======
+	"id": "LU",
+	"source_id": "369",
+	"source": "Jacob Nunes Dracho",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -9229,12 +9633,21 @@
 		"place": "World/The Netherlands/Zeeland/Middelburg"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Pieter Boudaen Courten",
 		"ontvanger": "Jan Bolle",
 		"verzenddatum": "1671-9-11",
 		"verzendlocatie": "World/The Netherlands/Zeeland/Middelburg",
 		"Fuzziness": "LocatieOntvangerOnbekend",
 		"Gemeenschap": "Hollands-Zeeuws"
+=======
+		"verzender": "Jacob Nunes Dracho",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-12",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerStad",
+		"Gemeenschap": "Joods-Portugees"
+>>>>>>> origin/master
 	},
 	"time": "1671-9-11"
 },
@@ -9435,6 +9848,7 @@
 	"time": "1672-3-30"
 },
 {
+<<<<<<< HEAD
 	"id": "1162",
 	"source_id": "7",
 	"source": "Pieter Boudaen Courten",
@@ -9470,6 +9884,15 @@
 	"target": "Willem de Somer",
 	"name": "Willem de Somer",
 	"description": "Willem de Somer",
+=======
+	"id": "number 301",
+	"source_id": "129",
+	"source": "Jacob van de Velde",
+	"target_id": "1580000",
+	"target": "Reijnier Warner",
+	"name": "Reijnier Warner",
+	"description": "Reijnier Warner",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "-83.284493",
 		"lat": "-80.6875",
@@ -11283,6 +11706,7 @@
 	"time": "1671-02-03"
 },
 {
+<<<<<<< HEAD
 	"id": "2380",
 	"source_id": "147",
 	"source": "Johannes d'Olijslager",
@@ -11290,6 +11714,15 @@
 	"target": "De Ridder",
 	"name": "De Ridder",
 	"description": "De Ridder",
+=======
+	"id": "number 360",
+	"source_id": "9",
+	"source": "Jan van Ruijven",
+	"target_id": "7",
+	"target": "Pieter Boudaen Courten",
+	"name": "Pieter Boudaen Courten",
+	"description": "Pieter Boudaen Courten",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "5.291266",
 		"lat": "52.132633",
@@ -14923,6 +15356,7 @@
 	"time": "1672-1-6"
 },
 {
+<<<<<<< HEAD
 	"id": "CJ",
 	"source_id": "354",
 	"source": "Raquel da Silva",
@@ -14930,6 +15364,15 @@
 	"target": "Isaque del Sotto",
 	"name": "Isaque del Sotto",
 	"description": "Isaque del Sotto",
+=======
+	"id": "LF",
+	"source_id": "318",
+	"source": "Mapua Prado",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "4.8951679",
 		"lat": "52.3702157",
@@ -14941,11 +15384,19 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Raquel da Silva",
 		"ontvanger": "Isaque del Sotto",
 		"verzenddatum": "1671-12-6",
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
+=======
+		"verzender": "Mapua Prado",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "",
+		"verzendlocatie": "World",
+		"Fuzziness": "LocatieOntvangerOnbekend",
+>>>>>>> origin/master
 		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": "1671-12-6"
@@ -15147,6 +15598,7 @@
 	"time": "1672-1-14"
 },
 {
+<<<<<<< HEAD
 	"id": "DK",
 	"source_id": "426",
 	"source": "Samuel de la Parra",
@@ -15154,6 +15606,15 @@
 	"target": "Jahacob de Zamora",
 	"name": "Jahacob de Zamora",
 	"description": "Jahacob de Zamora",
+=======
+	"id": "LG",
+	"source_id": "349",
+	"source": "Moses Da Costa",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "4.8951679",
 		"lat": "52.3702157",
@@ -15165,9 +15626,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Samuel de la Parra",
 		"ontvanger": "Jahacob de Zamora",
 		"verzenddatum": "1672-9-12",
+=======
+		"verzender": "Moses Da Costa",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-12",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Joods-Portugees"
@@ -16267,6 +16734,7 @@
 	"time": "1672-1-8"
 },
 {
+<<<<<<< HEAD
 	"id": "number 60",
 	"source_id": "32",
 	"source": "Alexander Batij",
@@ -16274,6 +16742,15 @@
 	"target": "Anna Mees ",
 	"name": "Anna Mees ",
 	"description": "Anna Mees ",
+=======
+	"id": "DP",
+	"source_id": "221",
+	"source": "Onbekend",
+	"target_id": "7",
+	"target": "Johan en Pieter Boudaen Courten",
+	"name": "Johan en Pieter Boudaen Courten",
+	"description": "Johan en Pieter Boudaen Courten",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -16855,6 +17332,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "number 181",
 	"source_id": "88",
 	"source": "Cornelis Berge",
@@ -16862,6 +17340,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "O",
+	"source_id": "426000000000",
+	"source": "Onbekend",
+	"target_id": "270000",
+	"target": "Abraham Rodrigues De Prado",
+	"name": "Abraham Rodrigues De Prado",
+	"description": "Abraham Rodrigues De Prado",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -17275,6 +17762,7 @@
 	"time": "1672-9-12"
 },
 {
+<<<<<<< HEAD
 	"id": "number 233",
 	"source_id": "100",
 	"source": "Fijlippus Bracht",
@@ -17282,6 +17770,15 @@
 	"target": "Adriaan Bleeck",
 	"name": "Adriaan Bleeck",
 	"description": "Adriaan Bleeck",
+=======
+	"id": "DQ",
+	"source_id": "222",
+	"source": "Onbekend",
+	"target_id": "7",
+	"target": "Johan en Pieter Boudaen Courten",
+	"name": "Johan en Pieter Boudaen Courten",
+	"description": "Johan en Pieter Boudaen Courten",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -20131,10 +20628,17 @@
 	"time": "1672-1-12"
 },
 {
+<<<<<<< HEAD
 	"id": "number 511",
 	"source_id": "12",
 	"source": "Nicolaas Combe",
 	"target_id": "5080000",
+=======
+	"id": "IM",
+	"source_id": "9999999999335",
+	"source": "Onbekend",
+	"target_id": "7140000",
+>>>>>>> origin/master
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
@@ -21335,6 +21839,7 @@
 	"time": "1672-9-7"
 },
 {
+<<<<<<< HEAD
 	"id": "number 603",
 	"source_id": "202",
 	"source": "W. Rasenberg",
@@ -21342,6 +21847,15 @@
 	"target": "Anna van Rasenberg",
 	"name": "Anna van Rasenberg",
 	"description": "Anna van Rasenberg",
+=======
+	"id": "LH",
+	"source_id": "276",
+	"source": "Onbekend",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -21353,9 +21867,15 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "W. Rasenberg",
 		"ontvanger": "Anna van Rasenberg",
 		"verzenddatum": "1672-1-13",
+=======
+		"verzender": "Onbekend",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "",
+>>>>>>> origin/master
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -21363,6 +21883,7 @@
 	"time": "1672-1-13"
 },
 {
+<<<<<<< HEAD
 	"id": "number 604",
 	"source_id": "202",
 	"source": "W. Rasenberg",
@@ -21370,6 +21891,15 @@
 	"target": "Anna van Rasenberg",
 	"name": "Anna van Rasenberg",
 	"description": "Anna van Rasenberg",
+=======
+	"id": "LI",
+	"source_id": "342",
+	"source": "Onbekend",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -21381,9 +21911,15 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "W. Rasenberg",
 		"ontvanger": "Anna van Rasenberg",
 		"verzenddatum": "1672-1-6",
+=======
+		"verzender": "Onbekend",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "",
+>>>>>>> origin/master
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -21391,6 +21927,7 @@
 	"time": "1672-1-6"
 },
 {
+<<<<<<< HEAD
 	"id": "number 613",
 	"source_id": "206",
 	"source": "Willem Bleau",
@@ -21398,6 +21935,15 @@
 	"target": "Pieter vander Heere",
 	"name": "Pieter vander Heere",
 	"description": "Pieter vander Heere",
+=======
+	"id": "LJ",
+	"source_id": "358",
+	"source": "Onbekend",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -21409,16 +21955,26 @@
 		"place": "World/Suriname/Torarica"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Willem Bleau",
 		"ontvanger": "Pieter vander Heere",
 		"verzenddatum": "1672-1-10",
 		"verzendlocatie": "World/Suriname/Torarica",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
+=======
+		"verzender": "Onbekend",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671",
+		"verzendlocatie": "World",
+		"Fuzziness": "LocatieOntvangerOnbekend",
+		"Gemeenschap": "Joods-Portugees"
+>>>>>>> origin/master
 	},
 	"time": "1672-1-10"
 },
 {
+<<<<<<< HEAD
 	"id": "number 617",
 	"source_id": "209",
 	"source": "William Pringell en Rogier Dickenson",
@@ -21426,6 +21982,15 @@
 	"target": "Gaspaer Engelsen",
 	"name": "Gaspaer Engelsen",
 	"description": "Gaspaer Engelsen",
+=======
+	"id": "LK",
+	"source_id": "3600000",
+	"source": "Onbekend",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -21437,9 +22002,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "William Pringell en Rogier Dickenson",
 		"ontvanger": "Gaspaer Engelsen",
 		"verzenddatum": "1672-1-12",
+=======
+		"verzender": "Onbekend",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-1-5",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -21447,6 +22018,7 @@
 	"time": "1672-1-12"
 },
 {
+<<<<<<< HEAD
 	"id": "number 48",
 	"source_id": "24",
 	"source": "Abraham Paldinck",
@@ -21454,6 +22026,15 @@
 	"target": "Onbekend",
 	"name": "Onbekend",
 	"description": "Onbekend",
+=======
+	"id": "LL",
+	"source_id": "414",
+	"source": "Onbekend",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -21465,9 +22046,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Abraham Paldinck",
 		"ontvanger": "Onbekend",
 		"verzenddatum": "1672-1-5",
+=======
+		"verzender": "Onbekend",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-09-15",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -21475,6 +22062,7 @@
 	"time": "1672-1-5"
 },
 {
+<<<<<<< HEAD
 	"id": "number 138",
 	"source_id": "58",
 	"source": "Claes Raes",
@@ -21482,6 +22070,15 @@
 	"target": "Janneken Jans",
 	"name": "Janneken Jans",
 	"description": "Janneken Jans",
+=======
+	"id": "LM",
+	"source_id": "418",
+	"source": "Onbekend",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.610998",
 		"lat": "51.4987962",
@@ -21493,12 +22090,21 @@
 		"place": "World/Suriname/Paramaribo"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Claes Raes",
 		"ontvanger": "Janneken Jans",
 		"verzenddatum": "1672-1-12",
 		"verzendlocatie": "World/Suriname/Paramaribo",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
+=======
+		"verzender": "Onbekend",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-9-8",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerOnbekend",
+		"Gemeenschap": "Joods-Portugees"
+>>>>>>> origin/master
 	},
 	"time": "1672-1-12"
 },
@@ -22259,6 +22865,7 @@
 	"time": "1672-1-3"
 },
 {
+<<<<<<< HEAD
 	"id": "number 77",
 	"source_id": "37",
 	"source": "Antonis Jeroensen Rijckquaert",
@@ -22266,6 +22873,15 @@
 	"target": "Frans Dinie schekvaerts",
 	"name": "Frans Dinie schekvaerts",
 	"description": "Frans Dinie schekvaerts",
+=======
+	"id": "number 541",
+	"source_id": "11",
+	"source": "Pieter Heerensen",
+	"target_id": "7",
+	"target": "Jan en Pieter Bodaen Courten",
+	"name": "Jan en Pieter Bodaen Courten",
+	"description": "Jan en Pieter Bodaen Courten",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.5709125",
 		"lat": "51.4536672",
@@ -22842,7 +23458,7 @@
 		"verzenddatum": "1672-9-7",
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
-		"Gemeenschap": "Hollands-Zeeuws"
+		"Gemeenschap": "Joods-Portugees"
 	},
 	"time": "1672-9-7"
 },
@@ -22865,12 +23481,21 @@
 		"place": "World"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Cornelis Franssen Cuddels",
 		"ontvanger": "Vrouw van Cornelis Fransz. Cudde",
 		"verzenddatum": "1672-9-7",
 		"verzendlocatie": "World",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
+=======
+		"verzender": "Raphaell Aboab",
+		"ontvanger": "Josyna Hursels",
+		"verzenddatum": "1672-1-1",
+		"verzendlocatie": "World/Suriname",
+		"Fuzziness": "LocatieOntvangerOnbekend",
+		"Gemeenschap": "Joods-Portugees"
+>>>>>>> origin/master
 	},
 	"time": "1672-9-7"
 },
@@ -22903,6 +23528,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "number 242",
 	"source_id": "897",
 	"source": "Gideon Morris",
@@ -22910,6 +23536,15 @@
 	"target": "Pieter van Deijle",
 	"name": "Pieter van Deijle",
 	"description": "Pieter van Deijle",
+=======
+	"id": "LN",
+	"source_id": "325",
+	"source": "Raphaell Aboab",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.5709125",
 		"lat": "51.4536672",
@@ -22921,8 +23556,13 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Gideon Morris",
 		"ontvanger": "Pieter van Deijle",
+=======
+		"verzender": "Raphaell Aboab",
+		"ontvanger": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 		"verzenddatum": "1672-1-12",
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
@@ -23043,6 +23683,7 @@
 	"time": "1672-9-14"
 },
 {
+<<<<<<< HEAD
 	"id": "number 288",
 	"source_id": "122",
 	"source": "Jacob Antonissen",
@@ -23050,6 +23691,15 @@
 	"target": "Maeijken Jacobs",
 	"name": "Maeijken Jacobs",
 	"description": "Maeijken Jacobs",
+=======
+	"id": "LO",
+	"source_id": "321",
+	"source": "Raquel Castanhos",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.5709125",
 		"lat": "51.4536672",
@@ -23061,9 +23711,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Jacob Antonissen",
 		"ontvanger": "Maeijken Jacobs",
 		"verzenddatum": "1672-1-1",
+=======
+		"verzender": "Raquel Castanhos",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-10",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -23071,6 +23727,7 @@
 	"time": "1672-1-1"
 },
 {
+<<<<<<< HEAD
 	"id": "number 289",
 	"source_id": "122",
 	"source": "Jacob Antonissen",
@@ -23078,6 +23735,15 @@
 	"target": "Neeltie Tonissen",
 	"name": "Neeltie Tonissen",
 	"description": "Neeltie Tonissen",
+=======
+	"id": "LP",
+	"source_id": "357",
+	"source": "Raquel Castanhos",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.5709125",
 		"lat": "51.4536672",
@@ -23089,9 +23755,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Jacob Antonissen",
 		"ontvanger": "Neeltie Tonissen",
 		"verzenddatum": "1672-1-8",
+=======
+		"verzender": "Raquel Castanhos",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-1-10",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -23099,6 +23771,7 @@
 	"time": "1672-1-8"
 },
 {
+<<<<<<< HEAD
 	"id": "number 290",
 	"source_id": "123",
 	"source": "Jacob Byniamin",
@@ -23106,6 +23779,15 @@
 	"target": "Jasper Jeroensen",
 	"name": "Jasper Jeroensen",
 	"description": "Jasper Jeroensen",
+=======
+	"id": "LQ",
+	"source_id": "357",
+	"source": "Raquel Castanhos",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.5709125",
 		"lat": "51.4536672",
@@ -23117,9 +23799,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Jacob Byniamin",
 		"ontvanger": "Jasper Jeroensen",
 		"verzenddatum": "1671-12-31",
+=======
+		"verzender": "Raquel Castanhos",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-9-20",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -24219,6 +24907,7 @@
 	"time": "1672-1-11"
 },
 {
+<<<<<<< HEAD
 	"id": "number 25",
 	"source_id": "505",
 	"source": "Johan Simon",
@@ -24226,6 +24915,15 @@
 	"target": "Jacobus vander Hoeve",
 	"name": "Jacobus vander Hoeve",
 	"description": "Jacobus vander Hoeve",
+=======
+	"id": "LR",
+	"source_id": "335",
+	"source": "Samuel Nassy",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.5709125",
 		"lat": "51.4536672",
@@ -24237,9 +24935,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Johan Simon",
 		"ontvanger": "Jacobus vander Hoeve",
 		"verzenddatum": "1672-1-11",
+=======
+		"verzender": "Samuel Nassy",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-1-12",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -24247,6 +24951,7 @@
 	"time": "1672-1-11"
 },
 {
+<<<<<<< HEAD
 	"id": "number 448",
 	"source_id": "149",
 	"source": "Johannis Robbersen",
@@ -24254,6 +24959,15 @@
 	"target": "Gelyamme de Backer",
 	"name": "Gelyamme de Backer",
 	"description": "Gelyamme de Backer",
+=======
+	"id": "LS",
+	"source_id": "335",
+	"source": "Samuel Nassy",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.5709125",
 		"lat": "51.4536672",
@@ -24265,10 +24979,17 @@
 		"place": "World/Suriname/Torarica"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Johannis Robbersen",
 		"ontvanger": "Gelyamme de Backer",
 		"verzenddatum": "1672-1-2",
 		"verzendlocatie": "World/Suriname/Torarica",
+=======
+		"verzender": "Samuel Nassy",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1672-9-8",
+		"verzendlocatie": "World/Suriname",
+>>>>>>> origin/master
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
 	},
@@ -24667,6 +25388,7 @@
 	"time": ""
 },
 {
+<<<<<<< HEAD
 	"id": "number 546",
 	"source_id": "176",
 	"source": "Pieter Pieterssen van der Vaeren",
@@ -24674,6 +25396,15 @@
 	"target": "Jacomijntie Sijmeijns",
 	"name": "Jacomijntie Sijmeijns",
 	"description": "Jacomijntie Sijmeijns",
+=======
+	"id": "LT",
+	"source_id": "301",
+	"source": "Selomoh de Solis",
+	"target_id": "7750000",
+	"target": "Paolo Jacomo Pinto",
+	"name": "Paolo Jacomo Pinto",
+	"description": "Paolo Jacomo Pinto",
+>>>>>>> origin/master
 	"location": [{
 		"lon": "3.5709125",
 		"lat": "51.4536672",
@@ -24685,9 +25416,15 @@
 		"place": "World/Suriname"
 	}],
 	"tableContent": {
+<<<<<<< HEAD
 		"verzender": "Pieter Pieterssen van der Vaeren",
 		"ontvanger": "Jacomijntie Sijmeijns",
 		"verzenddatum": "1672-9-16",
+=======
+		"verzender": "Selomoh de Solis",
+		"ontvanger": "Paolo Jacomo Pinto",
+		"verzenddatum": "1671-12-28",
+>>>>>>> origin/master
 		"verzendlocatie": "World/Suriname",
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
@@ -25448,5 +26185,10 @@
 		"Fuzziness": "LocatieOntvangerStad",
 		"Gemeenschap": "Hollands-Zeeuws"
 	},
+<<<<<<< HEAD
 	"time": "1672-1-5"
 }]
+=======
+	"time": "1672-1-12"
+}]
+>>>>>>> origin/master
